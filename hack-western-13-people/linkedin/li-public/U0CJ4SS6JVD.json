@@ -1,0 +1,28 @@
+{
+ "url": "https://www.linkedin.com/in/shawn-xionggg",
+ "about": "",
+ "experience": [],
+ "education": [],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Toneffx",
+   "org": "Jul 2026 - Present",
+   "dates": "Jul 2026 - Present",
+   "meta": [],
+   "description": "Built a web app that compares guitar recordings with reference audio and recommends EQ, presence, and tone adjustments. Used Python and librosa to align recordings and analyze frequency differences, with a Next.js interface for recording audio and Supabase for authentication and saved settings."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Waterloo, Ontario, Canada",
+ "languages": [],
+ "page_title": "Shawn Xiong - Waterloo, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Shawn X"
+}
