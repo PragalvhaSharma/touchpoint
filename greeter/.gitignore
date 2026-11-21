@@ -1,0 +1,7 @@
+models/
+.env
+__pycache__/
+.venv/
+people/*/said.jsonl
+greeter.db
+followup-sent.json

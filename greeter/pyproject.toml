@@ -1,0 +1,19 @@
+[project]
+name = "greeter"
+version = "0.1.0"
+description = "Knows who walks up to the camera and a mock agent talks to them about themselves"
+requires-python = ">=3.11,<3.14"
+dependencies = [
+  "opencv-python>=4.10",
+  "numpy",
+  "pyserial",
+  "sqlite-vec>=0.1.9",
+]
+
+[project.scripts]
+greeter = "greeter.main:cli"
+greeter-eval = "greeter.evaluate:cli"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
