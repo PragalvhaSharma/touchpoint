@@ -1,0 +1,732 @@
+{
+ "U0CGDSG30DS": {
+  "file": "photos-fallback/U0CGDSG30DS-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/122070900?v=4",
+  "page_url": "https://github.com/itsalexli",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from alex-li.ca; GitHub name Alex Li, bio 'CS & Business @ Western University!'",
+  "reviewed": true
+ },
+ "U0CJPSMNNNT": {
+  "file": "photos-fallback/U0CJPSMNNNT-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/685/084/datas/profile.png",
+  "page_url": "https://devpost.com/isabellegan",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Devpost links linkedin.com/in/isabellegan; Hack Western 10 in her hackathon list",
+  "reviewed": true
+ },
+ "U0CKC7ZB22U": {
+  "file": "photos-fallback/U0CKC7ZB22U-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/74434453?v=4",
+  "page_url": "https://github.com/dahan8473",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Devpost dahan8473 links the matched LinkedIn davidmakesmoves; handle shares 8473 with his Slack email",
+  "reviewed": true
+ },
+ "U0CKFG6G5T5": {
+  "file": "photos-fallback/U0CKFG6G5T5-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/42192106?v=4",
+  "page_url": "https://github.com/cemtorun",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from cemtorun.com; name Cem Torun",
+  "reviewed": true
+ },
+ "U0CK8091S04": {
+  "file": "photos-fallback/U0CK8091S04-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKk7QWEkvd2zVL9QD83FEuwFGVbmF6AE1I9L3tIpsMImkAtjEk=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/abdulmugha7",
+  "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost handle 'abdulmugha7' exactly matches the Slack email handle and the profile name is Abdul Mughal; no projects listed",
+  "reviewed": true
+ },
+ "U0CHD5V9WMV": {
+  "file": "photos-fallback/U0CHD5V9WMV-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/156146277?v=4",
+  "page_url": "https://github.com/adamxu29",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Adam Xu, same slug as LinkedIn adamxu29, repos for VEX team 210F and the Mecha Mayhem frontend, matching his Western Mechatronics role",
+  "reviewed": true
+ },
+ "U0CHDA78MEK": {
+  "file": "photos-fallback/U0CHDA78MEK-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/136623330?v=4",
+  "page_url": "https://github.com/ariston-michael",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name \"Ariston Philip Michael\"; profile README says Computer Science @ Sheridan College and links linkedin.com/in/ariston-michael; linked from his Devpost and portfolio.",
+  "reviewed": true
+ },
+ "U0CHD7M09SB": {
+  "file": "photos-fallback/U0CHD7M09SB-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/219021306?v=4",
+  "page_url": "https://github.com/dhruvht612",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Dhruv Thakar, company @Ontario Tech University; linked from thakardhruv.me",
+  "reviewed": true
+ },
+ "U0CKKPSQQRG": {
+  "file": "photos-fallback/U0CKKPSQQRG-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/256970469?v=4",
+  "page_url": "https://github.com/himajamankala",
+  "evidence": "Link from enrichment profile (LinkedIn match medium); GitHub profile name Himaja Mankala, Vancouver; consistent with Devpost location. A second empty account himaja-mankala also exists",
+  "reviewed": true
+ },
+ "U0CK81EM7K9": {
+  "file": "photos-fallback/U0CK81EM7K9-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/187563495?v=4",
+  "page_url": "https://github.com/jruttan1",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Jack Ruttan, blog jackruttan.com, pinned ComancheNLP paper matching the site",
+  "reviewed": true
+ },
+ "U0CK04C8XU6": {
+  "file": "photos-fallback/U0CK04C8XU6-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/186969611?v=4",
+  "page_url": "https://github.com/kathyjydong",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from her Devpost kathyjydong, which links linkedin.com/in/kathy-jy-dong",
+  "reviewed": true
+ },
+ "U0CK036RSBS": {
+  "file": "photos-fallback/U0CK036RSBS-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/265099860?v=4",
+  "page_url": "https://github.com/KevinHill14",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Kevin Hill, bio 'Computer Science @ Western University', matching the LinkedIn match",
+  "reviewed": true
+ },
+ "U0CKXK1T3LG": {
+  "file": "photos-fallback/U0CKXK1T3LG-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/119138451?v=4",
+  "page_url": "https://github.com/malekhammoud",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from malekhammoud.com; GitHub blog is malekhammoud.com",
+  "reviewed": true
+ },
+ "U0CJ0KCRVJ8": {
+  "file": "photos-fallback/U0CJ0KCRVJ8-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/66727135?v=4",
+  "page_url": "https://github.com/eszain",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Zain Syed, Toronto; same 'eszain' slug as LinkedIn; linked from Devpost eszain",
+  "reviewed": true
+ },
+ "U0CKWHRFWF6": {
+  "file": "photos-fallback/U0CKWHRFWF6-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/140682795?v=4",
+  "page_url": "https://github.com/PragalvhaSharma",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Prag's own GitHub, from his personal-information skill",
+  "reviewed": true
+ },
+ "U0CHWG59T7G": {
+  "file": "photos-fallback/U0CHWG59T7G-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/139701695?v=4",
+  "page_url": "https://github.com/raihanCarder",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Handle matches his email handle; bio identical to his LinkedIn headline",
+  "reviewed": true
+ },
+ "U0CKK1119S7": {
+  "file": "photos-fallback/U0CKK1119S7-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/138397262?v=4",
+  "page_url": "https://github.com/TristanPinzari",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Exact full-name handle.",
+  "reviewed": true
+ },
+ "U0CL1FLR43A": {
+  "file": "photos-fallback/U0CL1FLR43A-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/57428379?v=4",
+  "page_url": "https://github.com/xingexu",
+  "evidence": "Link from enrichment profile (LinkedIn match medium); GitHub blog is www.xinge.ca and the bio says '1st year cs student at western university'. Linked from xinge.ca and from Devpost xingexu.",
+  "reviewed": true
+ },
+ "U0CHQ9TKBH9": {
+  "file": "photos-fallback/U0CHQ9TKBH9-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/83306809?v=4",
+  "page_url": "https://github.com/danielrltan",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Exact email handle.",
+  "reviewed": true
+ },
+ "U0CHYBPEGCU": {
+  "file": "photos-fallback/U0CHYBPEGCU-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/103289261?v=4",
+  "page_url": "https://github.com/DanisLol",
+  "evidence": "Link from enrichment profile (LinkedIn match high); GitHub name 'Myeongjin (Daniel)', bio 'CS @ UToronto', location UofT St. George; linked from his personal site; has a uoftcs-webring repo",
+  "reviewed": true
+ },
+ "U0CLB0FMJAC": {
+  "file": "photos-fallback/U0CLB0FMJAC-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/194744377?v=4",
+  "page_url": "https://github.com/KristinaBBBB",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Listed on her Hack Western team-finder card ('Kristina B.', Western, 3rd year) and linked from kristinabatrak.com; the ElleHacks-EchoLight repo matches her Devpost project.",
+  "reviewed": true
+ },
+ "U0CHQ3JQ04T": {
+  "file": "photos-fallback/U0CHQ3JQ04T-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/35182454?v=4",
+  "page_url": "https://github.com/laygofiona",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Profile named Fiona Laygo, Peterborough, with blog fionalaygo.com.",
+  "reviewed": true
+ },
+ "U0CKSPQ93AA": {
+  "file": "photos-fallback/U0CKSPQ93AA-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/211602075?v=4",
+  "page_url": "https://github.com/tejask-dev",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name Tejass Kaushik, blog tejass-kaushik.vercel.app",
+  "reviewed": true
+ },
+ "U0CHY5V35PV": {
+  "file": "photos-fallback/U0CHY5V35PV-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/138826656?v=4",
+  "page_url": "https://github.com/vishallbalaji",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from exact-email identity.",
+  "reviewed": true
+ },
+ "U0CJF8GBZ54": {
+  "file": "photos-fallback/U0CJF8GBZ54-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/892/381/datas/profile.jpg",
+  "page_url": "https://devpost.com/anaybaid",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Devpost name Anay Baid ('University of Waterloo - Computer Science 2027'), links the LinkedIn slug, GitHub and site",
+  "reviewed": true
+ },
+ "U0CHNGKH90B": {
+  "file": "photos-fallback/U0CHNGKH90B-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://alvikmaharjan.com/assets/alvik-headshot.jpg",
+  "page_url": "https://alvikmaharjan.com/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Aerospace engineering student at Toronto Metropolitan University; resume on the site lists [email omitted] (same as Slack handle) and linkedin.com/in/alvikmaharjan",
+  "reviewed": true
+ },
+ "U0CK5DBBD17": {
+  "file": "photos-fallback/U0CK5DBBD17-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.omarsol.dev/portrait.png",
+  "page_url": "https://www.omarsol.dev/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Site says B.Sc. Computer Science, Western University, Class of 2028, and its socials page links github.com/KingSolima and linkedin.com/in/omar-soliman-662939283",
+  "reviewed": true
+ },
+ "U0CJ50YM77F": {
+  "file": "photos-fallback/U0CJ50YM77F-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.shaneedelstein.com/_next/image?url=%2Fme.png&w=3840&q=75",
+  "page_url": "https://www.shaneedelstein.com/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Portfolio for Shane Edelstein, Western Honours CS, linking his GitHub.",
+  "reviewed": true
+ },
+ "U0CJSMGJ3EY": {
+  "file": "photos-fallback/U0CJSMGJ3EY-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/304/241/datas/profile.png",
+  "page_url": "https://devpost.com/liu-wllm",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name William Liu; handle liu-wllm matches his liu.wllm handle; Hack Western 9 gallery lists a William Liu",
+  "reviewed": true
+ },
+ "U0CHYEYEEBE": {
+  "file": "photos-fallback/U0CHYEYEEBE-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/938/761/datas/profile.JPG",
+  "page_url": "https://devpost.com/andrew-dai-dev",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from andrewd.ai; bio 'uwaterloo cs'",
+  "reviewed": true
+ },
+ "U0CKKF2FE69": {
+  "file": "photos-fallback/U0CKKF2FE69-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIWYGvxHSbuBqhjjntbfjOSFMhvP-UzONJHfJg29yF6eQ=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/stevenweller091",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Name, London and graphics match.",
+  "reviewed": true
+ },
+ "U0CJNUFM90U": {
+  "file": "photos-fallback/U0CJNUFM90U-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/577/659/datas/profile.jpg",
+  "page_url": "https://devpost.com/baronliu1993",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; name Baron Liu; links GitHub BaronLiu1993",
+  "reviewed": true
+ },
+ "U0CKL26J473": {
+  "file": "photos-fallback/U0CKL26J473-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.henriquealcleite.com/images/pfp.jpg",
+  "page_url": "https://www.henriquealcleite.com/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Shows his Western email handle; links the LinkedIn and GitHub",
+  "reviewed": true
+ },
+ "U0CK8SH55CN": {
+  "file": "photos-fallback/U0CK8SH55CN-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.rileywong.ca/_next/image?url=%2FImages%2FAbout.jpg&w=3840&q=75",
+  "page_url": "https://www.rileywong.ca/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Site for Riley Wong linking GitHub RileyWong26, consistent with Ivey/IT Works Co. LinkedIn.",
+  "reviewed": true
+ },
+ "U0CJ6V473FZ": {
+  "file": "photos-fallback/U0CJ6V473FZ-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/53921840?v=4",
+  "page_url": "https://github.com/andyy-liu",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Found via commits authored with his Slack email; bio \"20 • cs + business @ western\"; links linkedin.com/in/aliu24",
+  "reviewed": true
+ },
+ "U0CJKNP77BR": {
+  "file": "photos-fallback/U0CJKNP77BR-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/133058623?v=4",
+  "page_url": "https://github.com/aircon2",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; README lists the email and LinkedIn",
+  "reviewed": true
+ },
+ "U0CK1H5HDCJ": {
+  "file": "photos-fallback/U0CK1H5HDCJ-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/146470770?v=4",
+  "page_url": "https://github.com/chloewychan",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Owns SnuffleStudy, whose store listing uses her Slack email; bio \"cs @uwaterloo\"",
+  "reviewed": true
+ },
+ "U0CJNUHPMB2": {
+  "file": "photos-fallback/U0CJNUHPMB2-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.ericsportfol.io/assets/images/YC.jpg",
+  "page_url": "https://www.ericsportfol.io/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked as blog on GitHub ericpungholee (Eric Lee, cs @ utoronto); site describes UofT CS and Hack Western 12 wins",
+  "reviewed": true
+ },
+ "U0CJQFY9L84": {
+  "file": "photos-fallback/U0CJQFY9L84-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/212159991?v=4",
+  "page_url": "https://github.com/ejo6",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links LinkedIn; README mentions Hack Western 13",
+  "reviewed": true
+ },
+ "U0CHT73R4LW": {
+  "file": "photos-fallback/U0CHT73R4LW-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://evansalmon.com/imgs/headshot.webp",
+  "page_url": "https://evansalmon.com/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Site title 'Evan Salmon', Western CS student, links linkedin.com/in/evanwsalmon",
+  "reviewed": true
+ },
+ "U0CJP1X0KGQ": {
+  "file": "photos-fallback/U0CJP1X0KGQ-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/60026070?v=4",
+  "page_url": "https://github.com/jameshjs",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; README lists the email",
+  "reviewed": true
+ },
+ "U0CJQN9L6LA": {
+  "file": "photos-fallback/U0CJQN9L6LA-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIhAkmaD2HR5ye51Wf4GFDklHBcN4_czullbBiF6IF7WeEpLQ=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/wychen946",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; links LinkedIn and GitHub",
+  "reviewed": true
+ },
+ "U0CHXJ4DF5G": {
+  "file": "photos-fallback/U0CHXJ4DF5G-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/153843346?v=4",
+  "page_url": "https://github.com/d-hyman",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email",
+  "reviewed": true
+ },
+ "U0CEWJ10TAT": {
+  "file": "photos-fallback/U0CEWJ10TAT-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.lucianlavric.tech/_next/image?url=%2Fimages%2Fabout%2Fluka.jpg&w=3840&q=75",
+  "page_url": "https://www.lucianlavric.tech/about",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Title 'Lucian Lavric — Software Engineer'; description says CS at Western and incoming Production Engineer intern at Meta; links github.com/lucianlavric and linkedin.com/in/lucianlavric (matches input LinkedIn).",
+  "reviewed": true
+ },
+ "U0CLH5AHKCY": {
+  "file": "photos-fallback/U0CLH5AHKCY-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/186507503?v=4",
+  "page_url": "https://github.com/tudor-filimon",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; README lists email and LinkedIn",
+  "reviewed": true
+ },
+ "U0CJ4FY7WKD": {
+  "file": "photos-fallback/U0CJ4FY7WKD-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.andrewwu.ca/_next/image?url=%2Fheadshot.jpeg&w=3840&q=75",
+  "page_url": "https://www.andrewwu.ca/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); GitHub blog field; site says computer engineering @ McMaster",
+  "reviewed": true
+ },
+ "U0CLM996C1E": {
+  "file": "photos-fallback/U0CLM996C1E-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/196862652?v=4",
+  "page_url": "https://github.com/jpierre-7",
+  "evidence": "Link from research result (links_confidence high); Commits authored with the Slack email; profile README names John, Houston City College.",
+  "reviewed": true
+ },
+ "U0CJAKGD8TT": {
+  "file": "photos-fallback/U0CJAKGD8TT-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://winniechen.work/assets/about/photo-cafe.png",
+  "page_url": "https://winniechen.work/about",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from her Devpost; repo notes winniechen.work",
+  "reviewed": true
+ },
+ "U0CHD5Q66MV": {
+  "file": "photos-fallback/U0CHD5Q66MV-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJmGZzv09YZ15az1nVYLZriPFlzmdCY5SzQFMpMVATSZEHzzyTv=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/amyswangsa208",
+  "evidence": "Link from research result (links_confidence high); Devpost username equals the Slack email handle; shows name \"amy wang\".",
+  "reviewed": true
+ },
+ "U0CJ1SP0CF5": {
+  "file": "photos-fallback/U0CJ1SP0CF5-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/61860244?v=4",
+  "page_url": "https://github.com/marcocharco",
+  "evidence": "Link from research result (links_confidence high); Commits authored with the Slack email [email omitted] resolve to this account; profile name Marco Chen.",
+  "reviewed": true
+ },
+ "U0CJR83A8QG": {
+  "file": "photos-fallback/U0CJR83A8QG-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/118555103?v=4",
+  "page_url": "https://github.com/jocelyn-chang",
+  "evidence": "Link from research result (links_confidence high); Commits authored with her uwo.ca Slack email in her own repo; bio names Western and Ivey.",
+  "reviewed": true
+ },
+ "U0CJ1967F0R": {
+  "file": "photos-fallback/U0CJ1967F0R-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKmkaHOw6TBIc1754hLYYKG-QbdSC3AHpiMnrejelupLSmDjwq6=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/suadalam2020",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; Waterloo; Poltar",
+  "reviewed": true
+ },
+ "U0CJT130VCG": {
+  "file": "photos-fallback/U0CJT130VCG-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/138259787?v=4",
+  "page_url": "https://github.com/m76domi98",
+  "evidence": "Link from research result (links_confidence high); Linked from her site; name Michelle Dominic, Waterloo Computer Engineering.",
+  "reviewed": true
+ },
+ "U0CJHMNQ0RK": {
+  "file": "photos-fallback/U0CJHMNQ0RK-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.edwinngui.com/assets/PFP-aRaqPpyn.png",
+  "page_url": "https://www.edwinngui.com/",
+  "evidence": "Headshot (PFP) on his own site edwinngui.com, which is the personal site in his enrichment profile (LinkedIn match high; Hack Western mentors page lists him).",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKQ1YF7RU": {
+  "file": "photos-fallback/U0CKQ1YF7RU-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.fionaxu.com/assets/pfp-DWBLMJG0.png",
+  "page_url": "https://www.fionaxu.com/",
+  "evidence": "Profile photo (pfp) on her own site fionaxu.com, which is the personal site in her enrichment profile (LinkedIn match medium).",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJW678YAG": {
+  "file": "photos-fallback/U0CJW678YAG-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://looosid.com/images/profile.jpeg",
+  "page_url": "https://looosid.com/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Linked from GitHub llLucidll; names Akhil Sunil, UAlberta CS, links the LinkedIn and GitHub",
+  "reviewed": true
+ },
+ "U0CHRSN0C3V": {
+  "file": "photos-fallback/U0CHRSN0C3V-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/593/963/datas/profile.jpeg",
+  "page_url": "https://devpost.com/ryukjones07",
+  "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; name Ryuk Jones; links the same GitHub.",
+  "reviewed": true
+ },
+ "U0CK9C7KTEE": {
+  "file": "photos-fallback/U0CK9C7KTEE-github.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/175253143?v=4",
+  "page_url": "https://github.com/tiiffanyho",
+  "evidence": "Link from enrichment profile (links_confidence high); Commit-email search for the Slack email returns commits authored by this account (author Tiffany Ho).",
+  "reviewed": true
+ },
+ "U0CHWHBDVQ9": {
+  "file": "photos-fallback/U0CHWHBDVQ9-site.jpg",
+  "source": "Personal site",
+  "source_url": "https://noahlevy.ca/selfie-2.jpg",
+  "page_url": "https://noahlevy.ca/",
+  "evidence": "Link from enrichment profile (LinkedIn match high); GitHub website field; links the GitHub.",
+  "reviewed": true
+ },
+ "U0CHSV19T6H": {
+  "file": "photos-fallback/U0CHSV19T6H-slack-main.jpg",
+  "source": "Slack photo of his main account (Anay Baid)",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "a2baid is most likely Anay Baid's second Slack account (same LinkedIn match); photo is from his main account U0CJF8GBZ54.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CFDTA0BR7": {
+  "file": "photos-fallback/hunt-U0CFDTA0BR7.jpg",
+  "source": "Hackathon page",
+  "source_url": "https://www.hackwestern.com/landing/meet-the-team/holia.webp",
+  "page_url": "https://www.hackwestern.com/",
+  "evidence": "Hack Western 13 'Meet the team' section labels this cutout 'Holia Zhang, Web Organizer', matching her Slack organizer role and LinkedIn (Web Organizer / Developer, Hack Western). Cropped from a full-body pose; her face is tilted upward and only partly visible.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CFBV046JE": {
+  "file": "photos-fallback/hunt-U0CFBV046JE.jpg",
+  "source": "Hackathon page",
+  "source_url": "https://www.hackwestern.com/landing/meet-the-team/lucas.webp",
+  "page_url": "https://www.hackwestern.com/",
+  "evidence": "Hack Western 13 'Meet the team' section labels this cutout 'Lucas Vanderwielen, Web Organizer', matching his Slack organizer role and LinkedIn headline (Web Organizer, Hack Western 13). Cropped to head and shoulders from a full-body cutout.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKVJ0LAPK": {
+  "file": "photos-fallback/hunt-U0CKVJ0LAPK.jpg",
+  "source": "Company page",
+  "source_url": "https://framerusercontent.com/images/OyX7aeQCpwWlBJshBoI09iSrU.jpg",
+  "page_url": "https://tryfusion.ai/about",
+  "evidence": "Fusion AI's about page captions this headshot 'Jerry Jiang, Founder at Unrepped', matching his LinkedIn role. The same face appears on the Waterloo 2026 election candidate listing (poliblog.jonkman.ca), which links linkedin.com/in/jerrymjiang next to the photo.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CK5U6MBCZ": {
+  "file": "photos-fallback/hunt-U0CK5U6MBCZ.jpg",
+  "source": "Personal site",
+  "source_url": "https://clarestar-c.github.io/Portfolio/pfp.jpeg",
+  "page_url": "https://clarestar-c.github.io/Portfolio/",
+  "evidence": "Hero headshot on her own portfolio (the personal_site in the input, hosted under her GitHub Clarestar-C), whose hero card reads 'Claresta Cheung' and describes an electrical engineering portfolio. Single clear face.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CHQ8U798X": {
+  "file": "photos-fallback/hunt-U0CHQ8U798X.jpg",
+  "source": "Club team page",
+  "source_url": "https://iveyproductsociety.com/Headshots2024/Collin%20Sobowale.png",
+  "page_url": "https://iveyproductsociety.com/",
+  "evidence": "Ivey Product Society team page shows a headshot captioned \"Collin Sobowale, Director Fellowship\" whose card links to linkedin.com/in/collinsbwle, the matched slug; he is an Ivey HBA student per the input.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJ04H4PNG": {
+  "file": "photos-fallback/hunt-U0CJ04H4PNG.jpg",
+  "source": "Scholarship profile",
+  "source_url": "https://schulichleaders.com/wp-content/uploads/2026/06/Western-Lina-Hout-1024x1024.png",
+  "page_url": "https://schulichleaders.com/scholars/lina-hout/",
+  "evidence": "Official Schulich Leaders scholar page for Lina Hout (2026 Schulich Leader, Western University, Westminster SS), linked from Western Registrar; her LinkedIn lists the Schulich Leader Scholarship and Western math. Same face as the right panel of the CBC London story captioning her.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJNUJTBB2": {
+  "file": "photos-fallback/hunt-U0CJNUJTBB2.jpg",
+  "source": "Club team page",
+  "source_url": "https://images.squarespace-cdn.com/content/v1/65be6415f953ca6a44785246/7227eaa5-0c70-479e-af9c-84c9150602b0/Screenshot+2026-06-10+165024.png",
+  "page_url": "https://mstri.ca/team-1",
+  "evidence": "The McMaster Space Team (MSTRI) team page shows this headshot in the member card for 'Eric Fu, Position: Payload Hardware Specialist, Area of Study: Health Sciences', the same role his LinkedIn profile lists. Cropped to head and shoulders.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJ8RJ77LN": {
+  "file": "photos-fallback/hunt-U0CJ8RJ77LN.jpg",
+  "source": "Personal site",
+  "source_url": "https://abbywang.netlify.app/3.png",
+  "page_url": "https://abbywang.netlify.app/about",
+  "evidence": "Photo from the 'journal' gallery on Abby's own portfolio (abbywang.netlify.app, listed in her record; the site lists her Summer 2026 Travelers Software Engineering internship, matching LinkedIn). The same woman appears in a selfie (6.png) in that gallery; the image is not captioned, so identity rests on it being her personal journal.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJVM77UQK": {
+  "file": "photos-fallback/hunt-U0CJVM77UQK.jpg",
+  "source": "Class page",
+  "source_url": "https://www.uwce.ca/person/daniel_manguply.png",
+  "page_url": "https://www.uwce.ca/class",
+  "evidence": "UWaterloo ECE '30 class profile entry 'Daniel Manguply' (Computer Engineering, from London ON) links to linkedin.com/in/daniel-manguply-baa81b242 and lists Discord 'mangdani282', the same handle as his GitHub; picture field is daniel_manguply.png.",
+  "reviewed": true,
+  "manual": true
+ },
+ "tf:galit-t": {
+  "file": "photos-fallback/hunt-tf-galit-t.jpg",
+  "source": "Personal site",
+  "source_url": "https://galit-portfolio.vercel.app/assets/ProfilePic-BwiPdVUD.jpg",
+  "page_url": "https://galit-portfolio.vercel.app/",
+  "evidence": "ProfilePic.jpg from Galit's own portfolio (repo galitau/My-Portfolio); her GitHub profile README for galitau links this portfolio, linkedin.com/in/galit-tauber and a uwaterloo.ca email, and lists UWaterloo Biomedical Engineering.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CHRTLP2BF": {
+  "file": "photos-fallback/hunt-U0CHRTLP2BF.jpg",
+  "source": "Luma profile",
+  "source_url": "https://images.lumacdn.com/avatars/il/f707b9a8-ef84-4fd9-ba13-fd00924aec14.png",
+  "page_url": "https://luma.com/user/parum",
+  "evidence": "Luma account named 'Parum Patel' (username parum). The same avatar appears as host of the 'ChatGPT Lab x Western AI' event (luma.com/g4sj9dl1, Ivey Business School, London), which matches his LinkedIn role (OpenAI ChatGPT Lab campus program at Western) and Ivey HBA program. A single clear headshot.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CHYNZC7J8": {
+  "file": "photos-fallback/hunt-U0CHYNZC7J8.jpg",
+  "source": "Club team page",
+  "source_url": "https://www.weautopilot.com/assets/Tygo-NmnJUI07.webp",
+  "page_url": "https://www.weautopilot.com/team",
+  "evidence": "Western Engineering AutoPilot (WEAP, Western University) team page lists 'Tygo Crawley, Perception Co-Lead' with this photo (lead-tygo entry in the site bundle). His LinkedIn says SWE student at Western, WE AutoPilot Club, perception team. A single clear face; EXIF/GPS stripped on save.",
+  "reviewed": true,
+  "manual": true
+ },
+ "tf:zhan-hang-thomson-l": {
+  "file": "photos-fallback/hunt-tf-zhan-hang-thomson-l.jpg",
+  "source": "Club team page",
+  "source_url": "https://www.3dwestern.ca/images/execs/thomson.webp",
+  "page_url": "https://www.3dwestern.ca/",
+  "evidence": "The 3DW Makerspaces (Western) exec list shows this headshot for 'Thomson Lam, VP Development' and links it to linkedin.com/in/thomson-lam-260b67292, the exact matched slug and role.",
+  "reviewed": true,
+  "manual": true
+ },
+ "tf:shaeshan-k": {
+  "file": "photos-fallback/hunt-tf-shaeshan-k.jpg",
+  "source": "Hackathon page",
+  "source_url": "https://www.ignitionhacks.org/assets/shaeshan-CuZt4PVM.webp",
+  "page_url": "https://www.ignitionhacks.org/",
+  "evidence": "Ignition Hacks' organizer section shows this headshot for 'Shaeshan, Logistics Executive'; his LinkedIn (shaeshan-kunalan) lists Logistics Coordinator at Ignition Hacks (May-Aug 2026). The page gives first name only, but the name is rare and the role matches.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJLE5MX1V": {
+  "file": "photos-fallback/hunt-U0CJLE5MX1V.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D5603AQHqkEk8qf348A/profile-displayphoto-scale_400_400/B56Z9PU3clHIAg-/0/1783742298494?e=2147483647&v=beta&t=liknEzMMKPMH15wIF4anMBTdoaSEiKH2-L0EzYYJkh4",
+  "page_url": "https://www.linkedin.com/posts/michael-glean-73a79b262_as-some-of-you-know-last-summer-i-had-the-activity-7333960343318118400-EPgR",
+  "evidence": "Author photo on two of his public posts (Uber internship posts); the author 'View profile for Michael Glean' link points to ca.linkedin.com/in/michaelglean, his input slug, and the post matches his Prev @ Uber headline.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKG1TLKMX": {
+  "file": "photos-fallback/hunt-U0CKG1TLKMX.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D5603AQE_k6dDvy6ZeA/profile-displayphoto-scale_400_400/B56aESyT.OHUAg-/0/1791316543869?e=2147483647&v=beta&t=wQ1I0U3nOr9w2NskgcqD65zezKwWf_YjF-T3hxVwdOk",
+  "page_url": "https://www.linkedin.com/posts/tareq-kurdiah_ai-machinelearning-hackathon-activity-7441585064313950208-2msF",
+  "evidence": "Comment avatar of 'Sam Deitz' (headline 'Computer Science student @ Western University') on a public LinkedIn post; the avatar and name link to ca.linkedin.com/in/samdeitz, his input slug. Same young man appears in the TSI team and graduation photos on his own site samdeitz.ca.",
+  "reviewed": true,
+  "manual": true
+ },
+ "tf:riaa-s": {
+  "file": "photos-fallback/hunt-tf-riaa-s.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D4E03AQEJzmdhN3s1Vw/profile-displayphoto-scale_400_400/B4EZxQ7hmvJYAk-/0/1770884310920?e=2147483647&v=beta&t=Ef3X0mgCobAF5edhDVJbtvaX8p752ijRBnx_4kjFG1U",
+  "page_url": "https://www.linkedin.com/posts/riaa-sehgal_issessionsctf2026-ctf-activity-7431565389622468608-ZdQ_",
+  "evidence": "Author photo on her public ISSessions CTF post; the author link is ca.linkedin.com/in/riaa-sehgal (her input slug). The same woman appears as 'Riaa Sehgal, Tech Team Member' on the Sheridan TechBiz/GDG case competition team page.",
+  "reviewed": true,
+  "manual": true
+ },
+ "tf:ryushen-t": {
+  "file": "photos-fallback/hunt-tf-ryushen-t.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.ryushen.com/images/timeline/1788158324565-smiling.jpg",
+  "page_url": "https://www.ryushen.com/",
+  "evidence": "Solo portrait from the 2024 hackathon timeline on Ryushen Tan's own site (ryushen.com, linked from github.com/ryushen-tan and his LinkedIn). Same person as the site's self-labeled \"me_pj.jpg\" photo and the selfie-taker in his public LinkedIn Hack the North 2024 win post; cropped to the face. Identity rests on face match to the self-labeled photo, not a caption.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKEDASQSW": {
+  "file": "photos-fallback/hunt-U0CKEDASQSW.jpg",
+  "source": "University news",
+  "source_url": "https://hust.edu.vn/uploads/sys/news/2025_08/whatsapp-image-2025-08-06-at-16.59.11.jpeg",
+  "page_url": "https://hust.edu.vn/en/news/news/experiencing-hanoi-s-startup-ecosystem-with-a-nus-student-654042.html",
+  "evidence": "HUST news feature on Ashmita Haldar, an NUS student on the NUS Overseas Colleges program (matches her NUS CS + Entrepreneurship / NOC record); this solo photo is captioned 'Ashmita Haldar, a NUS student came to visit Hoi An Ancient Town.' Cropped to upper body.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CJHDTPT7D": {
+  "file": "photos-fallback/hunt-U0CJHDTPT7D.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D5603AQEBiO-er5uZMw/profile-displayphoto-scale_400_400/B56aELuXM8IMAg-/0/1791198066546?e=2147483647&v=beta&t=CwSSlU9qysyO6-zQYpED3v5qQCG5US35on8Z37JgMNk",
+  "page_url": "https://www.linkedin.com/posts/prasunsharma08_sunnybrookresearchinstitute-focusedultrasound-activity-7498795173095735296-e98C",
+  "evidence": "LinkedIn profile photo shown on Sulaiman Qazi's public comment on Prasun Sharma's Sunnybrook post; the comment avatar links to ca.linkedin.com/in/sulaimanq (his matched slug), and the post thanks him by name as a fellow Sunnybrook intern, matching his site (sulaimanq.com).",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKVJBTV4L": {
+  "file": "photos-fallback/hunt-U0CKVJBTV4L.jpg",
+  "source": "Club project team page",
+  "source_url": "https://medicalimagingdiagnostics.com/Images/besma.jpg",
+  "page_url": "https://medicalimagingdiagnostics.com/",
+  "evidence": "Western Cyber Society's 'AI Medical Imaging Diagnostics' project site (footer: Copyright Western Cyber Society 2025) shows this photo captioned 'Besma Serrai'. The team (Millicent Song, Liam McQuay, Kevin Du...) matches her CUCAI 2025 paper co-authors, and her LinkedIn lists 'AI Software Developer at Western Cyber Society, Oct 2024 - May 2025'. Single clear face.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKR957XUJ": {
+  "file": "photos-fallback/hunt-U0CKR957XUJ.jpg",
+  "source": "Hack Western mentor page",
+  "source_url": "https://2024.hackwestern.com/images/mentors/dave_ticknor.webp",
+  "page_url": "https://2024.hackwestern.com/live?tab=mentors",
+  "evidence": "Hack Western 2024 live portal mentor entry {name:'Dave Ticknor', desc:'Senior IT Automation @ Canada Life', image:'/images/mentors/dave_ticknor.webp'} (from the site's live page bundle). Matches his LinkedIn (Senior IT Automation/DevOps Specialist, Canada Life) and his HW13 sponsor rep role. One person, clear face; cropped to upper body.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CK5LRJGFK": {
+  "file": "photos-fallback/hunt-U0CK5LRJGFK.jpg",
+  "source": "Personal site",
+  "source_url": "https://framerusercontent.com/images/UPW692hfnOL2xBJMrDGM5c1cIk.jpg",
+  "page_url": "https://chloezou.framer.website/about",
+  "evidence": "Her portfolio (linked from LinkedIn /in/chloe-zou as 'Portfolio: chloezou.fram...') lists contact email [email omitted], matching Slack handle 0610clo and Devpost 0610clo, and says she is at Ivey after two years at Western. The About page photo gallery has no captions; this is its only formal solo portrait (blazer, Western campus background), and it matches the woman taking the selfies in the same gallery. Cropped to head and shoulders. LESS THAN CERTAIN: uncaptioned.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CLLJQ0QLQ": {
+  "file": "photos-fallback/hunt-U0CLLJQ0QLQ.jpg",
+  "source": "Hackathon organizer page",
+  "source_url": "https://summerhacks.ca/team-member-photos/matiasrivas.png",
+  "page_url": "https://summerhacks.ca/",
+  "evidence": "SummerHacks organizing team lists 'Matias Rivas, University of Waterloo' with this headshot. Our person (GitHub hiatus770, commits as 'Matias') says he studies computer engineering, forks WARG (Waterloo) bootcamps, and the original LinkedIn match already used the SummerHacks/Waterloo listing. A Waterloo ECE classmate's portfolio (chene0) also names a 'Matias Rivas' ECE 198 partner. LESS THAN CERTAIN: the tie is exact name plus Waterloo computer engineering; no page links hiatus770 to the SummerHacks photo directly. Upscaled from 208 px source.",
+  "reviewed": true,
+  "manual": true
+ },
+ "U0CKA90R5K9": {
+  "file": "photos-fallback/U0CKA90R5K9-devpost.jpg",
+  "source": "Devpost photo",
+  "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKAZTY-FwbC32wwbYv6255QckLw5BvKZcaNoguAHQvjKdJtGU9v=s400-c?height=180&width=180",
+  "page_url": "https://devpost.com/mridahingmire",
+  "evidence": "Link from enrichment profile (LinkedIn match high); Profile name Mrida Hingmire; lists SkinSense AI and ContextCopilot; links GitHub mhingmire.",
+  "reviewed": true
+ },
+ "tf:jeffrey-s": {
+  "file": "photos-fallback/tf-jeffrey-s-linkedin.jpg",
+  "source": "LinkedIn",
+  "page_url": "https://www.linkedin.com/in/jeffrey-song-ba21b82aa",
+  "reviewed": true,
+  "note": "top-card photo (rechecked)"
+ },
+ "tf:blaine-d": {
+  "file": "photos-fallback/tf-blaine-d-linkedin.jpg",
+  "source": "LinkedIn",
+  "page_url": "https://www.linkedin.com/in/blainedolson",
+  "reviewed": true,
+  "note": "top-card photo (rechecked)"
+ },
+ "U0CKMEFTATD": {
+  "file": "photos-fallback/U0CKMEFTATD-mlh.jpg",
+  "source": "MLH Top 2025 profile",
+  "source_url": "https://images.ctfassets.net/kv878odoqyd1/4zN4Xpk8GPpWKxSuRTokYD/b80843b8b761ecd3d73f57cdbdfee845/Edison_Qu_-_Square.png?h=500&w=500&fit=fill&f=face",
+  "page_url": "https://top.mlh.com/2025/profiles/edison-qu",
+  "evidence": "MLH Top 2025 profile page for Edison Qu; the photo's alt text is 'Edison Qu' and the page describes Ignition Hacks and Sapien, matching his GitHub edisonqu and LinkedIn edisonqu. His public LinkedIn photo is hidden (top card is the placeholder).",
+  "reviewed": true,
+  "manual": true
+ }
+}

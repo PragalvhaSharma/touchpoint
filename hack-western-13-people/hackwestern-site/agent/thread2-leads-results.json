@@ -1,0 +1,55 @@
+[
+ {
+  "id": "U0CK9C7KTEE",
+  "name": "Tiffany Ho",
+  "linkedin_url": "https://www.linkedin.com/in/tiffany-ho-8158442b7/",
+  "confidence": "high",
+  "evidence": "Her portfolio source in GitHub tiiffanyho (tied by commit email = Slack email) uses her Slack email as the contact link and links this LinkedIn.",
+  "candidates": [
+   "https://www.linkedin.com/in/tiffany-ho-8158442b7/"
+  ],
+  "status": "done",
+  "github": {
+   "url": "https://github.com/tiiffanyho",
+   "evidence": "Commit email equals Slack email."
+  },
+  "links_confidence": "high",
+  "current_role": "Systems Design Engineering, University of Waterloo",
+  "sources": [
+   "https://github.com/tiiffanyho/TiffanyHo"
+  ],
+  "confidence_notes": "Self-linked from her own portfolio."
+ },
+ {
+  "id": "U0CKE4JC25N",
+  "name": "Ryan Yuan",
+  "linkedin_url": "https://www.linkedin.com/in/ryan-yuan-517868416",
+  "confidence": "medium",
+  "evidence": "GitHub RyanY158 is tied by commit email; his Devpost ryany158 lists NaviNate (Best Beginner Hack, Hack the 6ix 2026), and this LinkedIn posted about that NaviNate win. No direct cross-link.",
+  "candidates": [
+   "https://www.linkedin.com/in/ryan-yuan-517868416"
+  ],
+  "status": "done",
+  "github": {
+   "url": "https://github.com/RyanY158",
+   "evidence": "Commit email equals Slack email."
+  },
+  "devpost": {
+   "url": "https://devpost.com/ryany158",
+   "evidence": "Devpost links the GitHub."
+  },
+  "links_confidence": "high",
+  "projects": [
+   {
+    "name": "NaviNate",
+    "summary": "Best Beginner Hack and Base44 prize at Hack the 6ix 2026.",
+    "url": ""
+   }
+  ],
+  "sources": [
+   "https://github.com/RyanY158",
+   "https://devpost.com/ryany158"
+  ],
+  "confidence_notes": "Project-level tie between the LinkedIn post and his Devpost win."
+ }
+]

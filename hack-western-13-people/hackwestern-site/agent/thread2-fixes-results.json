@@ -1,0 +1,34 @@
+[
+ {
+  "id": "U0CJ09U2BAM",
+  "name": "Ibrahim",
+  "confidence": "low",
+  "linkedin_url": "https://linkedin.com/in/ibrahim-asif-qayyum",
+  "evidence": "Verifier downgrade: first-name-only Slack name with one signal (Devpost ibrahimaqayyum matches the email handle only; no commits for the email; reading the \"a\" as Asif is a guess). LinkedIn is UNVERIFIED. Devpost ibrahimaqayyum is a probable link, UNVERIFIED.",
+  "links_confidence": "medium",
+  "notes": "Devpost ibrahimaqayyum (Ibrahim Qayyum, Toronto) matches the Slack email handle exactly but nothing else ties it to him: probable, UNVERIFIED."
+ },
+ {
+  "id": "U0CK7RWB943",
+  "name": "hubertc2013",
+  "confidence": "low",
+  "linkedin_url": "https://linkedin.com/in/hubert-chan-uwo",
+  "evidence": "Verifier downgrade: GitHub Alienator135 is confidently his (commit from hubertc2013@gmail.com, Hack-Western-13 repo), but the LinkedIn tie is a common name plus \"uwo\" and is not cross-linked or indexed. LinkedIn UNVERIFIED.",
+  "links_confidence": "high",
+  "notes": "GitHub Alienator135 confirmed by a commit signed with his Slack email."
+ },
+ {
+  "id": "U0CKMQ98UCB",
+  "name": "sajorella9",
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/ella-sajor",
+  "evidence": "Verifier downgrade: GitHub eswizzle22 (commits signed Ella Sajor from sajorella9@gmail.com) and Devpost sajorella9 confirmed; LinkedIn ella-sajor (CS @ Western) matches on name and school only, not cross-linked."
+ },
+ {
+  "id": "U0CHWA4DED8",
+  "name": "andrew960713147",
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b",
+  "evidence": "Verifier downgrade: Medium handle andrew960713147 is Andrew Tu (Math&CS UofT); GitHub Andrew-Tu225 links this LinkedIn but uses a different email, so the Slack-to-GitHub step rests on name and program."
+ }
+]

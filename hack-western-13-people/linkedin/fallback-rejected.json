@@ -1,0 +1,2037 @@
+{
+ "U0CDR3H3D7H": [
+  {
+   "file": "photos-fallback/U0CDR3H3D7H-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLFYePvbqcCfiZRkAchn_mVUoWCYIYSrprM7LOwYQeoYO8IyS-D=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/noahmedland04",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost handle matches his Hack Western Slack email handle (noahmedland04).",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CGMK4KX9A": [
+  {
+   "file": "photos-fallback/U0CGMK4KX9A-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_AdD29a-NvYSIavBzcmCZgGgFUCuk9exBYvpRmQIa7w=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/jessica-xing553",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Jessica Xing (jessica-xing553)', London, Ontario; the handle matches her email handle jessica.xing553. No projects submitted.",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CHT73R4LW": [
+  {
+   "file": "photos-fallback/U0CHT73R4LW-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/97650485?v=4",
+   "page_url": "https://github.com/RoyalSalm0n",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from evansalmon.com; GitHub profile name Evan Salmon, blog www.evansalmon.com",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  },
+  {
+   "file": "photos-fallback/U0CHT73R4LW-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/97650485?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/RoyalSalm0n",
+   "evidence": "Link from enrichment profile (LinkedIn match high); BillyBassAI Devpost project lists Evan Salmon (handle RoyalSalm0n, same as GitHub) and links github.com/RoyalSalm0n/BillyBassAI; handle URL inferred from project page team link",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CHXT1T6SJ": [
+  {
+   "file": "photos-fallback/U0CHXT1T6SJ-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/116911602?v=4",
+   "page_url": "https://github.com/AryBaum",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Arielle Tetelbaum, London Ontario, bio 'year 2 Computer Science student at the University of Western Ontario'",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CJ0L8GMMF": [
+  {
+   "file": "photos-fallback/U0CJ0L8GMMF-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/101902762?v=4",
+   "page_url": "https://github.com/m1000t",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from arnavpal.com; GitHub name 'Arnav'",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CJNUHPMB2": [
+  {
+   "file": "photos-fallback/U0CJNUHPMB2-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/84236258?v=4",
+   "page_url": "https://github.com/ericpungholee",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from Devpost eric-pungho-lee; bio 'inc swe @ td bank, cs @ utoronto'",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  },
+  {
+   "file": "photos-fallback/U0CJNUHPMB2-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/960/150/datas/profile.jpg",
+   "page_url": "https://devpost.com/eric-pungho-lee",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle matches his distinctive Slack handle; links his LinkedIn and GitHub",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  }
+ ],
+ "U0CJSMGJ3EY": [
+  {
+   "file": "photos-fallback/U0CJSMGJ3EY-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/9507789?v=4",
+   "page_url": "https://github.com/liuwllm",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name William Liu, bio 'CS + Business Student @ Western University', blog liuwllm.me",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CK8SH55CN": [
+  {
+   "file": "photos-fallback/U0CK8SH55CN-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/182397594?v=4",
+   "page_url": "https://github.com/RileyWong26",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from rileywong.ca.",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CKAPYUBQX": [
+  {
+   "file": "photos-fallback/U0CKAPYUBQX-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJ0LKgrrjjrGwmsP1vY62dxd571k5KQM97fPnhxEoTEUbMUa67F=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/jaswmson",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; name James Williamson; Blueprint (BearHacks 2026 1st) matches his LinkedIn post",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CKJ8EDPPD": [
+  {
+   "file": "photos-fallback/U0CKJ8EDPPD-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/76998702?v=4",
+   "page_url": "https://github.com/Meellinaa",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Self-listed on team finder card 'Melina F.' (Western, 3rd year); hosts her portfolio site; linked from her Devpost",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  },
+  {
+   "file": "photos-fallback/U0CKJ8EDPPD-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/76998702?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/Meellinaa",
+   "evidence": "Link from enrichment profile (LinkedIn match high); 'Melina fathi (Meellinaa)'; links meellinaa.github.io, github.com/Meellinaa and linkedin.com/in/melina-f-53372b20a",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CKQFZ1YGL": [
+  {
+   "file": "photos-fallback/U0CKQFZ1YGL-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/108180944?v=4",
+   "page_url": "https://github.com/yuvibirdi",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked as 'Yuvraj Singh Birdi' in a Waterloo CS240 Typst guide; blog yuvibirdi.com",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CLAGRPDCY": [
+  {
+   "file": "photos-fallback/U0CLAGRPDCY-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLBP55q8YUDRt6YOT4vKEWhgNeQizNIsAXlWAwTqlJd5vhit3k=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/haniayasin18",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; name Hania Yasin; a student-club hackathon project matches her LinkedIn post",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CFADPAPLN": [
+  {
+   "file": "photos-fallback/U0CFADPAPLN-devpost.gif",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ALm5wu38KsVOxMWWK7zk66dAQ4nUMXvatDZUfVy30wKx6w=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/nataliemoorax",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost profile 'Natalie Wang' (Richmond Hill, ON) links github.com/WangNatalie; projects documind (Hack the Valley X) and repair (Hack Western 12)",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHP9D7QAH": [
+  {
+   "file": "photos-fallback/U0CHP9D7QAH-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/50740389?v=4",
+   "page_url": "https://github.com/SawaabA",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub name Sawaab Anas; repos include Laurier course work (CP164, CP372) and the Laurier Analytics hackathon project",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHQ8U798X": [
+  {
+   "file": "photos-fallback/U0CHQ8U798X-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/971/348/datas/profile.jpeg",
+   "page_url": "https://devpost.com/collinsobo3",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost collinsobo3 matches his Slack email handle and links linkedin.com/in/collinsbwle",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHTCM50TH": [
+  {
+   "file": "photos-fallback/U0CHTCM50TH-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/64814233?v=4",
+   "page_url": "https://github.com/billwang7599",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; bio 'SWE @ UWaterloo '27 · prev Cloudflare, Tesla'",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHX132TB3": [
+  {
+   "file": "photos-fallback/U0CHX132TB3-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/141164361?v=4",
+   "page_url": "https://github.com/anerie-anerie",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub README says 'computer engineering @ uwaterloo' and links devpost.com/aneriep and linkedin.com/in/anerie-patel; blog anerie.vercel.app",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CHX132TB3-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a-/AOh14GjB2J39rLxtZmrzQHG4ramIJmph4jbmKHQGbu15Uw=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/aneriep",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle exactly matches the Slack email handle 'aneriep'; profile name Anerie Patel; links the GitHub and site",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ32PDV51": [
+  {
+   "file": "photos-fallback/U0CJ32PDV51-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/230378850?v=4",
+   "page_url": "https://github.com/nlin1027",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Linked from his Hack Western 13 team-finder card; name Nathan Lin; bio 'Computing Student at Queen's University'; has Queen's CISC 121 coursework repos",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ76B7WCE": [
+  {
+   "file": "photos-fallback/U0CJ76B7WCE-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/280577560?v=4",
+   "page_url": "https://github.com/2talltooha",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his Hack Western 13 team-finder card; GitHub name Taha El Ghadi; README links linkedin.com/in/Taha-El-Ghadi; hosts Stillwave, built at Hack Western 13",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJBNZ8C2V": [
+  {
+   "file": "photos-fallback/U0CJBNZ8C2V-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/194445436?v=4",
+   "page_url": "https://github.com/MattFrz",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Linked from his portfolio. His LinkedIn post's 'Code' short-link resolves to github.com/MattFrz/AI-Quant-Council-Ignition-Hacks-V7-. Repos include Western course work (CS3346A).",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJBNZ8C2V-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/194445436?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/MattFrz",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost 'Farzaneh (MattFrz)' links github.com/MattFrz; its Urbanova project matches the portfolio.",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  },
+  {
+   "file": "photos-fallback/U0CJBNZ8C2V-site.png",
+   "source": "Personal site",
+   "source_url": "https://mattportfoliositetau.vercel.app/og.png",
+   "page_url": "https://mattportfoliositetau.vercel.app/",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); 'Matt Farzaneh | Software Engineer', a Western CS student from Toronto; links github.com/MattFrz and linkedin.com/in/matt-farzaneh-36153727a (the input LinkedIn); lists the UPP Strategic Initiatives role from the input headline.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CJG4298U8": [
+  {
+   "file": "photos-fallback/U0CJG4298U8-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/90116089?v=4",
+   "page_url": "https://github.com/prannyv",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his resume on pranavvarma.vercel.app",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJHMNQ0RK": [
+  {
+   "file": "photos-fallback/U0CJHMNQ0RK-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/104275615?v=4",
+   "page_url": "https://github.com/EdwinNgui",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Listed on his site's resume and Devpost profile; GitHub company 'Carleton University', Ottawa",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJHMNQ0RK-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AItbvmmao1A5PGHqBQVnShRXTBKxcD8rweuK6D2SVDeU=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/edwin-nguim",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Edwin Ngui' links edwinngui.com, GitHub EdwinNgui and LinkedIn edwin-ngui; handle matches email handle edwin.nguim",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJP9GRWD6": [
+  {
+   "file": "photos-fallback/U0CJP9GRWD6-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/177176756?v=4",
+   "page_url": "https://github.com/Ghala-s",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from Devpost ghalabasaad (London, ON); bio 'Ex-graphic designer turned CS student'; portfolio repo points to ghala-portfolio.vercel.app",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJP9GRWD6-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKC8k9g0dgX-8j5-BEIH620NxMbMYwRGUaiB1Jk3UjGeZdGrA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/ghalabasaad",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; name Ghala B., London, Ontario; MoodToDO project matches her LinkedIn post",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CJP9GRWD6-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://ghala-portfolio.vercel.app/img/myPic.jpg",
+   "page_url": "https://ghala-portfolio.vercel.app/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Site title 'Ghala Basaad | Software Developer'; homepage of GitHub repo Ghala-s/Portfolio",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  }
+ ],
+ "U0CJVB8M5FW": [
+  {
+   "file": "photos-fallback/U0CJVB8M5FW-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/74524092?v=4",
+   "page_url": "https://github.com/MatthewMo520",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Listed on the resume PDF hosted on matthew-mo.com next to the input LinkedIn; GitHub name 'Matthew Mo', bio 'DS @ UWaterloo', repos LinkedIt-V2 and Farm-Data-Automation match his resume projects and AgSights role.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJVB8M5FW-site.png",
+   "source": "Personal site",
+   "source_url": "https://www.matthew-mo.com/og-image.png",
+   "page_url": "https://www.matthew-mo.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); 'Matthew Mo | Data Science Student & Full-Stack Developer', UWaterloo Data Science; links linkedin.com/in/matthew-mo520 (the input LinkedIn). The resume on the site lists github.com/MatthewMo520.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CK5T7G3TN": [
+  {
+   "file": "photos-fallback/U0CK5T7G3TN-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/109159484?v=4",
+   "page_url": "https://github.com/Nightbreaker18",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his own Hack Western team finder card (Sebastian S., University of Windsor). Profile name 'Seb18456', bio 'Procedural generation my beloved / Coding & 3D modelling', location Canada",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CK5U6MBCZ": [
+  {
+   "file": "photos-fallback/U0CK5U6MBCZ-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/259418019?v=4",
+   "page_url": "https://github.com/Clarestar-C",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from Devpost and portfolio; bio 'EE Year 3'",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CK5U6MBCZ-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/538/881/datas/profile.jpg",
+   "page_url": "https://devpost.com/clarestacheung",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as her email handle; links GitHub and portfolio",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CKEDASQSW": [
+  {
+   "file": "photos-fallback/U0CKEDASQSW-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/67264881?v=4",
+   "page_url": "https://github.com/ashmitahaldar",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Name Ashmita Haldar, bio CS + Entrepreneurship @ NUS, blog ashmitahaldar.com",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CKEDASQSW-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLMBd9viXc6R0Uk6djyI3W6ZhnC1Mxx1s18WVXOaez5Lqg0QtA=s400-c?type=square",
+   "page_url": "https://devpost.com/software/road-diet",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Project page 'Road Diet' started by Ashmita Haldar; Hack the Valley 11 gallery lists it as a winner",
+   "reviewed": true,
+   "reason": "Verifier: image is Ramus Hu's avatar from the likes list on devpost.com/software/road-diet, not Ashmita's"
+  }
+ ],
+ "U0CKF47KWFL": [
+  {
+   "file": "photos-fallback/U0CKF47KWFL-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/80258388?v=4",
+   "page_url": "https://github.com/hadiahmed13",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Hosts the CareerIQ repo, matching the CareerIQ project (career-iq.vercel.app) on his LinkedIn; location Toronto; also a 'uoftexperience' repo; linked from Devpost hadiahmed13. (The github.com/hadiahmedd account has no public repos.)",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CKF47KWFL-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/80258388?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/hadiahmed13",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Links github.com/hadiahmed13; lists Aura-67",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CKL41A0P5": [
+  {
+   "file": "photos-fallback/U0CKL41A0P5-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/162930903?v=4",
+   "page_url": "https://github.com/ParAyush",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); GitHub user ParAyush, name 'Ayush', bio 'CS student at UWO'; has a repo named ClearHear matching his Hack Western 12 Devpost project, a HackWestern24 repo, and a profile-config repo named Ayush-Parekh",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CKL41A0P5-site.webp",
+   "source": "Personal site",
+   "source_url": "https://parayush.github.io/about.webp",
+   "page_url": "https://parayush.github.io/",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Linked as the blog URL on GitHub ParAyush; page title section reads 'Ayush Parekh'",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CKP1C6DM0": [
+  {
+   "file": "photos-fallback/U0CKP1C6DM0-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/177192785?v=4",
+   "page_url": "https://github.com/Silly-Noodle",
+   "evidence": "Link from self-listed on their Hack Western 13 team finder card",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CKP1C6DM0-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIyfdt_P1gCQVnVWS3uVFeXCZIsEqjnOCMnGvZ7elUm5OOj4uk=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/erichuang200608",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle is identical to his Slack email handle",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHD5E8B71": [
+  {
+   "file": "photos-fallback/U0CHD5E8B71-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/167436841?v=4",
+   "page_url": "https://github.com/iwis19",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Bio 'ece at uwaterloo' (paraphrased), consistent with his Waterloo Computer Engineering LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CHNHTR7K5": [
+  {
+   "file": "photos-fallback/U0CHNHTR7K5-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/182176729?v=4",
+   "page_url": "https://github.com/AliElrafih",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Name and HW12 project match.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CHSBZ3MKP": [
+  {
+   "file": "photos-fallback/U0CHSBZ3MKP-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/212182449?v=4",
+   "page_url": "https://github.com/vedagwekar",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Ved Agwekar, bio 'math @uwaterloo', blog vedagwekar.com",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CHSBZ3MKP-devpost.gif",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/414/052/datas/profile.gif",
+   "page_url": "https://devpost.com/vedagwekar",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Ved Agwekar, Waterloo, links GitHub and LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CHUEZEQ0J": [
+  {
+   "file": "photos-fallback/U0CHUEZEQ0J-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/61915438?v=4",
+   "page_url": "https://github.com/willzeng274",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same handle as Devpost, which links wzeng.dev and LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CHUEZEQ0J-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/61915438?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/willzeng274",
+   "evidence": "Link from enrichment profile (LinkedIn match high); William Zeng, Waterloo; links wzeng.dev, GitHub and LinkedIn; 17 hackathons, many winners.",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  },
+  {
+   "file": "photos-fallback/U0CHUEZEQ0J-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://wzeng.dev/llama.jpg",
+   "page_url": "https://wzeng.dev/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his Devpost and GitHub willzeng274.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CHUR8TSDD": [
+  {
+   "file": "photos-fallback/U0CHUR8TSDD-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/61842997?v=4",
+   "page_url": "https://github.com/aleksbrsc",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Exact handle and matching projects.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CHUR8TSDD-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/61842997?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/aleksbrsc",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Exact handle and full name.",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CHY7E72SH": [
+  {
+   "file": "photos-fallback/U0CHY7E72SH-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/103611211?v=4",
+   "page_url": "https://github.com/nathan-r-a-schultz",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same slug as LinkedIn; bio 'Nathan R.A. Schultz - SWE @ IBM (Fall 2026 - Fall 2027)'",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CHY7E72SH-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJtRnOU3BVgH7ca6HeWGqZlzwCy_cICui23tKlYhlsDo9tSm8d_=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/nathan-r-a-schultz",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same slug and name; Hack Western 12 submission",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CHYEYEEBE": [
+  {
+   "file": "photos-fallback/U0CHYEYEEBE-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/85855683?v=4",
+   "page_url": "https://github.com/PenguinPush",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Andrew Dai, blog andrewd.ai, Toronto",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CJHDTPT7D": [
+  {
+   "file": "photos-fallback/U0CJHDTPT7D-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/109396075?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/sulaimanqazi",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Sulaiman Qazi, Ajax ON; links his website, GitHub and LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CJHDTPT7D-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://sulaimanq.com/assets/img/og.jpg",
+   "page_url": "https://sulaimanq.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Links his GitHub, LinkedIn and Devpost.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CJW712AQK": [
+  {
+   "file": "photos-fallback/U0CJW712AQK-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/254779792?v=4",
+   "page_url": "https://github.com/cclementho",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); GitHub login matches LinkedIn slug cclementho; name Clement Ho; bio 'Data Science @ UWO'",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CJW712AQK-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/254779792?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/cclementho",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost 'Clement Ho', London ON, links github.com/cclementho (same as LinkedIn slug); no public projects listed",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CKLUXUG9H": [
+  {
+   "file": "photos-fallback/U0CKLUXUG9H-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/138406804?v=4",
+   "page_url": "https://github.com/yousefalwahami",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked by exact-email site.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CKLUXUG9H-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/138406804?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/stuv",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Full name and projects match.",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CLK8F0H3J": [
+  {
+   "file": "photos-fallback/U0CLK8F0H3J-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/142187311?v=4",
+   "page_url": "https://github.com/nemoabu",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub name Abdullokh Tulkinov, blog abuu.ca",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CLK8F0H3J-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIFMJE8AQ6xibHpCwFPh_Tlpndl74d5_Z_2AEfGKvfyaFFQ_NRy=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/tabdullokh",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost handle = Slack email handle; profile 'Abdullokh Tulkinov' links abuu.ca and his GitHub",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ],
+ "U0CFDTA0BR7": [
+  {
+   "file": "photos-fallback/U0CFDTA0BR7-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/194398713?v=4",
+   "page_url": "https://github.com/holiazhang",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub name Holia Zhang, same 'holiazhang' slug as her LinkedIn; rare name (only profile-config repo)",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CHENYTDJB": [
+  {
+   "file": "photos-fallback/U0CHENYTDJB-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/210877521?v=4",
+   "page_url": "https://github.com/AdrianYip1",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Adrian Yip, bio '3rd year Computer Engineering student at UofT'; linked from Devpost and his site",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHENYTDJB-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocI8NQCKZLja3DN5pmEYLwOeSAhNNHBQ0qjavR6rUcamoTunmQ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/yipadrian1119",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; links the LinkedIn, GitHub and site",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHNRZ9XTM": [
+  {
+   "file": "photos-fallback/U0CHNRZ9XTM-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/74568756?v=4",
+   "page_url": "https://github.com/dereksun00",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his Devpost, which links his LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHNRZ9XTM-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/004/489/020/datas/profile.jpg",
+   "page_url": "https://devpost.com/dereksun00",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost links github.com/dereksun00 and linkedin.com/in/derek-sun.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CHPHPQ2LV": [
+  {
+   "file": "photos-fallback/U0CHPHPQ2LV-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/122952093?v=4",
+   "page_url": "https://github.com/HasNate618",
+   "evidence": "Link from enrichment profile (LinkedIn match high); The account names Nathan Espejo, lists Western University, and links his personal site.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHPHPQ2LV-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AGNmyxZkQRjJs0A3_Fr5VkVICwdCL7mDNedpZsTQjelUWg=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/nate-e-espejo",
+   "evidence": "Link from enrichment profile (LinkedIn match high); The profile name, Brampton location, personal site, and GitHub all match.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CHPHPQ2LV-site.png",
+   "source": "Personal site",
+   "source_url": "https://www.nathanespejo.com/og.png",
+   "page_url": "https://www.nathanespejo.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); The site names Nathan Espejo, lists Western Software Engineering and WE MARS, and cross-links his GitHub and Devpost.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CHUSENRF1": [
+  {
+   "file": "photos-fallback/U0CHUSENRF1-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/47743538?v=4",
+   "page_url": "https://github.com/xPuffball",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Jaemin Han, University of Waterloo; linked from jaeminhan.dev",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHUSENRF1-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars2.githubusercontent.com/u/47743538?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/xPuffball",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Jaemin Han (xPuffball)' links github.com/xPuffball",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CHY7P59TL": [
+  {
+   "file": "photos-fallback/U0CHY7P59TL-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/235766001?v=4",
+   "page_url": "https://github.com/diyasaxena17",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals Slack email handle; README links linkedin.com/in/diya-saxena",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHY7P59TL-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/235766001?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/diyasaxena17",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals Slack email handle and GitHub handle",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CJGPV815H": [
+  {
+   "file": "photos-fallback/U0CJGPV815H-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/76597978?v=4",
+   "page_url": "https://github.com/mmbaguette",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his portfolio; README names Ali Mohammed-Ali, Electrical Engineering, Western University",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CJGPV815H-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://alimohammed-ali.com/assets/og-card.jpg",
+   "page_url": "https://alimohammed-ali.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Portfolio of an Electrical Engineering student at Western, London ON; links linkedin.com/in/am-uwo and github.com/mmbaguette",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CJVM77UQK": [
+  {
+   "file": "photos-fallback/U0CJVM77UQK-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AAcHTtc_aRn5bNOEGmpOPJhaBkhpKFvGZC9WtCoDIoYHl228Bw=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/mangupli-dan",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle matches his Slack email handle; name Daniel Manguply; challenges include Hack Western 13",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CK5LRJGFK": [
+  {
+   "file": "photos-fallback/U0CK5LRJGFK-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLgNpPZByvaPaCKqkCvN9MqHfFGBrZToyhczoqBBPr3U2bclHpo=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/0610clo",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Same as her email handle; name Chloe Zou, Toronto",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CK5VAF64D": [
+  {
+   "file": "photos-fallback/U0CK5VAF64D-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/29670563?v=4",
+   "page_url": "https://github.com/qawse3dr",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub profile name 'Larry Milne'; bio points to gitlab.larrycloud.ca/qawse3dr, the same larrycloud.ca domain as his co-op site; repos are QNX/Raspberry Pi/C systems work.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CK5VAF64D-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/29670563?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/qawse3dr",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Larry Milne (qawse3dr)', Guelph, links GitHub qawse3dr; skills c++, linux, c.",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CKARNJ63H": [
+  {
+   "file": "photos-fallback/U0CKARNJ63H-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/142236524?v=4",
+   "page_url": "https://github.com/nishantshah0",
+   "evidence": "Link from self-listed on their Hack Western 13 team finder card",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CKARNJ63H-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AAcHTtctPU0XwVETOL13sjsOIyfqPPLAX4UFf4wq5ImJq-iy=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/nishantshah2573",
+   "evidence": "Link from enrichment profile (LinkedIn match high); The Devpost handle exactly matches the input email handle, and its Toronto identity matches the Western Engineering professional profile.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CKARNJ63H-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://nishantshah.xyz/assets/share-card.jpg?v=11",
+   "page_url": "https://nishantshah.xyz/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his GitHub README; links the same GitHub and LinkedIn",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ],
+ "U0CKBE3PG23": [
+  {
+   "file": "photos-fallback/U0CKBE3PG23-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/159584626?v=4",
+   "page_url": "https://github.com/scarlettho",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Profile name 'Scarlett Anne Si Wing Ho', bio 'CS @ Western', matching her LinkedIn (CS @ Western, first year). Public repos are only high-school Google Classroom assignments.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CKKF2FE69": [
+  {
+   "file": "photos-fallback/U0CKKF2FE69-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/244261621?v=4",
+   "page_url": "https://github.com/sweller226",
+   "evidence": "Link from enrichment profile (LinkedIn match high); ASCIIgL links Skwiglyman release.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CJ0D81FG9": [
+  {
+   "file": "photos-fallback/U0CJ0D81FG9-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/194025145?v=4",
+   "page_url": "https://github.com/dave-2-jpg",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked on his team finder card; GitHub name David Olayinka, bio 'uoft eng', location Toronto",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  }
+ ],
+ "U0CJDU8AWEQ": [
+  {
+   "file": "photos-fallback/U0CJDU8AWEQ-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIGz1_9DPnB2VTcUEC35A5ZNNIF9bz0Wg5brROS8WNdEurn4uHB=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/singhshivag",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost profile 'Shiv Kushwaha (singhshivag)' lists Echoes (Hack Western 12) and Project Wildfire; his LinkedIn post links the Echoes Devpost page, and the Echoes page credits Shiv Kushwaha linking to /singhshivag.",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  }
+ ],
+ "U0CKH1FQSAE": [
+  {
+   "file": "photos-fallback/U0CKH1FQSAE-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/71986129?v=4",
+   "page_url": "https://github.com/Polarralop",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked in his Hack Western team-finder entry; repos coverloop, Gameline, appointify, unhack and EECS3311Project match his portfolio and York courses",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  },
+  {
+   "file": "photos-fallback/U0CKH1FQSAE-site.gif",
+   "source": "Personal site",
+   "source_url": "https://www.shanemarcelo.ca/images/about.gif",
+   "page_url": "https://www.shanemarcelo.ca/about",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Portfolio of Shane Marcelo, Computer Science at York University, open to Summer 2027 internships; lists Coverloop, Gameline, Appointify which are repos on the GitHub he gave in team finder",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CKJDALLHF": [
+  {
+   "file": "photos-fallback/U0CKJDALLHF-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/121933228?v=4",
+   "page_url": "https://github.com/munadirkhan",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name Munadir Khan, company University of Western Ontario, blog munadirkhan.me",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  },
+  {
+   "file": "photos-fallback/U0CKJDALLHF-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AAcHTtdk20LOBDXd3KH9VD7z1CWZP0OOB-WjvUnlayer9rIZz9U=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/munadirkhan",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Munadir Khan (munadirkhan)' links his GitHub and a LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  },
+  {
+   "file": "photos-fallback/U0CKJDALLHF-site.png",
+   "source": "Personal site",
+   "source_url": "https://www.munadirkhan.me/opengraph.png",
+   "page_url": "https://www.munadirkhan.me/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from LinkedIn munadirkhan and GitHub munadirkhan; says Software Engineering at Western University",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CKL26J473": [
+  {
+   "file": "photos-fallback/U0CKL26J473-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/146362369?v=4",
+   "page_url": "https://github.com/hAlcLeite",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his site; name Henrique Leite, bio 'CS @ University of Western Ontario'",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  }
+ ],
+ "U0CKMEFTATD": [
+  {
+   "file": "photos-fallback/U0CKMEFTATD-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/63879791?v=4",
+   "page_url": "https://github.com/edisonqu",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Linked from his Devpost profile 'web3' (Edison Qu), which also links linkedin.com/in/edisonqu",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  },
+  {
+   "file": "photos-fallback/U0CKMEFTATD-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/572/942/datas/profile.jpeg",
+   "page_url": "https://devpost.com/web3",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Profile name Edison Qu; links linkedin.com/in/edisonqu and GitHub edisonqu",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  }
+ ],
+ "U0CHT843BE1": [
+  {
+   "file": "photos-fallback/U0CHT843BE1-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLMChbN74WktqtdUFJWfgTDnZgN-TKbJ_DxwzpdLVhj7Uylng=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/ericmzuo1",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; name Eric Zuo, Calgary; Hack the Change 2025 3rd place matches his LinkedIn post",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHYGXFXRQ": [
+  {
+   "file": "photos-fallback/U0CHYGXFXRQ-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocL_05AqMyM1WDIDZLq72I39q5TmrE8TdlZbS5L1enNcMFrApg=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/lilynminhanh",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Lily Nguyen (lilynminhanh)', London, Ontario, Canada; handle matches the email handle and the profile links GitHub lilynminhanh. No projects submitted yet.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHZR1AGDT": [
+  {
+   "file": "photos-fallback/U0CHZR1AGDT-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a-/ALV-UjXu6RcZVfD4cwAXa0TARSqmOQHWt3zsZg_f8hJZhJjcEgZk6dRu8C2rj4NOlGq32npa7j1oAdfoQuYLIhAT4-rQhqgonUjzzJe-18H2XMcXvn_RvPmS821v1EYhQOaWKhTAvKK9IpjQxaPeGAAQ88sfp2DDeMpXeyvcmkH-jUXnywN4xRUQSGQ3susbiDHvJHZhHdKelA0Fs4VjIZRT_dkK-e-fIooGqwYKG0ldRMAeQfXJv3TUa4eN4la5UZea9zSLFDyDNOitrGlu8_uapEX15GoneWDGynzWD8pmJhVRNG_iQF9ccHtlrcNNDGUHJnOHNjikMakDmUnQknkM7wdEy-w5Lv6wGSXaDZNN6X7iBAgZC4j9LpdkEFQ1Evo3ER0YtsoEWezEbwwus8acUdUSg-tYzQc95qx5ejumiB3uWNRxltP9fIlWPptBGKZJx76PczglvriKlQC_kJKwemjKpdmpuoXb-pgui5LMTvtlaz8ahmOHJfhl2TIaKRFp_bDY35voQ21YrlGAruKU39I0AtdLky-VnkZvTD4ye7b53YSUxcfGO1kLYJ3RDvIWOoxQ8H6h9KMXBGg46jHa8HKQuZ6VgeHrOQulqPRMfDz0wdZ6hhXeGM1y528PV6wPUZOGz74EJ67DiAOQG1Ybi-G80Yr5_PTqG0oXJbfb9VfqDqznGfLo32qIIyCvhuQPaRUHxsTcDlesIWXJzXks2u-TCAc65ByH-s4RUw3E9ESmPAh8lrzL70WeAJZLkQND-nQ9fGaFK3GQaf5HlhyTwHTI5N9IRzpUPB3hyRo97QZGyU2RUpoqTFKVOKV8s8TGMetYiVPfXkK7PQL3xsVO3XxMZPZbA1KP1GaK_ES2jS_LGB-V0Tu-1-yUytlVRtMd09GbC4ZzUi6lt9D_1LRIk3kasbIaj8CrlMz-gu9ub-NbPOU=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/bonnieq",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Bio \"business @ ivey\"; ReMemories team page; matches her Ivey/Hack Western design background.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJG1UAW30": [
+  {
+   "file": "photos-fallback/U0CJG1UAW30-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://media.licdn.com/mpr/mprx/0_fC9_gwtyj6hq-6n0a8CGKMQgJ-Gv-no_dQ2DROYgpPYq-6I0_CC_xgPyxhjeqBJPQ1a_varpv5PNl-Mi8A1xvxArr5Pzl-71iA18YYXjRkQMUXN7785aOoo2KrWL4-4GEtB7J8eVIsK?height=180&width=180",
+   "page_url": "https://devpost.com/BleachFinny",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Same name and robotics projects.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CJG1UAW30-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/114080866?v=4",
+   "page_url": "https://github.com/UwUltimatenub",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Commit search for his Slack email returns commits in UwUltimatenub repos; his site ericzeng.ca links this GitHub.",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  },
+  {
+   "file": "photos-fallback/U0CJG1UAW30-site.webp",
+   "source": "Personal site",
+   "source_url": "https://ericzeng.ca/media/social/eric-zeng-robotics.webp",
+   "page_url": "https://www.ericzeng.ca/",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); 'Eric Zeng - Robotics & Engineering', Western University BEng 2029; links GitHub UwUltimatenub and LinkedIn eric-zeng07.",
+   "reviewed": false,
+   "reason": "robot photo, not the person"
+  }
+ ],
+ "U0CJVNDASBV": [
+  {
+   "file": "photos-fallback/U0CJVNDASBV-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIBuWMVl75_nzTcLeRhso7nVlt5Beoe6f4p2oMZK1beNmNK_sA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/evalinaxwang",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as her email handle; project Rumble, linked from her site",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CK1L531NW": [
+  {
+   "file": "photos-fallback/U0CK1L531NW-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKBjtRcxSeVuYM2WKu-gZp4GvmnaIVKVm10MRTiSu9Amt08Pg=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/garyyi1234",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; name Gary Yi, Markham",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CK806SVB8": [
+  {
+   "file": "photos-fallback/U0CK806SVB8-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/219053960?v=4",
+   "page_url": "https://github.com/eesh4n",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Bio 'engineering + ivey hba @ western university', links eeshanagarwal.com and in/eeshanagarwal1; also listed on LinkedIn",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CK8U5SH8U": [
+  {
+   "file": "photos-fallback/U0CK8U5SH8U-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKpDQUL6BkPc7KhEDCJV31R7VvkFCdjAAsa1eueMw3cCrPXnQ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/emilyzhang6223",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost handle identical to her email handle (emilyzhang6223) and LinkedIn slug (emily-zhang6223); profile location Waterloo, Ontario, matching University of Waterloo.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKDFDLCQ1": [
+  {
+   "file": "photos-fallback/U0CKDFDLCQ1-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a-/ALV-UjWxIC2Fv20W2UMH-Hkasp7YUsF6HIk27Hj5DPH9WkLWynLTaouJXSfRzeU49OG45X3UB9XFjZ2Y07l8LMU_20beQWuRZ845ttCHOhD4DBUi1LNunNjmui12KXjd61wjLaKzI4mP4XBUdMn1otzdET2v4GD2QWCPTtfr0ZOEPFYww4UoT71IIF0A-xP0WjMXxhio-GbECCwqNifxshbg4B-gqkcnfCjOFgU_HYK4lavPbTHBtsq8keG2aoaqKWSyGSmmDuyRw7pfnvlAfLZcKuI9RcXFajq4H5QgMz1t5yKogtljpy5Mj0-uCDqCT9xayotwdR8rIrIU9x5RY4qHdmb7XusjBjI9ErQCfoZs0awWCXHOyqLZOXW3wJ34Vz7KZ7kTmf1BhYbmEfBC0xr0C_1xAd28DGwnK24vsQwt0za0wvW9f6x0IOXd4KD4RpylbwIW2hcg5TvLUP5WPLoGMxWcB8nzjIMT53qLEk4761kKNpjGU5h3Mz_rji3ZH7uXhZ4q-SKBnyuDnjAjGJc34vA4ea7ltD7nGvx0dYV_538yxO3oqy8wYoRmK_-K5TME62OuIMEHglYTMbHxH5QUMZf0Yy02-BctSQy7L4fBHBAL2sIFP9anb24bhLyNYpuk1CswhKUyNpPFQZj5zmuNyUgPjvLyy4IDOUvW0BuP2S74UG5-IZG9pMm7SrJhNmI3l6sg7ygqXFD--sNAQVQKp-UuuMeeIX70rMcbFrYTymnTCzL_hHfWSjiG5PFTiBYM7iECnmimp7Ns36Nwua379d0pAeYLmpmKOKTA08dPKPE2cD2Yw23gfjcOgguVYTEez2xoeanajEQNjKDJ54dedGuXOOdDsnQFLK3gOo9Rj8geQfDv-0GGorzfQys6ZD1SBlVq7m3RqaXEPBdrREhN05lG-WjJCZLIafEN5jva70vpT1WC1fcYBc4QHhIBHFiM08b7Fr4CLW-3tLJ6_tWqcGI0R4q1bxpG1XRrdWTpD5vz8Wgs1apB6EYpgeif3grHpHSpsGiWz9iCHIX_Y_3apTyWeLG1iFJgWeQzXDL4MdPPKc84fy8Jont5_ygN=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/andrewhdurnford",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; Toronto; no projects listed",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CKDFDLCQ1-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://andrewdurnford.com/meta.jpeg",
+   "page_url": "https://andrewdurnford.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Homepage of GitHub andrewhdurnford's personal-website repo; site links linkedin.com/in/durnford",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CKL5HMTK3": [
+  {
+   "file": "photos-fallback/U0CKL5HMTK3-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIQJVoymoL6CtkIIpPW67TrSt6-NUld43uFpw6EvxJNf3M=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/mhaju05",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost username mhaju05 equals email handle; display name Arjun Harinath.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKLA79YSF": [
+  {
+   "file": "photos-fallback/U0CKLA79YSF-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIAEMhsbGA-xJGG6WVSMNyVM0dwRLyO6vRHnTZyA7rMr2o2tA=s400-c?type=square",
+   "page_url": "https://devpost.com/software/prodpet",
+   "evidence": "Link from enrichment profile (LinkedIn match high); ProdPet lists Parnia Yazdinia as creator and the repo is on her GitHub",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKQ1YF7RU": [
+  {
+   "file": "photos-fallback/U0CKQ1YF7RU-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/190446023?v=4",
+   "page_url": "https://github.com/fiona-xuu",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Bio 'cs @ western university', blog fionaxu.com; linked from her site and Devpost",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CKQ1YF7RU-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/190446023?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/fiona-xuu",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost profile links linkedin.com/in/fiona-xu06, fionaxu.com and github.com/fiona-xuu",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CJLNF9H9U": [
+  {
+   "file": "photos-fallback/U0CJLNF9H9U-site.png",
+   "source": "Personal site",
+   "source_url": "https://chessdudeo7.github.io/og-image.png",
+   "page_url": "https://chessdudeo7.github.io/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); GitHub Pages site on his chessdudeo7 account.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CK8CMAG3D": [
+  {
+   "file": "photos-fallback/U0CK8CMAG3D-site.png",
+   "source": "Personal site",
+   "source_url": "https://www.mousaadnan.com/og.png",
+   "page_url": "https://www.mousaadnan.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Site title 'Mousa Adnan | Computer Science at Western University', links LinkedIn; describes the Deloitte AI governance internship on his LinkedIn",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CKFFE3YHX": [
+  {
+   "file": "photos-fallback/U0CKFFE3YHX-site.png",
+   "source": "Personal site",
+   "source_url": "https://hanjing.dev/opengraph-image?393a90f2e2adee75",
+   "page_url": "https://hanjing.dev/",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Portfolio 'Hanjing Lin' (explorable 3D desk plus simple site and blog) links his LinkedIn hanjing-lin-790252113 and GitHub hanjing06; his LinkedIn About points to hanjing.dev",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CKQDWJF0W": [
+  {
+   "file": "photos-fallback/U0CKQDWJF0W-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://otel.guru/astropaper-og.jpg",
+   "page_url": "https://www.otel.guru/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); \"Learn OpenTelemetry from first principles\"; site links his LinkedIn (vaishaknair).",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CHYGFVBDF": [
+  {
+   "file": "photos-fallback/U0CHYGFVBDF-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/236467378?v=4",
+   "page_url": "https://github.com/Crystalge07",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Linked from crystalge.vercel.app; name Crystal Ge",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  }
+ ],
+ "U0CHYK30U90": [
+  {
+   "file": "photos-fallback/U0CHYK30U90-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/135458359?v=4",
+   "page_url": "https://github.com/kamalchahal7",
+   "evidence": "Link from self-listed on their Hack Western 13 team finder card",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  },
+  {
+   "file": "photos-fallback/U0CHYK30U90-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLLGPQuoU2cmU41tMmSyCFIti0kReUQGazGsEuWUYUQ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/kamalxchahal",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle matches his Slack handle; profile is Kamal Chahal, Mississauga.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKG1TLKMX": [
+  {
+   "file": "photos-fallback/U0CKG1TLKMX-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/101956263?v=4",
+   "page_url": "https://github.com/samdeitz",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Bio 'CS student @ Western, full stack', London ON.",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  }
+ ],
+ "U0CKTGUM45A": [
+  {
+   "file": "photos-fallback/U0CKTGUM45A-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AGNmyxZz9j8HH3mVtIe2xsmYcEC-0KrGXIjZoEyDv5p9=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/ramcharanvelpuri",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost profile named Ramcharan Velpuri ('tryna build') with GitHub and LinkedIn links; holds the Hackathon Winner achievement.",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  }
+ ],
+ "U0CHUJ4UA2W": [
+  {
+   "file": "photos-fallback/U0CHUJ4UA2W-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocL4XBXkjG6HRYLqJsALiYmh5x5k_WFh_QLa5o9296FFXNIWlued=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/priyanshcan",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); The handle exactly matches the input email handle, and the profile lists the same full name and Toronto location.",
+   "reviewed": false,
+   "reason": "not usable: celebrity photo, not the member"
+  }
+ ],
+ "U0CEWJ10TAT": [
+  {
+   "file": "photos-fallback/U0CEWJ10TAT-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/151498964?v=4",
+   "page_url": "https://github.com/lucianlavric",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Name 'Lucian (Luka) Lavric'; bio 'Incoming PE Intern @ Meta · CS @ Western · Web Lead @ Hack Western'; blog lucianlavric.tech; personal site links back.",
+   "reviewed": false,
+   "reason": "not usable: childhood photo, not a current likeness"
+  },
+  {
+   "file": "photos-fallback/U0CEWJ10TAT-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://avatars.githubusercontent.com/u/151498964?height=180&v=4&width=180",
+   "page_url": "https://devpost.com/lucianlavric",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost links github.com/lucianlavric; Gaslytics teammates include Julian Laxman and Jessica Wang (Western).",
+   "reviewed": false,
+   "reason": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+  }
+ ],
+ "U0CJNUFM90U": [
+  {
+   "file": "photos-fallback/U0CJNUFM90U-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/117589118?v=4",
+   "page_url": "https://github.com/BaronLiu1993",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Same as his email handle; README ('Hi! I'm Baron') links his LinkedIn",
+   "reviewed": false,
+   "reason": "not usable: family or group photo, cannot tell which person"
+  }
+ ],
+ "U0CK76MKLGL": [
+  {
+   "file": "photos-fallback/U0CK76MKLGL-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/106031378?v=4",
+   "page_url": "https://github.com/Overrayted",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked on his team finder card; name Ray Mohamed, bio 'CS @ UWO', blog rayhanmohamed.com",
+   "reviewed": false,
+   "reason": "not usable: family or group photo, cannot tell which person"
+  }
+ ],
+ "U0CJNN4U3PZ": [
+  {
+   "file": "photos-fallback/U0CJNN4U3PZ-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLUUzNHzjtVnV2LNSYSm7NjOtNYHGgW17iUmcRUelCrWpb5BQ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/kaitlynzhu06",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Handle equals email handle; Toronto",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKT3GKLJW": [
+  {
+   "file": "photos-fallback/U0CKT3GKLJW-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIImnfbXS4v0Bttf_87Ux7U4P8kkoeAhpupgYRqPq2nJhkndA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/mologosley",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; name Mol Hou",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKUNKP989": [
+  {
+   "file": "photos-fallback/U0CKUNKP989-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AATXAJzXaK-okhfeldXFoXlE_Bhq_KMfYl85VAJu1PUo=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/hussainatika12",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; lists SkinSense AI",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJGF09XEX": [
+  {
+   "file": "photos-fallback/U0CJGF09XEX-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/109089492?v=4",
+   "page_url": "https://github.com/liamma06",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; README lists the email",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CJGF09XEX-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLjB5PuKeIuUdwV5kGo5vLINepYNixQeG4uQQRxhhJWms5yMUM=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/liam-jbr-ma",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle derived from email; links site, GitHub, LinkedIn",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJW678YAG": [
+  {
+   "file": "photos-fallback/U0CJW678YAG-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/34855586?v=4",
+   "page_url": "https://github.com/llLucidll",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; bio \"Reinforcement Learning and Theoretical Compute\"",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CJW678YAG-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLAjExdDQQsmugin9tvJQOssxGsvZSpPkeiRPBgdeZ-RcqjIRT7=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/akhil10831",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost handle equals email handle; links GitHub llLucidll",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CHJHRK1BR": [
+  {
+   "file": "photos-fallback/U0CHJHRK1BR-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/156613246?v=4",
+   "page_url": "https://github.com/Dhruvilp25",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; bio CS @ Western; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHP7YCTS9": [
+  {
+   "file": "photos-fallback/U0CHP7YCTS9-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/62576489?v=4",
+   "page_url": "https://github.com/benz16107",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; commits authored with Slack email",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CHP7YCTS9-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKqorab_7Td7uADCqDrdb_qnzXP4qMviPcsC9ifFejez0_s4-xo4Q=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/benz16107",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle; links site, GitHub, LinkedIn",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CHP7YCTS9-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://thebenzhou.com/assets/photos-sm/select-44.jpg",
+   "page_url": "https://thebenzhou.com/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from GitHub and Devpost; lists GitHub benz16107, Devpost benz16107 and the LinkedIn",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  }
+ ],
+ "U0CHYNZC7J8": [
+  {
+   "file": "photos-fallback/U0CHYNZC7J8-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/99363127?v=4",
+   "page_url": "https://github.com/TCrawley11",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with his uwo.ca Slack email",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHZ3AM63E": [
+  {
+   "file": "photos-fallback/U0CHZ3AM63E-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/104471283?v=4",
+   "page_url": "https://github.com/owly1",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links site and LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ1967F0R": [
+  {
+   "file": "photos-fallback/U0CJ1967F0R-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/281058173?v=4",
+   "page_url": "https://github.com/suad52",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ2T2PM6D": [
+  {
+   "file": "photos-fallback/U0CJ2T2PM6D-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/172093916?v=4",
+   "page_url": "https://github.com/elphoun",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJ2T2PM6D-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLZ0NV7DqU5mM_dCujQ71gl7Yj2_8VXnly42o0DedMd0rMn6eUT=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/kale-mzhang7132",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle derived from email; links GitHub elphoun",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJAKGD8TT": [
+  {
+   "file": "photos-fallback/U0CJAKGD8TT-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/300242072?v=4",
+   "page_url": "https://github.com/winnie-c8",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJZPMGCMU": [
+  {
+   "file": "photos-fallback/U0CJZPMGCMU-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/120533419?v=4",
+   "page_url": "https://github.com/scanadens",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email under name Jasmine Kumar; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CJZPMGCMU-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJ_2BejuBPpprMd-54aOmxTdki3lZNdAWOLyfxDTYeINstAbf7z=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/jasminekkumar1",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle equals email handle (\"Jasmine K.\"); no projects listed",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CK3NUATPB": [
+  {
+   "file": "photos-fallback/U0CK3NUATPB-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/93009257?v=4",
+   "page_url": "https://github.com/karenguann",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commit authored with Slack email; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ00P755Z": [
+  {
+   "file": "photos-fallback/U0CJ00P755Z-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/67875282?v=4",
+   "page_url": "https://github.com/andrewchu16",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links andrewchu.ca and LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  },
+  {
+   "file": "photos-fallback/U0CJ00P755Z-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AATXAJz-aXcxXyf1sdVX08USCAAdepzxpaezyB5tPLp1=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/andrew-chu206",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost handle derived from his email; links GitHub andrewchu16",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  }
+ ],
+ "U0CJZMQHAJ3": [
+  {
+   "file": "photos-fallback/U0CJZMQHAJ3-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/132853348?v=4",
+   "page_url": "https://github.com/JeffreyWongg",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: landscape, nature or cityscape"
+  },
+  {
+   "file": "photos-fallback/U0CJZMQHAJ3-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/004/292/471/datas/profile.png",
+   "page_url": "https://devpost.com/jeffrey-wong-businessmail",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Handle derived from email; links GitHub JeffreyWongg",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJ4FY7WKD": [
+  {
+   "file": "photos-fallback/U0CJ4FY7WKD-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/188803685?v=4",
+   "page_url": "https://github.com/andrewwu13",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; README lists the same email and links LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CKTAYB7U1": [
+  {
+   "file": "photos-fallback/U0CKTAYB7U1-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/216823176?v=4",
+   "page_url": "https://github.com/e-yang6",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Matched by GitHub email search; bio \"ece @ uoft\"; links ethanyang.dev and LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CKTAYB7U1-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/004/267/727/datas/profile.png",
+   "page_url": "https://devpost.com/e-yang6",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Links ethanyang.dev, GitHub and LinkedIn",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHD5HKNBZ": [
+  {
+   "file": "photos-fallback/U0CHD5HKNBZ-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/70295495?v=4",
+   "page_url": "https://github.com/cloudec11",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with Slack email; bio \"Honours CS Student @ Western University\"",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  },
+  {
+   "file": "photos-fallback/U0CHD5HKNBZ-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a-/AFdZucohSBhX5CvLTzAKU-eN42C7wkvkSXMNwU-0JetmLg=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/cloudec-11",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from GitHub and site",
+   "reviewed": false,
+   "reason": "person not identifiable: face hidden, turned away or too small"
+  },
+  {
+   "file": "photos-fallback/U0CHD5HKNBZ-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://eric-chen.ca/assets/img/signal-2.jpg",
+   "page_url": "https://eric-chen.ca/",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Lists his Slack email, Western CS, GitHub and LinkedIn",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CJ09U2BAM": [
+  {
+   "file": "photos-fallback/U0CJ09U2BAM-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIGjjWcarmWoI20SZBpD-mbJz7uXnvHRh9QeEiqAp0LizbQQA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/ibrahimaqayyum",
+   "evidence": "Link from research result (links_confidence high); Devpost username equals the Slack email handle exactly; profile name Ibrahim Qayyum, Toronto, Ontario.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CK6C947UL": [
+  {
+   "file": "photos-fallback/U0CK6C947UL-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/204864596?v=4",
+   "page_url": "https://github.com/ChardXBT",
+   "evidence": "Link from research result (links_confidence high); Commits authored \"Eric Song\" with the Slack email; README links ericsong.tech and LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CK6C947UL-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://ericsong.tech/assets/images/eric-song-og.jpg?v=20260913-1",
+   "page_url": "https://ericsong.tech/",
+   "evidence": "Link from research result (links_confidence high); Linked from his GitHub profile and README; links the same LinkedIn and GitHub.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CKMQ98UCB": [
+  {
+   "file": "photos-fallback/U0CKMQ98UCB-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/245486299?v=4",
+   "page_url": "https://github.com/eswizzle22",
+   "evidence": "Link from research result (links_confidence high); Commits authored with the Slack email resolve to this account; profile name Ella Sajor; Western-specific repos.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CKMQ98UCB-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIbB8--ezKJgyfaKUdNbJEeNUiMuGJloCOSLiFZKd5rhuOPJA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/sajorella9",
+   "evidence": "Link from research result (links_confidence high); Devpost username equals the Slack email handle; profile name ella sajor; Hack Western 12 project.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHRBVEL3V": [
+  {
+   "file": "photos-fallback/U0CHRBVEL3V-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocKHE7kK1bQz_7Ym8d-QtjJ8nQgyFRbR7q7TS5oNf13ZHb8X=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/Jeojdi",
+   "evidence": "Link from research result (links_confidence high); Linked from his GitHub profile; name James Yang (Xinda Yang).",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CHRBVEL3V-site.jpg",
+   "source": "Personal site",
+   "source_url": "https://brevitassystems.com/assets/blog-card.jpg",
+   "page_url": "https://brevitassystems.com/",
+   "evidence": "Link from research result (links_confidence high); Company site he co-founded, linked from his GitHub profile card.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CHWA4DED8": [
+  {
+   "file": "photos-fallback/U0CHWA4DED8-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/190233794?v=4",
+   "page_url": "https://github.com/Andrew-Tu225",
+   "evidence": "Link from research result (links_confidence high); Name Andrew Tu, \"2nd cs+math @ uoft\"; resume in the repo links the same LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CK55JRKNK": [
+  {
+   "file": "photos-fallback/U0CK55JRKNK-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/175641943?v=4",
+   "page_url": "https://github.com/Leo-Zh9",
+   "evidence": "Link from research result (links_confidence high); GitHub email search and commit search on his Slack email both return Leo-Zh9.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CK55JRKNK-site.png",
+   "source": "Personal site",
+   "source_url": "https://leo-zhang.com/opengraph-image?71a4c00bde1a6620",
+   "page_url": "https://www.leo-zhang.com/",
+   "evidence": "Link from research result (links_confidence high); Set as the blog on GitHub Leo-Zh9 and in its README.",
+   "reviewed": false,
+   "reason": "site screenshot, not a headshot"
+  }
+ ],
+ "U0CJLJL9SKH": [
+  {
+   "file": "photos-fallback/U0CJLJL9SKH-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/194567408?v=4",
+   "page_url": "https://github.com/harryyangzy",
+   "evidence": "Link from research result (links_confidence high); README lists his Slack email [email omitted].",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CFF77FQCR": [
+  {
+   "file": "photos-fallback/U0CFF77FQCR-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLjTgMwWg3CGuZZm-is8AEfOSD_IdzqI5koToqwi2nyAir48w=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/brittneyrachellechong",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; name matches.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHWHBDVQ9": [
+  {
+   "file": "photos-fallback/U0CHWHBDVQ9-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a-/AOh14GjH880EoOrcLpwi64Hfb8NOWz0SEbFMevZnpIVscQ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/noahlevy575",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Username equals Slack email handle; name Noah Levy.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJJ7RKQ2W": [
+  {
+   "file": "photos-fallback/U0CJJ7RKQ2W-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocInQnxpLCSqhY6ptYAtFPPeijOeCGoF1QPLnP8JbnW0=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/lamzhanhang",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CJJ7RKQ2W-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/145819823?v=4",
+   "page_url": "https://github.com/Thomson-Lam",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Linked from his Hack Western team-finder card ('Zhan Hang Thomson L.'); README names Thomson Lam and links the same LinkedIn.",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ],
+ "U0CJLN8A4Q2": [
+  {
+   "file": "photos-fallback/U0CJLN8A4Q2-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIsa7PZONB8ZTcS8BNVxcqvWrNwP8OMFDA24zkHULlrGj3yRRRa=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/justinfang2007",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CJSE1SREU": [
+  {
+   "file": "photos-fallback/U0CJSE1SREU-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/156980765?v=4",
+   "page_url": "https://github.com/em1190",
+   "evidence": "Link from enrichment profile (links_confidence high); Linked from her email-handle Devpost; profile name Emily Yu.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  },
+  {
+   "file": "photos-fallback/U0CJSE1SREU-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/903/692/datas/profile.PNG",
+   "page_url": "https://devpost.com/emilyyu18739",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; name matches.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CKLJ67CJW": [
+  {
+   "file": "photos-fallback/U0CKLJ67CJW-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJP2bEuxtdsaDk0YL7_EvVDJGG9HAmFu63ZbiaDOCdOnZBuhw=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/sg8gar",
+   "evidence": "Link from enrichment profile (links_confidence medium); Username equals Slack email handle.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CKS6CFJM8": [
+  {
+   "file": "photos-fallback/U0CKS6CFJM8-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLmOnVeDEoyytg95z99MK2fssKAgqpSQ_H67LQUe1iRrBs4Iw=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/bhuan84497",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; name matches.",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHDAKUDKR": [
+  {
+   "file": "photos-fallback/U0CHDAKUDKR-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/152025614?v=4",
+   "page_url": "https://github.com/jennw4",
+   "evidence": "Link from enrichment profile (links_confidence high); Linked from her email-handle Devpost.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  },
+  {
+   "file": "photos-fallback/U0CHDAKUDKR-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLQhcbonjD85HACWYJRBq6Xs3nnGlAUgVrqvRX4sB7zQA=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/jenn-wang04",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; name matches.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJW307MEX": [
+  {
+   "file": "photos-fallback/U0CJW307MEX-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/165107353?v=4",
+   "page_url": "https://github.com/nancyli15",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commit-email search for the Slack email returns commits authored by this account; README lists the same email.",
+   "reviewed": false,
+   "reason": "not a person: animal"
+  }
+ ],
+ "U0CJZPR50SH": [
+  {
+   "file": "photos-fallback/U0CJZPR50SH-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/88215414?v=4",
+   "page_url": "https://github.com/chandlerkx",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commit-email search for the Slack email returns commits authored by this account (author Chandler Xie).",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CJZSV0R2A": [
+  {
+   "file": "photos-fallback/U0CJZSV0R2A-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocK13XqT7uDVI2c6aidkiis8SbhYdCFtQsFhPlzAVA9oabkc9apZ=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/yifan-gao-ca",
+   "evidence": "Link from enrichment profile (links_confidence medium); Username equals Slack email handle with dots as hyphens; name matches.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CK0K5GDM4": [
+  {
+   "file": "photos-fallback/U0CK0K5GDM4-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/138630438?v=4",
+   "page_url": "https://github.com/sokosam",
+   "evidence": "Link from enrichment profile (links_confidence high); Commit-email search for the Slack email returns commits authored by this account (author Samuel Shi).",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  },
+  {
+   "file": "photos-fallback/U0CK0K5GDM4-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/003/256/631/datas/profile.jpg",
+   "page_url": "https://devpost.com/samuelshiwork",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle; links the GitHub.",
+   "reviewed": false,
+   "reason": "not a person: cartoon, anime, drawing or illustration"
+  }
+ ],
+ "U0CHX8NSAVC": [
+  {
+   "file": "photos-fallback/U0CHX8NSAVC-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLo-LvYQPpmOF3Gv6WbdICb2PUZFjHYkjB8d7_cs2IWWiYfYUU=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/annajjj100",
+   "evidence": "Link from enrichment profile (links_confidence high); Username equals Slack email handle.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  },
+  {
+   "file": "photos-fallback/U0CHX8NSAVC-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/84871548?v=4",
+   "page_url": "https://github.com/immortalillusions",
+   "evidence": "Link from enrichment profile (links_confidence medium); Her Devpost projects MeloMoods and Lil Ghost link repos owned by immortalillusions. MeloMoods has exactly two Devpost members (J L = annajjj100, and Marzouq Mohsin) and exactly two repo contributors (immortalillusions, and Ardelerro, who commits as Marzouq Mohsin), so immortalillusions is J L. Profile README: 'Hi, I'm Joanna!'.",
+   "reviewed": false,
+   "reason": "cartoon avatar, not a photo of the person"
+  }
+ ],
+ "U0CHYU0NBS9": [
+  {
+   "file": "photos-fallback/U0CHYU0NBS9-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/62462739?v=4",
+   "page_url": "https://github.com/braydenleung-Git",
+   "evidence": "Link from enrichment profile (links_confidence high); Commit-email search for the Slack email returns commits authored by this account; README names Brayden Leung.",
+   "reviewed": false,
+   "reason": "not a person: logo, pixel art, abstract or object"
+  }
+ ],
+ "U0CKF9S15B3": [
+  {
+   "file": "photos-fallback/U0CKF9S15B3-github.jpg",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/219884775?v=4",
+   "page_url": "https://github.com/3boodMMVI",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Commits authored with the Slack email; README names Abdallah Shabaro and links the LinkedIn.",
+   "reviewed": false,
+   "reason": "not a person: painting, statue or artwork"
+  },
+  {
+   "file": "photos-fallback/U0CKF9S15B3-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocJSxC2XMm67DRGDwTmKoI7y9wUDIjEilW-oOSNhHgvN29ZZ2aL8=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/3boodmmvi",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost username matches the GitHub handle and the name Abdallah; not cross-linked (UNVERIFIED).",
+   "reviewed": false,
+   "reason": "default avatar (letter, silhouette, blank or solid colour)"
+  }
+ ],
+ "U0CHSV19T6H": [
+  {
+   "file": "photos-fallback/U0CHSV19T6H-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/892/381/datas/profile.jpg",
+   "page_url": "https://devpost.com/anaybaid",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost name Anay Baid ('University of Waterloo - Computer Science 2027'), links the LinkedIn slug, GitHub and site",
+   "reviewed": true,
+   "reason": "Verifier: same Devpost photo as U0CJF8GBZ54 (Anay Baid); a2baid match is only medium, so hidden to avoid showing one face for two people"
+  }
+ ],
+ "U0CLLJQ0QLQ": [
+  {
+   "file": "photos-fallback/U0CLLJQ0QLQ-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/77402029?v=4",
+   "page_url": "https://github.com/hiatus770",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); GitHub commit search for his Slack email [email omitted] returns 27 commits by this account (profile name 'Matias'); repo canadahack is a Tailscale home-security suite, matching his Hack Canada Best Tailscale Integration win on LinkedIn.",
+   "reviewed": false,
+   "reason": "cartoon avatar, not a photo of the person"
+  }
+ ],
+ "U0CHXQH2NCW": [
+  {
+   "file": "photos-fallback/U0CHXQH2NCW-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLuYxBRM2619aLCIyPSsCHqdnay-G7bJKY0h805NA6BbegL7uY=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/Anastasiya006",
+   "evidence": "Link from enrichment profile (LinkedIn match high); Devpost 'Anastasiya Volgina (Anastasiya006)', Toronto, links anastasiyavolgina.com, GitHub Anastasiya006 and LinkedIn anastasiya-volgina.",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  },
+  {
+   "file": "",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocLuYxBRM2619aLCIyPSsCHqdnay-G7bJKY0h805NA6BbegL7uY=s400-c",
+   "page_url": "https://devpost.com/Anastasiya006",
+   "evidence": "Devpost avatar on her own Devpost profile",
+   "reviewed": true,
+   "reason": "not a person: puppy photo"
+  }
+ ],
+ "U0CHDPVQ1K9": [
+  {
+   "file": "photos-fallback/U0CHDPVQ1K9-devpost.png",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/ACg8ocIEeTQQ4CMzjTcsL776rIaxjFSaBgzmyYsS2odvM6wMF1YutXAY=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/nikaisen143",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost 'Kaisen Ni (nikaisen143)', Toronto; handle equals his Slack email handle and the display name matches. No public projects.",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ],
+ "U0CJP4EQ0NL": [
+  {
+   "file": "photos-fallback/U0CJP4EQ0NL-devpost.jpg",
+   "source": "Devpost photo",
+   "source_url": "https://lh3.googleusercontent.com/a/AEdFTp4F3W_JZaBaciwIGt0NEjp-RYCCeTfZSz_GUZlLTw=s400-c?height=180&width=180",
+   "page_url": "https://devpost.com/hola66567",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); Devpost 'Ola W' (handle matches her email hola66567@) lists FastER and WayFinder, already tied to her",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ],
+ "U0CHFKE15DM": [
+  {
+   "file": "photos-fallback/U0CHFKE15DM-github.png",
+   "source": "GitHub avatar",
+   "source_url": "https://avatars.githubusercontent.com/u/95185333?v=4",
+   "page_url": "https://github.com/picafe",
+   "evidence": "Link from enrichment profile (LinkedIn match medium); All commits found for his Slack email [email omitted] (612) belong to GitHub user picafe (name Surya, Canada); repos include a Western Formula Racing DAQ board and a Western ES 1050 project",
+   "reviewed": false,
+   "reason": "not a photo of the person (cartoon, pet, artwork, logo or site screenshot)"
+  }
+ ]
+}
