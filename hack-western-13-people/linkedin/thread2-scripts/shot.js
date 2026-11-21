@@ -1,0 +1,10 @@
+const { chromium } = require('/tmp/hw13pw/node_modules/playwright-core');
+(async()=>{const b=await chromium.launch({channel:'chrome',headless:true});const p=await b.newPage({viewport:{width:1300,height:1000}});
+await p.goto('file:///Users/prag/Documents/PragPersonal/Projects/at-Western/outputs/hack-western-13-slack/photo-gallery.html');
+await p.evaluate(()=>document.querySelectorAll('img').forEach(i=>i.loading='eager'));
+await p.waitForTimeout(4000);
+const r=await p.evaluate(()=>{const im=[...document.querySelectorAll('img')];return {total:im.length,broken:im.filter(i=>i.complete&&i.naturalWidth===0).map(i=>i.getAttribute('src')).slice(0,10),nbroken:im.filter(i=>i.complete&&i.naturalWidth===0).length,fallback:im.filter(i=>(i.title||'').startsWith('Photo from')).length,fallbackOk:im.filter(i=>(i.title||'').startsWith('Photo from')&&i.naturalWidth>0).length,li:im.filter(i=>i.title==='LinkedIn photo'&&i.naturalWidth>0).length}});
+console.log(JSON.stringify(r));
+await p.evaluate(()=>{for(const f of document.querySelectorAll('figure'))f.hidden=!f.querySelector('img[title^="Photo from"]')});
+await p.screenshot({path:'/tmp/hw13t2/gallery-fallback.png'});
+await b.close();})();

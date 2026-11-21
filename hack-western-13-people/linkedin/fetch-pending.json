@@ -1,0 +1,8 @@
+[
+ {
+  "id": "U0CKG9SGRPD",
+  "name": "Vijay M",
+  "url": "https://www.linkedin.com/in/VijayMaulkhan",
+  "reason": "Public LinkedIn page returns 404 logged out (profile hidden or deactivated); slug still linked from his GitHub. Not fetchable without login."
+ }
+]
