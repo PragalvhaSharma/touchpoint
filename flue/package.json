@@ -1,0 +1,25 @@
+{
+  "name": "greeter-flue",
+  "scripts": {
+    "greet": "flue run src/agents/greeter.ts --message",
+    "brain": "node --env-file-if-exists=.env src/brain.ts",
+    "talk": "node --env-file-if-exists=.env src/talk.ts",
+    "check": "tsc -p .",
+    "test": "node --test src/*.test.ts"
+  },
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@earendil-works/pi-ai": "^1.6.0",
+    "@flue/cli": "^2.3.1",
+    "@flue/runtime": "^2.3.1",
+    "valibot": "^1.5.0"
+  },
+  "engines": {
+    "node": ">=23.6.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "typescript": "^7.0.2"
+  }
+}
