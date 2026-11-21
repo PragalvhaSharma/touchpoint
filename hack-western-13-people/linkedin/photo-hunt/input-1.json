@@ -1,0 +1,254 @@
+[
+ {
+  "id": "U0CJ8RJ77LN",
+  "slack_name": "Abby Wang",
+  "real_name": "Abby Wang",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/abby-wangg",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Engineering student; Software Engineering Intern, Travelers (Summer 2026)",
+  "school_program": "Western University, Engineering",
+  "personal_site": "https://abbywang.netlify.app/",
+  "github": "https://github.com/abbywangg",
+  "devpost": "https://devpost.com/abbywangg",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKGMZ20KS",
+  "slack_name": "Baraka Waweru",
+  "real_name": "Baraka Waweru",
+  "role": "Volunteer",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/baraka-waweru",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student Tutor, TutorMatch",
+  "school_program": "Western University, BSc Honours Specialization in Computer Science and Applied Mathematics",
+  "personal_site": "",
+  "github": "https://github.com/barakaw-a",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJVM77UQK",
+  "slack_name": "Daniel M",
+  "real_name": "Daniel Manguply",
+  "role": "Participant",
+  "school": "University of Waterloo, Computer Engineering (first year)",
+  "linkedin_url": "https://ca.linkedin.com/in/daniel-manguply-baa81b242",
+  "linkedin_fetch": "ok",
+  "current_role": "Student; Waterloo Aerial Robotics Group (WARG) member working on LTE board drivers",
+  "school_program": "University of Waterloo, Computer Engineering (first year)",
+  "personal_site": "",
+  "github": "https://github.com/mangdani282",
+  "devpost": "https://devpost.com/mangupli-dan",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "Devpost photo",
+    "url": "https://lh3.googleusercontent.com/a/AAcHTtc_aRn5bNOEGmpOPJhaBkhpKFvGZC9WtCoDIoYHl228Bw=s400-c?height=180&width=180",
+    "why": "not a person: logo, pixel art, abstract or object"
+   }
+  ]
+ },
+ {
+  "id": "U0CFDTA0BR7",
+  "slack_name": "Holia Zhang",
+  "real_name": "Holia Zhang",
+  "role": "Organizer",
+  "school": "Western University, Computer Science (Faculty of Science)",
+  "linkedin_url": "https://ca.linkedin.com/in/holiazhang",
+  "linkedin_fetch": "ok",
+  "current_role": "Web Organizer / Developer, Hack Western (Mar 2026-present)",
+  "school_program": "Western University, Computer Science (Faculty of Science)",
+  "personal_site": "",
+  "github": "https://github.com/holiazhang",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/194398713?v=4",
+    "why": "not a person: logo, pixel art, abstract or object"
+   }
+  ]
+ },
+ {
+  "id": "U0CFBV046JE",
+  "slack_name": "Lucas Vanderwielen",
+  "real_name": "Lucas Vanderwielen",
+  "role": "Organizer",
+  "school": "Western University, Honours Specialization in Computer Science",
+  "linkedin_url": "https://ca.linkedin.com/in/lucas-vanderwielen-5b7947338",
+  "linkedin_fetch": "ok",
+  "current_role": "Web Organizer, Hack Western 13",
+  "school_program": "Western University, Honours Specialization in Computer Science",
+  "personal_site": "",
+  "github": "https://github.com/LucasVand",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKJ764M1S",
+  "slack_name": "obarta",
+  "real_name": "Oliver Barta",
+  "role": "Participant",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://ca.linkedin.com/in/oliverbarta",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "SAP",
+  "school_program": "University of Waterloo, Systems Design Engineering",
+  "personal_site": "https://oliverbarta.github.io/oliverWebsite/",
+  "github": "https://github.com/OliverBarta",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJ76B7WCE",
+  "slack_name": "tahaelghadi",
+  "real_name": "Taha El Ghadi",
+  "role": "Participant",
+  "school": "University of Guelph, B.Sc. (LinkedIn education lists Health Sciences; headline says Biological Science)",
+  "linkedin_url": "https://www.linkedin.com/in/taha-el-ghadi",
+  "linkedin_fetch": "ok",
+  "current_role": "Undergraduate student, University of Guelph",
+  "school_program": "University of Guelph, B.Sc. (LinkedIn education lists Health Sciences; headline says Biological Science)",
+  "personal_site": "",
+  "github": "https://github.com/2talltooha",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/280577560?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ]
+ },
+ {
+  "id": "U0CK5L9TAQ3",
+  "slack_name": "Yipeng Zhang",
+  "real_name": "Yipeng Zhang",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/yipengz",
+  "linkedin_fetch": "ok",
+  "current_role": "Product Developer, StarTech.com, London ON (since Nov 2023); headline 'Product Developer at StarTech.com | PMP'",
+  "school_program": "Western University (2012 to 2016); Fanshawe College (2016 to 2019)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/yipengz"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKEDASQSW",
+  "slack_name": "Ashmita Haldar",
+  "real_name": "Ashmita Haldar",
+  "role": "Participant",
+  "school": "National University of Singapore, Computer Science + Entrepreneurship (currently in NUS Overseas College Toronto)",
+  "linkedin_url": "https://ca.linkedin.com/in/ashmita-haldar",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Software Engineer, NiaHealth (Toronto, via NUS Overseas College)",
+  "school_program": "National University of Singapore, Computer Science + Entrepreneurship (currently in NUS Overseas College Toronto)",
+  "personal_site": "https://ashmitahaldar.com",
+  "github": "https://github.com/ashmitahaldar",
+  "devpost": "https://devpost.com/software/road-diet",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/67264881?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   },
+   {
+    "source": "Devpost photo",
+    "url": "https://lh3.googleusercontent.com/a/ACg8ocLMBd9viXc6R0Uk6djyI3W6ZhnC1Mxx1s18WVXOaez5Lqg0QtA=s400-c?type=square",
+    "why": "Verifier: image is Ramus Hu's avatar from the likes list on devpost.com/software/road-diet, not Ashmita's"
+   }
+  ]
+ },
+ {
+  "id": "U0CJT362K6C",
+  "slack_name": "k2jhalan",
+  "real_name": "Krishnam Jhalani",
+  "role": "Participant",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://linkedin.com/in/krishnam-jhalani",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "AI Developer, UWaterloo Future Cities Institute (Sept-Dec 2026); Founder & CTO, What2Do",
+  "school_program": "Honours Computer Science, University of Waterloo",
+  "personal_site": "https://kj12354.github.io/",
+  "github": "https://github.com/kj12354",
+  "devpost": "",
+  "other_links": [
+   "https://fciprojects.ca/hackathons/2026-civic-hack/"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJHDTPT7D",
+  "slack_name": "sulaimanqazi14",
+  "real_name": "sulaimanqazi14",
+  "role": "Participant",
+  "school": "University of Waterloo, Computer Science",
+  "linkedin_url": "https://ca.linkedin.com/in/sulaimanq",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Waterloo CS student; WATonomous",
+  "school_program": "University of Waterloo, Computer Science",
+  "personal_site": "https://sulaimanq.com",
+  "github": "",
+  "devpost": "https://devpost.com/sulaimanqazi",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "Devpost photo",
+    "url": "https://avatars.githubusercontent.com/u/109396075?height=180&v=4&width=180",
+    "why": "not a person: animal"
+   },
+   {
+    "source": "Personal site",
+    "url": "https://sulaimanq.com/assets/img/og.jpg",
+    "why": "site screenshot, not a headshot"
+   }
+  ]
+ },
+ {
+  "id": "tf:galit-t",
+  "slack_name": null,
+  "real_name": "Galit Tauber",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "University of Waterloo, 2nd year",
+  "linkedin_url": "https://www.linkedin.com/in/galit-tauber",
+  "linkedin_fetch": "not tried",
+  "current_role": "Biomedical Engineering student",
+  "school_program": "University of Waterloo, Biomedical Engineering",
+  "personal_site": "",
+  "github": "https://github.com/galitau",
+  "devpost": "https://devpost.com/g3tauber",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:blaine-d",
+  "slack_name": null,
+  "real_name": "Blaine Dolson",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Conestoga College, 4th year",
+  "linkedin_url": "https://www.linkedin.com/in/blainedolson",
+  "linkedin_fetch": "not tried",
+  "current_role": "Student",
+  "school_program": "Conestoga College, fourth year",
+  "personal_site": "",
+  "github": "https://github.com/blain-e",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ }
+]

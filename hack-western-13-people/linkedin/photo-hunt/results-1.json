@@ -1,0 +1,182 @@
+[
+  {
+    "id": "U0CJ8RJ77LN",
+    "name": "Abby Wang",
+    "file": "photos-fallback/hunt-U0CJ8RJ77LN.jpg",
+    "source": "Personal site",
+    "source_url": "https://abbywang.netlify.app/3.png",
+    "page_url": "https://abbywang.netlify.app/about",
+    "evidence": "Photo from the 'journal' gallery on Abby's own portfolio (abbywang.netlify.app, listed in her record; the site lists her Summer 2026 Travelers Software Engineering internship, matching LinkedIn). The same woman appears in a selfie (6.png) in that gallery; the image is not captioned, so identity rests on it being her personal journal.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "U0CKGMZ20KS",
+    "name": "Baraka Waweru",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "GitHub barakaw-a: identicon avatar; only repo BlessingQTs has no images",
+      "No Devpost profile found",
+      "Web searches (name + Western, AfricaNenda, TutorMatch, Maths Scholars, Western Capital Markets) return only LinkedIn and unrelated Kenyan namesakes",
+      "Western Capital Markets about page does not list him",
+      "LinkedIn profile and /pub/dir pages return 999 to curl; no post URLs by him found"
+    ]
+  },
+  {
+    "id": "U0CJVM77UQK",
+    "name": "Daniel Manguply",
+    "file": "photos-fallback/hunt-U0CJVM77UQK.jpg",
+    "source": "Class page",
+    "source_url": "https://www.uwce.ca/person/daniel_manguply.png",
+    "page_url": "https://www.uwce.ca/class",
+    "evidence": "UWaterloo ECE '30 class profile entry 'Daniel Manguply' (Computer Engineering, from London ON) links to linkedin.com/in/daniel-manguply-baa81b242 and lists Discord 'mangdani282', the same handle as his GitHub; picture field is daniel_manguply.png.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "U0CFDTA0BR7",
+    "name": "Holia Zhang",
+    "file": "photos-fallback/hunt-U0CFDTA0BR7.jpg",
+    "source": "Hackathon page",
+    "source_url": "https://www.hackwestern.com/landing/meet-the-team/holia.webp",
+    "page_url": "https://www.hackwestern.com/",
+    "evidence": "Hack Western 13 'Meet the team' section labels this cutout 'Holia Zhang, Web Organizer', matching her Slack organizer role and LinkedIn (Web Organizer / Developer, Hack Western). Cropped from a full-body pose; her face is tilted upward and only partly visible.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "U0CFBV046JE",
+    "name": "Lucas Vanderwielen",
+    "file": "photos-fallback/hunt-U0CFBV046JE.jpg",
+    "source": "Hackathon page",
+    "source_url": "https://www.hackwestern.com/landing/meet-the-team/lucas.webp",
+    "page_url": "https://www.hackwestern.com/",
+    "evidence": "Hack Western 13 'Meet the team' section labels this cutout 'Lucas Vanderwielen, Web Organizer', matching his Slack organizer role and LinkedIn headline (Web Organizer, Hack Western 13). Cropped to head and shoulders from a full-body cutout.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "U0CKJ764M1S",
+    "name": "Oliver Barta",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "GitHub OliverBarta and Devpost avatars are identicons; repos contain only project images",
+      "Personal site oliverbarta.github.io has project screenshots only",
+      "Thomas Lenh's Pindex LinkedIn post: no actor/comment image for /in/oliverbarta",
+      "Searched for his own Pindex/Polymarket post URL; not indexed",
+      "Hack Club 'Holos' (caasion) belongs to Isaac Ng, not him",
+      "Other Oliver Barta photo hits (UofT/Mount St. Mary's soccer, Germany, Australia) are different people"
+    ]
+  },
+  {
+    "id": "U0CJ76B7WCE",
+    "name": "Taha El Ghadi",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "GitHub 2talltooha and Devpost avatars are the already-rejected anime image",
+      "Repos contain no personal photos",
+      "Hypixel forum profile is a game avatar",
+      "Searches for 'Taha El Ghadi', 'Taha Elghadi', Guelph return only LinkedIn/directory listings",
+      "LinkedIn profile pages return 999 to curl"
+    ]
+  },
+  {
+    "id": "U0CK5L9TAQ3",
+    "name": "Yipeng Zhang",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "LinkedIn /in/yipengz and /pub/dir return 999 to curl",
+      "theorg.com StarTech HQ page lists him with initials only (YZ) and is Cloudflare-blocked",
+      "Searched for his PMP / Fanshawe diploma posts; no post URLs indexed",
+      "yipeng-zhang-50732510b post is a different slug",
+      "Other 'Yipeng Zhang' sites (eBay researcher zyp5511, ECA grad, Nokia) are different people"
+    ]
+  },
+  {
+    "id": "U0CKEDASQSW",
+    "name": "Ashmita Haldar",
+    "file": "photos-fallback/hunt-U0CKEDASQSW.jpg",
+    "source": "University news",
+    "source_url": "https://hust.edu.vn/uploads/sys/news/2025_08/whatsapp-image-2025-08-06-at-16.59.11.jpeg",
+    "page_url": "https://hust.edu.vn/en/news/news/experiencing-hanoi-s-startup-ecosystem-with-a-nus-student-654042.html",
+    "evidence": "HUST news feature on Ashmita Haldar, an NUS student on the NUS Overseas Colleges program (matches her NUS CS + Entrepreneurship / NOC record); this solo photo is captioned 'Ashmita Haldar, a NUS student came to visit Hoi An Ancient Town.' Cropped to upper body.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "U0CJT362K6C",
+    "name": "Krishnam Jhalani",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "Devpost jhalanikrishnam avatar is a letter 'K'; GitHub kj12354 is an identicon",
+      "kj12354.github.io has only hero-garden.png; scanned all kj12354 repos for photos (none of him)",
+      "FCI Iqaluit/Nunavut article and FCI civic-hack page: landscape/sign photos only",
+      "FCI co-op feedback article photos show other students",
+      "JHU News-Letter What2Do article: no photo of him",
+      "No LinkedIn post URLs by him (Fluxion AI post) indexed; Ben Kroeker/What2Do leads gave no post URL"
+    ]
+  },
+  {
+    "id": "U0CJHDTPT7D",
+    "name": "Sulaiman Qazi",
+    "file": "photos-fallback/hunt-U0CJHDTPT7D.jpg",
+    "source": "LinkedIn post",
+    "source_url": "https://media.licdn.com/dms/image/v2/D5603AQEBiO-er5uZMw/profile-displayphoto-scale_400_400/B56aELuXM8IMAg-/0/1791198066546?e=2147483647&v=beta&t=CwSSlU9qysyO6-zQYpED3v5qQCG5US35on8Z37JgMNk",
+    "page_url": "https://www.linkedin.com/posts/prasunsharma08_sunnybrookresearchinstitute-focusedultrasound-activity-7498795173095735296-e98C",
+    "evidence": "LinkedIn profile photo shown on Sulaiman Qazi's public comment on Prasun Sharma's Sunnybrook post; the comment avatar links to ca.linkedin.com/in/sulaimanq (his matched slug), and the post thanks him by name as a fellow Sunnybrook intern, matching his site (sulaimanq.com).",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "tf:galit-t",
+    "name": "Galit Tauber",
+    "file": "photos-fallback/hunt-tf-galit-t.jpg",
+    "source": "Personal site",
+    "source_url": "https://galit-portfolio.vercel.app/assets/ProfilePic-BwiPdVUD.jpg",
+    "page_url": "https://galit-portfolio.vercel.app/",
+    "evidence": "ProfilePic.jpg from Galit's own portfolio (repo galitau/My-Portfolio); her GitHub profile README for galitau links this portfolio, linkedin.com/in/galit-tauber and a uwaterloo.ca email, and lists UWaterloo Biomedical Engineering.",
+    "status": "found",
+    "tried": []
+  },
+  {
+    "id": "tf:blaine-d",
+    "name": "Blaine Dolson",
+    "file": "",
+    "source": "",
+    "source_url": "",
+    "page_url": "",
+    "evidence": "",
+    "status": "not_found",
+    "tried": [
+      "GitHub blain-e and Devpost avatars are identicons",
+      "Repo blain-e/blaine about.html and logbook_blaine.html are bare stubs with no images; other repos (odysseus etc.) have only UI screenshots",
+      "Searches for 'Blaine Dolson' + Conestoga/Skyjack return only LinkedIn and an obituary listing",
+      "LinkedIn profile returns 999 to curl"
+    ]
+  }
+]

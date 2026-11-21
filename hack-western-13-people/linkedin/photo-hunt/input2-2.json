@@ -1,0 +1,284 @@
+[
+ {
+  "id": "U0CKG9SGRPD",
+  "slack_name": "Vijay M",
+  "real_name": "Vijay Maulkhan",
+  "role": "Sponsor rep",
+  "school": "Sun Life",
+  "linkedin_url": "https://www.linkedin.com/in/VijayMaulkhan",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Software Quality Engineer, Sun Life (from Slack profile); GitHub location Toronto, ON",
+  "school_program": "",
+  "personal_site": "",
+  "github": "https://github.com/VijayMaulkhan",
+  "devpost": "",
+  "other_links": [
+   "https://www.linkedin.com/in/VijayMaulkhan"
+  ],
+  "already_rejected": [],
+  "email": "vijay.maulkhan@gmail.com",
+  "headline": "Sun Life, Software Quality Engineer (from Slack title)",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub VijayMaulkhan (links /in/VijayMaulkhan) avatar is an identicon",
+   "Web search for Vijay Maulkhan + Sun Life / LinkedIn posts (nothing tied)",
+   "Commenter-avatar search on LinkedIn posts"
+  ]
+ },
+ {
+  "id": "U0CK5L9TAQ3",
+  "slack_name": "Yipeng Zhang",
+  "real_name": "Yipeng Zhang",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/yipengz",
+  "linkedin_fetch": "ok",
+  "current_role": "Product Developer, StarTech.com, London ON (since Nov 2023); headline 'Product Developer at StarTech.com | PMP'",
+  "school_program": "Western University (2012 to 2016); Fanshawe College (2016 to 2019)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/yipengz"
+  ],
+  "already_rejected": [],
+  "email": "me@yipeng.me",
+  "headline": "StarTech.com",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn /in/yipengz and /pub/dir return 999 to curl",
+   "theorg.com StarTech HQ page lists him with initials only (YZ) and is Cloudflare-blocked",
+   "Searched for his PMP / Fanshawe diploma posts; no post URLs indexed",
+   "yipeng-zhang-50732510b post is a different slug",
+   "Other 'Yipeng Zhang' sites (eBay researcher zyp5511, ECA grad, Nokia) are different people"
+  ]
+ },
+ {
+  "id": "U0CKGMZ20KS",
+  "slack_name": "Baraka Waweru",
+  "real_name": "Baraka Waweru",
+  "role": "Volunteer",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/baraka-waweru",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student Tutor, TutorMatch",
+  "school_program": "Western University, BSc Honours Specialization in Computer Science and Applied Mathematics",
+  "personal_site": "",
+  "github": "https://github.com/barakaw-a",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "bwaweru2@uwo.ca",
+  "headline": "CS & Applied Mathematics @ Western University",
+  "edu": "Western University, Computer Science and Applied Mathematics",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub barakaw-a: identicon avatar; only repo BlessingQTs has no images",
+   "No Devpost profile found",
+   "Web searches (name + Western, AfricaNenda, TutorMatch, Maths Scholars, Western Capital Markets) return only LinkedIn and unrelated Kenyan namesakes",
+   "Western Capital Markets about page does not list him",
+   "LinkedIn profile and /pub/dir pages return 999 to curl; no post URLs by him found"
+  ]
+ },
+ {
+  "id": "U0CLK8F0H3J",
+  "slack_name": "Abdullokh Tulkinov",
+  "real_name": "Abdullokh Tulkinov",
+  "role": "Participant",
+  "school": "Western University, Honours Specialization in Computer Science and Major in Philosophy",
+  "linkedin_url": "https://ca.linkedin.com/in/abdullokh-tulkinov",
+  "linkedin_fetch": "ok",
+  "current_role": "Student",
+  "school_program": "Western University, Honours Specialization in Computer Science and Major in Philosophy",
+  "personal_site": "https://abuu.ca/",
+  "github": "https://github.com/nemoabu",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/142187311?v=4",
+    "why": "not a person: animal"
+   }
+  ],
+  "email": "tabdullokh@gmail.com",
+  "headline": "Lamina Solutions",
+  "edu": "Western University",
+  "conf": "Confirmed",
+  "first_pass_tried": "GitHub nemoabu avatar (animal, already rejected); abuu.ca home (favicon only); abuu.ca/og/about images/me2.png (illustrated/anime-style portrait, not a photo, rejected); Devpost tabdullokh / Shared Bites avatar (cartoon cat sticker, rejected); probed abuu.ca image names; searches for Western Developers Society/Overhaul, Lamina Solutions"
+ },
+ {
+  "id": "U0CKA90R5K9",
+  "slack_name": "Mrida Hingmire",
+  "real_name": "Mrida Hingmire",
+  "role": "Participant",
+  "school": "Western University, Computer Science (third year)",
+  "linkedin_url": "https://ca.linkedin.com/in/mrida-hingmire-768427288",
+  "linkedin_fetch": "ok",
+  "current_role": "Student; LinkedIn lists Emirates (Dubai) experience",
+  "school_program": "Western University, Computer Science (third year)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "mridahingmire@gmail.com",
+  "headline": "Emirates",
+  "edu": "Western University",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "public LinkedIn SheHacks post: author avatar is ghost placeholder",
+   "post photo is a 4-person group shot with no positional caption (not cropped)",
+   "Devpost mridahingmire (no user photo)",
+   "GitHub mridahingmire (no avatar found)"
+  ]
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "slack_name": "Rishi B",
+  "real_name": "Rishi Bhaskara",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://www.linkedin.com/in/rishi-bhaskara",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Computer Science student, Western University",
+  "school_program": "Western University, B.Sc. Computer Science (site says he has a foundation in engineering; GitHub has Western ES1050 design-course code)",
+  "personal_site": "https://rishib.me/",
+  "github": "https://github.com/RBKesh",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "rbhaska2@uwo.ca",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "rishib.me (project images only)",
+   "Western CSUS site (older exec team, no Rishi)",
+   "other 'Rishi Bhaskara' search hits are a UK pharmacist (different person)",
+   "LinkedIn post search (only a teammate's group post)"
+  ]
+ },
+ {
+  "id": "U0CKH1FQSAE",
+  "slack_name": "Shane Marcelo",
+  "real_name": "Shane Marcelo",
+  "role": "Participant",
+  "school": "York University, BSc Honours Computer Science",
+  "linkedin_url": "https://ca.linkedin.com/in/shanemarcelo",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "York CS student; open to Summer 2027 internships",
+  "school_program": "York University, BSc Honours Computer Science",
+  "personal_site": "https://www.shanemarcelo.ca/",
+  "github": "https://github.com/Polarralop",
+  "devpost": "",
+  "other_links": [
+   "https://devpost.com/software/slab-schedule"
+  ],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/71986129?v=4",
+    "why": "not a person: painting, statue or artwork"
+   },
+   {
+    "source": "Personal site",
+    "url": "https://www.shanemarcelo.ca/images/about.gif",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ],
+  "email": "shanegabriel@hotmail.ca",
+  "headline": "Studying Computer Science @ York University",
+  "edu": "York University, Computer Science",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "shanemarcelo.ca home/about (album art and illustration only)",
+   "Devpost slab-schedule team card (same rejected GitHub avatar)",
+   "searches: York CS, Shane Gabriel Marcelo"
+  ]
+ },
+ {
+  "id": "U0CKJLHFL0Z",
+  "slack_name": "akha564",
+  "real_name": "Ayman Khan",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://linkedin.com/in/aymannkhann",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Software Developer Intern, Tribe",
+  "school_program": "Engineering, Western University",
+  "personal_site": "https://aymankhan.ca",
+  "github": "https://github.com/Aymannkhann",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "akha564@uwo.ca",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "aymankhan.ca (illustrated room, no headshot; checked Next.js image assets)",
+   "search for public LinkedIn posts (website-launch post found in profile text but no post URL surfaced)",
+   "ayman02khan.wixsite.com is a different Ayman Khan (SUTD Singapore)",
+   "TinyFish fetch quota exhausted"
+  ]
+ },
+ {
+  "id": "U0CHGLQHC07",
+  "slack_name": "Burhan",
+  "real_name": "Muhammad Burhan Tahir",
+  "role": "Participant",
+  "school": "BS Computer Science, FAST-NUCES (from his resume repo)",
+  "linkedin_url": "https://www.linkedin.com/in/mburhantahir",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Software/AI engineer (GitHub bio)",
+  "school_program": "BS Computer Science, FAST-NUCES (from his resume repo)",
+  "personal_site": "",
+  "github": "https://github.com/Burhan3737",
+  "devpost": "https://devpost.com/burhan3737",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "burhan123.mb@gmail.com",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "GitHub Resume repo profile-icon.jpg (generic default icon)",
+   "workshop decks and Vercel apps (no photo)",
+   "searched name + EyraTech/FAST-NUCES",
+   "Devpost burhan3737 (GitHub identicon)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CK3KPFDED",
+  "slack_name": "liangray.li0",
+  "real_name": "Liangray Li",
+  "role": "Participant",
+  "school": "Western University, Computer Science + Ivey AEO",
+  "linkedin_url": "https://ca.linkedin.com/in/liangray-li",
+  "linkedin_fetch": "ok",
+  "current_role": "Researcher, Ivey Business Review",
+  "school_program": "Western University, Computer Science + Ivey AEO",
+  "personal_site": "https://liangrayli.com",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "Liangray.li0@gmail.com",
+  "headline": "BrightSmart Technology",
+  "edu": "Western University",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "liangrayli.com (cat illustrations only)",
+   "Western Gazette recruiting article quotes him but has no photo of him",
+   "LinkedIn post search for /in/liangray-li (none found)",
+   "Candidate NOT used: youthcentral.com/yoda-finalists has a photo of a Calgary youth leader named Liangray Li (YODA 2025 Leadership award, Ignite Youth Club, ECSSEN). Plausibly the same person (rare name, timeline fits a Fall 2025 Western start) but no page ties it to Western, his site or /in/liangray-li: https://youthcentral.com/wp-content/uploads/2026/06/liangray-li.png"
+  ]
+ }
+]

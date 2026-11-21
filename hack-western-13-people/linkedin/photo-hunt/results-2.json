@@ -1,0 +1,134 @@
+[
+ {
+  "id": "U0CLK8F0H3J",
+  "name": "Abdullokh Tulkinov",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "GitHub nemoabu avatar (animal, already rejected); abuu.ca home (favicon only); abuu.ca/og/about images/me2.png (illustrated/anime-style portrait, not a photo, rejected); Devpost tabdullokh / Shared Bites avatar (cartoon cat sticker, rejected); probed abuu.ca image names; searches for Western Developers Society/Overhaul, Lamina Solutions"
+ },
+ {
+  "id": "U0CKVJBTV4L",
+  "name": "Besma Serrai",
+  "file": "photos-fallback/hunt-U0CKVJBTV4L.jpg",
+  "source": "Club project team page",
+  "source_url": "https://medicalimagingdiagnostics.com/Images/besma.jpg",
+  "page_url": "https://medicalimagingdiagnostics.com/",
+  "evidence": "Western Cyber Society's 'AI Medical Imaging Diagnostics' project site (footer: Copyright Western Cyber Society 2025) shows this photo captioned 'Besma Serrai'. The team (Millicent Song, Liam McQuay, Kevin Du...) matches her CUCAI 2025 paper co-authors, and her LinkedIn lists 'AI Software Developer at Western Cyber Society, Oct 2024 - May 2025'. Single clear face.",
+  "status": "found",
+  "tried": "Smart Steps Western exec page (old roster, not listed); CBC/Yahoo (video only); medicalimagingdiagnostics.com"
+ },
+ {
+  "id": "U0CKR957XUJ",
+  "name": "Dave Ticknor",
+  "file": "photos-fallback/hunt-U0CKR957XUJ.jpg",
+  "source": "Hack Western mentor page",
+  "source_url": "https://2024.hackwestern.com/images/mentors/dave_ticknor.webp",
+  "page_url": "https://2024.hackwestern.com/live?tab=mentors",
+  "evidence": "Hack Western 2024 live portal mentor entry {name:'Dave Ticknor', desc:'Senior IT Automation @ Canada Life', image:'/images/mentors/dave_ticknor.webp'} (from the site's live page bundle). Matches his LinkedIn (Senior IT Automation/DevOps Specialist, Canada Life) and his HW13 sponsor rep role. One person, clear face; cropped to upper body.",
+  "status": "found",
+  "tried": "ticknor.ca (logo only); 2024.hackwestern.com mentors bundle; also mirrored at archive.hackwestern.com/2024"
+ },
+ {
+  "id": "U0CKAU59802",
+  "name": "Jenny Jarvis",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "LinkedIn post shows default placeholder (per lead); Hack Western 2024 mentor bundle (Canada Life mentors listed, she is not); probed /images/mentors/jenny_jarvis.* on hackwestern.com, 2025/2024 and archive sites (none); searched Hack Western 12/13 site bundles; web searches return only same-name strangers (UK coach/COO, obituaries)"
+ },
+ {
+  "id": "U0CKL69FT3P",
+  "name": "May Au Yong",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "theorg.com person page (Vercel browser challenge via curl and r.jina.ai, no image reachable); theorg.netlify.app directory mirror (name only); probed Hack Western mentor image paths; searches for StarTech.com/London speaker or panel pages found nothing with a photo; Facebook result skipped (not allowed)"
+ },
+ {
+  "id": "U0CHRTLP2BF",
+  "name": "Parum Patel",
+  "file": "photos-fallback/hunt-U0CHRTLP2BF.jpg",
+  "source": "Luma profile",
+  "source_url": "https://images.lumacdn.com/avatars/il/f707b9a8-ef84-4fd9-ba13-fd00924aec14.png",
+  "page_url": "https://luma.com/user/parum",
+  "evidence": "Luma account named 'Parum Patel' (username parum). The same avatar appears as host of the 'ChatGPT Lab x Western AI' event (luma.com/g4sj9dl1, Ivey Business School, London), which matches his LinkedIn role (OpenAI ChatGPT Lab campus program at Western) and Ivey HBA program. A single clear headshot.",
+  "status": "found",
+  "tried": "luma.com/user/parum; luma.com/g4sj9dl1; edunewsletter.openai.com (name only, no photo)"
+ },
+ {
+  "id": "U0CHYNZC7J8",
+  "name": "Tygo Crawley",
+  "file": "photos-fallback/hunt-U0CHYNZC7J8.jpg",
+  "source": "Club team page",
+  "source_url": "https://www.weautopilot.com/assets/Tygo-NmnJUI07.webp",
+  "page_url": "https://www.weautopilot.com/team",
+  "evidence": "Western Engineering AutoPilot (WEAP, Western University) team page lists 'Tygo Crawley, Perception Co-Lead' with this photo (lead-tygo entry in the site bundle). His LinkedIn says SWE student at Western, WE AutoPilot Club, perception team. A single clear face; EXIF/GPS stripped on save.",
+  "status": "found",
+  "tried": "Devpost tcrawley11 (GitHub cartoon avatar, rejected); weautopilot.com/team"
+ },
+ {
+  "id": "U0CK5LRJGFK",
+  "name": "Chloe Zou",
+  "file": "photos-fallback/hunt-U0CK5LRJGFK.jpg",
+  "source": "Personal site",
+  "source_url": "https://framerusercontent.com/images/UPW692hfnOL2xBJMrDGM5c1cIk.jpg",
+  "page_url": "https://chloezou.framer.website/about",
+  "evidence": "Her portfolio (linked from LinkedIn /in/chloe-zou as 'Portfolio: chloezou.fram...') lists contact email 0610clo@gmail.com, matching Slack handle 0610clo and Devpost 0610clo, and says she is at Ivey after two years at Western. The About page photo gallery has no captions; this is its only formal solo portrait (blazer, Western campus background), and it matches the woman taking the selfies in the same gallery. Cropped to head and shoulders. LESS THAN CERTAIN: uncaptioned.",
+  "status": "found",
+  "tried": "Devpost 0610clo (logo avatar, rejected); chloezou.framer.website home and /about"
+ },
+ {
+  "id": "U0CJG1UAW30",
+  "name": "Eric Zeng",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "Devpost BleachFinny (default LinkedIn avatar, already rejected); ericzeng.ca (confirmed his site: Western BEng 2029, robotics; only robot/CAD images, no portrait); GitHub UwUltimatenub avatar (anime character, rejected); hackster.io/eric-zeng (no tie); alectrona9785.ca (Cloudflare 520); 11270.ca about page (unlabeled group shots only); same-name researcher Eric Zeng (ericwzeng.com, Georgetown) is a different person"
+ },
+ {
+  "id": "U0CLLJQ0QLQ",
+  "name": "Matias Rivas",
+  "file": "photos-fallback/hunt-U0CLLJQ0QLQ.jpg",
+  "source": "Hackathon organizer page",
+  "source_url": "https://summerhacks.ca/team-member-photos/matiasrivas.png",
+  "page_url": "https://summerhacks.ca/",
+  "evidence": "SummerHacks organizing team lists 'Matias Rivas, University of Waterloo' with this headshot. Our person (GitHub hiatus770, commits as 'Matias') says he studies computer engineering, forks WARG (Waterloo) bootcamps, and the original LinkedIn match already used the SummerHacks/Waterloo listing. A Waterloo ECE classmate's portfolio (chene0) also names a 'Matias Rivas' ECE 198 partner. LESS THAN CERTAIN: the tie is exact name plus Waterloo computer engineering; no page links hiatus770 to the SummerHacks photo directly. Upscaled from 208 px source.",
+  "status": "found",
+  "tried": "hiatus770 GitHub avatar (cartoon, rejected); portfolio.hiatus770.net (no portrait; history images 404); anchor-software.org (no names); summerhacks.ca"
+ },
+ {
+  "id": "U0CHFKE15DM",
+  "name": "Surya Tallapaneni",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "westernformularacing.org/meettheteam and its JS chunks (leads only, he is not listed); old westernformularacing.com team page (2020 roster); site.ieee.org/sb-uwo home and /the-team (no names/photos for him); searches for IEEE Western build team, UofTHacks; Instagram result skipped (not allowed)"
+ },
+ {
+  "id": "tf:jeffrey-s",
+  "name": "Jeffrey Song",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": "GitHub Tangeloz avatar (an orange, not a person); webots.org/team.html lists 'Jeffrey Song' as a WE Bots member but names only, no photos; searches for Western swimming/badminton rosters and robotics found only same-name strangers (US musicians, researchers)"
+ }
+]

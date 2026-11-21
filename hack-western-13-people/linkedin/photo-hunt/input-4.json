@@ -1,0 +1,234 @@
+[
+ {
+  "id": "U0CKMDV2WN9",
+  "slack_name": "Alex Sikora",
+  "real_name": "Alex Sikora",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/alex-sikora",
+  "linkedin_fetch": "ok",
+  "current_role": "Senior Product Developer, StarTech.com, London ON (since Apr 2024)",
+  "school_program": "Western University, Bachelor of Engineering Science (BESc)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/alex-sikora"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CK5U6MBCZ",
+  "slack_name": "clarestacheung",
+  "real_name": "Claresta Cheung",
+  "role": "Participant",
+  "school": "McMaster University, B.Eng. Electrical Engineering (3rd year)",
+  "linkedin_url": "https://www.linkedin.com/in/claresta-cheung-720887284",
+  "linkedin_fetch": "ok",
+  "current_role": "Seeking an engineering co-op (embedded systems)",
+  "school_program": "McMaster University, B.Eng. Electrical Engineering (3rd year)",
+  "personal_site": "https://clarestar-c.github.io/Portfolio/",
+  "github": "https://github.com/Clarestar-C",
+  "devpost": "https://devpost.com/clarestacheung",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/259418019?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   },
+   {
+    "source": "Devpost photo",
+    "url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/005/538/881/datas/profile.jpg",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ]
+ },
+ {
+  "id": "U0CK6C947UL",
+  "slack_name": "ericsuper8890",
+  "real_name": "Eric Song",
+  "role": "Participant",
+  "school": "Mathematics, University of Toronto",
+  "linkedin_url": "https://www.linkedin.com/in/ericyuchensong",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Student, University of Toronto",
+  "school_program": "Mathematics, University of Toronto",
+  "personal_site": "https://ericsong.tech",
+  "github": "https://github.com/ChardXBT",
+  "devpost": "https://devpost.com/chardxbt",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/204864596?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   },
+   {
+    "source": "Personal site",
+    "url": "https://ericsong.tech/assets/images/eric-song-og.jpg?v=20260913-1",
+    "why": "site screenshot, not a headshot"
+   }
+  ]
+ },
+ {
+  "id": "U0CK3KPFDED",
+  "slack_name": "liangray.li0",
+  "real_name": "Liangray Li",
+  "role": "Participant",
+  "school": "Western University, Computer Science + Ivey AEO",
+  "linkedin_url": "https://ca.linkedin.com/in/liangray-li",
+  "linkedin_fetch": "ok",
+  "current_role": "Researcher, Ivey Business Review",
+  "school_program": "Western University, Computer Science + Ivey AEO",
+  "personal_site": "https://liangrayli.com",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJLE5MX1V",
+  "slack_name": "Michael Glean",
+  "real_name": "Michael Glean",
+  "role": "Participant",
+  "school": "Western University, Computer Science",
+  "linkedin_url": "https://ca.linkedin.com/in/michaelglean",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Campus Ambassador, DoorDash; CS student",
+  "school_program": "Western University, Computer Science",
+  "personal_site": "",
+  "github": "https://github.com/GLeanM",
+  "devpost": "https://devpost.com/GLeanM",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKG1TLKMX",
+  "slack_name": "sdeitz",
+  "real_name": "sdeitz",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/samdeitz",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "trACT Software Inc.",
+  "school_program": "Western University, Computer Science",
+  "personal_site": "https://samdeitz.ca",
+  "github": "https://github.com/samdeitz",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/101956263?v=4",
+    "why": "person not identifiable: face hidden, turned away or too small"
+   }
+  ]
+ },
+ {
+  "id": "U0CKG9SGRPD",
+  "slack_name": "Vijay M",
+  "real_name": "Vijay Maulkhan",
+  "role": "Sponsor rep",
+  "school": "Sun Life",
+  "linkedin_url": "https://www.linkedin.com/in/VijayMaulkhan",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Software Quality Engineer, Sun Life (from Slack profile); GitHub location Toronto, ON",
+  "school_program": "",
+  "personal_site": "",
+  "github": "https://github.com/VijayMaulkhan",
+  "devpost": "",
+  "other_links": [
+   "https://www.linkedin.com/in/VijayMaulkhan"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CHXQH2NCW",
+  "slack_name": "Anastasiya Volgina",
+  "real_name": "Anastasiya Volgina",
+  "role": "Participant",
+  "school": "University of Waterloo, Computer Engineering (3A)",
+  "linkedin_url": "https://ca.linkedin.com/in/anastasiya-volgina",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Software Engineer Intern, Shopify (fall term); seeking Summer 2027 internships",
+  "school_program": "University of Waterloo, Computer Engineering (3A)",
+  "personal_site": "https://anastasiyavolgina.com/",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJGEY2RFD",
+  "slack_name": "jaclyn.guo12",
+  "real_name": "Jaclyn Guo",
+  "role": "Participant",
+  "school": "Western University, BSc Computer Science (Minor in Game Development)",
+  "linkedin_url": "https://ca.linkedin.com/in/jaclynguo",
+  "linkedin_fetch": "ok",
+  "current_role": "CS student at Western; Director of Events & Marketing, UofTHacks; Director of Esports & Marketing, Western Esports & Gaming Association (WEGA)",
+  "school_program": "Western University, BSc Computer Science (Minor in Game Development)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/jaclynguo"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKBE3PG23",
+  "slack_name": "Scarlett Ho",
+  "real_name": "Scarlett Ho",
+  "role": "Participant",
+  "school": "Western University, Computer Science (first year)",
+  "linkedin_url": "https://ca.linkedin.com/in/scarlett-ho-a44632397",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student; Ivey Research (Ivey Business School)",
+  "school_program": "Western University, Computer Science (first year)",
+  "personal_site": "",
+  "github": "https://github.com/scarlettho",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/159584626?v=4",
+    "why": "not a person: logo, pixel art, abstract or object"
+   }
+  ]
+ },
+ {
+  "id": "tf:riaa-s",
+  "slack_name": null,
+  "real_name": "Riaa Sehgal",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "3rd year",
+  "linkedin_url": "https://www.linkedin.com/in/riaa-sehgal",
+  "linkedin_fetch": "not tried",
+  "current_role": "Cyber Security Administrator at TDSB; CTF Lead Developer at ISSessions",
+  "school_program": "Sheridan College, Honours BSc Information Sciences (Cyber Security)",
+  "personal_site": "",
+  "github": "https://github.com/riaasehgal",
+  "devpost": "https://devpost.com/riaasehgal",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:michelle-d",
+  "slack_name": null,
+  "real_name": "Michelle Dominic",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://www.linkedin.com/in/michelle-dominic",
+  "linkedin_fetch": "not tried",
+  "current_role": "Computer Engineering student; Product Manager Intern at SAP",
+  "school_program": "University of Waterloo, BASc Computer Engineering",
+  "personal_site": "",
+  "github": "https://github.com/m76domi98",
+  "devpost": "https://devpost.com/michelle-m-dominic",
+  "other_links": [],
+  "already_rejected": []
+ }
+]

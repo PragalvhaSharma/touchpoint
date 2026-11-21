@@ -1,0 +1,274 @@
+[
+ {
+  "id": "U0CKJ8EDPPD",
+  "slack_name": "melinafathi3825",
+  "real_name": "Melina Fathidashtaki",
+  "role": "Participant",
+  "school": "Western University, Computer Science, 3rd year",
+  "linkedin_url": "https://ca.linkedin.com/in/melina-f-53372b20a",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "CS student; Student Ambassador and Event Organizer, Morrissette Institute for Entrepreneurship, Western (Oct 2025 to present)",
+  "school_program": "Western University, Computer Science, 3rd year",
+  "personal_site": "https://meellinaa.github.io/",
+  "github": "https://github.com/Meellinaa",
+  "devpost": "https://devpost.com/Meellinaa",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/76998702?v=4",
+    "why": "not a person: landscape, nature or cityscape"
+   },
+   {
+    "source": "Devpost photo",
+    "url": "https://avatars.githubusercontent.com/u/76998702?height=180&v=4&width=180",
+    "why": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+   }
+  ],
+  "email": "MELINAFATHI3825@GMAIL.COM",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "meellinaa.github.io (landscape backgrounds, no headshot)",
+   "GitHub profile README (SVG graphics only)",
+   "TD Scholarship recipient lists 2024/2025 (name not listed)",
+   "Morrissette Institute meet-the-team page (staff only)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CKJ764M1S",
+  "slack_name": "obarta",
+  "real_name": "Oliver Barta",
+  "role": "Participant",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://ca.linkedin.com/in/oliverbarta",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "SAP",
+  "school_program": "University of Waterloo, Systems Design Engineering",
+  "personal_site": "https://oliverbarta.github.io/oliverWebsite/",
+  "github": "https://github.com/OliverBarta",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "obarta@uwaterloo.ca",
+  "headline": "SAP | University of Waterloo",
+  "edu": "University of Waterloo",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub OliverBarta and Devpost avatars are identicons; repos contain only project images",
+   "Personal site oliverbarta.github.io has project screenshots only",
+   "Thomas Lenh's Pindex LinkedIn post: no actor/comment image for /in/oliverbarta",
+   "Searched for his own Pindex/Polymarket post URL; not indexed",
+   "Hack Club 'Holos' (caasion) belongs to Isaac Ng, not him",
+   "Other Oliver Barta photo hits (UofT/Mount St. Mary's soccer, Germany, Australia) are different people"
+  ]
+ },
+ {
+  "id": "U0CJ76B7WCE",
+  "slack_name": "tahaelghadi",
+  "real_name": "Taha El Ghadi",
+  "role": "Participant",
+  "school": "University of Guelph, B.Sc. (LinkedIn education lists Health Sciences; headline says Biological Science)",
+  "linkedin_url": "https://www.linkedin.com/in/taha-el-ghadi",
+  "linkedin_fetch": "ok",
+  "current_role": "Undergraduate student, University of Guelph",
+  "school_program": "University of Guelph, B.Sc. (LinkedIn education lists Health Sciences; headline says Biological Science)",
+  "personal_site": "",
+  "github": "https://github.com/2talltooha",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/280577560?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ],
+  "email": "tahaelghadi@gmail.com",
+  "headline": "University of Guelph",
+  "edu": "University of Guelph",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub 2talltooha and Devpost avatars are the already-rejected anime image",
+   "Repos contain no personal photos",
+   "Hypixel forum profile is a game avatar",
+   "Searches for 'Taha El Ghadi', 'Taha Elghadi', Guelph return only LinkedIn/directory listings",
+   "LinkedIn profile pages return 999 to curl"
+  ]
+ },
+ {
+  "id": "U0CJYDZ9YVB",
+  "slack_name": "wu1410",
+  "real_name": "Kenneth Wu",
+  "role": "Participant",
+  "school": "McMaster University",
+  "linkedin_url": "https://www.linkedin.com/in/kenneth-wu-6857a0396",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "First-year CS student, McMaster University",
+  "school_program": "Computer Science, McMaster University",
+  "personal_site": "https://kennethwu08.github.io",
+  "github": "https://github.com/kennethwu08",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "wu1410@mcmaster.ca",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "GitHub kennethwu08 avatar (identicon)",
+   "kennethwu08.github.io (project screenshots only)",
+   "searches: McMaster CS, kennethwu08"
+  ]
+ },
+ {
+  "id": "U0CHXQH2NCW",
+  "slack_name": "Anastasiya Volgina",
+  "real_name": "Anastasiya Volgina",
+  "role": "Participant",
+  "school": "University of Waterloo, Computer Engineering (3A)",
+  "linkedin_url": "https://ca.linkedin.com/in/anastasiya-volgina",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Software Engineer Intern, Shopify (fall term); seeking Summer 2027 internships",
+  "school_program": "University of Waterloo, Computer Engineering (3A)",
+  "personal_site": "https://anastasiyavolgina.com/",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "a.volgina4@gmail.com",
+  "headline": "Shopify",
+  "edu": "University of Waterloo, Computer Engineering",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "anastasiyavolgina.com bundle (logos, pixel characters, blog screenshots; no headshot)",
+   "Her own LinkedIn posts under /in/anastasiya-volgina return the LinkedIn sign-up wall to logged-out curl; embed URLs 404",
+   "Food Mamba, Matias Rivas and Jay Stapleton posts mention her by name only (no slug-linked avatar; group photos not captioned by position)",
+   "GitHub Anastasiya006 avatar is an identicon; Devpost Anastasiya006 has default avatar"
+  ]
+ },
+ {
+  "id": "U0CL614HQTA",
+  "slack_name": "Felix Hansen",
+  "real_name": "Felix Hansen",
+  "role": "Participant",
+  "school": "University of Toronto, Computer Science (and Math per LinkedIn)",
+  "linkedin_url": "https://linkedin.com/in/felix-hansen-81b1032a3",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student",
+  "school_program": "University of Toronto, Computer Science (and Math per LinkedIn)",
+  "personal_site": "",
+  "github": "https://github.com/felixghansen",
+  "devpost": "https://devpost.com/felixghansen",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "felixghansen@icloud.com",
+  "headline": "Computer Science and Math @ University of Toronto",
+  "edu": "University of Toronto, BS Computer Science",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "Devpost felixghansen (GitHub identicon)",
+   "GitHub repos/README (no site or photo)",
+   "name searches (only unrelated Felix Hansens)"
+  ]
+ },
+ {
+  "id": "U0CKBE3PG23",
+  "slack_name": "Scarlett Ho",
+  "real_name": "Scarlett Ho",
+  "role": "Participant",
+  "school": "Western University, Computer Science (first year)",
+  "linkedin_url": "https://ca.linkedin.com/in/scarlett-ho-a44632397",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student; Ivey Research (Ivey Business School)",
+  "school_program": "Western University, Computer Science (first year)",
+  "personal_site": "",
+  "github": "https://github.com/scarlettho",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/159584626?v=4",
+    "why": "not a person: logo, pixel art, abstract or object"
+   }
+  ],
+  "email": "sswho88@gmail.com",
+  "headline": "CS @ western",
+  "edu": "Western University, Computer Science (first year)",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "GitHub scarlettho (bio 'CS @ Western', links /in/scarlett-ho-a44632397) avatar is pixel art, already rejected",
+   "Full-name search 'Scarlett Anne Si Wing Ho' (no results)",
+   "LinkedIn post and commenter-avatar search (only a different Scarlett Ho, US founder)"
+  ]
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "slack_name": "Shawn X",
+  "real_name": "Shawn Xiong",
+  "role": "Participant",
+  "school": "University of Waterloo, BASc Computer Engineering (Co-op), started Sept 2026 (first year)",
+  "linkedin_url": "https://ca.linkedin.com/in/shawnxionggg",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student; Autonomy Subteam member, Waterloo Aerial Robotics Group (WARG), Sept 2026 to present",
+  "school_program": "University of Waterloo, BASc Computer Engineering (Co-op), started Sept 2026 (first year)",
+  "personal_site": "https://www.shawnxionggg.work/",
+  "github": "https://github.com/shawn-xionggg",
+  "devpost": "",
+  "other_links": [
+   "https://toneffx.vercel.app",
+   "https://devpost.com/software/giraffe-ncwyz1"
+  ],
+  "already_rejected": [],
+  "email": "juniorflybear@gmail.com",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "GitHub shawn-xionggg avatar (identicon)",
+   "shawnxionggg.work (only a dog photo)",
+   "Devpost giraffe team card (same identicon)",
+   "WARG site (no team photos)",
+   "searches: Waterloo CE, WARG"
+  ]
+ },
+ {
+  "id": "U0CHWA4DED8",
+  "slack_name": "andrew960713147",
+  "real_name": "Andrew Tu",
+  "role": "Participant",
+  "school": "Mathematics and Computer Science, University of Toronto",
+  "linkedin_url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Undergraduate AI Researcher, Data Sciences Institute, University of Toronto (SUDS Scholar)",
+  "school_program": "Mathematics and Computer Science, University of Toronto",
+  "personal_site": "",
+  "github": "https://github.com/Andrew-Tu225",
+  "devpost": "",
+  "other_links": [
+   "https://medium.com/@andrew960713147",
+   "https://andrew-tu225.github.io/resume/Andrew_Tu_Resume.pdf"
+  ],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/190233794?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ],
+  "email": "andrew960713147@gmail.com",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "Medium avatar via RSS (cartoon dog)",
+   "DSI SUDS project/scholars pages (403 to curl; connector view text only)",
+   "andrew-tu225.github.io (404)",
+   "image search (UTMIST SUDS group posts, no named individual)"
+  ]
+ }
+]

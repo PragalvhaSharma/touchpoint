@@ -1,0 +1,216 @@
+[
+ {
+  "id": "U0CJG1UAW30",
+  "slack_name": "ericzeng210",
+  "real_name": "Eric Zeng",
+  "role": "Participant",
+  "school": "Engineering, Western University",
+  "linkedin_url": "https://linkedin.com/in/eric-zeng07",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Researcher, Hong Kong Polytechnic; Robotics Coordinator, CSAA Future",
+  "school_program": "Engineering, Western University",
+  "personal_site": "",
+  "github": "",
+  "devpost": "https://devpost.com/BleachFinny",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "Devpost photo",
+    "url": "https://media.licdn.com/mpr/mprx/0_fC9_gwtyj6hq-6n0a8CGKMQgJ-Gv-no_dQ2DROYgpPYq-6I0_CC_xgPyxhjeqBJPQ1a_varpv5PNl-Mi8A1xvxArr5Pzl-71iA18YYXjRkQMUXN7785aOoo2KrWL4-4GEtB7J8eVIsK?height=180&width=180",
+    "why": "default avatar (letter, silhouette, blank or solid colour)"
+   }
+  ],
+  "email": "ericzeng210@gmail.com",
+  "conf": "Likely",
+  "first_pass_tried": "Devpost BleachFinny (default LinkedIn avatar, already rejected); ericzeng.ca (confirmed his site: Western BEng 2029, robotics; only robot/CAD images, no portrait); GitHub UwUltimatenub avatar (anime character, rejected); hackster.io/eric-zeng (no tie); alectrona9785.ca (Cloudflare 520); 11270.ca about page (unlabeled group shots only); same-name researcher Eric Zeng (ericwzeng.com, Georgetown) is a different person"
+ },
+ {
+  "id": "U0CJGEY2RFD",
+  "slack_name": "jaclyn.guo12",
+  "real_name": "Jaclyn Guo",
+  "role": "Participant",
+  "school": "Western University, BSc Computer Science (Minor in Game Development)",
+  "linkedin_url": "https://ca.linkedin.com/in/jaclynguo",
+  "linkedin_fetch": "ok",
+  "current_role": "CS student at Western; Director of Events & Marketing, UofTHacks; Director of Esports & Marketing, Western Esports & Gaming Association (WEGA)",
+  "school_program": "Western University, BSc Computer Science (Minor in Game Development)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/jaclynguo"
+  ],
+  "already_rejected": [],
+  "email": "jaclyn.guo12@gmail.com",
+  "headline": "Ontario Government | Gouvernement de l’Ontario",
+  "edu": "Western University",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "UofTHacks site (no team page; /team 404), UofT Engineering and UofTWorld club pages list her name without photos",
+   "WEGA LinkedIn company page blocked (Cloudflare 403)",
+   "LinkedIn post and commenter-avatar search for /in/jaclynguo (none found)",
+   "abcsofchinese.com 'Jaclyn Guo' (2014 translator) is a different person, not used"
+  ]
+ },
+ {
+  "id": "U0CJ5C3JUH0",
+  "slack_name": "jiamingchennn",
+  "real_name": "Jiaming Chen",
+  "role": "Participant",
+  "school": "Software Engineering, Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/jiamingchen01",
+  "linkedin_fetch": "ok",
+  "current_role": "Software Engineering student, Western University",
+  "school_program": "Software Engineering, Western University",
+  "personal_site": "",
+  "github": "https://github.com/JadedOut",
+  "devpost": "https://devpost.com/JadedOut",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "jiamingchennn@gmail.com",
+  "edu": "Western University",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "LinkedIn profile (999)",
+   "GitHub JadedOut avatar (identicon)",
+   "Devpost JadedOut photo (abstract artwork)",
+   "searches: Western SE Jiaming Chen (only other same-name people)"
+  ]
+ },
+ {
+  "id": "U0CJT362K6C",
+  "slack_name": "k2jhalan",
+  "real_name": "Krishnam Jhalani",
+  "role": "Participant",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://linkedin.com/in/krishnam-jhalani",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "AI Developer, UWaterloo Future Cities Institute (Sept-Dec 2026); Founder & CTO, What2Do",
+  "school_program": "Honours Computer Science, University of Waterloo",
+  "personal_site": "https://kj12354.github.io/",
+  "github": "https://github.com/kj12354",
+  "devpost": "",
+  "other_links": [
+   "https://fciprojects.ca/hackathons/2026-civic-hack/"
+  ],
+  "already_rejected": [],
+  "email": "k2jhalan@uwaterloo.ca",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "Devpost jhalanikrishnam avatar is a letter 'K'; GitHub kj12354 is an identicon",
+   "kj12354.github.io has only hero-garden.png; scanned all kj12354 repos for photos (none of him)",
+   "FCI Iqaluit/Nunavut article and FCI civic-hack page: landscape/sign photos only",
+   "FCI co-op feedback article photos show other students",
+   "JHU News-Letter What2Do article: no photo of him",
+   "No LinkedIn post URLs by him (Fluxion AI post) indexed; Ben Kroeker/What2Do leads gave no post URL"
+  ]
+ },
+ {
+  "id": "U0CKE4JC25N",
+  "slack_name": "ryanyuanyrf",
+  "real_name": "Ryan Yuan",
+  "role": "Participant",
+  "school": "",
+  "linkedin_url": "https://www.linkedin.com/in/ryan-yuan-517868416",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "",
+  "school_program": "",
+  "personal_site": "",
+  "github": "https://github.com/RyanY158",
+  "devpost": "https://devpost.com/ryany158",
+  "other_links": [
+   "https://northstar-city-link.base44.app/"
+  ],
+  "already_rejected": [],
+  "email": "ryanyuanyrf@gmail.com",
+  "conf": "Likely",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "Devpost ryany158 (GitHub identicon)",
+   "GitHub repos (no site or photo)",
+   "name searches (hits are other Ryan Yuans, e.g. ryan11yuan, ryanyuan11)"
+  ]
+ },
+ {
+  "id": "U0CHFKE15DM",
+  "slack_name": "tallapaneni.surya",
+  "real_name": "Surya Tallapaneni",
+  "role": "Participant",
+  "school": "Western University, Electrical and Computer Engineering (second year)",
+  "linkedin_url": "https://ca.linkedin.com/in/surya-tallapaneni",
+  "linkedin_fetch": "ok",
+  "current_role": "Western Formula Racing",
+  "school_program": "Western University, Electrical and Computer Engineering (second year)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "tallapaneni.surya@gmail.com",
+  "headline": "IEEE Western Student Branch",
+  "edu": "Western University",
+  "conf": "Likely",
+  "first_pass_tried": "westernformularacing.org/meettheteam and its JS chunks (leads only, he is not listed); old westernformularacing.com team page (2020 roster); site.ieee.org/sb-uwo home and /the-team (no names/photos for him); searches for IEEE Western build team, UofTHacks; Instagram result skipped (not allowed)"
+ },
+ {
+  "id": "tf:jeffrey-s",
+  "slack_name": null,
+  "real_name": "Jeffrey Song",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Western University",
+  "linkedin_url": "https://www.linkedin.com/in/jeffrey-song-ba21b82aa",
+  "linkedin_fetch": "not tried",
+  "current_role": "Student",
+  "school_program": "Western University",
+  "personal_site": "",
+  "github": "https://github.com/Tangeloz",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "first_pass_tried": "GitHub Tangeloz avatar (an orange, not a person); webots.org/team.html lists 'Jeffrey Song' as a WE Bots member but names only, no photos; searches for Western swimming/badminton rosters and robotics found only same-name strangers (US musicians, researchers)"
+ },
+ {
+  "id": "tf:blaine-d",
+  "slack_name": null,
+  "real_name": "Blaine Dolson",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Conestoga College, 4th year",
+  "linkedin_url": "https://www.linkedin.com/in/blainedolson",
+  "linkedin_fetch": "not tried",
+  "current_role": "Student",
+  "school_program": "Conestoga College, fourth year",
+  "personal_site": "",
+  "github": "https://github.com/blain-e",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "first_pass_tried": [
+   "GitHub blain-e and Devpost avatars are identicons",
+   "Repo blain-e/blaine about.html and logbook_blaine.html are bare stubs with no images; other repos (odysseus etc.) have only UI screenshots",
+   "Searches for 'Blaine Dolson' + Conestoga/Skyjack return only LinkedIn and an obituary listing",
+   "LinkedIn profile returns 999 to curl"
+  ]
+ },
+ {
+  "id": "tf:alexander-s",
+  "slack_name": null,
+  "real_name": "Alexander Stojanov",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/alexander-stojanov-12078935a",
+  "linkedin_fetch": "not tried",
+  "current_role": "Science student, Western University",
+  "school_program": "Western University, Science (first year, inferred from high-school dates)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "searches: Western, Calgary/Churchill (only an unrelated Bulgarian artist and NHL player)"
+  ]
+ }
+]

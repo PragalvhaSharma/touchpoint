@@ -1,0 +1,127 @@
+[
+ {
+  "id": "U0CJG1UAW30",
+  "name": "Eric Zeng",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers",
+   "web_search: only other Eric Zengs (UW/Georgetown security researcher, UVA robotics, UW surgery resident), rejected"
+  ]
+ },
+ {
+  "id": "U0CJGEY2RFD",
+  "name": "Jaclyn Guo",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers",
+   "Lead to check: Arsh Kadakia LinkedIn post thanking 'Jaclyn Guo and the UofTHacks team' (UofTHacks 2023)",
+   "Lead to check: Fiona Xu (fiona-xu06) post naming her on a winning team",
+   "web_search: no WEGA/Western page with photo"
+  ]
+ },
+ {
+  "id": "U0CJ5C3JUH0",
+  "name": "Jiaming Chen",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers"
+  ]
+ },
+ {
+  "id": "U0CJT362K6C",
+  "name": "Krishnam Jhalani",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers",
+   "web_search confirmed kj12354.github.io (Waterloo CS, What2Do, Fluxion AI, WATurbine) but no portrait",
+   "Lead to check: rocketreach.co/krishnam-jhalani-email_856444844, zoominfo.com/p/Krishnam-Jhalani/14668438473"
+  ]
+ },
+ {
+  "id": "U0CKE4JC25N",
+  "name": "Ryan Yuan",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers",
+   "Bing: facebook.com/kodecoon photo post 'Tristan Ling and Ryan Yuan' (no tie to this Ryan Yuan yet)",
+   "rocketreach.co/ryan-yuan-email_769432929 (likely a different Ryan Yuan)"
+  ]
+ },
+ {
+  "id": "U0CHFKE15DM",
+  "name": "Surya Tallapaneni",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers"
+  ]
+ },
+ {
+  "id": "tf:jeffrey-s",
+  "name": "Jeffrey Song",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers"
+  ]
+ },
+ {
+  "id": "tf:blaine-d",
+  "name": "Blaine Dolson",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers"
+  ]
+ },
+ {
+  "id": "tf:alexander-s",
+  "name": "Alexander Stojanov",
+  "status": "not_found",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "tried": [
+   "Bing image index (3 queries: name+linkedin, name+slug, name+school): no media.licdn.com image whose page is the exact slug; all surname hits were same-name strangers"
+  ]
+ }
+]

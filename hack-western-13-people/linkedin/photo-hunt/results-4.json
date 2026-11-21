@@ -1,0 +1,169 @@
+[
+ {
+  "id": "U0CKMDV2WN9",
+  "name": "Alex Sikora",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "Logged-out LinkedIn profile fetch (429/999; TinyFish fetch quota exhausted)",
+   "Search for public LinkedIn posts by /in/alex-sikora (only a different Alex Sikora, alexander-sikora-asu)",
+   "StarTech.com site and press pages (no staff photos)",
+   "GitHub alexsikora and Bluesky alexsikora are a different person (US iOS engineer since 2010), not used",
+   "Commenter-avatar search on LinkedIn posts"
+  ]
+ },
+ {
+  "id": "U0CK5U6MBCZ",
+  "name": "Claresta Cheung",
+  "file": "photos-fallback/hunt-U0CK5U6MBCZ.jpg",
+  "source": "Personal site",
+  "source_url": "https://clarestar-c.github.io/Portfolio/pfp.jpeg",
+  "page_url": "https://clarestar-c.github.io/Portfolio/",
+  "evidence": "Hero headshot on her own portfolio (the personal_site in the input, hosted under her GitHub Clarestar-C), whose hero card reads 'Claresta Cheung' and describes an electrical engineering portfolio. Single clear face.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CK6C947UL",
+  "name": "Eric Song",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "ericsong.tech (only an OG site screenshot, already rejected; no headshot in page)",
+   "YouTube @Qlob linked from his site: avatar is a 'Q' logo",
+   "erics.tech redirects to ericsongwrite.wordpress.com (no author photo)",
+   "GitHub ChardXBT and Devpost chardxbt avatars are cartoons/defaults",
+   "LinkedIn post search for /in/ericyuchensong (none found)"
+  ]
+ },
+ {
+  "id": "U0CK3KPFDED",
+  "name": "Liangray Li",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "liangrayli.com (cat illustrations only)",
+   "Western Gazette recruiting article quotes him but has no photo of him",
+   "LinkedIn post search for /in/liangray-li (none found)",
+   "Candidate NOT used: youthcentral.com/yoda-finalists has a photo of a Calgary youth leader named Liangray Li (YODA 2025 Leadership award, Ignite Youth Club, ECSSEN). Plausibly the same person (rare name, timeline fits a Fall 2025 Western start) but no page ties it to Western, his site or /in/liangray-li: https://youthcentral.com/wp-content/uploads/2026/06/liangray-li.png"
+  ]
+ },
+ {
+  "id": "U0CJLE5MX1V",
+  "name": "Michael Glean",
+  "file": "photos-fallback/hunt-U0CJLE5MX1V.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D5603AQHqkEk8qf348A/profile-displayphoto-scale_400_400/B56Z9PU3clHIAg-/0/1783742298494?e=2147483647&v=beta&t=liknEzMMKPMH15wIF4anMBTdoaSEiKH2-L0EzYYJkh4",
+  "page_url": "https://www.linkedin.com/posts/michael-glean-73a79b262_as-some-of-you-know-last-summer-i-had-the-activity-7333960343318118400-EPgR",
+  "evidence": "Author photo on two of his public posts (Uber internship posts); the author 'View profile for Michael Glean' link points to ca.linkedin.com/in/michaelglean, his input slug, and the post matches his Prev @ Uber headline.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKG1TLKMX",
+  "name": "sdeitz",
+  "file": "photos-fallback/hunt-U0CKG1TLKMX.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D5603AQE_k6dDvy6ZeA/profile-displayphoto-scale_400_400/B56aESyT.OHUAg-/0/1791316543869?e=2147483647&v=beta&t=wQ1I0U3nOr9w2NskgcqD65zezKwWf_YjF-T3hxVwdOk",
+  "page_url": "https://www.linkedin.com/posts/tareq-kurdiah_ai-machinelearning-hackathon-activity-7441585064313950208-2msF",
+  "evidence": "Comment avatar of 'Sam Deitz' (headline 'Computer Science student @ Western University') on a public LinkedIn post; the avatar and name link to ca.linkedin.com/in/samdeitz, his input slug. Same young man appears in the TSI team and graduation photos on his own site samdeitz.ca.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKG9SGRPD",
+  "name": "Vijay Maulkhan",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub VijayMaulkhan (links /in/VijayMaulkhan) avatar is an identicon",
+   "Web search for Vijay Maulkhan + Sun Life / LinkedIn posts (nothing tied)",
+   "Commenter-avatar search on LinkedIn posts"
+  ]
+ },
+ {
+  "id": "U0CHXQH2NCW",
+  "name": "Anastasiya Volgina",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "anastasiyavolgina.com bundle (logos, pixel characters, blog screenshots; no headshot)",
+   "Her own LinkedIn posts under /in/anastasiya-volgina return the LinkedIn sign-up wall to logged-out curl; embed URLs 404",
+   "Food Mamba, Matias Rivas and Jay Stapleton posts mention her by name only (no slug-linked avatar; group photos not captioned by position)",
+   "GitHub Anastasiya006 avatar is an identicon; Devpost Anastasiya006 has default avatar"
+  ]
+ },
+ {
+  "id": "U0CJGEY2RFD",
+  "name": "Jaclyn Guo",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "UofTHacks site (no team page; /team 404), UofT Engineering and UofTWorld club pages list her name without photos",
+   "WEGA LinkedIn company page blocked (Cloudflare 403)",
+   "LinkedIn post and commenter-avatar search for /in/jaclynguo (none found)",
+   "abcsofchinese.com 'Jaclyn Guo' (2014 translator) is a different person, not used"
+  ]
+ },
+ {
+  "id": "U0CKBE3PG23",
+  "name": "Scarlett Ho",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub scarlettho (bio 'CS @ Western', links /in/scarlett-ho-a44632397) avatar is pixel art, already rejected",
+   "Full-name search 'Scarlett Anne Si Wing Ho' (no results)",
+   "LinkedIn post and commenter-avatar search (only a different Scarlett Ho, US founder)"
+  ]
+ },
+ {
+  "id": "tf:riaa-s",
+  "name": "Riaa Sehgal",
+  "file": "photos-fallback/hunt-tf-riaa-s.jpg",
+  "source": "LinkedIn post",
+  "source_url": "https://media.licdn.com/dms/image/v2/D4E03AQEJzmdhN3s1Vw/profile-displayphoto-scale_400_400/B4EZxQ7hmvJYAk-/0/1770884310920?e=2147483647&v=beta&t=Ef3X0mgCobAF5edhDVJbtvaX8p752ijRBnx_4kjFG1U",
+  "page_url": "https://www.linkedin.com/posts/riaa-sehgal_issessionsctf2026-ctf-activity-7431565389622468608-ZdQ_",
+  "evidence": "Author photo on her public ISSessions CTF post; the author link is ca.linkedin.com/in/riaa-sehgal (her input slug). The same woman appears as 'Riaa Sehgal, Tech Team Member' on the Sheridan TechBiz/GDG case competition team page.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "tf:michelle-d",
+  "name": "Michelle Dominic",
+  "file": "photos-fallback/hunt-tf-michelle-d.jpg",
+  "source": "GitHub avatar",
+  "source_url": "https://avatars.githubusercontent.com/u/138259787?v=4",
+  "page_url": "https://github.com/m76domi98",
+  "evidence": "Avatar of GitHub m76domi98, the GitHub listed for her in the input; the profile page title is 'm76domi98 (Michelle Dominic)'. Single clear face.",
+  "status": "found",
+  "tried": []
+ }
+]

@@ -1,0 +1,180 @@
+[
+ {
+  "id": "U0CL67M748G",
+  "name": "Amira Antoun",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (999/429 logged out)",
+   "public LinkedIn post and StarTech job pages: her avatar renders as ghost placeholder (photo not public)",
+   "web/connector searches: ZoomInfo/RocketReach only (data brokers, skipped)",
+   "image search"
+  ]
+ },
+ {
+  "id": "U0CHQ8U798X",
+  "name": "Collin Sobowale",
+  "file": "photos-fallback/hunt-U0CHQ8U798X.jpg",
+  "source": "Club team page",
+  "source_url": "https://iveyproductsociety.com/Headshots2024/Collin%20Sobowale.png",
+  "page_url": "https://iveyproductsociety.com/",
+  "evidence": "Ivey Product Society team page shows a headshot captioned \"Collin Sobowale, Director Fellowship\" whose card links to linkedin.com/in/collinsbwle, the matched slug; he is an Ivey HBA student per the input.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKFPTL57E",
+  "name": "George Shao",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "web/connector searches (only LinkedIn dir and aggregators)",
+   "image search found an unrelated George Shao on X (@george_), rejected as same-name stranger"
+  ]
+ },
+ {
+  "id": "U0CJ04H4PNG",
+  "name": "Lina Hout",
+  "file": "photos-fallback/hunt-U0CJ04H4PNG.jpg",
+  "source": "Scholarship profile",
+  "source_url": "https://schulichleaders.com/wp-content/uploads/2026/06/Western-Lina-Hout-1024x1024.png",
+  "page_url": "https://schulichleaders.com/scholars/lina-hout/",
+  "evidence": "Official Schulich Leaders scholar page for Lina Hout (2026 Schulich Leader, Western University, Westminster SS), linked from Western Registrar; her LinkedIn lists the Schulich Leader Scholarship and Western math. Same face as the right panel of the CBC London story captioning her.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKA90R5K9",
+  "name": "Mrida Hingmire",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "public LinkedIn SheHacks post: author avatar is ghost placeholder",
+   "post photo is a 4-person group shot with no positional caption (not cropped)",
+   "Devpost mridahingmire (no user photo)",
+   "GitHub mridahingmire (no avatar found)"
+  ]
+ },
+ {
+  "id": "U0CKH1FQSAE",
+  "name": "Shane Marcelo",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "shanemarcelo.ca home/about (album art and illustration only)",
+   "Devpost slab-schedule team card (same rejected GitHub avatar)",
+   "searches: York CS, Shane Gabriel Marcelo"
+  ]
+ },
+ {
+  "id": "U0CJYDZ9YVB",
+  "name": "Kenneth Wu",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "GitHub kennethwu08 avatar (identicon)",
+   "kennethwu08.github.io (project screenshots only)",
+   "searches: McMaster CS, kennethwu08"
+  ]
+ },
+ {
+  "id": "U0CHWA4DED8",
+  "name": "Andrew Tu",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "Medium avatar via RSS (cartoon dog)",
+   "DSI SUDS project/scholars pages (403 to curl; connector view text only)",
+   "andrew-tu225.github.io (404)",
+   "image search (UTMIST SUDS group posts, no named individual)"
+  ]
+ },
+ {
+  "id": "U0CJ5C3JUH0",
+  "name": "Jiaming Chen",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (999)",
+   "GitHub JadedOut avatar (identicon)",
+   "Devpost JadedOut photo (abstract artwork)",
+   "searches: Western SE Jiaming Chen (only other same-name people)"
+  ]
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "name": "Shawn Xiong",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "GitHub shawn-xionggg avatar (identicon)",
+   "shawnxionggg.work (only a dog photo)",
+   "Devpost giraffe team card (same identicon)",
+   "WARG site (no team photos)",
+   "searches: Waterloo CE, WARG"
+  ]
+ },
+ {
+  "id": "tf:alexander-s",
+  "name": "Alexander Stojanov",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "LinkedIn profile (429)",
+   "searches: Western, Calgary/Churchill (only an unrelated Bulgarian artist and NHL player)"
+  ]
+ },
+ {
+  "id": "tf:ryushen-t",
+  "name": "Ryushen Tan",
+  "file": "photos-fallback/hunt-tf-ryushen-t.jpg",
+  "source": "Personal site",
+  "source_url": "https://www.ryushen.com/images/timeline/1788158324565-smiling.jpg",
+  "page_url": "https://www.ryushen.com/",
+  "evidence": "Solo portrait from the 2024 hackathon timeline on Ryushen Tan's own site (ryushen.com, linked from github.com/ryushen-tan and his LinkedIn). Same person as the site's self-labeled \"me_pj.jpg\" photo and the selfie-taker in his public LinkedIn Hack the North 2024 win post; cropped to the face. Identity rests on face match to the self-labeled photo, not a caption.",
+  "status": "found",
+  "tried": []
+ }
+]

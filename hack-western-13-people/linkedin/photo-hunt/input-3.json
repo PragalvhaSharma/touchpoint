@@ -1,0 +1,226 @@
+[
+ {
+  "id": "U0CKJLHFL0Z",
+  "slack_name": "akha564",
+  "real_name": "Ayman Khan",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://linkedin.com/in/aymannkhann",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Software Developer Intern, Tribe",
+  "school_program": "Engineering, Western University",
+  "personal_site": "https://aymankhan.ca",
+  "github": "https://github.com/Aymannkhann",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CHGLQHC07",
+  "slack_name": "Burhan",
+  "real_name": "Muhammad Burhan Tahir",
+  "role": "Participant",
+  "school": "BS Computer Science, FAST-NUCES (from his resume repo)",
+  "linkedin_url": "https://www.linkedin.com/in/mburhantahir",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Software/AI engineer (GitHub bio)",
+  "school_program": "BS Computer Science, FAST-NUCES (from his resume repo)",
+  "personal_site": "",
+  "github": "https://github.com/Burhan3737",
+  "devpost": "https://devpost.com/burhan3737",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJNUJTBB2",
+  "slack_name": "Eric F.",
+  "real_name": "Eric Fu",
+  "role": "Participant",
+  "school": "McMaster University",
+  "linkedin_url": "https://ca.linkedin.com/in/eric-fu-3020112a5",
+  "linkedin_fetch": "ok",
+  "current_role": "iGEM McMaster member; Payload Hardware Specialist, McMaster Space Team / MSTRI CubeSat",
+  "school_program": "McMaster University (2025-2029; Health Sciences per MSTRI team page)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://mstri.ca/team-1"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKVJ0LAPK",
+  "slack_name": "Jerry",
+  "real_name": "Jerry Jiang",
+  "role": "Participant",
+  "school": "Unrepped",
+  "linkedin_url": "https://linkedin.com/in/jerrymjiang",
+  "linkedin_fetch": "ok",
+  "current_role": "Founder & CEO, Unrepped (AI-powered home-buying guide), since Nov 2024",
+  "school_program": "",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://unrepped.co",
+   "https://aitinkerers.org/connect/client/client_2hvSRdq6G5Y",
+   "https://sites.libsyn.com/490457/ai-agents-for-internal-workflows-with-jerry-jiang-of-unrepped",
+   "https://www.youtube.com/watch?v=r7pt810t7KQ",
+   "https://contra.com/jerry_jiang/about"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKJ8EDPPD",
+  "slack_name": "melinafathi3825",
+  "real_name": "Melina Fathidashtaki",
+  "role": "Participant",
+  "school": "Western University, Computer Science, 3rd year",
+  "linkedin_url": "https://ca.linkedin.com/in/melina-f-53372b20a",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "CS student; Student Ambassador and Event Organizer, Morrissette Institute for Entrepreneurship, Western (Oct 2025 to present)",
+  "school_program": "Western University, Computer Science, 3rd year",
+  "personal_site": "https://meellinaa.github.io/",
+  "github": "https://github.com/Meellinaa",
+  "devpost": "https://devpost.com/Meellinaa",
+  "other_links": [],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/76998702?v=4",
+    "why": "not a person: landscape, nature or cityscape"
+   },
+   {
+    "source": "Devpost photo",
+    "url": "https://avatars.githubusercontent.com/u/76998702?height=180&v=4&width=180",
+    "why": "same image as an already rejected one (GitHub avatar reused on Devpost)"
+   }
+  ]
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "slack_name": "Rishi B",
+  "real_name": "Rishi Bhaskara",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://www.linkedin.com/in/rishi-bhaskara",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Computer Science student, Western University",
+  "school_program": "Western University, B.Sc. Computer Science (site says he has a foundation in engineering; GitHub has Western ES1050 design-course code)",
+  "personal_site": "https://rishib.me/",
+  "github": "https://github.com/RBKesh",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKPG30EPQ",
+  "slack_name": "Veronica Zhao",
+  "real_name": "Veronica Zhao",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/veronica-zhao",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Data Analyst, StarTech.com (since Sept 2024)",
+  "school_program": "Ivey Business School HBA (2021); MESc Software Engineering (Specialization in AI), Western University (2021-23)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://glo.iiba.org/page/support-team"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CHSV19T6H",
+  "slack_name": "a2baid",
+  "real_name": "Anay Baid (second account)",
+  "role": "Participant",
+  "school": "University of Waterloo",
+  "linkedin_url": "https://ca.linkedin.com/in/anaybaid",
+  "linkedin_fetch": "ok",
+  "current_role": "4A Computer Science student at Waterloo; prolific hackathon builder",
+  "school_program": "University of Waterloo, Computer Science (David R. Cheriton School); 4A term",
+  "personal_site": "https://anay-baid-website.netlify.app/",
+  "github": "https://github.com/anaybaid-uwaterloo",
+  "devpost": "https://devpost.com/anaybaid",
+  "other_links": [
+   "https://about.me/iamanaybaid",
+   "https://topmate.io/iamanaybaid"
+  ],
+  "already_rejected": [
+   {
+    "source": "Devpost photo",
+    "url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/892/381/datas/profile.jpg",
+    "why": "Verifier: same Devpost photo as U0CJF8GBZ54 (Anay Baid); a2baid match is only medium, so hidden to avoid showing one face for two people"
+   }
+  ]
+ },
+ {
+  "id": "U0CL614HQTA",
+  "slack_name": "Felix Hansen",
+  "real_name": "Felix Hansen",
+  "role": "Participant",
+  "school": "University of Toronto, Computer Science (and Math per LinkedIn)",
+  "linkedin_url": "https://linkedin.com/in/felix-hansen-81b1032a3",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student",
+  "school_program": "University of Toronto, Computer Science (and Math per LinkedIn)",
+  "personal_site": "",
+  "github": "https://github.com/felixghansen",
+  "devpost": "https://devpost.com/felixghansen",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKE4JC25N",
+  "slack_name": "ryanyuanyrf",
+  "real_name": "Ryan Yuan",
+  "role": "Participant",
+  "school": "",
+  "linkedin_url": "https://www.linkedin.com/in/ryan-yuan-517868416",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "",
+  "school_program": "",
+  "personal_site": "",
+  "github": "https://github.com/RyanY158",
+  "devpost": "https://devpost.com/ryany158",
+  "other_links": [
+   "https://northstar-city-link.base44.app/"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:zhan-hang-thomson-l",
+  "slack_name": null,
+  "real_name": "Thomson Lam",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Western University, 4th year",
+  "linkedin_url": "https://www.linkedin.com/in/thomson-lam-260b67292",
+  "linkedin_fetch": "not tried",
+  "current_role": "Research Assistant Intern at The Banking Analytics Lab; VP Development at 3DW Makerspaces",
+  "school_program": "Western University, Computer Science",
+  "personal_site": "",
+  "github": "https://github.com/Thomson-Lam",
+  "devpost": "https://devpost.com/Thomson-Lam",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:shaeshan-k",
+  "slack_name": null,
+  "real_name": "Shaeshan Kunalan",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "McMaster University, 4th year",
+  "linkedin_url": "https://www.linkedin.com/in/shaeshan-kunalan",
+  "linkedin_fetch": "not tried",
+  "current_role": "Computer Science student",
+  "school_program": "McMaster University, Computer Science",
+  "personal_site": "",
+  "github": "https://github.com/shaeshan2",
+  "devpost": "https://devpost.com/shaeshank2",
+  "other_links": [],
+  "already_rejected": []
+ }
+]

@@ -1,0 +1,161 @@
+[
+ {
+  "id": "U0CKMDV2WN9",
+  "slack_name": "Alex Sikora",
+  "real_name": "Alex Sikora",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/alex-sikora",
+  "linkedin_fetch": "ok",
+  "current_role": "Senior Product Developer, StarTech.com, London ON (since Apr 2024)",
+  "school_program": "Western University, Bachelor of Engineering Science (BESc)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/alex-sikora"
+  ],
+  "already_rejected": [],
+  "email": "alex.sikora@startech.com",
+  "headline": "StarTech.com",
+  "edu": "Western University",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "Logged-out LinkedIn profile fetch (429/999; TinyFish fetch quota exhausted)",
+   "Search for public LinkedIn posts by /in/alex-sikora (only a different Alex Sikora, alexander-sikora-asu)",
+   "StarTech.com site and press pages (no staff photos)",
+   "GitHub alexsikora and Bluesky alexsikora are a different person (US iOS engineer since 2010), not used",
+   "Commenter-avatar search on LinkedIn posts"
+  ]
+ },
+ {
+  "id": "U0CL67M748G",
+  "slack_name": "Amira Antoun",
+  "real_name": "Amira Antoun",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/amira-antoun",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Talent Acquisition Lead, StarTech.com (London, Ontario)",
+  "school_program": "Fanshawe College, Diploma in Human Resources Management",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://www.linkedin.com/advice/0/how-can-you-improve-validity-reliability-your-interviews"
+  ],
+  "already_rejected": [],
+  "email": "amira.antoun@startech.com",
+  "headline": "Talent Acquisition Lead @ StarTech.com",
+  "edu": "Fanshawe College",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn profile (999/429 logged out)",
+   "public LinkedIn post and StarTech job pages: her avatar renders as ghost placeholder (photo not public)",
+   "web/connector searches: ZoomInfo/RocketReach only (data brokers, skipped)",
+   "image search"
+  ]
+ },
+ {
+  "id": "U0CKL69FT3P",
+  "slack_name": "May Au Yong",
+  "real_name": "May Au Yong",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/may-au-yong-8805813",
+  "linkedin_fetch": "ok",
+  "current_role": "Manages a data analytics team at StarTech.com, London ON (supply chain, product and market intelligence analytics); exact title not public",
+  "school_program": "",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://www.linkedin.com/posts/shruti-srivatsan-27s_as-i-wrap-up-my-time-at-startechcom-i-want-activity-7420647831847288832-F6CC"
+  ],
+  "already_rejected": [],
+  "email": "may.auyong@startech.com",
+  "headline": "StarTech.com (manages a data analytics team)",
+  "conf": "Confirmed",
+  "first_pass_tried": "theorg.com person page (Vercel browser challenge via curl and r.jina.ai, no image reachable); theorg.netlify.app directory mirror (name only); probed Hack Western mentor image paths; searches for StarTech.com/London speaker or panel pages found nothing with a photo; Facebook result skipped (not allowed)"
+ },
+ {
+  "id": "U0CKPG30EPQ",
+  "slack_name": "Veronica Zhao",
+  "real_name": "Veronica Zhao",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/veronica-zhao",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Data Analyst, StarTech.com (since Sept 2024)",
+  "school_program": "Ivey Business School HBA (2021); MESc Software Engineering (Specialization in AI), Western University (2021-23)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://glo.iiba.org/page/support-team"
+  ],
+  "already_rejected": [],
+  "email": "veronica.zhao@startech.com",
+  "headline": "MESc in Software Engineering with Specialization in AI",
+  "edu": "Western University, MESc Software Engineering (AI specialization)",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "IIBA GLO support-team page (names only, no photos)",
+   "Western CEE Sadhu lab alumni page (lists Mengchen Zhao MESc 2021-23, text only)",
+   "theorg.com StarTech (Cloudflare check)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CKFPTL57E",
+  "slack_name": "George Shao",
+  "real_name": "George Shao",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/georgeqshao",
+  "linkedin_fetch": "ok",
+  "current_role": "Senior Business Analyst, StarTech.com (London ON)",
+  "school_program": "BA Financial Economics, King's University College (Western affiliate)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": [],
+  "email": "george.shao@startech.com",
+  "headline": "StarTech.com",
+  "edu": "King&#39;s University College",
+  "conf": "Confirmed",
+  "first_pass_tried": [
+   "LinkedIn profile (429)",
+   "web/connector searches (only LinkedIn dir and aggregators)",
+   "image search found an unrelated George Shao on X (@george_), rejected as same-name stranger"
+  ]
+ },
+ {
+  "id": "U0CKAU59802",
+  "slack_name": "Jenny Jarvis",
+  "real_name": "Jenny Jarvis",
+  "role": "Sponsor rep",
+  "school": "Canada Life",
+  "linkedin_url": "https://ca.linkedin.com/in/jenny-jarvis-61a29722",
+  "linkedin_fetch": "ok",
+  "current_role": "Sr IT Business Systems Analyst, Canada Life, London ON (since Nov 2023; ITIL v4)",
+  "school_program": "",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://ca.linkedin.com/in/jenny-jarvis-61a29722",
+   "https://www.linkedin.com/posts/jenny-jarvis-61a29722_in-toronto-in-tech-into-the-weeds-when-activity-7457785734205177856-Xlqr",
+   "https://www.linkedin.com/posts/jenny-jarvis-61a29722_it-was-nothing-short-of-great-to-meet-these-activity-7439293340250017792-COfa"
+  ],
+  "already_rejected": [],
+  "email": "jenny.jarvis@canadalife.com",
+  "headline": "Canada Life",
+  "conf": "Confirmed",
+  "first_pass_tried": "LinkedIn post shows default placeholder (per lead); Hack Western 2024 mentor bundle (Canada Life mentors listed, she is not); probed /images/mentors/jenny_jarvis.* on hackwestern.com, 2025/2024 and archive sites (none); searched Hack Western 12/13 site bundles; web searches return only same-name strangers (UK coach/COO, obituaries)"
+ }
+]

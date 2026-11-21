@@ -1,0 +1,197 @@
+[
+ {
+  "id": "U0CKJLHFL0Z",
+  "name": "Ayman Khan",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "aymankhan.ca (illustrated room, no headshot; checked Next.js image assets)",
+   "search for public LinkedIn posts (website-launch post found in profile text but no post URL surfaced)",
+   "ayman02khan.wixsite.com is a different Ayman Khan (SUTD Singapore)",
+   "TinyFish fetch quota exhausted"
+  ]
+ },
+ {
+  "id": "U0CHGLQHC07",
+  "name": "Muhammad Burhan Tahir",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "GitHub Resume repo profile-icon.jpg (generic default icon)",
+   "workshop decks and Vercel apps (no photo)",
+   "searched name + EyraTech/FAST-NUCES",
+   "Devpost burhan3737 (GitHub identicon)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CJNUJTBB2",
+  "name": "Eric Fu",
+  "file": "photos-fallback/hunt-U0CJNUJTBB2.jpg",
+  "source": "Club team page",
+  "source_url": "https://images.squarespace-cdn.com/content/v1/65be6415f953ca6a44785246/7227eaa5-0c70-479e-af9c-84c9150602b0/Screenshot+2026-06-10+165024.png",
+  "page_url": "https://mstri.ca/team-1",
+  "evidence": "The McMaster Space Team (MSTRI) team page shows this headshot in the member card for 'Eric Fu, Position: Payload Hardware Specialist, Area of Study: Health Sciences', the same role his LinkedIn profile lists. Cropped to head and shoulders.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKVJ0LAPK",
+  "name": "Jerry Jiang",
+  "file": "photos-fallback/hunt-U0CKVJ0LAPK.jpg",
+  "source": "Company page",
+  "source_url": "https://framerusercontent.com/images/OyX7aeQCpwWlBJshBoI09iSrU.jpg",
+  "page_url": "https://tryfusion.ai/about",
+  "evidence": "Fusion AI's about page captions this headshot 'Jerry Jiang, Founder at Unrepped', matching his LinkedIn role. The same face appears on the Waterloo 2026 election candidate listing (poliblog.jonkman.ca), which links linkedin.com/in/jerrymjiang next to the photo.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "U0CKJ8EDPPD",
+  "name": "Melina Fathidashtaki",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "meellinaa.github.io (landscape backgrounds, no headshot)",
+   "GitHub profile README (SVG graphics only)",
+   "TD Scholarship recipient lists 2024/2025 (name not listed)",
+   "Morrissette Institute meet-the-team page (staff only)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "name": "Rishi Bhaskara",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "rishib.me (project images only)",
+   "Western CSUS site (older exec team, no Rishi)",
+   "other 'Rishi Bhaskara' search hits are a UK pharmacist (different person)",
+   "LinkedIn post search (only a teammate's group post)"
+  ]
+ },
+ {
+  "id": "U0CKPG30EPQ",
+  "name": "Veronica Zhao",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "IIBA GLO support-team page (names only, no photos)",
+   "Western CEE Sadhu lab alumni page (lists Mengchen Zhao MESc 2021-23, text only)",
+   "theorg.com StarTech (Cloudflare check)",
+   "LinkedIn post search (none found)"
+  ]
+ },
+ {
+  "id": "U0CHSV19T6H",
+  "name": "Anay Baid (second account)",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "GitHub anaybaid-uwaterloo (identicon)",
+   "anay-baid-website.netlify.app (Three.js template, no headshot)",
+   "Not proposing about.me/topmate photos: any real photo of Anay Baid shows the same face as U0CJF8GBZ54, which the verifier hid on purpose"
+  ]
+ },
+ {
+  "id": "U0CL614HQTA",
+  "name": "Felix Hansen",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "Devpost felixghansen (GitHub identicon)",
+   "GitHub repos/README (no site or photo)",
+   "name searches (only unrelated Felix Hansens)"
+  ]
+ },
+ {
+  "id": "U0CKE4JC25N",
+  "name": "Ryan Yuan",
+  "file": "",
+  "source": "",
+  "source_url": "",
+  "page_url": "",
+  "evidence": "",
+  "status": "not_found",
+  "tried": [
+   "GitHub avatar (identicon/non-face)",
+   "Devpost profile photo",
+   "LinkedIn public profile (HTTP 999/429 logged out)",
+   "Devpost ryany158 (GitHub identicon)",
+   "GitHub repos (no site or photo)",
+   "name searches (hits are other Ryan Yuans, e.g. ryan11yuan, ryanyuan11)"
+  ]
+ },
+ {
+  "id": "tf:zhan-hang-thomson-l",
+  "name": "Thomson Lam",
+  "file": "photos-fallback/hunt-tf-zhan-hang-thomson-l.jpg",
+  "source": "Club team page",
+  "source_url": "https://www.3dwestern.ca/images/execs/thomson.webp",
+  "page_url": "https://www.3dwestern.ca/",
+  "evidence": "The 3DW Makerspaces (Western) exec list shows this headshot for 'Thomson Lam, VP Development' and links it to linkedin.com/in/thomson-lam-260b67292, the exact matched slug and role.",
+  "status": "found",
+  "tried": []
+ },
+ {
+  "id": "tf:shaeshan-k",
+  "name": "Shaeshan Kunalan",
+  "file": "photos-fallback/hunt-tf-shaeshan-k.jpg",
+  "source": "Hackathon page",
+  "source_url": "https://www.ignitionhacks.org/assets/shaeshan-CuZt4PVM.webp",
+  "page_url": "https://www.ignitionhacks.org/",
+  "evidence": "Ignition Hacks' organizer section shows this headshot for 'Shaeshan, Logistics Executive'; his LinkedIn (shaeshan-kunalan) lists Logistics Coordinator at Ignition Hacks (May-Aug 2026). The page gives first name only, but the name is rare and the role matches.",
+  "status": "found",
+  "tried": []
+ }
+]

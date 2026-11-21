@@ -1,0 +1,231 @@
+[
+ {
+  "id": "U0CL67M748G",
+  "slack_name": "Amira Antoun",
+  "real_name": "Amira Antoun",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/amira-antoun",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Talent Acquisition Lead, StarTech.com (London, Ontario)",
+  "school_program": "Fanshawe College, Diploma in Human Resources Management",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [
+   "https://www.linkedin.com/advice/0/how-can-you-improve-validity-reliability-your-interviews"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CHQ8U798X",
+  "slack_name": "collinsobo3",
+  "real_name": "Collin Sobowale",
+  "role": "Participant",
+  "school": "Western University Computer Science + Ivey Business School HBA",
+  "linkedin_url": "https://ca.linkedin.com/in/collinsbwle",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "CS & Ivey HBA student",
+  "school_program": "Western University Computer Science + Ivey Business School HBA",
+  "personal_site": "",
+  "github": "",
+  "devpost": "https://devpost.com/collinsobo3",
+  "other_links": [
+   "https://joinignition.ca/",
+   "https://iveyproductsociety.com/",
+   "https://iveyhbaa.com/about/student-leaders"
+  ],
+  "already_rejected": [
+   {
+    "source": "Devpost photo",
+    "url": "https://d112y698adiu2z.cloudfront.net/photos/production/user_photos/002/971/348/datas/profile.jpeg",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ]
+ },
+ {
+  "id": "U0CKFPTL57E",
+  "slack_name": "George Shao",
+  "real_name": "George Shao",
+  "role": "Sponsor rep",
+  "school": "StarTech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/georgeqshao",
+  "linkedin_fetch": "ok",
+  "current_role": "Senior Business Analyst, StarTech.com (London ON)",
+  "school_program": "BA Financial Economics, King's University College (Western affiliate)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJ04H4PNG",
+  "slack_name": "Lina",
+  "real_name": "Lina Hout",
+  "role": "Participant",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/lina-hout-21479742b",
+  "linkedin_fetch": "ok",
+  "current_role": "First-year math student at Western; Junior Representative, AWM UWO Chapter",
+  "school_program": "Western University, Faculty of Science (Mathematics)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKA90R5K9",
+  "slack_name": "Mrida Hingmire",
+  "real_name": "Mrida Hingmire",
+  "role": "Participant",
+  "school": "Western University, Computer Science (third year)",
+  "linkedin_url": "https://ca.linkedin.com/in/mrida-hingmire-768427288",
+  "linkedin_fetch": "ok",
+  "current_role": "Student; LinkedIn lists Emirates (Dubai) experience",
+  "school_program": "Western University, Computer Science (third year)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CKH1FQSAE",
+  "slack_name": "Shane Marcelo",
+  "real_name": "Shane Marcelo",
+  "role": "Participant",
+  "school": "York University, BSc Honours Computer Science",
+  "linkedin_url": "https://ca.linkedin.com/in/shanemarcelo",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "York CS student; open to Summer 2027 internships",
+  "school_program": "York University, BSc Honours Computer Science",
+  "personal_site": "https://www.shanemarcelo.ca/",
+  "github": "https://github.com/Polarralop",
+  "devpost": "",
+  "other_links": [
+   "https://devpost.com/software/slab-schedule"
+  ],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/71986129?v=4",
+    "why": "not a person: painting, statue or artwork"
+   },
+   {
+    "source": "Personal site",
+    "url": "https://www.shanemarcelo.ca/images/about.gif",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ]
+ },
+ {
+  "id": "U0CJYDZ9YVB",
+  "slack_name": "wu1410",
+  "real_name": "Kenneth Wu",
+  "role": "Participant",
+  "school": "McMaster University",
+  "linkedin_url": "https://www.linkedin.com/in/kenneth-wu-6857a0396",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "First-year CS student, McMaster University",
+  "school_program": "Computer Science, McMaster University",
+  "personal_site": "https://kennethwu08.github.io",
+  "github": "https://github.com/kennethwu08",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CHWA4DED8",
+  "slack_name": "andrew960713147",
+  "real_name": "Andrew Tu",
+  "role": "Participant",
+  "school": "Mathematics and Computer Science, University of Toronto",
+  "linkedin_url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b",
+  "linkedin_fetch": "NOT FETCHED",
+  "current_role": "Undergraduate AI Researcher, Data Sciences Institute, University of Toronto (SUDS Scholar)",
+  "school_program": "Mathematics and Computer Science, University of Toronto",
+  "personal_site": "",
+  "github": "https://github.com/Andrew-Tu225",
+  "devpost": "",
+  "other_links": [
+   "https://medium.com/@andrew960713147",
+   "https://andrew-tu225.github.io/resume/Andrew_Tu_Resume.pdf"
+  ],
+  "already_rejected": [
+   {
+    "source": "GitHub avatar",
+    "url": "https://avatars.githubusercontent.com/u/190233794?v=4",
+    "why": "not a person: cartoon, anime, drawing or illustration"
+   }
+  ]
+ },
+ {
+  "id": "U0CJ5C3JUH0",
+  "slack_name": "jiamingchennn",
+  "real_name": "Jiaming Chen",
+  "role": "Participant",
+  "school": "Software Engineering, Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/jiamingchen01",
+  "linkedin_fetch": "ok",
+  "current_role": "Software Engineering student, Western University",
+  "school_program": "Software Engineering, Western University",
+  "personal_site": "",
+  "github": "https://github.com/JadedOut",
+  "devpost": "https://devpost.com/JadedOut",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "slack_name": "Shawn X",
+  "real_name": "Shawn Xiong",
+  "role": "Participant",
+  "school": "University of Waterloo, BASc Computer Engineering (Co-op), started Sept 2026 (first year)",
+  "linkedin_url": "https://ca.linkedin.com/in/shawnxionggg",
+  "linkedin_fetch": "fetch_failed",
+  "current_role": "Student; Autonomy Subteam member, Waterloo Aerial Robotics Group (WARG), Sept 2026 to present",
+  "school_program": "University of Waterloo, BASc Computer Engineering (Co-op), started Sept 2026 (first year)",
+  "personal_site": "https://www.shawnxionggg.work/",
+  "github": "https://github.com/shawn-xionggg",
+  "devpost": "",
+  "other_links": [
+   "https://toneffx.vercel.app",
+   "https://devpost.com/software/giraffe-ncwyz1"
+  ],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:alexander-s",
+  "slack_name": null,
+  "real_name": "Alexander Stojanov",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Western University",
+  "linkedin_url": "https://ca.linkedin.com/in/alexander-stojanov-12078935a",
+  "linkedin_fetch": "not tried",
+  "current_role": "Science student, Western University",
+  "school_program": "Western University, Science (first year, inferred from high-school dates)",
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "other_links": [],
+  "already_rejected": []
+ },
+ {
+  "id": "tf:ryushen-t",
+  "slack_name": null,
+  "real_name": "Ryushen Tan",
+  "role": "Hack Western participant (team finder card only)",
+  "school": "Carleton University",
+  "linkedin_url": "https://www.linkedin.com/in/ryushen",
+  "linkedin_fetch": "not tried",
+  "current_role": "MTS at Backboard.io; Core Engineer at TFTAcademy",
+  "school_program": "Carleton University, Honours Computer Science (Co-op)",
+  "personal_site": "https://www.ryushen.com/",
+  "github": "https://github.com/ryushen-tan",
+  "devpost": "https://devpost.com/ryushen",
+  "other_links": [],
+  "already_rejected": []
+ }
+]
