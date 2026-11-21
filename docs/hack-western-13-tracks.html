@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Session tracking: keep these accurate so follow-up turns update THIS file. -->
+  <meta name="praghtml-file" content="/Users/prag/Documents/PragPersonal/Projects/at-Western/outputs/hack-western-13-tracks.html" />
+  <meta name="praghtml-session" content="active" />
+  <title>Hack Western 13 — prize tracks</title>
+
+  <script>document.documentElement.classList.add("js-on")</script>
+  <style>
+    /* PLACEHOLDER palette — re-theme per frontend-design (4–6 semantic tokens). */
+    :root {
+      --ink:        #16202b;
+      --muted:      #5b6b7b;
+      --line:       #dfe4ea;
+      --surface:    #f5f7f9;
+      --bg:         #ffffff;
+      --accent:     #0d7a6f;
+      --accent-soft:#e2f3f0;
+      --easy:#3a5bb8; --easy-soft:#e6ecfa; --maybe:#9a6200; --maybe-soft:#fbf0dc;
+      --font: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+      --maxw: 52rem;
+    }
+
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0; background: var(--bg); color: var(--ink);
+      font-family: var(--font); line-height: 1.6;
+      font-size: 16px; -webkit-font-smoothing: antialiased;
+    }
+    main { max-width: var(--maxw); margin: 0 auto; padding: clamp(24px, 5vw, 64px) 24px 96px; }
+
+    header { margin-bottom: 40px; }
+    .session-tag {
+      display: inline-block; font-size: 0.75rem; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--accent); margin-bottom: 10px;
+    }
+    h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 12px; }
+    .gist { font-size: 1.1rem; color: var(--muted); max-width: 48ch; margin: 0; }
+
+    section { margin-top: 52px; }
+    h2 {
+      font-size: 1.15rem; letter-spacing: -0.01em; margin: 0 0 16px;
+      padding-left: 14px; border-left: 3px solid var(--accent);
+    }
+    h3 { font-size: 1rem; margin: 0 0 12px; }
+    p, ul { margin: 0 0 12px; }
+    ul { padding-left: 1.15rem; } li { margin: 4px 0; }
+    code { font-family: var(--mono); font-size: 0.88em; background: var(--surface);
+           padding: 1px 5px; border-radius: 4px; }
+
+    figure { margin: 0; }
+    .diagram {
+      background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+      padding: clamp(16px, 3vw, 28px);
+    }
+    figcaption { color: var(--muted); font-size: 0.9rem; margin-top: 10px; }
+
+    /* ── DIAGRAM PRIMITIVES ─────────────────────────────────────────────
+       Hand-built. No Mermaid, no library, no render pass. Five shapes
+       cover everything: chain, layers, ladder, track, hand SVG.        */
+
+    /* shared box */
+    .box {
+      background: var(--bg); border: 1px solid var(--line); border-radius: 9px;
+      padding: 10px 14px; font-size: 0.9rem; line-height: 1.35; text-align: center;
+    }
+    .box small { display: block; color: var(--muted); font-size: 0.78rem; margin-top: 2px; }
+    .box.is-key { background: var(--accent-soft); border-color: var(--accent); font-weight: 600; }
+    .box.is-muted { background: transparent; border-style: dashed; color: var(--muted); }
+
+    /* 1 · CHAIN — a flow of 3–6 steps */
+    .chain { display: flex; align-items: stretch; gap: 0; flex-wrap: wrap;
+             list-style: none; margin: 0; padding: 0; }
+    .chain > li { display: flex; align-items: center; gap: 12px; flex: 1 1 auto; min-width: 0; }
+    .chain > li > .box { flex: 1; }
+    .chain > li:not(:last-child)::after {
+      content: "→"; color: var(--muted); font-size: 1.1rem; flex: none;
+    }
+    @media (max-width: 640px) {
+      .chain { flex-direction: column; }
+      .chain > li { flex-direction: column; gap: 6px; }
+      .chain > li > .box { width: 100%; }
+      .chain > li:not(:last-child)::after { content: "↓"; }
+    }
+
+    /* 2 · LAYERS — stack / architecture; the boundary IS the border */
+    .layers { display: grid; gap: 10px; }
+    .layer {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+      border: 1px solid var(--line); border-radius: 11px; padding: 12px;
+      background: var(--bg);
+    }
+    .layer > .box { flex: 1 1 140px; }
+    .layer-name {
+      flex: none; width: 5.5rem; font-size: 0.72rem; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--muted);
+    }
+    .layer.is-frozen { background: var(--accent-soft); border-color: var(--accent); }
+    @media (max-width: 640px) { .layer-name { width: 100%; } }
+
+    /* 3 · LADDER — order of events. Replaces the sequence diagram. */
+    .ladder { list-style: none; margin: 0; padding: 0 0 0 4px; counter-reset: step; }
+    .ladder > li {
+      position: relative; padding: 0 0 16px 40px; counter-increment: step;
+      font-size: 0.94rem;
+    }
+    .ladder > li::before {
+      content: counter(step);
+      position: absolute; left: 0; top: 0;
+      width: 22px; height: 22px; border-radius: 50%;
+      background: var(--bg); border: 1px solid var(--line); color: var(--muted);
+      font-size: 0.72rem; font-weight: 600;
+      display: grid; place-items: center;
+    }
+    .ladder > li::after {   /* the spine */
+      content: ""; position: absolute; left: 11px; top: 24px; bottom: 0;
+      border-left: 1px solid var(--line);
+    }
+    .ladder > li:last-child { padding-bottom: 0; }
+    .ladder > li:last-child::after { display: none; }
+    .ladder .who {
+      display: inline-block; font-size: 0.72rem; font-weight: 600;
+      letter-spacing: 0.03em; text-transform: uppercase;
+      background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+      padding: 1px 8px; margin-right: 6px; color: var(--muted);
+    }
+    .ladder > li.is-key::before { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* branches — two short blocks side by side, never a dotted frame */
+    .forks { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 4px; }
+    .fork { flex: 1 1 200px; border: 1px solid var(--line); border-radius: 10px;
+            padding: 12px 14px; background: var(--bg); font-size: 0.9rem; }
+    .fork h4 { margin: 0 0 4px; font-size: 0.78rem; letter-spacing: 0.04em;
+               text-transform: uppercase; color: var(--muted); }
+
+    /* 4 · TRACK — states / motion over time */
+    .track { display: flex; border: 1px solid var(--line); border-radius: 9px; overflow: hidden; }
+    .track > span { flex: 1; padding: 9px 10px; font-size: 0.82rem; text-align: center;
+                    background: var(--bg); border-right: 1px solid var(--line); }
+    .track > span:last-child { border-right: 0; }
+    .track > span.is-key { background: var(--accent-soft); font-weight: 600; }
+
+    table { width: 100%; border-collapse: collapse; font-size: 0.94rem; margin-top: 16px; }
+    th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    tbody tr:last-child td { border-bottom: none; }
+    td code { background: var(--bg); border: 1px solid var(--line); overflow-wrap: anywhere; }
+    @media (max-width: 640px) { th, td { padding: 8px 8px; } }
+
+    /* Questions log — each follow-up appends an article (newest on top). */
+    #questions .q {
+      border: 1px solid var(--line); border-radius: 12px;
+      padding: 20px 20px 16px; margin-bottom: 16px; background: var(--bg);
+    }
+    #questions .q-meta {
+      font-size: 0.75rem; letter-spacing: 0.04em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 6px;
+    }
+
+    .demo { display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+            background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 24px; }
+    .demo-stage { flex: 1 1 220px; min-height: 120px; display: flex; align-items: center; justify-content: center; }
+    .demo-card {
+      width: 72px; height: 72px; border-radius: 12px;
+      background: var(--accent); color: #fff; display: grid; place-items: center;
+      font-size: 0.8rem;
+      transition: transform 320ms cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .demo-card.is-open { transform: scale(2); }
+    .btn {
+      font: inherit; font-size: 0.9rem; cursor: pointer;
+      background: var(--ink); color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
+    }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+    }
+    @media print {
+      body { background: #fff; }
+      section, figure, .q, .demo, .layer { break-inside: avoid; }
+      .btn { display: none; }
+    }
+
+/* ── praghtml · motion.css ────────────────────────────────────────────────
+   Paste inline into the page's <style>. Never link it — pages stay
+   self-contained. Assumes the page already defines --accent and --line.     */
+
+:root {
+  --ease:   cubic-bezier(0.22, 1, 0.36, 1);  /* ease-out, slight spring */
+  --t-fast: 160ms;   /* state flips */
+  --t-base: 240ms;   /* the default */
+  --t-slow: 320ms;   /* the hero moment only */
+  --t-reveal: 520ms; /* structure entering the page — long enough to see */
+  --reveal-y: 18px;  /* entrance travel */
+  --stagger: 90ms;   /* gap between siblings arriving */
+}
+
+/* ── Mode 1 · Reveal ──────────────────────────────────────────────────────
+   The resting state only applies once JS is on, so a page with JS disabled
+   (or a failed script) still shows everything.                              */
+.js-on .reveal {
+  opacity: 0;
+  transform: translateY(var(--reveal-y));
+}
+.js-on .reveal.is-in {
+  opacity: 1;
+  transform: none;
+  transition: opacity var(--t-reveal) var(--ease),
+              transform var(--t-reveal) var(--ease);
+}
+/* Stagger: children of a [data-reveal-stagger] parent arrive in sequence.
+   reveal.js sets --i per child; the cap keeps long lists from crawling.     */
+.js-on [data-reveal-stagger] > * {
+  opacity: 0;
+  transform: translateY(var(--reveal-y));
+}
+.js-on [data-reveal-stagger].is-in > * {
+  opacity: 1;
+  transform: none;
+  transition: opacity var(--t-reveal) var(--ease),
+              transform var(--t-reveal) var(--ease);
+  transition-delay: calc(var(--i, 0) * var(--stagger));
+}
+/* A chain reads left-to-right, so its arrows fade slightly behind the boxes. */
+.js-on [data-reveal-stagger].is-in > *::after { transition: opacity var(--t-fast) var(--ease) calc(var(--i, 0) * var(--stagger) + 120ms); }
+.js-on [data-reveal-stagger] > *::after { opacity: 0; }
+.js-on [data-reveal-stagger].is-in > *::after { opacity: 1; }
+
+/* ── Mode 3 · Play ────────────────────────────────────────────────────────
+   play.js walks a [data-play] diagram on a loop. Upcoming steps wait dim,
+   the current one lifts and rings, finished ones keep an accent trace.
+   Specificity is deliberately high so it wins over the Reveal rules.       */
+[data-play] { cursor: pointer; }
+.js-on [data-play].is-playing [data-step],
+.js-on [data-play].is-playing [data-pick] > *,
+.js-on [data-play].is-playing .box {
+  transition: opacity var(--t-base) var(--ease),
+              transform var(--t-base) var(--ease),
+              border-color var(--t-fast) var(--ease),
+              background-color var(--t-fast) var(--ease),
+              box-shadow var(--t-base) var(--ease);
+  transition-delay: 0s;
+}
+.js-on [data-play].is-playing [data-step]:not(.is-now):not(.is-done),
+.js-on [data-play].is-playing [data-pick]:not(.is-now):not(.is-done) > * { opacity: 0.38; }
+.js-on [data-play] [data-step].is-now { transform: translateY(-3px); }
+
+/* The ring lands on whatever the step is drawn as: a card, or the box inside. */
+[data-play] .is-now:is(.box, .card, .layer, .fork),
+[data-play] .is-now > .box,
+[data-play] .gates > li.is-now {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft), 0 10px 24px -14px var(--accent);
+}
+[data-play] .is-done > .box,
+[data-play] .is-done:is(.box, .card, .layer),
+[data-play] .gates > li.is-done { border-color: var(--accent); }
+[data-play] .chain > li.is-done::after { color: var(--accent); }
+
+/* Ladder: the dot fills and pings, the spine fills behind it. */
+[data-play] .ladder > li.is-now::before {
+  background: var(--accent); border-color: var(--accent); color: #fff;
+  animation: play-ping 950ms var(--ease) infinite;
+}
+[data-play] .ladder > li.is-done::before { border-color: var(--accent); color: var(--accent); }
+[data-play] .ladder > li.is-done::after { border-left-color: var(--accent); }
+@keyframes play-ping {
+  0%   { box-shadow: 0 0 0 0 var(--accent-soft); }
+  100% { box-shadow: 0 0 0 9px transparent; }
+}
+
+/* Branch: one outcome wins per pass, the rest step back. */
+.js-on [data-play] [data-pick] > .is-pick { transform: scale(1.035); box-shadow: 0 10px 24px -14px currentColor; }
+.js-on [data-play] [data-pick] > .is-dim  { opacity: 0.3; }
+
+/* Control bar play.js injects under the diagram. */
+.play-bar {
+  display: flex; align-items: center; gap: 10px; margin-top: 10px;
+  font-size: 0.8rem; color: var(--muted, #6a7279);
+}
+.play-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--line); flex: none; }
+.play-bar.is-live .play-dot { background: var(--accent); animation: play-live 1.6s ease-in-out infinite; }
+@keyframes play-live { 50% { opacity: 0.3; } }
+.play-say { flex: 1; min-width: 0; }
+.play-beats { display: flex; gap: 4px; margin-left: auto; }
+.play-beats i { width: 14px; height: 3px; border-radius: 2px; background: var(--line);
+                transition: background-color var(--t-fast) var(--ease); }
+.play-beats i.is-done { background: var(--accent); opacity: 0.5; }
+.play-beats i.is-now  { background: var(--accent); }
+.play-btn {
+  font: inherit; font-size: 0.75rem; color: inherit; cursor: pointer;
+  background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px;
+}
+
+/* ── State vocabulary ─────────────────────────────────────────────────────
+   Six classes, same meaning on every page. Scenes add and remove these —
+   they never write inline styles.                                           */
+.is-in   { opacity: 1; transform: none; }
+.is-on   { border-color: var(--accent); }
+.is-dim  { opacity: 0.4; }
+.is-pick { box-shadow: 0 0 0 2px var(--accent); }
+.is-out  { opacity: 0; transform: translateY(calc(var(--reveal-y) * -0.5)); }
+
+/* Anything a scene mutates should declare its transition explicitly.
+   Name the properties — never `transition: all`.                            */
+[data-el] {
+  transition: opacity var(--t-base) var(--ease),
+              transform var(--t-base) var(--ease),
+              border-color var(--t-fast) var(--ease),
+              box-shadow var(--t-fast) var(--ease);
+}
+
+/* ── Reduced motion ───────────────────────────────────────────────────────
+   A real path, not a dimmer switch: everything is simply present.           */
+@media (prefers-reduced-motion: reduce) {
+  .js-on .reveal,
+  .js-on [data-reveal-stagger] > * {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) { .play-bar { display: none; } }
+
+@media print {
+  .reveal, [data-reveal-stagger] > * { opacity: 1 !important; transform: none !important; }
+  .play-bar { display: none; }
+}
+  
+    .jump { display:flex; flex-wrap:wrap; gap:8px; margin-top:16px; }
+    .jump a { font-size:.85rem; padding:4px 12px; border:1px solid var(--line); border-radius:999px; color:var(--ink); text-decoration:none; background:var(--surface); }
+    .jump a:hover { border-color: var(--accent); }
+    .pill { display:inline-block; font-size:.72rem; font-weight:600; letter-spacing:.03em; padding:2px 9px; border-radius:999px; white-space:nowrap; }
+    .pill.go { background:var(--accent-soft); color:var(--accent); }
+    .pill.easy { background:var(--easy-soft); color:var(--easy); }
+    .pill.maybe { background:var(--maybe-soft); color:var(--maybe); }
+    .pill.skip, .pill.hard { background:var(--surface); color:var(--muted); border:1px solid var(--line); }
+    .legend { font-size:.85rem; color:var(--muted); }
+    h3.grp { margin-top:28px; font-size:.8rem; text-transform:uppercase; letter-spacing:.07em; color:var(--muted); }
+    table.tracks td:first-child { min-width: 9.5rem; }
+    tr.is-pick td:first-child { box-shadow: inset 3px 0 0 var(--accent); }
+    table { width:100%; }
+    @media (max-width:640px){ table.tracks, #plan-sec table { display:block; overflow-x:auto; } table.tracks td:first-child{min-width:0} .pill{white-space:normal} }
+    details { margin-top:16px; font-size:.9rem; color:var(--muted); }
+    summary { cursor:pointer; }
+
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="session-tag">Hack Western 13 · Nov 20–22, 2026 · checked 10:30 PM Fri</div>
+      <h1>All 16 prize tracks, and which ones we can win</h1>
+      <p class="gist">Build one AI browser agent and enter about 7 tracks with it. Good fits are TinyFish, Sun Life or Canada Life, and the easy MLH add-ons. Skip the hardware tracks unless we change the whole project to QNX.</p>
+      <nav class="jump">
+        <a href="#plan">The plan</a><a href="#win">How to win</a><a href="#all">All 16 tracks</a><a href="#submit">Submission</a><a href="#time">Deadlines</a><a href="#ask">Who to ask</a><a href="#notes">Fine print</a>
+      </nav>
+    </header>
+
+    <section aria-labelledby="plan" id="plan-sec">
+      <h2 id="plan">The plan: one project, many tracks</h2>
+      <figure class="reveal">
+        <div class="diagram" data-play data-ms="900">
+          <div class="layers" data-reveal-stagger>
+            <div class="layer">
+              <span class="layer-name">Project</span>
+              <div class="box is-key" data-step>Clinic front-desk AI employee<small>agent checks patient benefits on insurer portals, end to end</small></div>
+            </div>
+            <div class="layer">
+              <span class="layer-name">Core tracks</span>
+              <div class="box" data-step>TinyFish<small>browser job, done start to finish</small></div>
+              <div class="box" data-step>Sun Life health<small>real health access problem</small></div>
+            </div>
+            <div class="layer">
+              <span class="layer-name">MLH add-ons</span>
+              <div class="box" data-step>Gemini API<small>the agent's brain</small></div>
+              <div class="box" data-step>Auth0<small>clinic staff login</small></div>
+              <div class="box" data-step>Vultr<small>host it</small></div>
+              <div class="box" data-step>GoDaddy domain<small>.tech name</small></div>
+              <div class="box" data-step>Entire<small>agent sessions in git</small></div>
+            </div>
+            <div class="layer">
+              <span class="layer-name">Automatic</span>
+              <div class="box" data-step>1st · 2nd · 3rd<small>general judging</small></div>
+              <div class="box" data-step>Most Adventurous<small>organizers' choice</small></div>
+            </div>
+          </div>
+        </div>
+        <figcaption>One build enters 7 prize tracks, and every team is judged for the 4 general awards.</figcaption>
+      </figure>
+      <table>
+        <thead><tr><th>Option</th><th>Project</th><th>Tracks it hits</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td><span class="pill go">A · pick this</span></td><td><b>Clinic front-desk agent.</b> Staff type a patient's plan, and the agent logs into insurer portals, checks physio or dental coverage, and fills in the claim.</td><td>TinyFish, Sun Life, Gemini, Auth0, Vultr, GoDaddy, Entire (+ Tiger Data if we log claim history)</td></tr>
+          <tr><td><span class="pill maybe">B · backup</span></td><td><b>"Future Me" money agent.</b> It compares TFSA, FHSA and savings rates across real bank sites, then shows a Gen Z user their projected balance at 30.</td><td>Canada Life, TinyFish, Gemini, Auth0, Vultr, GoDaddy, Tiger Data (rate history)</td></tr>
+          <tr><td><span class="pill hard">C · different bet</span></td><td><b>QNX embedded AI.</b> A "cannot fail" device on a loaner Raspberry Pi 5 running QNX plus an open-source AI module.</td><td>QNX ($1,000 top prize, 3 winners), PCBWay. Doesn't stack with A or B.</td></tr>
+        </tbody>
+      </table>
+      <ul>
+        <li><b>Why A:</b> the browser agent is the core of the TinyFish track, and you've built agents before (GrokHunt, Paintbot). Insurer portal work is a real business job, which TinyFish asks for, and a health problem, which Sun Life asks for.</li>
+        <li><b>A or B:</b> they're about equally strong. Pick A for the health angle or B for the finance angle. Each one fits one sponsor's prompt exactly.</li>
+      </ul>
+    </section>
+
+
+    <section aria-labelledby="win" id="win-sec">
+      <h2 id="win">What judges look for</h2>
+      <p class="legend">The slide you linked is MLH's title card, with only their logo. The scoring criteria come from Devpost and each sponsor's own slide.</p>
+      <table class="tracks">
+        <thead><tr><th>Prize</th><th>What wins it</th><th>For plan A, show this</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td><b>Overall 1st–3rd</b> (3 general judges, 3 min + 1 min Q&amp;A each)</td><td>Four Devpost criteria: <b>Innovation</b> (new idea or unexpected tech use), <b>Technical complexity</b> (hard integrations), <b>Completeness</b> (it works, no broken features), <b>Design</b> (clean, intuitive UI).</td><td>A live agent finishing a real portal check in under 3 minutes. Rehearse the happy path. A working demo beats a bigger idea.</td></tr>
+          <tr><td><b>MLH "Best Use of X"</b></td><td>The sponsor tech has to be central to the project, not bolted on. Entire also wants Sessions/Graph/Brain used and <b>measurable token savings</b>.</td><td>Say which MLH tools you used and point to where each one runs. Entire: show a token-usage number.</td></tr>
+          <tr><td><b>TinyFish</b></td><td>A real job done start to finish, holds up on live sites, smart TinyFish use, "a demo that makes us want to hire it." Public X/LinkedIn post tagging TinyFish is required.</td><td>Run on real sites, not mocks. Show it recovering from a failure.</td></tr>
+          <tr><td><b>Sun Life health</b></td><td>A real health problem, and the pitch must show <b>who it helps and the impact</b>.</td><td>One named user (a clinic receptionist) and one number (minutes saved per claim).</td></tr>
+          <tr><td><b>Canada Life Future Me</b></td><td>Helps Gen Z <b>take action</b> on their financial future through motivation, visualization, nudges or education.</td><td>(Plan B) End on an action the user takes, not just a chart.</td></tr>
+          <tr><td><b>QNX</b></td><td>Must run on QNX and use a QNX AI module. Judged on: cannot-fail use case, real-time/reliability need, creative AI, running on device (not cloud).</td><td>(Plan C only)</td></tr>
+        </tbody>
+      </table>
+      <ul>
+        <li><b>Demo rules:</b> no slides. Show what you built. If something breaks, explain what you tried.</li>
+        <li><b>Sponsor scores are separate</b> from the overall awards. Sponsors shortlist teams from Devpost, so the write-up has to sell each track you enter.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="all">
+      <h2 id="all">All 16 tracks</h2>
+      <p class="legend"><span class="pill go">Go</span> fits plan A or B &nbsp; <span class="pill easy">Add-on</span> under an hour to bolt on &nbsp; <span class="pill maybe">Maybe</span> only if it fits naturally &nbsp; <span class="pill skip">Skip</span> needs a different project</p>
+
+      <h3 class="grp">General awards (every team is judged)</h3>
+      <table class="tracks">
+        <thead><tr><th>Track</th><th>Prize (per member)</th><th>Can we?</th><th>Why</th></tr></thead>
+        <tbody>
+          <tr><td>First Place Overall</td><td>Apple 11-inch iPad</td><td><span class="pill go">Auto</span></td><td>Judged on innovation and a working demo. Three general judges, 3 min each.</td></tr>
+          <tr><td>Second Place Overall</td><td>AirPods Pro 3</td><td><span class="pill go">Auto</span></td><td>Same judging.</td></tr>
+          <tr><td>Third Place Overall</td><td>Fitbit Air</td><td><span class="pill go">Auto</span></td><td>Same judging.</td></tr>
+          <tr><td>Organizers' Choice: Most Adventurous</td><td>Arc'teryx Bird Head toque</td><td><span class="pill go">Auto</span></td><td>"A hack that enables others to discover the unknown." Pitch the agent as finding coverage people don't know they have.</td></tr>
+        </tbody>
+      </table>
+
+      <h3 class="grp">Sponsor tracks</h3>
+      <table class="tracks">
+        <thead><tr><th>Track</th><th>Prize</th><th>Can we?</th><th>Why</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td><b>Hire Your First AI Employee</b> · TinyFish</td><td>$75 gift card + $100 TinyFish credits each, plus a 1:1 with their engineering lead</td><td><span class="pill go">Go</span></td><td>An agent that does a real browser job on live sites. Your strongest skill. <b>To qualify, the demo must be posted on X or LinkedIn tagging TinyFish.</b> Free credits: tinyfish.ai/students.</td></tr>
+          <tr class="is-pick"><td><b>Best Health Hack</b> · Sun Life</td><td>$100 Amazon gift card each</td><td><span class="pill go">Go (A)</span></td><td>"Creative technical solution to a real health problem." The pitch must show who it helps and the impact.</td></tr>
+          <tr><td><b>Future Me Challenge</b> · Canada Life</td><td>$100 Visa prepaid card each</td><td><span class="pill go">Go (B)</span></td><td>Help Gen Z act on their financial future through motivation, visualization, nudges or education. Fits plan B, and your Ivey background helps with the pitch.</td></tr>
+          <tr><td><b>Best Use of QNX</b></td><td>$1,000 to the winner, $250 to each of 2 runners-up (per team)</td><td><span class="pill hard">Skip*</span></td><td>Biggest cash prize and 3 winners. It needs the QNX OS, a QNX open-source AI module and a live demo on hardware. Loaner Pi 5s are at the hardware desk (opens 10:30 PM). *Only as plan C.</td></tr>
+          <tr><td><b>Best Hardware Prototype</b> · PCBWay</td><td>US$50 manufacturing credit (team)</td><td><span class="pill skip">Skip</span></td><td>Needs a physical build. Small prize.</td></tr>
+        </tbody>
+      </table>
+
+      <h3 class="grp">MLH tracks</h3>
+      <table class="tracks">
+        <thead><tr><th>Track</th><th>Prize</th><th>Can we?</th><th>What it takes</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td>Best Use of Gemini API</td><td>MLH swag kits</td><td><span class="pill easy">Add-on</span></td><td>Use Gemini as the agent's model.</td></tr>
+          <tr class="is-pick"><td>Best Use of Auth0</td><td>Wireless headphones each</td><td><span class="pill easy">Add-on</span></td><td>Add Auth0 login (free tier, no card needed). Auth0 for AI Agents fits an agent app.</td></tr>
+          <tr class="is-pick"><td>Best Use of Vultr</td><td>Assorted prizes</td><td><span class="pill easy">Add-on</span></td><td>Deploy the backend on Vultr with the free hackathon credits.</td></tr>
+          <tr class="is-pick"><td>Best Domain Name · GoDaddy Registry</td><td>Digital gift card</td><td><span class="pill easy">Add-on</span></td><td>Register a clever domain through GoDaddy Registry (MLH usually gives a free code; ask at the MLH table).</td></tr>
+          <tr class="is-pick"><td>Best Use of Entire</td><td>Mini portable projector</td><td><span class="pill easy">Add-on</span></td><td>Use Entire Sessions + Graph while we build with coding agents, then show token savings in the demo. Promo code is in the MLH email.</td></tr>
+          <tr><td>Best Use of Tiger Data</td><td>Stream Deck Mini</td><td><span class="pill maybe">Maybe</span></td><td>Postgres with time-series data. Natural for plan B (rate history), or claim logs in plan A.</td></tr>
+          <tr><td>Best Use of Solana</td><td>Unruggable hardware wallets</td><td><span class="pill skip">Skip</span></td><td>Would be forced into either plan.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+
+    <section aria-labelledby="submit" id="submit-sec">
+      <h2 id="submit">What to submit (Devpost, due Sun 9:00 AM)</h2>
+      <table class="tracks">
+        <thead><tr><th>Item</th><th>Status</th><th>Notes</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td>Project page on the Hack Western 13 Devpost</td><td><span class="pill go">Required</span></td><td>Can't be edited after 9:00 AM Sunday. Submit a draft early and keep improving it.</td></tr>
+          <tr class="is-pick"><td>All teammates added</td><td><span class="pill go">Required</span></td><td>Must match the team on the live site. Everyone must be an accepted HW13 hacker.</td></tr>
+          <tr class="is-pick"><td>Tracks selected</td><td><span class="pill go">Required</span></td><td>Pick the same tracks on Devpost and the live site.</td></tr>
+          <tr class="is-pick"><td>Write-up: what it does, how it works, why you built it, what you finished this weekend</td><td><span class="pill go">Required</span></td><td>Sponsors shortlist from this, so add a short paragraph per track you enter.</td></tr>
+          <tr><td>Code repo link</td><td><span class="pill maybe">Expected</span></td><td>Listed as a field "once published." Use <code>PragalvhaSharma/at-Western</code> and make it public, or add judges, before the deadline.</td></tr>
+          <tr><td>Demo video</td><td><span class="pill maybe">Optional now</span></td><td>Devpost says optional and the Hacker Package says the field may become required. <b>Make one anyway:</b> TinyFish requires a demo posted on X or LinkedIn tagging them.</td></tr>
+          <tr><td>Screenshots / GIFs</td><td><span class="pill easy">Optional</span></td><td>Cheap, and they help sponsors shortlist you.</td></tr>
+        </tbody>
+      </table>
+      <p class="legend"><b>Video recipe (about 2 min):</b> 10 s problem with a named user, then 90 s of a live screen recording of the agent doing one real task start to finish, then 15 s showing which sponsor tools it uses and one impact number. Record it Saturday night, so a broken demo on Sunday morning can't cost you the submission.</p>
+      <ul>
+        <li><b>Times conflict:</b> the Hacker Package says sponsor judging starts 10:00 AM (rooms 2110, 2230, 2235) and general judging 11:30 AM in Grand Hall (1110) with 3 min + 2 min Q&amp;A. Devpost says 12–1 PM with 1 min Q&amp;A. Plan for the earlier time and watch Slack for table assignments.</li>
+        <li><b>Hardware checkout</b> (Hacker Package): Fri 9:30 PM–12 AM, Sat 10 AM–10 PM, return by 5 PM. Stock is RPi kits and cameras. Makerspace Rm 2247 takes new prints until Sat 8 PM.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="time">
+      <h2 id="time">Deadlines</h2>
+      <figure class="reveal">
+        <div class="diagram" data-play data-ms="1100">
+          <ol class="ladder" data-reveal-stagger>
+            <li data-step><span class="who">Fri 9:00 PM</span>Hacking started. All code must be written after this.</li>
+            <li data-step><span class="who">Fri 10:30 PM</span>Hardware desk opens (QNX Pi 5 loaners).</li>
+            <li data-step><span class="who">Sat 10:00 AM</span>Accept any coffee chats you were offered, or the spot goes to the next person.</li>
+            <li data-step class="is-key"><span class="who">Sun 9:00 AM</span>Coding stops. Devpost submission is due and can't be edited after.</li>
+            <li data-step><span class="who">Sun 9:45 AM</span>Sponsor judging times are sent out.</li>
+            <li data-step><span class="who">Sun 10 AM</span>Sponsor judging starts (2nd floor), per the Hacker Package.</li>
+            <li data-step><span class="who">Sun 11:30 AM</span>Demo fair in Grand Hall (Devpost says 12–1 PM). Three judges, 3 min demo each. No slides.</li>
+          </ol>
+        </div>
+        <figcaption>About 34 hours of build time are left.</figcaption>
+      </figure>
+    </section>
+
+
+    <section aria-labelledby="ask" id="ask-sec">
+      <h2 id="ask">Who to ask</h2>
+      <table class="tracks">
+        <thead><tr><th>Question</th><th>Ask here</th><th>Draft (copy, edit, send)</th></tr></thead>
+        <tbody>
+          <tr class="is-pick"><td>Can one project enter 7+ tracks?</td><td><b>#0-ask-organizers</b> on Slack, or the help desk outside Grand Hall. Organizers: Allison Ye, Jessica Wang.</td><td>"Is there a cap on how many sponsor + MLH tracks one project can enter? Planning ~7."</td></tr>
+          <tr class="is-pick"><td>TinyFish credits / sign-up broken</td><td><b>#spon-tinyfish</b>, or their booth</td><td>"Signing up at tinyfish.ai/students for credits. Is it working, or is there a code?"</td></tr>
+          <tr><td>Does a health benefits agent fit the Sun Life track?</td><td><b>#spon-sunlife</b> or the Sun Life booth. Reps: Nassima Younes (Talent Acquisition), Satwika Pujari.</td><td>"Would an agent that checks benefit coverage for clinic staff count as a health hack?"</td></tr>
+          <tr><td>Does a savings-rate agent fit Future Me? (plan B)</td><td><b>#spon-canada-life</b> or the booth. Rep: Rob Craig (Emerging Talent).</td><td>"Would an agent that compares TFSA/FHSA rates across banks fit Future Me?"</td></tr>
+          <tr><td>Gemini, Auth0, Vultr, GoDaddy domain code, Entire promo</td><td><b>MLH table</b> (the MLH coach at the event)</td><td>Ask in person: "Free domain code + Vultr credits?"</td></tr>
+          <tr><td>Stuck on code</td><td><b>#0-ask-mentors</b>. Say what you need and where you're sitting. Mentor profiles are on the live site.</td><td>"Need help with Playwright login on a portal. Table X, 2nd floor."</td></tr>
+          <tr class="is-pick"><td>Hardware: borrow parts, boards, sensors</td><td><b>Hardware desk</b> at the help desk outside Grand Hall (opened 10:30 PM Fri). Rules/stock questions: <b>#0-ask-organizers</b>.</td><td>"What hardware do you have left to borrow? Looking for X."</td></tr>
+          <tr><td>3D printing, making parts</td><td><b>3D Printing Lab &amp; Makerspace</b>, Rm 2247. Free prints, organizers on hand.</td><td>-</td></tr>
+          <tr><td>QNX Raspberry Pi 5 loaner</td><td><b>Hardware desk</b> for the Pi, <b>#spon-qnx</b> or the QNX booth for setup and AI modules</td><td>"Any QNX Pi 5s left? Which oss.qnx.com AI module do you recommend?"</td></tr>
+          <tr><td>PCBWay hardware prototype track</td><td><b>#spon-pcbway</b></td><td>"Does a prototype need a custom PCB to qualify?"</td></tr>
+          <tr><td>Rules, judging slots, live site</td><td><b>#0-ask-organizers</b> / help desk. Watch <b>#0-announcements</b>.</td><td>-</td></tr>
+        </tbody>
+      </table>
+      <ul>
+        <li><b>Ask the sponsor in person if you can.</b> Booth reps are often the judges, so a 2-minute chat about the idea doubles as a pre-pitch.</li>
+        <li>Nothing has been sent. The drafts are for you to copy.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="notes" id="notes-sec">
+      <h2 id="notes">Fine print that affects us</h2>
+      <ul>
+        <li><b>Stacking is allowed.</b> The rules say to "select the sponsor prize tracks you want to enter" on both the live site and Devpost, and the tracks and team members must match on both. I found no cap in the rules or Slack. Confirm in #0-ask-organizers if it matters.</li>
+        <li><b>Team:</b> up to 4 people, and all must be accepted Hack Western 13 participants who are present on site. One project per team.</li>
+        <li><b>The TinyFish track needs a public post.</b> You'd post the demo on X or LinkedIn yourself. I won't post for you. One hacker in #spon-tinyfish reports the student credits sign-up isn't working, so claim credits early.</li>
+        <li><b>Sponsors without a posted track:</b> Scotiabank (title sponsor), Manulife, Accenture, Autodesk, Commure, CSE, Shopify, StarTech and UBIT have Slack channels with no challenge posted yet. Watch them, since a late track could add one more stack.</li>
+      </ul>
+      <details>
+        <summary>Sources checked</summary>
+        <ul>
+          <li>Devpost prize list and rules: hack-western-13.devpost.com (16 prizes)</li>
+          <li>Opening Ceremony slides (posted in #0-general, 9:52 PM): Grand Prizes, QNX, Sun Life and Canada Life slides</li>
+          <li>Slack: #0-announcements, #0-general and all 14 #spon-* channels</li>
+          <li>Emails: "Hack Western 13 Is Today!" and the MLH "Everything you'll need to know" email</li>
+        </ul>
+      </details>
+    </section>
+  </main>
+  <script>
+/* ── praghtml · reveal.js ─────────────────────────────────────────────────
+   Mode 1. Elements enter once as they scroll in. Paste inline at the end of
+   <body>. Mark up with class="reveal", or data-reveal-stagger on a parent
+   to cascade its children.                                                  */
+(() => {
+  // Ideally also set in <head> so nothing flashes before this runs.
+  document.documentElement.classList.add("js-on");
+
+  const targets = document.querySelectorAll(".reveal, [data-reveal-stagger]");
+  if (!targets.length) return;
+
+  // Number the children of each stagger parent so CSS can delay them in turn.
+  document.querySelectorAll("[data-reveal-stagger]").forEach((parent) => {
+    [...parent.children].forEach((child, i) => child.style.setProperty("--i", i));
+  });
+
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const show = (el) => el.classList.add("is-in");
+
+  // No observer, or the viewer asked for less motion: everything is present.
+  if (reduce || !("IntersectionObserver" in window)) {
+    targets.forEach(show);
+    return;
+  }
+
+  const io = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        show(entry.target);
+        io.unobserve(entry.target);   // once, never again
+      });
+    },
+    { threshold: 0.15, rootMargin: "0px 0px -8% 0px" }
+  );
+
+  targets.forEach((el) => {
+    // The first screen animates on load instead of waiting for a scroll.
+    // Two frames so the hidden state paints first and the transition runs.
+    if (el.getBoundingClientRect().top < window.innerHeight) {
+      requestAnimationFrame(() => requestAnimationFrame(() => show(el)));
+    } else io.observe(el);
+  });
+})();
+
+/* ── praghtml · play.js ───────────────────────────────────────────────────
+   Mode 3. Ideator motion for any diagram, with zero scene code. Put
+   data-play on a container and it walks itself, on a loop:
+
+     <div class="diagram" data-play>
+       <ol class="ladder">
+         <li data-step data-say="Agent picks a hypothesis">…</li>
+         <li data-step>…</li>
+       </ol>
+       <div class="forks" data-pick>   ← a branch: one child wins per pass,
+         <div class="fork">…</div>        cycling keep → discard → crash
+       </div>
+     </div>
+
+   Steps are every [data-step] / [data-pick] inside, in DOM order. With none
+   marked, the container's direct children are the steps.
+
+     • Starts when the diagram scrolls in (after Reveal has finished).
+     • Current step .is-now, passed steps .is-done, upcoming ones wait dim.
+     • Loops. Pauses off-screen, on tab switch, and on click (WCAG 2.2.2).
+     • data-ms on a step or the container sets the beat (default 950).
+     • prefers-reduced-motion: never starts. The diagram is simply there.   */
+(() => {
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (reduce) return;
+
+  const HOLD = 1400;       // hold the finished frame before rewinding
+  const REST = 520;        // calm beat after the rewind
+  const SETTLE = 700;      // let Reveal's entrance finish first
+
+  document.querySelectorAll("[data-play]").forEach((root) => {
+    let steps = [...root.querySelectorAll("[data-step], [data-pick]")];
+    if (!steps.length) steps = [...root.children];
+    if (!steps.length) return;
+
+    const beat = Number(root.dataset.ms) || 950;
+    const says = steps.some((s) => s.dataset.say);
+
+    // Control bar: live dot, caption, beats, pause. Injected so pages stay clean.
+    const bar = document.createElement("div");
+    bar.className = "play-bar";
+    bar.innerHTML =
+      `<span class="play-dot" aria-hidden="true"></span>` +
+      (says ? `<span class="play-say"></span>` : "") +
+      `<span class="play-beats" aria-hidden="true">${steps.map(() => "<i></i>").join("")}</span>` +
+      `<button type="button" class="play-btn" aria-pressed="false">Pause</button>`;
+    root.after(bar);
+    const sayEl = bar.querySelector(".play-say");
+    const beats = [...bar.querySelectorAll(".play-beats i")];
+    const btn = bar.querySelector(".play-btn");
+
+    let pass = 0, i = -1, timer = null, running = false;
+    let onScreen = false, userPaused = false, settled = false;
+
+    function clearPick(g) { [...g.children].forEach((c) => c.classList.remove("is-pick", "is-dim")); }
+
+    function reset() {
+      steps.forEach((s) => {
+        s.classList.remove("is-now", "is-done");
+        if (s.hasAttribute("data-pick")) clearPick(s);
+      });
+      beats.forEach((b) => b.classList.remove("is-now", "is-done"));
+      if (sayEl) sayEl.textContent = "";
+      i = -1;
+    }
+
+    function show(n) {
+      steps.forEach((s, k) => {
+        s.classList.toggle("is-now", k === n);
+        s.classList.toggle("is-done", k < n);
+      });
+      beats.forEach((b, k) => {
+        b.classList.toggle("is-now", k === n);
+        b.classList.toggle("is-done", k < n);
+      });
+      const s = steps[n];
+      if (s.hasAttribute("data-pick")) {
+        const kids = [...s.children];
+        const win = kids[pass % kids.length];
+        kids.forEach((c) => {
+          c.classList.toggle("is-pick", c === win);
+          c.classList.toggle("is-dim", c !== win);
+        });
+      }
+      if (sayEl && s.dataset.say) sayEl.textContent = s.dataset.say;
+    }
+
+    function tick() {
+      timer = null;
+      if (!running) return;
+      if (i + 1 >= steps.length) {
+        // Hold the payoff, rewind, rest, go again.
+        timer = setTimeout(() => {
+          reset();
+          pass += 1;
+          timer = setTimeout(tick, REST);
+        }, HOLD);
+        return;
+      }
+      i += 1;
+      show(i);
+      timer = setTimeout(tick, Number(steps[i].dataset.ms) || beat);
+    }
+
+    function sync() {
+      const go = settled && onScreen && !userPaused && !document.hidden;
+      root.classList.toggle("is-playing", i >= 0 || go);
+      bar.classList.toggle("is-live", go);
+      btn.textContent = userPaused ? "Play" : "Pause";
+      btn.setAttribute("aria-pressed", String(userPaused));
+      if (go && !running) { running = true; tick(); }
+      if (!go && running) { running = false; clearTimeout(timer); timer = null; }
+    }
+
+    const toggle = () => { userPaused = !userPaused; sync(); };
+    btn.addEventListener("click", toggle);
+    root.addEventListener("click", (e) => { if (!e.target.closest("a, button")) toggle(); });
+    document.addEventListener("visibilitychange", sync);
+
+    new IntersectionObserver((entries) => {
+      onScreen = entries.some((en) => en.isIntersecting);
+      if (onScreen && !settled) setTimeout(() => { settled = true; sync(); }, SETTLE);
+      sync();
+    }, { threshold: 0.35 }).observe(root);
+  });
+})();
+  </script>
+</body>
+</html>

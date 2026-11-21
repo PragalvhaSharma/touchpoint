@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- Session tracking: keep these accurate so follow-up turns update THIS file. -->
+  <meta name="praghtml-file" content="outputs/qnx-why-it-keeps-running.html" />
+  <meta name="praghtml-session" content="active" />
+  <title>Why QNX keeps running when parts crash</title>
+
+  <script>document.documentElement.classList.add("js-on")</script>
+  <style>
+    /* PLACEHOLDER palette — re-theme per frontend-design (4–6 semantic tokens). */
+    :root {
+      --ink:        #16202b;
+      --muted:      #5b6b7b;
+      --line:       #dfe4ea;
+      --surface:    #f5f7f9;
+      --bg:         #ffffff;
+      --accent:     #0d7a6f;
+      --accent-soft:#e2f3f0;
+      --font: "IBM Plex Sans", "Segoe UI", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+      --maxw: 52rem;
+    }
+
+    * { box-sizing: border-box; }
+    html { -webkit-text-size-adjust: 100%; }
+    body {
+      margin: 0; background: var(--bg); color: var(--ink);
+      font-family: var(--font); line-height: 1.6;
+      font-size: 16px; -webkit-font-smoothing: antialiased;
+    }
+    main { max-width: var(--maxw); margin: 0 auto; padding: clamp(24px, 5vw, 64px) 24px 96px; }
+
+    header { margin-bottom: 40px; }
+    .session-tag {
+      display: inline-block; font-size: 0.75rem; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--accent); margin-bottom: 10px;
+    }
+    h1 { font-size: clamp(1.7rem, 4vw, 2.4rem); line-height: 1.15; letter-spacing: -0.02em; margin: 0 0 12px; }
+    .gist { font-size: 1.1rem; color: var(--muted); max-width: 48ch; margin: 0; }
+
+    section { margin-top: 52px; }
+    h2 {
+      font-size: 1.15rem; letter-spacing: -0.01em; margin: 0 0 16px;
+      padding-left: 14px; border-left: 3px solid var(--accent);
+    }
+    h3 { font-size: 1rem; margin: 0 0 12px; }
+    p, ul { margin: 0 0 12px; }
+    ul { padding-left: 1.15rem; } li { margin: 4px 0; }
+    code { font-family: var(--mono); font-size: 0.88em; background: var(--surface);
+           padding: 1px 5px; border-radius: 4px; }
+
+    figure { margin: 0; }
+    .diagram {
+      background: var(--surface); border: 1px solid var(--line); border-radius: 12px;
+      padding: clamp(16px, 3vw, 28px);
+    }
+    figcaption { color: var(--muted); font-size: 0.9rem; margin-top: 10px; }
+
+    /* ── DIAGRAM PRIMITIVES ─────────────────────────────────────────────
+       Hand-built. No Mermaid, no library, no render pass. Five shapes
+       cover everything: chain, layers, ladder, track, hand SVG.        */
+
+    /* shared box */
+    .box {
+      background: var(--bg); border: 1px solid var(--line); border-radius: 9px;
+      padding: 10px 14px; font-size: 0.9rem; line-height: 1.35; text-align: center;
+    }
+    .box small { display: block; color: var(--muted); font-size: 0.78rem; margin-top: 2px; }
+    .box.is-key { background: var(--accent-soft); border-color: var(--accent); font-weight: 600; }
+    .box.is-muted { background: transparent; border-style: dashed; color: var(--muted); }
+
+    /* 1 · CHAIN — a flow of 3–6 steps */
+    .chain { display: flex; align-items: stretch; gap: 0; flex-wrap: wrap;
+             list-style: none; margin: 0; padding: 0; }
+    .chain > li { display: flex; align-items: center; gap: 12px; flex: 1 1 auto; min-width: 0; }
+    .chain > li > .box { flex: 1; }
+    .chain > li:not(:last-child)::after {
+      content: "→"; color: var(--muted); font-size: 1.1rem; flex: none;
+    }
+    @media (max-width: 640px) {
+      .chain { flex-direction: column; }
+      .chain > li { flex-direction: column; gap: 6px; }
+      .chain > li > .box { width: 100%; }
+      .chain > li:not(:last-child)::after { content: "↓"; }
+    }
+
+    /* 2 · LAYERS — stack / architecture; the boundary IS the border */
+    .layers { display: grid; gap: 10px; }
+    .layer {
+      display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+      border: 1px solid var(--line); border-radius: 11px; padding: 12px;
+      background: var(--bg);
+    }
+    .layer > .box { flex: 1 1 140px; }
+    .layer-name {
+      flex: none; width: 5.5rem; font-size: 0.72rem; letter-spacing: 0.06em;
+      text-transform: uppercase; color: var(--muted);
+    }
+    .layer.is-frozen { background: var(--accent-soft); border-color: var(--accent); }
+    @media (max-width: 640px) { .layer-name { width: 100%; } }
+
+    /* 3 · LADDER — order of events. Replaces the sequence diagram. */
+    .ladder { list-style: none; margin: 0; padding: 0 0 0 4px; counter-reset: step; }
+    .ladder > li {
+      position: relative; padding: 0 0 16px 40px; counter-increment: step;
+      font-size: 0.94rem;
+    }
+    .ladder > li::before {
+      content: counter(step);
+      position: absolute; left: 0; top: 0;
+      width: 22px; height: 22px; border-radius: 50%;
+      background: var(--bg); border: 1px solid var(--line); color: var(--muted);
+      font-size: 0.72rem; font-weight: 600;
+      display: grid; place-items: center;
+    }
+    .ladder > li::after {   /* the spine */
+      content: ""; position: absolute; left: 11px; top: 24px; bottom: 0;
+      border-left: 1px solid var(--line);
+    }
+    .ladder > li:last-child { padding-bottom: 0; }
+    .ladder > li:last-child::after { display: none; }
+    .ladder .who {
+      display: inline-block; font-size: 0.72rem; font-weight: 600;
+      letter-spacing: 0.03em; text-transform: uppercase;
+      background: var(--surface); border: 1px solid var(--line); border-radius: 999px;
+      padding: 1px 8px; margin-right: 6px; color: var(--muted);
+    }
+    .ladder > li.is-key::before { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+    /* branches — two short blocks side by side, never a dotted frame */
+    .forks { display: flex; gap: 12px; flex-wrap: wrap; margin-top: 4px; }
+    .fork { flex: 1 1 200px; border: 1px solid var(--line); border-radius: 10px;
+            padding: 12px 14px; background: var(--bg); font-size: 0.9rem; }
+    .fork h4 { margin: 0 0 4px; font-size: 0.78rem; letter-spacing: 0.04em;
+               text-transform: uppercase; color: var(--muted); }
+
+    /* 4 · TRACK — states / motion over time */
+    .track { display: flex; border: 1px solid var(--line); border-radius: 9px; overflow: hidden; }
+    .track > span { flex: 1; padding: 9px 10px; font-size: 0.82rem; text-align: center;
+                    background: var(--bg); border-right: 1px solid var(--line); }
+    .track > span:last-child { border-right: 0; }
+    .track > span.is-key { background: var(--accent-soft); font-weight: 600; }
+
+    table { width: 100%; border-collapse: collapse; font-size: 0.94rem; margin-top: 16px; }
+    th, td { text-align: left; padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+    th { color: var(--muted); font-weight: 600; font-size: 0.82rem; text-transform: uppercase; letter-spacing: 0.04em; }
+    tbody tr:last-child td { border-bottom: none; }
+    td code { background: var(--bg); border: 1px solid var(--line); overflow-wrap: anywhere; }
+    @media (max-width: 640px) { th, td { padding: 8px 8px; } }
+
+    /* Questions log — each follow-up appends an article (newest on top). */
+    #questions .q {
+      border: 1px solid var(--line); border-radius: 12px;
+      padding: 20px 20px 16px; margin-bottom: 16px; background: var(--bg);
+    }
+    #questions .q-meta {
+      font-size: 0.75rem; letter-spacing: 0.04em; text-transform: uppercase;
+      color: var(--muted); margin-bottom: 6px;
+    }
+
+    .demo { display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+            background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 24px; }
+    .demo-stage { flex: 1 1 220px; min-height: 120px; display: flex; align-items: center; justify-content: center; }
+    .demo-card {
+      width: 72px; height: 72px; border-radius: 12px;
+      background: var(--accent); color: #fff; display: grid; place-items: center;
+      font-size: 0.8rem;
+      transition: transform 320ms cubic-bezier(0.22, 1, 0.36, 1);
+    }
+    .demo-card.is-open { transform: scale(2); }
+    .btn {
+      font: inherit; font-size: 0.9rem; cursor: pointer;
+      background: var(--ink); color: #fff; border: 0; border-radius: 8px; padding: 8px 16px;
+    }
+    :focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+    @media (prefers-reduced-motion: reduce) {
+      *, *::before, *::after { transition-duration: 0.01ms !important; animation-duration: 0.01ms !important; }
+    }
+    @media print {
+      body { background: #fff; }
+      section, figure, .q, .demo, .layer { break-inside: avoid; }
+      .btn { display: none; }
+    }
+
+/* ── praghtml · motion.css ────────────────────────────────────────────────
+   Paste inline into the page's <style>. Never link it — pages stay
+   self-contained. Assumes the page already defines --accent and --line.     */
+
+:root {
+  --ease:   cubic-bezier(0.22, 1, 0.36, 1);  /* ease-out, slight spring */
+  --t-fast: 160ms;   /* state flips */
+  --t-base: 240ms;   /* the default */
+  --t-slow: 320ms;   /* the hero moment only */
+  --t-reveal: 520ms; /* structure entering the page — long enough to see */
+  --reveal-y: 18px;  /* entrance travel */
+  --stagger: 90ms;   /* gap between siblings arriving */
+}
+
+/* ── Mode 1 · Reveal ──────────────────────────────────────────────────────
+   The resting state only applies once JS is on, so a page with JS disabled
+   (or a failed script) still shows everything.                              */
+.js-on .reveal {
+  opacity: 0;
+  transform: translateY(var(--reveal-y));
+}
+.js-on .reveal.is-in {
+  opacity: 1;
+  transform: none;
+  transition: opacity var(--t-reveal) var(--ease),
+              transform var(--t-reveal) var(--ease);
+}
+/* Stagger: children of a [data-reveal-stagger] parent arrive in sequence.
+   reveal.js sets --i per child; the cap keeps long lists from crawling.     */
+.js-on [data-reveal-stagger] > * {
+  opacity: 0;
+  transform: translateY(var(--reveal-y));
+}
+.js-on [data-reveal-stagger].is-in > * {
+  opacity: 1;
+  transform: none;
+  transition: opacity var(--t-reveal) var(--ease),
+              transform var(--t-reveal) var(--ease);
+  transition-delay: calc(var(--i, 0) * var(--stagger));
+}
+/* A chain reads left-to-right, so its arrows fade slightly behind the boxes. */
+.js-on [data-reveal-stagger].is-in > *::after { transition: opacity var(--t-fast) var(--ease) calc(var(--i, 0) * var(--stagger) + 120ms); }
+.js-on [data-reveal-stagger] > *::after { opacity: 0; }
+.js-on [data-reveal-stagger].is-in > *::after { opacity: 1; }
+
+/* ── Mode 3 · Play ────────────────────────────────────────────────────────
+   play.js walks a [data-play] diagram on a loop. Upcoming steps wait dim,
+   the current one lifts and rings, finished ones keep an accent trace.
+   Specificity is deliberately high so it wins over the Reveal rules.       */
+[data-play] { cursor: pointer; }
+.js-on [data-play].is-playing [data-step],
+.js-on [data-play].is-playing [data-pick] > *,
+.js-on [data-play].is-playing .box {
+  transition: opacity var(--t-base) var(--ease),
+              transform var(--t-base) var(--ease),
+              border-color var(--t-fast) var(--ease),
+              background-color var(--t-fast) var(--ease),
+              box-shadow var(--t-base) var(--ease);
+  transition-delay: 0s;
+}
+.js-on [data-play].is-playing [data-step]:not(.is-now):not(.is-done),
+.js-on [data-play].is-playing [data-pick]:not(.is-now):not(.is-done) > * { opacity: 0.38; }
+.js-on [data-play] [data-step].is-now { transform: translateY(-3px); }
+
+/* The ring lands on whatever the step is drawn as: a card, or the box inside. */
+[data-play] .is-now:is(.box, .card, .layer, .fork),
+[data-play] .is-now > .box,
+[data-play] .gates > li.is-now {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft), 0 10px 24px -14px var(--accent);
+}
+[data-play] .is-done > .box,
+[data-play] .is-done:is(.box, .card, .layer),
+[data-play] .gates > li.is-done { border-color: var(--accent); }
+[data-play] .chain > li.is-done::after { color: var(--accent); }
+
+/* Ladder: the dot fills and pings, the spine fills behind it. */
+[data-play] .ladder > li.is-now::before {
+  background: var(--accent); border-color: var(--accent); color: #fff;
+  animation: play-ping 950ms var(--ease) infinite;
+}
+[data-play] .ladder > li.is-done::before { border-color: var(--accent); color: var(--accent); }
+[data-play] .ladder > li.is-done::after { border-left-color: var(--accent); }
+@keyframes play-ping {
+  0%   { box-shadow: 0 0 0 0 var(--accent-soft); }
+  100% { box-shadow: 0 0 0 9px transparent; }
+}
+
+/* Branch: one outcome wins per pass, the rest step back. */
+.js-on [data-play] [data-pick] > .is-pick { transform: scale(1.035); box-shadow: 0 10px 24px -14px currentColor; }
+.js-on [data-play] [data-pick] > .is-dim  { opacity: 0.3; }
+
+/* Control bar play.js injects under the diagram. */
+.play-bar {
+  display: flex; align-items: center; gap: 10px; margin-top: 10px;
+  font-size: 0.8rem; color: var(--muted, #6a7279);
+}
+.play-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--line); flex: none; }
+.play-bar.is-live .play-dot { background: var(--accent); animation: play-live 1.6s ease-in-out infinite; }
+@keyframes play-live { 50% { opacity: 0.3; } }
+.play-say { flex: 1; min-width: 0; }
+.play-beats { display: flex; gap: 4px; margin-left: auto; }
+.play-beats i { width: 14px; height: 3px; border-radius: 2px; background: var(--line);
+                transition: background-color var(--t-fast) var(--ease); }
+.play-beats i.is-done { background: var(--accent); opacity: 0.5; }
+.play-beats i.is-now  { background: var(--accent); }
+.play-btn {
+  font: inherit; font-size: 0.75rem; color: inherit; cursor: pointer;
+  background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 2px 10px;
+}
+
+/* ── State vocabulary ─────────────────────────────────────────────────────
+   Six classes, same meaning on every page. Scenes add and remove these —
+   they never write inline styles.                                           */
+.is-in   { opacity: 1; transform: none; }
+.is-on   { border-color: var(--accent); }
+.is-dim  { opacity: 0.4; }
+.is-pick { box-shadow: 0 0 0 2px var(--accent); }
+.is-out  { opacity: 0; transform: translateY(calc(var(--reveal-y) * -0.5)); }
+
+/* Anything a scene mutates should declare its transition explicitly.
+   Name the properties — never `transition: all`.                            */
+[data-el] {
+  transition: opacity var(--t-base) var(--ease),
+              transform var(--t-base) var(--ease),
+              border-color var(--t-fast) var(--ease),
+              box-shadow var(--t-fast) var(--ease);
+}
+
+/* ── Reduced motion ───────────────────────────────────────────────────────
+   A real path, not a dimmer switch: everything is simply present.           */
+@media (prefers-reduced-motion: reduce) {
+  .js-on .reveal,
+  .js-on [data-reveal-stagger] > * {
+    opacity: 1 !important;
+    transform: none !important;
+  }
+  *, *::before, *::after {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) { .play-bar { display: none; } }
+
+@media print {
+  .reveal, [data-reveal-stagger] > * { opacity: 1 !important; transform: none !important; }
+  .play-bar { display: none; }
+}
+    /* QNX page tokens + custom pieces */
+    :root {
+      --accent: #1f5fbf; --accent-soft: #e6eefb;
+      --bad: #c2410c; --bad-soft: #fdebe3;
+      --ok: #15803d; --ok-soft: #e4f4e9;
+      --warn: #a16207; --warn-soft: #fdf3d7;
+    }
+    .pills { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 16px; }
+    .pills a { font-size: 0.8rem; color: var(--accent); text-decoration: none;
+               border: 1px solid var(--line); border-radius: 999px; padding: 3px 10px; background: var(--bg); }
+    .answer { background: var(--accent-soft); border: 1px solid var(--accent); border-radius: 12px;
+              padding: 14px 18px; margin-top: 20px; font-size: 1.02rem; }
+    .answer b { color: var(--accent); }
+
+    .vs { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    @media (max-width: 680px) { .vs { grid-template-columns: 1fr; } }
+    .os { position: relative; background: var(--bg); border: 1px solid var(--line); border-radius: 12px; padding: 14px; min-width: 0;
+          transition: background-color var(--t-base) var(--ease), border-color var(--t-base) var(--ease); }
+    .os-name { font-size: 0.75rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted);
+               font-weight: 600; margin-bottom: 10px; display: flex; justify-content: space-between; gap: 8px; align-items: center; }
+    .badge { font-size: 0.7rem; letter-spacing: 0; text-transform: none; border-radius: 999px; padding: 1px 8px; background: var(--ok-soft); color: var(--ok);
+             transition: background-color var(--t-fast) var(--ease), color var(--t-fast) var(--ease); white-space: nowrap; }
+    .kern { border: 2px solid var(--ink); border-radius: 10px; padding: 10px; transition: border-color var(--t-base) var(--ease); }
+    .kern-label { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 8px; }
+    .kern-label small { font-weight: 400; text-transform: none; letter-spacing: 0; color: var(--muted); }
+    .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+    .chip { flex: 1 1 calc(50% - 6px); min-width: 0; border: 1px solid var(--line); border-radius: 8px; padding: 7px 8px;
+            font-size: 0.8rem; line-height: 1.25; background: var(--ok-soft); color: var(--ink);
+            transition: background-color var(--t-base) var(--ease), border-color var(--t-base) var(--ease), opacity var(--t-base) var(--ease); }
+    .chip small { display: block; font-size: 0.7rem; color: var(--muted); }
+    .chip.is-stop { border-color: var(--accent); border-width: 2px; }
+    .kern.tiny { margin: 0 auto 10px; max-width: 230px; text-align: center; }
+    .kern.tiny .kern-label { margin-bottom: 0; }
+    .procs-label { font-size: 0.72rem; color: var(--muted); margin: 2px 0 6px; }
+    .proc-chips { gap: 10px; }
+    .proc-chips .chip { flex-basis: calc(50% - 10px); outline: 1px dashed var(--muted); outline-offset: 2px; }
+    .chip.crash { background: var(--bad-soft); border-color: var(--bad); }
+    .chip.restart { background: var(--warn-soft); border-color: var(--warn); }
+    .chip.dead { background: var(--surface); opacity: 0.5; }
+    .os.frozen { background: var(--bad-soft); border-color: var(--bad); }
+    .os.frozen .kern { border-color: var(--bad); }
+    .badge.bad { background: var(--bad); color: #fff; }
+    .badge.warn { background: var(--warn-soft); color: var(--warn); }
+    .demo-bar { display: flex; align-items: center; gap: 12px; margin-top: 12px; flex-wrap: wrap; }
+    .demo-cap { flex: 1 1 240px; font-size: 0.92rem; min-height: 2.6em; }
+    .demo-cap b { color: var(--accent); }
+    .mini-btn { font: inherit; font-size: 0.8rem; cursor: pointer; background: var(--bg); color: var(--ink);
+                border: 1px solid var(--line); border-radius: 999px; padding: 4px 12px; }
+    .dots { display: flex; gap: 5px; }
+    .dots i { width: 8px; height: 8px; border-radius: 50%; background: var(--line); transition: background-color var(--t-fast) var(--ease); }
+    .dots i.on { background: var(--accent); }
+
+    .race { display: grid; gap: 12px; }
+    .lane-row { display: grid; grid-template-columns: 6.5rem 1fr; gap: 10px; align-items: center; }
+    .lane-name { font-size: 0.78rem; font-weight: 600; }
+    .lane-name small { display: block; font-weight: 400; color: var(--muted); font-size: 0.7rem; }
+    .lane { position: relative; display: flex; height: 46px; border: 1px solid var(--line); border-radius: 9px; overflow: hidden; background: var(--bg); }
+    .seg { display: flex; align-items: center; justify-content: center; text-align: center; font-size: 0.72rem; line-height: 1.15;
+           padding: 0 4px; border-right: 1px solid var(--line); min-width: 0; overflow: hidden; }
+    .seg:last-child { border-right: 0; }
+    .seg.ai { background: var(--surface); }
+    .seg.stop { background: var(--accent); color: #fff; font-weight: 700; padding: 0; letter-spacing: -0.02em; }
+    .seg.wait { background: var(--bad-soft); color: var(--bad); }
+    .seg.off { background: var(--ok-soft); color: var(--ok); }
+    .hand-mark { position: absolute; top: 0; bottom: 0; left: 40%; border-left: 2px dashed var(--bad); z-index: 2; pointer-events: none; }
+    .sweep { position: absolute; inset: 0; z-index: 3; pointer-events: none; }
+    .sweep::before { content: ""; position: absolute; left: 0; top: 0; bottom: 0; width: 2px; background: var(--ink); }
+    .js-on .sweep { animation: sweep 7s linear infinite; }
+    .race.is-paused .sweep { animation-play-state: paused; }
+    @keyframes sweep { from { transform: translateX(0); } 90% { transform: translateX(100%); } to { transform: translateX(100%); } }
+    .axis { display: grid; grid-template-columns: 6.5rem 1fr; gap: 10px; font-size: 0.7rem; color: var(--muted); }
+    .axis div { position: relative; height: 1.3em; }
+    .axis span { position: absolute; transform: translateX(-50%); white-space: nowrap; color: var(--bad); font-weight: 600; }
+    @media (max-width: 560px) { .lane-row, .axis { grid-template-columns: 1fr; } .axis > :first-child { display: none; } .seg { font-size: 0.62rem; } }
+    @media (prefers-reduced-motion: reduce) { .sweep { display: none; } }
+
+    .say { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+    @media (max-width: 640px) { .say { grid-template-columns: 1fr; } }
+    .say .fork.yes { border-color: var(--ok); }
+    .say .fork.no { border-color: var(--bad); }
+    .say .fork.yes h4 { color: var(--ok); } .say .fork.no h4 { color: var(--bad); }
+    .say ul { margin: 6px 0 0; }
+    blockquote { margin: 16px 0 0; padding: 14px 18px; border-left: 3px solid var(--accent); background: var(--surface);
+                 border-radius: 0 10px 10px 0; font-size: 1rem; }
+    footer { margin-top: 56px; color: var(--muted); font-size: 0.82rem; }
+    footer a { color: var(--accent); }
+
+    .ladder + .forks { margin-top: 14px; }
+    #questions a { color: var(--accent); }
+    @media (max-width: 560px) { .seg.stop { font-size: 0.56rem; } }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div class="session-tag">Hack Western 13 · SafeStop · QNX track</div>
+      <h1>Why QNX keeps running when parts of it crash</h1>
+      <p class="gist">QNX can crash. It is built so one crash stays small: one broken part dies, gets restarted, and the stop code keeps running.</p>
+      <div class="answer"><b>Three reasons:</b> the core is tiny, every other part runs in its own walled-off box, and the most important code always runs first. The Arduino covers the last case: the whole Pi dies.</div>
+      <nav class="pills" aria-label="Sections">
+        <a href="#simple">Simplest version</a><a href="#big-picture">Big picture</a><a href="#crash">Crash demo</a><a href="#timing">Stop goes first</a><a href="#watchdog">Arduino backup</a><a href="#stack">SafeStop stack</a><a href="#pitch">What to say</a><a href="#q-2">How a program runs</a>
+      </nav>
+    </header>
+
+    <section aria-labelledby="simple" id="simple-sec">
+      <h2 id="simple">The simplest version</h2>
+      <figure class="reveal">
+        <div class="diagram">
+          <div class="say">
+            <div class="fork no"><h4>Your laptop = a babysitter</h4>Cooks, texts, watches TV, and also watches the kid. Usually fine. But sometimes they look away at the wrong second.</div>
+            <div class="fork yes"><h4>QNX Pi = a lifeguard</h4>Has one job. The moment someone is in trouble, they drop everything and act. Every time.</div>
+          </div>
+        </div>
+        <figcaption>A machine that can cut off a finger needs a lifeguard, not a babysitter.</figcaption>
+      </figure>
+      <figure class="reveal" style="margin-top:16px">
+        <div class="diagram" data-play data-ms="1300">
+          <ol class="chain" data-reveal-stagger>
+            <li data-step><div class="box">Camera sees a hand</div></li>
+            <li data-step><div class="box">AI says "hand!"</div></li>
+            <li data-step data-ms="1800"><div class="box is-key">QNX runs STOP first<small>drops everything else</small></div></li>
+            <li data-step><div class="box">Motor stops</div></li>
+          </ol>
+        </div>
+        <figcaption>That's the whole project.</figcaption>
+      </figure>
+      <table>
+        <thead><tr><th>Why use QNX?</th><th>In one line</th></tr></thead>
+        <tbody>
+          <tr><td>1 · The prize</td><td>The $1,000 QNX track only counts projects that run on QNX.</td></tr>
+          <tr><td>2 · Stop is never late</td><td>QNX always runs the stop code first. A laptop can't promise that.</td></tr>
+          <tr><td>3 · One crash doesn't kill it</td><td>If the camera part breaks, the stop part keeps working.</td></tr>
+        </tbody>
+      </table>
+      <p>Everything below this is detail. You only need this box to pitch it.</p>
+    </section>
+
+    <section aria-labelledby="big-picture">
+      <h2 id="big-picture">Big picture</h2>
+      <figure class="reveal">
+        <div class="diagram" data-play data-ms="1100">
+          <ol class="chain" data-reveal-stagger>
+            <li data-step data-say="1. The kernel (the core) only schedules, passes messages and handles hardware signals."><div class="box">Tiny kernel<small>less code, fewer bugs</small></div></li>
+            <li data-step data-say="2. Drivers and apps each run in their own protected box. A crash stays inside its box."><div class="box">Parts in boxes<small>camera, USB, AI, stop</small></div></li>
+            <li data-step data-ms="1600" data-say="3. The stop thread has the highest priority, so it always runs first."><div class="box is-key">Stop runs first<small>highest priority</small></div></li>
+            <li data-step data-say="4. If the whole Pi dies, the Arduino stops the motor by itself."><div class="box">Arduino backup<small>200 ms watchdog</small></div></li>
+          </ol>
+        </div>
+        <figcaption>Each layer covers a failure the one before it can't stop.</figcaption>
+      </figure>
+    </section>
+
+    <section aria-labelledby="crash" id="crash-sec">
+      <h2 id="crash">The same bug on a Mac and on QNX</h2>
+      <figure class="reveal">
+        <div class="diagram" id="crashDemo">
+          <div class="vs">
+            <div class="os" id="osMac">
+              <div class="os-name">macOS / Windows <span class="badge" id="badgeMac">running</span></div>
+              <div class="kern">
+                <div class="kern-label">Big kernel <small>(drivers live inside)</small></div>
+                <div class="chips">
+                  <div class="chip" id="macCam">Camera driver</div>
+                  <div class="chip" id="macUsb">USB driver</div>
+                  <div class="chip" id="macNet">Wi-Fi driver</div>
+                  <div class="chip" id="macFs">File system</div>
+                </div>
+              </div>
+              <div class="procs-label" style="margin-top:10px">Apps</div>
+              <div class="chips">
+                <div class="chip" id="macAi">AI hand detector</div>
+                <div class="chip is-stop" id="macStop">Stop code<small id="macStopTxt">running</small></div>
+              </div>
+            </div>
+            <div class="os" id="osQnx">
+              <div class="os-name">QNX on the Pi 5 <span class="badge" id="badgeQnx">running</span></div>
+              <div class="kern tiny">
+                <div class="kern-label">Tiny kernel <small>(schedule · messages · interrupts)</small></div>
+              </div>
+              <div class="procs-label">Separate programs, each in its own box</div>
+              <div class="chips proc-chips">
+                <div class="chip" id="qCam">Camera driver<small id="qCamTxt">running</small></div>
+                <div class="chip" id="qUsb">USB serial driver</div>
+                <div class="chip" id="qAi">AI hand detector</div>
+                <div class="chip is-stop" id="qStop">Stop code<small id="qStopTxt">running</small></div>
+              </div>
+            </div>
+          </div>
+          <div class="demo-bar">
+            <div class="dots" id="crashDots" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+            <div class="demo-cap" id="crashCap" aria-live="polite">Both computers run the camera, the AI and the stop code.</div>
+            <button class="mini-btn" id="crashBtn" type="button" aria-pressed="false">Pause</button>
+          </div>
+        </div>
+        <figcaption>Same bug, different blast radius. On a Mac the driver is inside the core, so the core goes down with it.</figcaption>
+      </figure>
+      <table>
+        <thead><tr><th>Apartment building</th><th>Computer</th></tr></thead>
+        <tbody>
+          <tr><td>One big open floor. A kitchen fire spreads to every unit.</td><td>macOS / Windows: a driver bug can freeze the whole machine (the blue screen).</td></tr>
+          <tr><td>Fire walls between units. One unit burns; the rest stay home.</td><td>QNX: the camera driver dies alone. A monitor program starts it again.</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section aria-labelledby="timing">
+      <h2 id="timing">The stop code always goes first</h2>
+      <figure class="reveal">
+        <div class="diagram">
+          <div class="race" id="race">
+            <div class="lane-row">
+              <div class="lane-name">QNX<small>stop = top priority</small></div>
+              <div class="lane">
+                <div class="seg ai" style="flex:40">AI checks frames</div>
+                <div class="seg stop" style="flex:10">STOP</div>
+                <div class="seg off" style="flex:50">motor stopped ✓</div>
+                <div class="hand-mark"></div><div class="sweep"></div>
+              </div>
+            </div>
+            <div class="lane-row">
+              <div class="lane-name">macOS<small>no timing promise</small></div>
+              <div class="lane">
+                <div class="seg ai" style="flex:40">AI checks frames</div>
+                <div class="seg wait" style="flex:28">waits: update, Chrome…</div>
+                <div class="seg stop" style="flex:10">STOP</div>
+                <div class="seg off" style="flex:22">stopped, late</div>
+                <div class="hand-mark"></div><div class="sweep"></div>
+              </div>
+            </div>
+            <div class="axis"><div></div><div><span style="left:40%">↑ hand detected</span></div></div>
+          </div>
+          <div class="demo-bar"><div class="demo-cap">The dashed line is the moment the AI sees a hand. Widths are illustrative.</div>
+            <button class="mini-btn" id="raceBtn" type="button" aria-pressed="false">Pause</button></div>
+        </div>
+        <figcaption>QNX runs the highest-priority ready thread right away, so the stop code can't get stuck in line.</figcaption>
+      </figure>
+      <ul>
+        <li><b>Real time</b> means predictable, not just fast. The stop happens within a known, bounded time, every time.</li>
+        <li>In your code: give the stop thread the highest priority, and give the AI thread a normal one.</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="watchdog">
+      <h2 id="watchdog">Where QNX can still fail, and the Arduino backup</h2>
+      <figure class="reveal">
+        <div class="diagram" data-play data-ms="1100">
+          <ol class="ladder" data-reveal-stagger>
+            <li data-step><span class="who">Pi 5</span>sends <code>H</code> (heartbeat: "I'm alive") over USB every 50 ms</li>
+            <li data-step><span class="who">Pi 5</span>dies: power cut, hardware fault, or a hang in our own code</li>
+            <li data-step><span class="who">Arduino</span>counts: no <code>H</code> for 200 ms</li>
+            <li data-step data-ms="1700" class="is-key"><span class="who">Arduino</span>stops the stepper motor and sounds the buzzer by itself</li>
+          </ol>
+          <div class="forks" data-reveal-stagger data-pick>
+            <div class="fork"><h4>H arrives on time</h4>Motor keeps running.</div>
+            <div class="fork"><h4>Silence for 200 ms</h4>Motor stops. No Pi needed.</div>
+          </div>
+        </div>
+        <figcaption>QNX protects against software crashes. The Arduino protects against the whole Pi failing.</figcaption>
+      </figure>
+      <table>
+        <thead><tr><th>Failure</th><th>Who catches it</th></tr></thead>
+        <tbody>
+          <tr><td>Camera driver crashes</td><td>QNX: only that program dies; restart it</td></tr>
+          <tr><td>AI thread gets slow</td><td>QNX priorities: the stop thread still runs first</td></tr>
+          <tr><td>Pi loses power or freezes</td><td>Arduino watchdog: stops after 200 ms of silence</td></tr>
+          <tr><td>Camera misses the hand</td><td>Arduino + ultrasonic sensor: stops if anything is within 10 cm</td></tr>
+          <tr><td>Everything fails</td><td>Big physical e-stop button wired to the Arduino</td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section aria-labelledby="stack">
+      <h2 id="stack">SafeStop stack</h2>
+      <figure class="reveal">
+        <div class="diagram" data-play data-ms="1000">
+          <div class="layers" data-reveal-stagger>
+            <div class="layer" data-step><span class="layer-name">Sensors</span>
+              <div class="box">Logitech webcam<small>blue USB 3 port</small></div><div class="box">Ultrasonic sensor<small>Grove, on Arduino</small></div></div>
+            <div class="layer" data-step><span class="layer-name">QNX Pi 5</span>
+              <div class="box">Camera driver</div><div class="box">AI hand detector<small>oss.qnx.com module</small></div><div class="box is-key">Stop thread<small>top priority</small></div></div>
+            <div class="layer" data-step><span class="layer-name">Link</span>
+              <div class="box">USB serial <code>/dev/serusb1</code><small>H · S · G messages</small></div></div>
+            <div class="layer" data-step><span class="layer-name">Arduino</span>
+              <div class="box">200 ms watchdog</div><div class="box">Stepper motor<small>the "machine"</small></div><div class="box">Buzzer · LCD · e-stop</div></div>
+          </div>
+        </div>
+        <figcaption>The Pi decides; the Arduino acts, and acts on its own when the Pi goes quiet.</figcaption>
+      </figure>
+    </section>
+
+    <section aria-labelledby="pitch">
+      <h2 id="pitch">What to say to judges</h2>
+      <div class="say">
+        <div class="fork yes"><h4>Say</h4><ul>
+          <li>"Each part runs in its own protected box, so one crash can't take down the stop code."</li>
+          <li>"The stop thread runs at the highest priority, on the device, with no cloud."</li>
+          <li>"Built on the OS family certified for cars and factory machines."</li></ul></div>
+        <div class="fork no"><h4>Don't say</h4><ul>
+          <li>"QNX can't crash." It can; it just contains the crash.</li>
+          <li>"SafeStop is safety-certified." The free version is not the certified product.</li>
+          <li>Specific timing numbers you haven't measured.</li></ul></div>
+      </div>
+      <blockquote>"The stop decision runs at the highest priority on a microkernel OS built for cars. If the Pi ever goes quiet, the Arduino stops the machine within 200 ms."</blockquote>
+    </section>
+
+    <section aria-labelledby="questions-heading" id="questions">
+      <h2 id="questions-heading">Questions</h2>
+      <article class="q" id="q-6">
+        <div class="q-meta">Q6 · Fri Nov 20, late</div>
+        <h3>What's special about QNX? How is it different?</h3>
+        <p>QNX was built for machines that can't fail, like car brakes, hospital equipment and factory robots. Windows and macOS were built for people at a desk. That leads to three differences.</p>
+        <figure class="reveal">
+          <div class="diagram" data-play data-ms="1300">
+            <ol class="ladder" data-reveal-stagger>
+              <li data-step class="is-key"><span class="who">1. Always on time</span>The most important job runs first, every time, with no waiting. A Mac usually runs it soon, but only "usually."</li>
+              <li data-step class="is-key"><span class="who">2. Tiny core</span>The center of QNX is very small. Everything else (camera, USB, Wi-Fi) runs as a separate program. If one breaks, the rest keep running and the broken one restarts. On a Mac, a bad driver can crash the whole computer.</li>
+              <li data-step><span class="who">3. Trusted</span>It is tested and certified for safety, so car makers and medical device companies are allowed to use it.</li>
+            </ol>
+          </div>
+          <figcaption>Your Mac is built to be fast most of the time. QNX is built to be on time every time.</figcaption>
+        </figure>
+      </article>
+
+      <article class="q" id="q-5">
+        <div class="q-meta">Q5 · Fri Nov 20, late</div>
+        <h3>Why do people use Raspberry Pis at all? Why not a Mac?</h3>
+        <p>Yes, a Pi is a small computer. But people use it mainly to put a computer <em>inside</em> something they build. A Mac is a computer you sit in front of.</p>
+        <figure class="reveal">
+          <div class="diagram" data-play data-ms="1200">
+            <ol class="ladder" data-reveal-stagger>
+              <li data-step class="is-key"><span class="who">Cheap</span>About $80, while a Mac costs $1,000 or more. You can leave a Pi inside a project and walk away. If it breaks, buy another.</li>
+              <li data-step class="is-key"><span class="who">Pins</span>It has 40 metal pins that can turn on lights, spin motors and read sensors. A Mac can't do that.</li>
+              <li data-step><span class="who">Tiny power</span>It runs on a phone charger and can stay on all year, so it can live in a closet, a robot or a doorbell.</li>
+              <li data-step><span class="who">Yours to wipe</span>Everything lives on a memory card. Swap the card and it becomes a different machine, like Linux one day and QNX the next.</li>
+            </ol>
+          </div>
+          <figcaption>Things people build with a Pi: robots, smart doorbells, weather stations, store screens, home servers and machine controllers like SafeStop.</figcaption>
+        </figure>
+      </article>
+
+      <article class="q" id="q-4">
+        <div class="q-meta">Q4 · Fri Nov 20, late</div>
+        <h3>Why a Raspberry Pi? Why not a normal computer?</h3>
+        <figure class="reveal">
+          <div class="diagram" data-play data-ms="1200">
+            <ol class="ladder" data-reveal-stagger>
+              <li data-step class="is-key"><span class="who">1. QNX</span>Your Mac can't run QNX. The Pi from the QNX team already has QNX on it, so it just works.</li>
+              <li data-step><span class="who">2. Size</span>The Pi is as small as a credit card. It can sit right on the machine and stay on all the time, so you don't have to leave your laptop there.</li>
+              <li data-step><span class="who">3. Pins</span>The Pi has pins that can connect straight to motors and sensors. A laptop has nothing like that.</li>
+              <li data-step><span class="who">4. Real life</span>Real machines use small boards like this, so your demo looks like a real product.</li>
+            </ol>
+          </div>
+          <figcaption>A laptop is built for a person. A Pi is built to sit inside a machine and do one job.</figcaption>
+        </figure>
+      </article>
+
+      <article class="q" id="q-3">
+        <div class="q-meta">Q3 · Fri Nov 20, late</div>
+        <h3>Why do I use it? Make it simpler.</h3>
+        <ul>
+          <li>Laptop = babysitter who sometimes looks away. QNX = lifeguard who always acts first. See <a href="#simple">the simplest version</a>.</li>
+          <li>You need it for the prize, and it makes "the stop is never late" true.</li>
+        </ul>
+      </article>
+
+      <article class="q" id="q-2">
+        <div class="q-meta">Q2 · Fri Nov 20, late</div>
+        <h3>I give it a program and it runs. What else is it connected to?</h3>
+        <p>Yes: you SSH in, run <code>python3 safestop.py</code>, and it runs. The difference is what happens underneath: every device is a separate driver program, and your code talks to it through the kernel.</p>
+        <figure class="reveal">
+          <div class="diagram" data-play data-ms="1150">
+            <ol class="ladder" data-reveal-stagger>
+              <li data-step><span class="who">Laptop</span><code>ssh qnxuser@qnxpi.local</code>, then <code>python3 safestop.py</code></li>
+              <li data-step><span class="who">Kernel</span>makes a new process: its own memory box, its own threads, a priority</li>
+              <li data-step><span class="who">Your code</span>opens <code>/dev/serusb1</code> and writes <code>H</code></li>
+              <li data-step data-ms="1700" class="is-key"><span class="who">Kernel</span>turns that write into a message to the driver program that owns <code>/dev/serusb1</code></li>
+              <li data-step><span class="who">devc-serusb</span>(the USB serial driver) sends the byte down the cable</li>
+              <li data-step><span class="who">Arduino</span>reads <code>H</code> and resets its 200 ms timer</li>
+            </ol>
+          </div>
+          <figcaption>Your code never touches hardware directly. It sends messages; drivers do the hardware work.</figcaption>
+        </figure>
+        <figure class="reveal" style="margin-top:18px">
+          <div class="diagram" data-play data-ms="1000">
+            <div class="layers" data-reveal-stagger>
+              <div class="layer" data-step><span class="layer-name">Outside</span>
+                <div class="box">Laptop<small>SSH over Wi-Fi or Ethernet</small></div><div class="box">Webcam<small>blue USB 3 port</small></div><div class="box">Arduino<small>USB cable</small></div><div class="box">Power<small>USB-C, 27 W</small></div></div>
+              <div class="layer" data-step><span class="layer-name">Drivers</span>
+                <div class="box">Network<small>io-sock</small></div><div class="box">Camera service<small>sensor_rpi5.conf</small></div><div class="box">USB serial<small>devc-serusb</small></div><div class="box">SD card<small>QNX + your files</small></div></div>
+              <div class="layer" data-step><span class="layer-name">Your app</span>
+                <div class="box">AI hand detector<small>normal priority</small></div><div class="box is-key">Stop thread<small>top priority</small></div></div>
+              <div class="layer" data-step><span class="layer-name">Kernel</span>
+                <div class="box">schedule · messages · interrupts</div></div>
+            </div>
+          </div>
+          <figcaption>Everything except the kernel is a normal program you can list with <code>pidin</code> and kill with <code>slay</code>.</figcaption>
+        </figure>
+        <table>
+          <thead><tr><th>You want to</th><th>Command</th></tr></thead>
+          <tbody>
+            <tr><td>Log in (password <code>qnxuser</code>)</td><td><code>ssh qnxuser@qnxpi.local</code></td></tr>
+            <tr><td>Copy code over</td><td><code>scp safestop.py qnxuser@qnxpi.local:~</code></td></tr>
+            <tr><td>Run it</td><td><code>python3 safestop.py</code></td></tr>
+            <tr><td>See every running program</td><td><code>pidin</code></td></tr>
+            <tr><td>Kill one (try it on the camera service in the demo)</td><td><code>slay &lt;name&gt;</code></td></tr>
+            <tr><td>See the devices</td><td><code>ls /dev</code> (look for <code>serusb1</code>)</td></tr>
+            <tr><td>Find the Pi's IP</td><td><code>ifconfig</code></td></tr>
+          </tbody>
+        </table>
+        <ul>
+          <li><b>No cloud, no internet needed.</b> The network is only for your laptop to log in.</li>
+          <li><b>Wi-Fi:</b> set it in <code>wpa_supplicant.conf</code> on the SD card's boot partition. If <code>qnxpi.local</code> fails on venue Wi-Fi, use an Ethernet cable or the Pi's IP address (<a href="https://www.qnx.com/developers/docs/qnxeverywhere/com.qnx.doc.target_images/topic/qsti/interacting-with-the-system.html">QNX docs</a>).</li>
+          <li><b>Demo idea:</b> run <code>slay</code> on the camera service live. The stop thread keeps running, and the judges see the crash demo for real.</li>
+        </ul>
+      </article>
+
+      <article class="q" id="q-1">
+        <div class="q-meta">Q1 · Fri Nov 20, late</div>
+        <h3>Why can't QNX crash?</h3>
+        <ul>
+          <li>It can. It keeps crashes small: see <a href="#crash">the crash demo</a>.</li>
+          <li>The stop code wins every time: see <a href="#timing">stop goes first</a>.</li>
+          <li>The whole Pi failing is the Arduino's job: see <a href="#watchdog">the backup</a>.</li>
+        </ul>
+      </article>
+    </section>
+
+    <footer>Sources: QNX sponsor slide at Hack Western 13 opening ceremony; QNX microkernel architecture docs (<a href="https://www.qnx.com/developers/docs/8.0/com.qnx.doc.neutrino.sys_arch/topic/intro.html">System Architecture guide</a>). Timing widths are illustrative, not measured.</footer>
+  </main>
+
+  <script>
+/* ── praghtml · reveal.js ─────────────────────────────────────────────────
+   Mode 1. Elements enter once as they scroll in. Paste inline at the end of
+   <body>. Mark up with class="reveal", or data-reveal-stagger on a parent
+   to cascade its children.                                                  */
+(() => {
+  // Ideally also set in <head> so nothing flashes before this runs.
+  document.documentElement.classList.add("js-on");
+
+  const targets = document.querySelectorAll(".reveal, [data-reveal-stagger]");
+  if (!targets.length) return;
+
+  // Number the children of each stagger parent so CSS can delay them in turn.
+  document.querySelectorAll("[data-reveal-stagger]").forEach((parent) => {
+    [...parent.children].forEach((child, i) => child.style.setProperty("--i", i));
+  });
+
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const show = (el) => el.classList.add("is-in");
+
+  // No observer, or the viewer asked for less motion: everything is present.
+  if (reduce || !("IntersectionObserver" in window)) {
+    targets.forEach(show);
+    return;
+  }
+
+  const io = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (!entry.isIntersecting) return;
+        show(entry.target);
+        io.unobserve(entry.target);   // once, never again
+      });
+    },
+    { threshold: 0.15, rootMargin: "0px 0px -8% 0px" }
+  );
+
+  targets.forEach((el) => {
+    // The first screen animates on load instead of waiting for a scroll.
+    // Two frames so the hidden state paints first and the transition runs.
+    if (el.getBoundingClientRect().top < window.innerHeight) {
+      requestAnimationFrame(() => requestAnimationFrame(() => show(el)));
+    } else io.observe(el);
+  });
+})();
+
+/* ── praghtml · play.js ───────────────────────────────────────────────────
+   Mode 3. Ideator motion for any diagram, with zero scene code. Put
+   data-play on a container and it walks itself, on a loop:
+
+     <div class="diagram" data-play>
+       <ol class="ladder">
+         <li data-step data-say="Agent picks a hypothesis">…</li>
+         <li data-step>…</li>
+       </ol>
+       <div class="forks" data-pick>   ← a branch: one child wins per pass,
+         <div class="fork">…</div>        cycling keep → discard → crash
+       </div>
+     </div>
+
+   Steps are every [data-step] / [data-pick] inside, in DOM order. With none
+   marked, the container's direct children are the steps.
+
+     • Starts when the diagram scrolls in (after Reveal has finished).
+     • Current step .is-now, passed steps .is-done, upcoming ones wait dim.
+     • Loops. Pauses off-screen, on tab switch, and on click (WCAG 2.2.2).
+     • data-ms on a step or the container sets the beat (default 950).
+     • prefers-reduced-motion: never starts. The diagram is simply there.   */
+(() => {
+  const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  if (reduce) return;
+
+  const HOLD = 1400;       // hold the finished frame before rewinding
+  const REST = 520;        // calm beat after the rewind
+  const SETTLE = 700;      // let Reveal's entrance finish first
+
+  document.querySelectorAll("[data-play]").forEach((root) => {
+    let steps = [...root.querySelectorAll("[data-step], [data-pick]")];
+    if (!steps.length) steps = [...root.children];
+    if (!steps.length) return;
+
+    const beat = Number(root.dataset.ms) || 950;
+    const says = steps.some((s) => s.dataset.say);
+
+    // Control bar: live dot, caption, beats, pause. Injected so pages stay clean.
+    const bar = document.createElement("div");
+    bar.className = "play-bar";
+    bar.innerHTML =
+      `<span class="play-dot" aria-hidden="true"></span>` +
+      (says ? `<span class="play-say"></span>` : "") +
+      `<span class="play-beats" aria-hidden="true">${steps.map(() => "<i></i>").join("")}</span>` +
+      `<button type="button" class="play-btn" aria-pressed="false">Pause</button>`;
+    root.after(bar);
+    const sayEl = bar.querySelector(".play-say");
+    const beats = [...bar.querySelectorAll(".play-beats i")];
+    const btn = bar.querySelector(".play-btn");
+
+    let pass = 0, i = -1, timer = null, running = false;
+    let onScreen = false, userPaused = false, settled = false;
+
+    function clearPick(g) { [...g.children].forEach((c) => c.classList.remove("is-pick", "is-dim")); }
+
+    function reset() {
+      steps.forEach((s) => {
+        s.classList.remove("is-now", "is-done");
+        if (s.hasAttribute("data-pick")) clearPick(s);
+      });
+      beats.forEach((b) => b.classList.remove("is-now", "is-done"));
+      if (sayEl) sayEl.textContent = "";
+      i = -1;
+    }
+
+    function show(n) {
+      steps.forEach((s, k) => {
+        s.classList.toggle("is-now", k === n);
+        s.classList.toggle("is-done", k < n);
+      });
+      beats.forEach((b, k) => {
+        b.classList.toggle("is-now", k === n);
+        b.classList.toggle("is-done", k < n);
+      });
+      const s = steps[n];
+      if (s.hasAttribute("data-pick")) {
+        const kids = [...s.children];
+        const win = kids[pass % kids.length];
+        kids.forEach((c) => {
+          c.classList.toggle("is-pick", c === win);
+          c.classList.toggle("is-dim", c !== win);
+        });
+      }
+      if (sayEl && s.dataset.say) sayEl.textContent = s.dataset.say;
+    }
+
+    function tick() {
+      timer = null;
+      if (!running) return;
+      if (i + 1 >= steps.length) {
+        // Hold the payoff, rewind, rest, go again.
+        timer = setTimeout(() => {
+          reset();
+          pass += 1;
+          timer = setTimeout(tick, REST);
+        }, HOLD);
+        return;
+      }
+      i += 1;
+      show(i);
+      timer = setTimeout(tick, Number(steps[i].dataset.ms) || beat);
+    }
+
+    function sync() {
+      const go = settled && onScreen && !userPaused && !document.hidden;
+      root.classList.toggle("is-playing", i >= 0 || go);
+      bar.classList.toggle("is-live", go);
+      btn.textContent = userPaused ? "Play" : "Pause";
+      btn.setAttribute("aria-pressed", String(userPaused));
+      if (go && !running) { running = true; tick(); }
+      if (!go && running) { running = false; clearTimeout(timer); timer = null; }
+    }
+
+    const toggle = () => { userPaused = !userPaused; sync(); };
+    btn.addEventListener("click", toggle);
+    root.addEventListener("click", (e) => { if (!e.target.closest("a, button")) toggle(); });
+    document.addEventListener("visibilitychange", sync);
+
+    new IntersectionObserver((entries) => {
+      onScreen = entries.some((en) => en.isIntersecting);
+      if (onScreen && !settled) setTimeout(() => { settled = true; sync(); }, SETTLE);
+      sync();
+    }, { threshold: 0.35 }).observe(root);
+  });
+})();
+  </script>
+  <script>
+(() => {
+  const $ = (id) => document.getElementById(id);
+  const root = $("crashDemo"); if (!root) return;
+  const cap = $("crashCap"), btn = $("crashBtn"), dots = [...$("crashDots").children];
+  const macChips = ["macCam","macUsb","macNet","macFs","macAi","macStop"].map($);
+  const set = (el, cls) => { el.classList.remove("crash","restart","dead"); if (cls) el.classList.add(cls); };
+  const badge = (el, txt, cls) => { el.textContent = txt; el.className = "badge" + (cls ? " " + cls : ""); };
+  const reset = () => {
+    $("osMac").classList.remove("frozen"); macChips.forEach((c) => set(c));
+    ["qCam","qUsb","qAi","qStop"].forEach((i) => set($(i)));
+    badge($("badgeMac"), "running"); badge($("badgeQnx"), "running");
+    $("macStopTxt").textContent = "running"; $("qStopTxt").textContent = "running"; $("qCamTxt").textContent = "running";
+  };
+  const scenes = [
+    { ms: 1800, cap: "Both computers run the camera, the AI and the stop code.", go: reset },
+    { ms: 2200, cap: "A bug hits the <b>camera driver</b> on both computers.", go: () => {
+        set($("macCam"), "crash"); set($("qCam"), "crash"); $("qCamTxt").textContent = "crashed"; } },
+    { ms: 2800, cap: "<b>Mac:</b> the driver lives inside the core, so everything freezes, including the stop code. <b>QNX:</b> only the camera box died.", go: () => {
+        set($("qCam"), "crash"); $("qCamTxt").textContent = "crashed"; $("osMac").classList.add("frozen"); macChips.forEach((c) => set(c, c.id === "macCam" ? "crash" : "dead"));
+        badge($("badgeMac"), "FROZEN", "bad"); $("macStopTxt").textContent = "stuck";
+        badge($("badgeQnx"), "still running"); $("qStopTxt").textContent = "still running ✓"; } },
+    { ms: 2000, cap: "<b>QNX:</b> a monitor program restarts just the camera driver.", go: () => {
+        set($("qCam"), "restart"); $("qCamTxt").textContent = "restarting…"; badge($("badgeQnx"), "1 restart", "warn"); } },
+    { ms: 2600, cap: "<b>QNX</b> is back to normal in moments. The <b>Mac</b> needs a full reboot.", go: () => {
+        set($("qCam")); $("qCamTxt").textContent = "running again"; badge($("badgeQnx"), "running");
+        badge($("badgeMac"), "reboot needed", "bad"); } },
+  ];
+  const show = (i) => { scenes[i].go(); cap.innerHTML = scenes[i].cap; dots.forEach((d, k) => d.classList.toggle("on", k === i)); };
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    show(2); btn.hidden = true; return;
+  }
+  let i = 0, timer = null, paused = false, onScreen = false;
+  const tick = () => { show(i); timer = setTimeout(() => { i = (i + 1) % scenes.length; tick(); }, scenes[i].ms); };
+  const sync = () => {
+    const run = onScreen && !paused && !document.hidden;
+    if (run && !timer) tick();
+    if (!run && timer) { clearTimeout(timer); timer = null; }
+  };
+  const toggle = () => { paused = !paused; btn.textContent = paused ? "Play" : "Pause"; btn.setAttribute("aria-pressed", String(paused)); sync(); };
+  btn.addEventListener("click", (e) => { e.stopPropagation(); toggle(); });
+  root.addEventListener("click", toggle);
+  document.addEventListener("visibilitychange", sync);
+  new IntersectionObserver((en) => { onScreen = en.some((x) => x.isIntersecting); sync(); }, { threshold: 0.3 }).observe(root);
+  show(0);
+})();
+(() => {
+  const race = document.getElementById("race"), btn = document.getElementById("raceBtn");
+  if (!race || !btn) return;
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) { btn.hidden = true; return; }
+  let paused = false, onScreen = false;
+  const sync = () => race.classList.toggle("is-paused", paused || !onScreen || document.hidden);
+  btn.addEventListener("click", () => { paused = !paused; btn.textContent = paused ? "Play" : "Pause"; btn.setAttribute("aria-pressed", String(paused)); sync(); });
+  race.addEventListener("click", () => btn.click());
+  document.addEventListener("visibilitychange", sync);
+  new IntersectionObserver((en) => { onScreen = en.some((x) => x.isIntersecting); sync(); }, { threshold: 0.3 }).observe(race);
+  sync();
+})();
+  </script>
+
+</body>
+</html>
