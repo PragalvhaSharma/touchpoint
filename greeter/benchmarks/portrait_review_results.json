@@ -1,0 +1,976 @@
+{
+  "historical_source_holdout": {
+    "groups": {
+      "all": {
+        "probes": 132,
+        "baseline": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "withdrawals_only": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "updated": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 96,
+            "wrong_to_wrong": 9,
+            "correct_to_correct": 27
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 96,
+            "wrong_to_wrong": 9,
+            "correct_to_correct": 27
+          }
+        }
+      },
+      "historical_clean": {
+        "probes": 124,
+        "baseline": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 92,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 92,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "clean_baseline_enrolled": {
+        "probes": 63,
+        "baseline": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 34,
+            "correct_to_correct": 26,
+            "wrong_to_wrong": 3
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 34,
+            "correct_to_correct": 26,
+            "wrong_to_wrong": 3
+          }
+        }
+      },
+      "clean_baseline_unenrolled": {
+        "probes": 61,
+        "baseline": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 58,
+            "wrong_to_wrong": 3
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 58,
+            "wrong_to_wrong": 3
+          }
+        }
+      },
+      "current_top_card_labels": {
+        "probes": 90,
+        "baseline": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 60,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 60,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "current_top_card_and_clean": {
+        "probes": 89,
+        "baseline": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 59,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 59,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "reviewed_targets": {
+        "probes": 4,
+        "baseline": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        }
+      }
+    },
+    "reference_counts": {
+      "baseline": {
+        "originals": {
+          "eligible": 630,
+          "active": 275
+        },
+        "lighting_edits": {
+          "eligible": 760,
+          "active": 736
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 152
+      },
+      "withdrawals_only": {
+        "originals": {
+          "eligible": 600,
+          "active": 267
+        },
+        "lighting_edits": {
+          "eligible": 736,
+          "active": 712
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 147
+      },
+      "updated": {
+        "originals": {
+          "eligible": 601,
+          "active": 268
+        },
+        "lighting_edits": {
+          "eligible": 740,
+          "active": 716
+        },
+        "verified_originals": {
+          "eligible": 1,
+          "active": 1
+        },
+        "verified_edits": {
+          "eligible": 4,
+          "active": 4
+        },
+        "enrolled_ids": 148
+      }
+    }
+  },
+  "independent_photo_holdout": {
+    "groups": {
+      "all": {
+        "probes": 132,
+        "baseline": {
+          "correct": 29,
+          "wrong": 16,
+          "unnamed": 87
+        },
+        "withdrawals_only": {
+          "correct": 29,
+          "wrong": 15,
+          "unnamed": 88
+        },
+        "updated": {
+          "correct": 29,
+          "wrong": 15,
+          "unnamed": 88
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 1,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 87,
+            "wrong_to_wrong": 15,
+            "correct_to_correct": 29,
+            "wrong_to_unnamed": 1
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 88,
+            "wrong_to_wrong": 15,
+            "correct_to_correct": 29
+          }
+        }
+      },
+      "historical_clean": {
+        "probes": 124,
+        "baseline": {
+          "correct": 28,
+          "wrong": 13,
+          "unnamed": 83
+        },
+        "withdrawals_only": {
+          "correct": 28,
+          "wrong": 12,
+          "unnamed": 84
+        },
+        "updated": {
+          "correct": 28,
+          "wrong": 12,
+          "unnamed": 84
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 1,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 83,
+            "wrong_to_wrong": 12,
+            "correct_to_correct": 28,
+            "wrong_to_unnamed": 1
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 84,
+            "wrong_to_wrong": 12,
+            "correct_to_correct": 28
+          }
+        }
+      },
+      "clean_baseline_enrolled": {
+        "probes": 77,
+        "baseline": {
+          "correct": 28,
+          "wrong": 6,
+          "unnamed": 43
+        },
+        "withdrawals_only": {
+          "correct": 28,
+          "wrong": 6,
+          "unnamed": 43
+        },
+        "updated": {
+          "correct": 28,
+          "wrong": 6,
+          "unnamed": 43
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 43,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 28
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 43,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 28
+          }
+        }
+      },
+      "clean_baseline_unenrolled": {
+        "probes": 47,
+        "baseline": {
+          "correct": 0,
+          "wrong": 7,
+          "unnamed": 40
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 6,
+          "unnamed": 41
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 6,
+          "unnamed": 41
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 1,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 40,
+            "wrong_to_wrong": 6,
+            "wrong_to_unnamed": 1
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 41,
+            "wrong_to_wrong": 6
+          }
+        }
+      },
+      "current_top_card_labels": {
+        "probes": 90,
+        "baseline": {
+          "correct": 28,
+          "wrong": 9,
+          "unnamed": 53
+        },
+        "withdrawals_only": {
+          "correct": 28,
+          "wrong": 8,
+          "unnamed": 54
+        },
+        "updated": {
+          "correct": 28,
+          "wrong": 8,
+          "unnamed": 54
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 1,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 53,
+            "wrong_to_wrong": 8,
+            "correct_to_correct": 28,
+            "wrong_to_unnamed": 1
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 54,
+            "wrong_to_wrong": 8,
+            "correct_to_correct": 28
+          }
+        }
+      },
+      "current_top_card_and_clean": {
+        "probes": 89,
+        "baseline": {
+          "correct": 28,
+          "wrong": 9,
+          "unnamed": 52
+        },
+        "withdrawals_only": {
+          "correct": 28,
+          "wrong": 8,
+          "unnamed": 53
+        },
+        "updated": {
+          "correct": 28,
+          "wrong": 8,
+          "unnamed": 53
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 1,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 52,
+            "wrong_to_wrong": 8,
+            "correct_to_correct": 28,
+            "wrong_to_unnamed": 1
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 53,
+            "wrong_to_wrong": 8,
+            "correct_to_correct": 28
+          }
+        }
+      },
+      "reviewed_targets": {
+        "probes": 4,
+        "baseline": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        }
+      }
+    },
+    "reference_counts": {
+      "baseline": {
+        "originals": {
+          "eligible": 961,
+          "active": 537
+        },
+        "lighting_edits": {
+          "eligible": 1552,
+          "active": 1532
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 285
+      },
+      "withdrawals_only": {
+        "originals": {
+          "eligible": 897,
+          "active": 505
+        },
+        "lighting_edits": {
+          "eligible": 1444,
+          "active": 1424
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 260
+      },
+      "updated": {
+        "originals": {
+          "eligible": 932,
+          "active": 539
+        },
+        "lighting_edits": {
+          "eligible": 1584,
+          "active": 1564
+        },
+        "verified_originals": {
+          "eligible": 35,
+          "active": 35
+        },
+        "verified_edits": {
+          "eligible": 140,
+          "active": 140
+        },
+        "enrolled_ids": 293
+      }
+    }
+  },
+  "rechecked_source_holdout": {
+    "groups": {
+      "all": {
+        "probes": 132,
+        "baseline": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "withdrawals_only": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "updated": {
+          "correct": 27,
+          "wrong": 9,
+          "unnamed": 96
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 96,
+            "wrong_to_wrong": 9,
+            "correct_to_correct": 27
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 96,
+            "wrong_to_wrong": 9,
+            "correct_to_correct": 27
+          }
+        }
+      },
+      "historical_clean": {
+        "probes": 124,
+        "baseline": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 6,
+          "unnamed": 92
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 92,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 92,
+            "wrong_to_wrong": 6,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "clean_baseline_enrolled": {
+        "probes": 63,
+        "baseline": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 3,
+          "unnamed": 34
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 34,
+            "correct_to_correct": 26,
+            "wrong_to_wrong": 3
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 34,
+            "correct_to_correct": 26,
+            "wrong_to_wrong": 3
+          }
+        }
+      },
+      "clean_baseline_unenrolled": {
+        "probes": 61,
+        "baseline": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 3,
+          "unnamed": 58
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 58,
+            "wrong_to_wrong": 3
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 58,
+            "wrong_to_wrong": 3
+          }
+        }
+      },
+      "current_top_card_labels": {
+        "probes": 90,
+        "baseline": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 60
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 60,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 60,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "current_top_card_and_clean": {
+        "probes": 89,
+        "baseline": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "withdrawals_only": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "updated": {
+          "correct": 26,
+          "wrong": 4,
+          "unnamed": 59
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 59,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 59,
+            "wrong_to_wrong": 4,
+            "correct_to_correct": 26
+          }
+        }
+      },
+      "reviewed_targets": {
+        "probes": 4,
+        "baseline": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "withdrawals_only": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "updated": {
+          "correct": 0,
+          "wrong": 0,
+          "unnamed": 4
+        },
+        "paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        },
+        "verified_additions_paired": {
+          "new_wrong": 0,
+          "removed_wrong": 0,
+          "changed_wrong_identity": 0,
+          "transitions": {
+            "unnamed_to_unnamed": 4
+          }
+        }
+      }
+    },
+    "reference_counts": {
+      "baseline": {
+        "originals": {
+          "eligible": 629,
+          "active": 274
+        },
+        "lighting_edits": {
+          "eligible": 756,
+          "active": 732
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 152
+      },
+      "withdrawals_only": {
+        "originals": {
+          "eligible": 599,
+          "active": 266
+        },
+        "lighting_edits": {
+          "eligible": 732,
+          "active": 708
+        },
+        "verified_originals": {
+          "eligible": 0,
+          "active": 0
+        },
+        "verified_edits": {
+          "eligible": 0,
+          "active": 0
+        },
+        "enrolled_ids": 147
+      },
+      "updated": {
+        "originals": {
+          "eligible": 600,
+          "active": 267
+        },
+        "lighting_edits": {
+          "eligible": 736,
+          "active": 712
+        },
+        "verified_originals": {
+          "eligible": 1,
+          "active": 1
+        },
+        "verified_edits": {
+          "eligible": 4,
+          "active": 4
+        },
+        "enrolled_ids": 148
+      }
+    }
+  }
+}
