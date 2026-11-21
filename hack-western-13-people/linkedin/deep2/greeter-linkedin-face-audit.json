@@ -1,0 +1,431 @@
+{
+ "what": "Rows in hack-western-13-people/faces/person-tool.csv (Source person-tool:linkedin) whose photo is NOT the person. The facebookexternalhit trick returns every profile-displayphoto URL on the page, including the People also viewed sidebar; only the <img class=top-card-layout__entity-image> is the person. Checked 330 rows: 259 match the persons own top-card photo (face similarity >= 0.45), these do not.",
+ "rows": [
+  {
+   "photo": "faces/person-tool/U0CLK8F0H3J-7feb03a4e0.jpg",
+   "slack_id": "U0CLK8F0H3J",
+   "name": "Abdullokh Tulkinov",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CGDSG30DS-03c96b5a00.jpg",
+   "slack_id": "U0CGDSG30DS",
+   "name": "Alex Li",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKMDV2WN9-c605a2d8d1.jpg",
+   "slack_id": "U0CKMDV2WN9",
+   "name": "Alex Sikora",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CG1UDVAE8-e1ae9f2c79.jpg",
+   "slack_id": "U0CG1UDVAE8",
+   "name": "Alice Nguyen",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CL67M748G-3172cfa69b.jpg",
+   "slack_id": "U0CL67M748G",
+   "name": "Amira Antoun",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJF8GBZ54-c8bdf95709.jpg",
+   "slack_id": "U0CJF8GBZ54",
+   "name": "Anay Baid",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJ6V473FZ-d3ab036f63.jpg",
+   "slack_id": "U0CJ6V473FZ",
+   "name": "Andy Liu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHX132TB3-9ea6a90634.jpg",
+   "slack_id": "U0CHX132TB3",
+   "name": "Anerie Patel",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHPFF6KN0-8aaf2ed9b7.jpg",
+   "slack_id": "U0CHPFF6KN0",
+   "name": "Aniya Liu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHDA78MEK-1619bca096.jpg",
+   "slack_id": "U0CHDA78MEK",
+   "name": "Ariston Michael",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKL5HMTK3-b3acb2863b.jpg",
+   "slack_id": "U0CKL5HMTK3",
+   "name": "Arjun Harinath",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CFA3DLRL6-770e7ed2d1.jpg",
+   "slack_id": "U0CFA3DLRL6",
+   "name": "Caroline Ge",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKFG6G5T5-5bbb8c92ff.jpg",
+   "slack_id": "U0CKFG6G5T5",
+   "name": "Cem Torun",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJZPR50SH-2d834c174e.jpg",
+   "slack_id": "U0CJZPR50SH",
+   "name": "Chandler Xie",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK5U6MBCZ-cd507e331f.jpg",
+   "slack_id": "U0CK5U6MBCZ",
+   "name": "Claresta Cheung",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHQ8U798X-fe4b41a5ff.jpg",
+   "slack_id": "U0CHQ8U798X",
+   "name": "Collin Sobowale",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJVM77UQK-931d5f15fe.jpg",
+   "slack_id": "U0CJVM77UQK",
+   "name": "Daniel M",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/daniel-m-hack-931d5f15fe.jpg",
+   "slack_id": "daniel-m-hack",
+   "name": "Daniel M. Hack",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHQ9TKBH9-ac880f7a2d.jpg",
+   "slack_id": "U0CHQ9TKBH9",
+   "name": "Daniel Tan",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/daryna-volytska-b94e9b82e1.jpg",
+   "slack_id": "daryna-volytska",
+   "name": "Daryna Volytska",
+   "why": "page unavailable"
+  },
+  {
+   "photo": "faces/person-tool/U0CHJHRK1BR-1cace4716b.jpg",
+   "slack_id": "U0CHJHRK1BR",
+   "name": "Dhruvil Patel",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHY7P59TL-afe78d0b16.jpg",
+   "slack_id": "U0CHY7P59TL",
+   "name": "Diya Saxena",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKMEFTATD-afe78d0b16.jpg",
+   "slack_id": "U0CKMEFTATD",
+   "name": "Edison Qu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJHMNQ0RK-acb1b78ff7.jpg",
+   "slack_id": "U0CJHMNQ0RK",
+   "name": "Edwin Ngui",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJWD67SAH-ba94cfa2c5.jpg",
+   "slack_id": "U0CJWD67SAH",
+   "name": "Eliza Anis",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJNUJTBB2-c059e80d7e.jpg",
+   "slack_id": "U0CJNUJTBB2",
+   "name": "Eric F.",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/eric-fu-c059e80d7e.jpg",
+   "slack_id": "eric-fu",
+   "name": "Eric Fu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHSJ8AEDT-9db641de90.jpg",
+   "slack_id": "U0CHSJ8AEDT",
+   "name": "Eric Lu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKQ1YF7RU-6a0d3cf405.jpg",
+   "slack_id": "U0CKQ1YF7RU",
+   "name": "Fiona Xu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKFPTL57E-471624f198.jpg",
+   "slack_id": "U0CKFPTL57E",
+   "name": "George Shao",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJP9GRWD6-22ab238bf4.jpg",
+   "slack_id": "U0CJP9GRWD6",
+   "name": "Ghala Basaad",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKF47KWFL-e937d9bc2d.jpg",
+   "slack_id": "U0CKF47KWFL",
+   "name": "Hadi Ahmed",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CLAGRPDCY-78cacc581e.jpg",
+   "slack_id": "U0CLAGRPDCY",
+   "name": "Hania Yasin",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKL26J473-7fba6b4ce4.jpg",
+   "slack_id": "U0CKL26J473",
+   "name": "Henrique Alcantara Leite",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CFDTA0BR7-5567918087.jpg",
+   "slack_id": "U0CFDTA0BR7",
+   "name": "Holia Zhang",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJPSMNNNT-1c83fa4a5e.jpg",
+   "slack_id": "U0CJPSMNNNT",
+   "name": "Isabelle Gan",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKAU59802-0023463b5f.jpg",
+   "slack_id": "U0CKAU59802",
+   "name": "Jenny Jarvis",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKVJ0LAPK-54e2787487.jpg",
+   "slack_id": "U0CKVJ0LAPK",
+   "name": "Jerry Jiang",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CGMK4KX9A-a3ce46136f.jpg",
+   "slack_id": "U0CGMK4KX9A",
+   "name": "Jess Xing",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHX8NSAVC-b129f7eb66.jpg",
+   "slack_id": "U0CHX8NSAVC",
+   "name": "Joanna Liu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHDPVQ1K9-1fa9fa2f05.jpg",
+   "slack_id": "U0CHDPVQ1K9",
+   "name": "Kaisen Ni",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJNN4U3PZ-55330d919c.jpg",
+   "slack_id": "U0CJNN4U3PZ",
+   "name": "Kaitlyn Zhu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK04C8XU6-f8dff4c911.jpg",
+   "slack_id": "U0CK04C8XU6",
+   "name": "Kathy Dong",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK5VAF64D-b7c9ee54d2.jpg",
+   "slack_id": "U0CK5VAF64D",
+   "name": "Lawrence Milne",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJGF09XEX-cad6cd131b.jpg",
+   "slack_id": "U0CJGF09XEX",
+   "name": "Liam M",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJGF09XEX-cad6cd131b.jpg",
+   "slack_id": "U0CJGF09XEX",
+   "name": "Liam Ma",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK3KPFDED-5505d60d42.jpg",
+   "slack_id": "U0CK3KPFDED",
+   "name": "Liangray Li",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJ04H4PNG-0d68c45604.jpg",
+   "slack_id": "U0CJ04H4PNG",
+   "name": "Lina Hout",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CFBV046JE-03c96b5a00.jpg",
+   "slack_id": "U0CFBV046JE",
+   "name": "Lucas Vanderwielen",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJVB8M5FW-75654b9fd0.jpg",
+   "slack_id": "U0CJVB8M5FW",
+   "name": "Matthew Mo",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKL69FT3P-4534d97836.jpg",
+   "slack_id": "U0CKL69FT3P",
+   "name": "May Au Yong",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJT130VCG-7962ed09e0.jpg",
+   "slack_id": "U0CJT130VCG",
+   "name": "Michelle Dominic",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJQT97ATT-b0e685922f.jpg",
+   "slack_id": "U0CJQT97ATT",
+   "name": "Mohamed Toman",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJLN8A4Q2-62fe8ed7c3.jpg",
+   "slack_id": "U0CJLN8A4Q2",
+   "name": "Moses Justin",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKA90R5K9-b807a4c86f.jpg",
+   "slack_id": "U0CKA90R5K9",
+   "name": "Mrida Hingmire",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJW307MEX-54455b4ebf.jpg",
+   "slack_id": "U0CJW307MEX",
+   "name": "Nancy Li",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHPHPQ2LV-923ca369b6.jpg",
+   "slack_id": "U0CHPHPQ2LV",
+   "name": "Nathan Espejo",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJP4EQ0NL-421ee097f7.jpg",
+   "slack_id": "U0CJP4EQ0NL",
+   "name": "Ola W",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/ola-w-hack-421ee097f7.jpg",
+   "slack_id": "ola-w-hack",
+   "name": "Ola W. Hack",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/pragalvha-sharma-3458782571.jpg",
+   "slack_id": "pragalvha-sharma",
+   "name": "Pragalvha Sharma",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKWHRFWF6-3458782571.jpg",
+   "slack_id": "U0CKWHRFWF6",
+   "name": "Pragalvha Sharma (you)",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK5T7G3TN-3175446de5.jpg",
+   "slack_id": "U0CK5T7G3TN",
+   "name": "Sebastian Sora",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJ4SS6JVD-3a9b994148.jpg",
+   "slack_id": "U0CJ4SS6JVD",
+   "name": "Shawn X",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJ4SS6JVD-3a9b994148.jpg",
+   "slack_id": "U0CJ4SS6JVD",
+   "name": "Shawn Xiong",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJ76B7WCE-dc657986dd.jpg",
+   "slack_id": "U0CJ76B7WCE",
+   "name": "Taha El Ghadi",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CHYNZC7J8-0c0d306992.jpg",
+   "slack_id": "U0CHYNZC7J8",
+   "name": "Tygo Crawley",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKPG30EPQ-a7cb23f395.jpg",
+   "slack_id": "U0CKPG30EPQ",
+   "name": "Veronica Zhao",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CL1FLR43A-e5d0fed28d.jpg",
+   "slack_id": "U0CL1FLR43A",
+   "name": "Xinge Xu",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CK5L9TAQ3-f5dd15f900.jpg",
+   "slack_id": "U0CK5L9TAQ3",
+   "name": "Yipeng Zhang",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CKLUXUG9H-838c5aee02.jpg",
+   "slack_id": "U0CKLUXUG9H",
+   "name": "Yousef Al-Wahami",
+   "why": "stranger (person has no public LinkedIn photo)"
+  },
+  {
+   "photo": "faces/person-tool/U0CJJ7RKQ2W-7fba6b4ce4.jpg",
+   "slack_id": "U0CJJ7RKQ2W",
+   "name": "Zhan Hang (Thomson) Lam",
+   "why": "stranger (person has no public LinkedIn photo)"
+  }
+ ]
+}
