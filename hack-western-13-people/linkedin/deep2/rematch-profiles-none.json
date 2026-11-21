@@ -1,0 +1,532 @@
+[
+ {
+  "id": "U0CJJ7RKQ2W",
+  "status": "done",
+  "name": "Zhan Hang (Thomson) Lam",
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/thomson-lam-260b67292",
+   "evidence": "Linked from his Hack Western team-finder card and his GitHub profile README."
+  },
+  "personal_site": "",
+  "github": {
+   "url": "https://github.com/Thomson-Lam",
+   "evidence": "Linked from his Hack Western team-finder card ('Zhan Hang Thomson L.'); README names Thomson Lam and links the same LinkedIn."
+  },
+  "devpost": {
+   "url": "https://devpost.com/Thomson-Lam",
+   "evidence": "Devpost 'Thomson Lam' lists JevTTD, Loop-Whole and Reptile Context Protocol, the same projects as github.com/Thomson-Lam repos. Secondary Devpost https://devpost.com/lamzhanhang (email handle, 'Zhan Hang Lam') has no projects."
+  },
+  "school_program": "Western University, Computer Science (course repos CS 3307, CS 3357, CS 4453; program inferred from course codes)",
+  "grad_year": "2027 (LinkedIn education Western 2023-2027)",
+  "current_role": "CS student at Western University; Research Assistant Intern, The Banking Analytics Lab (quantum credit-risk modelling and GNNs, per LinkedIn search snippet)",
+  "confidence_notes": "Identity high: team-finder card name 'Zhan Hang Thomson L.' + Slack/Devpost handle lamzhanhang 'Zhan Hang Lam' + GitHub README linking the same LinkedIn. LinkedIn content unread (999). Program inferred from Western course codes. QMulp paper authorship not confirmed (manuscript anonymized for review); listed as a repo, not a publication. HDC-aDBS README lists authors Thomson Lam and Oliver Olejar. LinkedIn search snippet (TinyFish) gives headline 'Research @ BAL | Quantum + ML | CS @ Western', location Markham ON, and a Research Assistant Intern role at The Banking Analytics Lab, which fits his QMulp credit-risk repo. A LinkedIn post by him about Delta Dispatch exists. | pass3: LinkedIn page (education listed in Chinese as Western) gives 2023-2027, so grad 2027; Banking Analytics Lab listed as current experience. Delta Dispatch team from his post.",
+  "other_professional_links": [
+   {
+    "url": "https://devpost.com/lamzhanhang",
+    "evidence": "Email-handle Devpost, display name Zhan Hang Lam."
+   },
+   {
+    "url": "https://www.linkedin.com/posts/thomson-lam-260b67292_delta-dispatch-activity-7418849245816057856-oMGm",
+    "evidence": "His own LinkedIn post about Delta Dispatch (author slug matches)."
+   }
+  ],
+  "past_roles": [
+   "Research Assistant Intern, The Banking Analytics Lab (quantum credit-risk modelling, GNNs)"
+  ],
+  "projects": [
+   {
+    "name": "Prec0gnition (CXC 2026 AI Hackathon)",
+    "summary": "Turns live prediction-market wallet flow into a manipulation-aware probability signal by weighting traders; won Second Place Overall and Backboard.io Founder's Choice.",
+    "url": "https://devpost.com/software/precognition"
+   },
+   {
+    "name": "Loop-Whole (Hack the 6ix)",
+    "summary": "Rust stateful MCP layer for coding agents that returns only changed file views/command output (or 'NoC') to save tokens.",
+    "url": "https://github.com/Thomson-Lam/loop-whole"
+   },
+   {
+    "name": "Reptile Context Protocol (Hack Western 12)",
+    "summary": "MCP-based, hardware-independent protocol letting LLMs control robots in natural language; continued after Hack Western 12.",
+    "url": "https://devpost.com/software/rcp-robot-context-protocol"
+   },
+   {
+    "name": "JevTTD",
+    "summary": "Harness-tuning framework for TypeSafe AI's Jev model, using the OpenTTD transport sim as a proof of concept.",
+    "url": "https://devpost.com/software/aim-harness"
+   },
+   {
+    "name": "HDC-aDBS",
+    "summary": "In-silico testbed comparing a hyperdimensional-computing detector vs a beta-threshold controller as an adaptive deep brain stimulation trigger (with Oliver Olejar).",
+    "url": "https://github.com/Thomson-Lam/HDC-aDBS"
+   },
+   {
+    "name": "QMulp",
+    "summary": "Code comparing Quantum Personalized PageRank vs classical PPR on multilayer credit-risk networks, prepared as a submission to INFORMS Journal on Computing.",
+    "url": "https://github.com/Thomson-Lam/qmulp-submission"
+   },
+   {
+    "name": "Delta Dispatch",
+    "summary": "AI-assisted 911 dispatch concept.",
+    "url": "https://devpost.com/software/delta-dispatch"
+   },
+   {
+    "name": "AdLumen",
+    "summary": "Browser protection from malicious links, AI-generated content and shady businesses.",
+    "url": "https://devpost.com/software/adlumen"
+   },
+   {
+    "name": "Delta Dispatch (DeltaHacks 2026)",
+    "summary": "Triage for 911 calls that orders callers by urgency instead of dial time; with Radean Rashed, Ethan Hu, Leo Tang (his LinkedIn post, Jan 2026)",
+    "url": "https://www.linkedin.com/posts/thomson-lam-260b67292_delta-dispatch-activity-7418849245816057856-oMGm"
+   }
+  ],
+  "hackathon_wins": [
+   "CXC 2026 AI Hackathon: Second Place Overall and Backboard.io Founder's Choice (Prec0gnition)"
+  ],
+  "awards": [],
+  "publications": [],
+  "news": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Backend",
+   "ML / AI",
+   "Frontend",
+   "Rust",
+   "MCP / coding agents",
+   "Robotics + LLMs",
+   "Quantum algorithms",
+   "Computational neuroscience",
+   "NixOS / Arch / Neovim"
+  ],
+  "talking_points": [
+   "His CXC 2026 team won 2nd overall and Backboard.io Founder's Choice with Prec0gnition: ask what it predicted.",
+   "At DeltaHacks 2026 he and Radean Rashed, Ethan Hu and Leo Tang built Delta Dispatch to triage 911 callers by urgency instead of call order: ask how they scored urgency.",
+   "He researches quantum credit-risk modelling and graph neural networks at The Banking Analytics Lab: ask whether quantum methods beat classical ones there.",
+   "Ask about HDC-aDBS, his hyperdimensional computing project."
+  ],
+  "sources": [
+   "https://github.com/Thomson-Lam",
+   "https://devpost.com/Thomson-Lam",
+   "https://devpost.com/lamzhanhang",
+   "https://devpost.com/software/precognition",
+   "https://github.com/Thomson-Lam/loop-whole",
+   "https://github.com/Thomson-Lam/HDC-aDBS",
+   "https://github.com/Thomson-Lam/qmulp-submission",
+   "hackwestern-site/team-finder.json",
+   "https://ca.linkedin.com/in/thomson-lam-260b67292",
+   "https://www.linkedin.com/in/thomson-lam-260b67292"
+  ],
+  "added_this_pass": [
+   "Grad 2027 (LinkedIn)",
+   "Delta Dispatch at DeltaHacks 2026 with teammates",
+   "Talking points"
+  ]
+ },
+ {
+  "id": "U0CHX8NSAVC",
+  "status": "done",
+  "name": "Joanna Liu",
+  "devpost": {
+   "url": "https://devpost.com/annajjj100",
+   "evidence": "Username equals Slack email handle (annajjj100); display name 'J L', Toronto."
+  },
+  "confidence_notes": "Devpost tied by email handle (high). GitHub immortalillusions and site joanna-liu.vercel.app tied by the MeloMoods two-member team / two-contributor repo match plus 'Hi, I'm Joanna' (medium-high). Name 'Joanna Liu' comes from the site URL and greeting plus Devpost initials 'J L'. Rematch pass: LinkedIn joanna-liu-ca matched (high) because its Ramp and CPP Investments (May-Aug 2024) roles match her portfolio internships. Internship details are self-reported on her portfolio. The Ivey HBA blog 'Life Before HBA: Codes and Connections' covers a Joanna Liu in CS + Ivey; consistent but not cross-linked. Verifier: Rewrote stale pre-rematch notes. Portfolio repo (Map.js) confirms Ramp, CPP Investments, Altas Partners and the brain-tumour research; Ivey blog confirms CS + Ivey at Western. Ramp start date is from LinkedIn only. The CPP Investments article could not be loaded (empty response), so its naming of her is UNVERIFIED. | pass3: school resolved: her LinkedIn education (Ivey, Computer Science & Business) and the Ivey HBA blog profile (linked from her own LinkedIn) settle the earlier 'school not stated'. Blog says her first- and second-year internships were in finance, mainly asset management, which fits CPP Investments and Altas.",
+  "personal_site": {
+   "url": "https://joanna-liu.vercel.app",
+   "evidence": "Website field of GitHub immortalillusions; the site greets 'Hi, I'm Joanna' and lists MeloMoods-era projects. Initials match her Devpost display name 'J L'."
+  },
+  "github": {
+   "url": "https://github.com/immortalillusions",
+   "evidence": "Her Devpost projects MeloMoods and Lil Ghost link repos owned by immortalillusions. MeloMoods has exactly two Devpost members (J L = annajjj100, and Marzouq Mohsin) and exactly two repo contributors (immortalillusions, and Ardelerro, who commits as Marzouq Mohsin), so immortalillusions is J L. Profile README: 'Hi, I'm Joanna!'."
+  },
+  "current_role": "CS + Ivey HBA student; Backend Software Engineer Intern, Ramp (Growth - Recommendation; Ramp is her current employer on LinkedIn)",
+  "other_professional_links": [
+   {
+    "label": "Kaggle notebook: brain tumour classifier",
+    "url": "https://www.kaggle.com/code/qwertycake/brain-tumour-classifier"
+   }
+  ],
+  "past_roles": [
+   "Backend Software Engineer Intern, Ramp (Growth - Recommendation team): built an agent with persistent context via Notion MCP to automate GTM feature processes; tuned reverse ETL (Hightouch) to cut a task queue from 1,000 to 200, monitored with Datadog",
+   "Quantitative Developer Intern (Portfolio Design and Construction), CPP Investments: analytics pipelines for portfolio construction; automated 150+ risk analytics with Pandas and Matplotlib",
+   "Private Equity and Data Analyst Intern, Altas Partners: company analysis and board meetings; Selenium automation extracting 10K+ data points plus LLM insights",
+   "Brain tumour detection research under Western's Head of AI: tuned a CNN to 92% accuracy via grid search over 3 hyperparameters"
+  ],
+  "projects": [
+   {
+    "name": "MeloMoods (Hack Western 12)",
+    "summary": "Spotify recommendations matched to your mood, from manual input or live facial emotion detection (face-api.js plus a PyTorch model trained on 15k+ images); 278k-song Moodify dataset moved to Neon Postgres.",
+    "url": "https://devpost.com/software/melomoods"
+   },
+   {
+    "name": "Lil Ghost (SpurHacks)",
+    "summary": "Gesture-controlled smart home: ESP32 + IMU gestures drive a Next.js server that controls an Arduino simulating lights, locks and thermostat.",
+    "url": "https://devpost.com/software/lil-ghost"
+   },
+   {
+    "name": "ProtagMe (UofTHacks 13)",
+    "summary": "AI journaling app that turns daily entries into storybook images (Next.js, MongoDB, OpenRouter, Gemini).",
+    "url": "https://devpost.com/software/protagme"
+   },
+   {
+    "name": "NotLate",
+    "summary": "Event-driven scheduler that auto-adds 'leave-by' travel blocks with routes to Google Calendar (Next.js, Postgres, webhooks, Vercel Cron).",
+    "url": "https://notlate.vercel.app"
+   },
+   {
+    "name": "4Squares",
+    "summary": "Active study game: players jump to one of four calibrated regions of the room to answer (repo ramp_hacks).",
+    "url": "https://4squares.vercel.app"
+   },
+   {
+    "name": "Snapshot",
+    "summary": "Daily and weekly task summaries across all courses, built because she was taking seven courses.",
+    "url": "https://snapshot-your-day.vercel.app/"
+   },
+   {
+    "name": "PokiGuess",
+    "summary": "Pokemon silhouette guessing and collecting game.",
+    "url": "https://pokiguess.vercel.app"
+   },
+   {
+    "name": "Brain tumour classifier",
+    "summary": "CNN classifying gliomas, meningiomas and pituitary tumours.",
+    "url": "https://github.com/immortalillusions/brain-tumor-classifier"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Western National Scholar (LinkedIn headline)",
+   "Western National Scholarship / $50,000 President's Entrance Scholarship (2023; 15 recipients from 700+ applicants) (self-reported on LinkedIn)",
+   "$8,500 Yeandle Family HBA Award (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Executive, Western Investment Club (led researcher meetings) (Ivey HBA blog)"
+  ],
+  "skills_interests": [
+   "Java",
+   "Python",
+   "C",
+   "JavaScript/TypeScript",
+   "React / Next.js",
+   "Tailwind",
+   "PostgreSQL",
+   "PyTorch / TensorFlow",
+   "Machine learning",
+   "Hardware (ESP32/Arduino)",
+   "Three.js (3D game-style portfolio)"
+  ],
+  "talking_points": [
+   "Ivey's HBA blog profiled her (Dec 2025) as a CS + business dual-degree student who balanced coding with finance: ask how she picks between quant/finance and software after Ramp.",
+   "She went from CPP Investments quant dev and Altas private equity to backend at Ramp: ask what surprised her most about fintech engineering.",
+   "She was an executive at the Western Investment Club: ask how she'd use code in investment research.",
+   "She won Western's $50K President's Entrance Scholarship (Western National Scholar): ask what she has done with the network."
+  ],
+  "sources": [
+   "https://devpost.com/annajjj100",
+   "https://devpost.com/annajjj100/challenges",
+   "https://devpost.com/software/melomoods",
+   "https://devpost.com/software/lil-ghost",
+   "https://devpost.com/software/protagme",
+   "https://github.com/immortalillusions",
+   "https://github.com/immortalillusions/MeloMoods",
+   "https://github.com/immortalillusions/little-ghost",
+   "https://joanna-liu.vercel.app",
+   "https://ca.linkedin.com/in/joanna-liu-ca",
+   "https://ivey.uwo.ca/hba/blog/2025/12/life-before-hba-codes-and-connections",
+   "https://cppinvestments.com/insights-institute/investing-in-talent-unlocking-value-the-potential-of-gen-z-women"
+  ],
+  "school_program": "Western University, Computer Science + Ivey HBA dual degree (entered 2023; HBA1 in 2025-26) (LinkedIn + Ivey HBA blog)",
+  "grad_year": "not stated; entered Western 2023, so likely 2027-2028",
+  "merged_from": [
+   "thread2-combined-results.json",
+   "thread2-deepen-1.json"
+  ],
+  "independent": true,
+  "links_confidence": "medium",
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/joanna-liu-ca",
+   "evidence": "Ramp and CPP Investments roles match her own portfolio; Western/Ivey."
+  },
+  "publications": [],
+  "news": [
+   "Life Before HBA: Codes and Connections - Ivey HBA blog, 2025 (https://ivey.uwo.ca/hba/blog/2025/12/life-before-hba-codes-and-connections)",
+   "Investing in Talent, Unlocking Value: The Potential of Gen Z Women - CPP Investments (lists her as Intern Analyst, Portfolio Design & Construction) (https://cppinvestments.com/insights-institute/investing-in-talent-unlocking-value-the-potential-of-gen-z-women) [UNVERIFIED: page returned no content to curl]",
+   {
+    "title": "Life Before HBA: Codes and Connections (Ivey HBA blog profile of Joanna Liu)",
+    "date": "2025-12-01",
+    "url": "https://ivey.uwo.ca/hba/blog/2025/12/life-before-hba-codes-and-connections"
+   }
+  ],
+  "added_this_pass": [
+   "School: Western CS + Ivey HBA dual degree (LinkedIn, Ivey blog)",
+   "Awards: $50K President's Entrance Scholarship, Yeandle Family HBA Award",
+   "Ivey HBA blog profile; Western Investment Club exec",
+   "Talking points refreshed"
+  ]
+ },
+ {
+  "id": "U0CHQ6ZCTCM",
+  "status": "done",
+  "name": "Alyssa Huang",
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/alyssa-huang-06b850399",
+   "evidence": "Profile lists [email omitted]."
+  },
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "school_program": "Western University, first year (2026-2030), Advanced Entry Opportunity (AEO) to Ivey Business School (self-reported on LinkedIn)",
+  "grad_year": "2030 (LinkedIn education dates 2026-2030)",
+  "current_role": "First-year student, Western University (Ivey AEO); Director of Externals, Tech for Social Impact",
+  "confidence_notes": "Name and LinkedIn from a public LinkedIn snippet that shows her Slack email [email omitted] (high). Experience lists GlideAbility Canada (role not visible). No GitHub/Devpost found for the handle. The Western PhD/staff Alyssa Huang (alyssa-huang-ca, Ying Alyssa Huang) is a different person. | pass3: education dates, AEO, awards and volunteering read from her public LinkedIn page (slug matches; About shows her Slack email). Valedictorian school not stated, so not named.",
+  "other_professional_links": [],
+  "past_roles": [
+   "GlideAbility Canada (self-reported on LinkedIn; role not shown in public snippet)"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [
+   "Western Scholarship of Distinction (self-reported on LinkedIn)",
+   "High-school valedictorian, June 2026 (self-reported on LinkedIn)",
+   "Royal Conservatory of Music Level 10 Violin certification (self-reported on LinkedIn)"
+  ],
+  "publications": [],
+  "news": [],
+  "clubs_leadership": [
+   "Director of Externals, Tech for Social Impact (Western), Oct 2026-present",
+   "Director of Communications, Western's Content Creation Club, Oct 2026-present",
+   "Essex Hall Floor Representative, Western residence, Oct 2026-present",
+   "Next Wave Youth Volunteer, TIFF (2026)",
+   "CanSkate Program Assistant, Skate Canada (2022-2026)",
+   "Concertmaster, first violin, North York Strings Academy (2022-2024)"
+  ],
+  "skills_interests": [
+   "Tech for social good / non-profits",
+   "Content and communications",
+   "Violin (RCM Level 10)"
+  ],
+  "talking_points": [
+   "She is Director of Externals at Tech for Social Impact, the Western club that pairs student teams with non-profits: ask which partners they are lining up this year.",
+   "She is a first-year with an Ivey AEO spot: ask what brought her to a hackathon in her first term.",
+   "She is a Level 10 RCM violinist and former concertmaster: ask whether she still plays at Western.",
+   "Her LinkedIn lists GlideAbility Canada: ask what she worked on there."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/alyssa-huang-06b850399",
+   "https://ca.linkedin.com/pub/dir/Alyssa/Huang/ca-0-Canada"
+  ],
+  "added_this_pass": [
+   "Ivey AEO, Western 2026-2030, grad 2030 (LinkedIn)",
+   "Western Scholarship of Distinction, valedictorian, RCM Level 10 violin (self-reported)",
+   "Clubs: Tech for Social Impact, Content Creation Club, Essex Hall rep, TIFF Next Wave",
+   "New talking points"
+  ]
+ },
+ {
+  "id": "U0CKECV7E92",
+  "status": "done",
+  "name": "Daniel Wang",
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/daniel04wang",
+   "evidence": "Profile contact info lists [email omitted] (self-reported on LinkedIn; contact details are not visible logged out, so not re-checked)."
+  },
+  "personal_site": {
+   "url": "https://daniel04wawng.github.io/",
+   "evidence": "GitHub Pages site of daniel04wawng."
+  },
+  "github": {
+   "url": "https://github.com/daniel04wawng",
+   "evidence": "Same person as organizer Daniel Wang (U0CFW6P7GBG): LinkedIn daniel04wang About lists [email omitted], which authors 175 commits on this GitHub."
+  },
+  "devpost": {
+   "url": "https://devpost.com/daniel04wang",
+   "evidence": "Devpost username equals his other Slack email handle and LinkedIn slug."
+  },
+  "school_program": "Ivey Business School at Western University, HBA (self-reported on LinkedIn)",
+  "grad_year": "",
+  "current_role": "Sponsorships Organizer, Hack Western 13 (via his other Slack account); founding research + product at Abundant (YC F24) per LinkedIn; based in San Francisco",
+  "confidence_notes": "LinkedIn tied by exact email on the profile (high). Past roles from the LinkedIn headline. X account @Bluezmango123 ('bay area's startup/tech baker, prev founding @abundant_labs, @fdotinc, product @NimbleRx, on leave from school') matches the same roles, so it is very likely his, but it is only tied by role overlap. LinkedIn directory snippet: 'Working on long-tail problems with AI: bootstrapping cures for rare disease.' An 'Incoming SWE @ Meta' Daniel Wang in aggregator results is not confirmed as him. Verifier: Removed X @Bluezmango123 and the f. (fdotinc) role and Bay Area talking point: tied by role overlap only and sourced from twstalker, a third-party mirror that returned 403. Removed yclist source (page does not name him). Roles are self-reported on LinkedIn. This LinkedIn (daniel04wang) is the same one matched to organizer Daniel Wang (U0CFW6P7GBG, [email omitted]), so this is very likely a second Slack account for the same person. | pass3: identity upgraded. The public LinkedIn About lists [email omitted] (Slack email of organizer U0CFW6P7GBG) and the profile also showed [email omitted], so both Slack accounts are the same person (high); links and wins copied from the verified organizer record.",
+  "other_professional_links": [],
+  "past_roles": [
+   "Founding team, Abundant (YC F24; agent simulation and RL for AI labs) (self-reported on LinkedIn)",
+   "A1Base (self-reported on LinkedIn)",
+   "Product, NimbleRx (self-reported on LinkedIn)",
+   "KPMG (self-reported on LinkedIn)"
+  ],
+  "projects": [
+   {
+    "name": "Duet",
+    "summary": "EEG headset + AI that turns live brainwaves into evolving music (Cal Hacks 11.0 winner)",
+    "url": "https://devpost.com/software/duet-0tbkxe"
+   },
+   {
+    "name": "Western Green Bin Project",
+    "summary": "Organic waste system for Western's campus; Second Place at The Climate Change-Makers Challenge 2023",
+    "url": "https://devpost.com/software/western-green-bin-project"
+   }
+  ],
+  "hackathon_wins": [
+   "1st place overall, Cal Hacks 11.0 (2024), Duet (Emotiv blog; tied via his GitHub)",
+   "The Climate Change-Makers Challenge 2023: Second Place (Western Green Bin Project)"
+  ],
+  "awards": [],
+  "publications": [],
+  "news": [],
+  "clubs_leadership": [
+   "VP of Accelerator, W5 Western Entrepreneur Association (Apr 2023-Apr 2024; Director of Accelerator 2022-2023) (self-reported on LinkedIn)",
+   "Ivey Case Competition Club, AEO2 competitor (2023-2024) (self-reported on LinkedIn)",
+   "Consulting Analyst, The Aleph Group (2023-2024) (self-reported on LinkedIn)",
+   "Curriculum Lead, Global Spark (2023-2024) (self-reported on LinkedIn)",
+   "Bayfield Residence VP of Programming, Western (2022-2023) (self-reported on LinkedIn)",
+   "Sponsorships Organizer, Hack Western 13 (hackwestern.com team page)"
+  ],
+  "skills_interests": [
+   "AI startups",
+   "Product",
+   "Agent simulation / RL data",
+   "AI for rare disease",
+   "Brain-computer interfaces (EEG)"
+  ],
+  "talking_points": [
+   "This looks like the second Slack account of organizer Daniel Wang, who runs Hack Western sponsorships: ask which sponsor challenges he is most excited about.",
+   "His own LinkedIn post (Sep 2026) says Google DeepMind invited him back to bake a cake for Gemma passing 1 billion downloads: ask how he ended up baking for AI labs.",
+   "He won Cal Hacks 11.0 with Duet (EEG brainwaves to music): ask how clean the emotion signal really was.",
+   "He was on the founding team of Abundant (YC F24), which builds agent simulation and RL environments for AI labs: ask what the labs actually buy."
+  ],
+  "sources": [
+   "https://www.linkedin.com/in/daniel04wang",
+   "https://www.linkedin.com/pub/dir/%5E%5Edaniel/Wang",
+   "https://github.com/daniel04wawng",
+   "https://www.emotiv.com/blog/duet-brainwaves-music-bci-wins-calhacks-2024"
+  ],
+  "added_this_pass": [
+   "Same person as organizer U0CFW6P7GBG: GitHub, Devpost, site, Cal Hacks win copied over",
+   "Western/Ivey clubs from LinkedIn",
+   "Gemma cake talking point"
+  ]
+ },
+ {
+  "id": "U0CJH5C83DK",
+  "status": "done",
+  "name": "Victoria Y. Fan",
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/victoriayfan",
+   "evidence": "Slug = email handle stem; London Central SS then UWaterloo."
+  },
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "school_program": "University of Waterloo, Mechatronics Engineering (BASc) (self-reported on LinkedIn)",
+  "grad_year": "2029",
+  "current_role": "Software Engineer co-op, PlayStation (Sep 2026-present); Mechatronics Engineering student, University of Waterloo",
+  "confidence_notes": "Medium: LinkedIn matched by handle (victoriayfan) plus London high-school tie. No GitHub commits or Devpost for her email. Western-affiliated 'Victoria Fan' ACM/DBLP author (MICCAI surgical work) is not tied to her and is left out. | pass3: PlayStation roles and dates from her LinkedIn (public page lists PlayStation as current employer; titles and dates from a LinkedIn search snippet for the same slug).",
+  "other_professional_links": [],
+  "past_roles": [
+   "Software Developer in Test, PlayStation (Jan-May 2026) (LinkedIn, via search snippet)"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "publications": [],
+  "news": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Mechatronics",
+   "Robotics",
+   "Software testing / SDET",
+   "Game platform software"
+  ],
+  "talking_points": [
+   "She is on her second PlayStation co-op (SDET in winter 2026, software engineer this fall): ask what testing game platform software at that scale looks like.",
+   "She went to London Central and now studies Mechatronics at Waterloo: ask what brought her back to London for Hack Western.",
+   "Ask whether she is building hardware this weekend, given the mechatronics background."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/victoriayfan",
+   "https://linkedin.com/in/victoriayfan"
+  ],
+  "added_this_pass": [
+   "Current role: Software Engineer co-op at PlayStation (Fall 2026)",
+   "Past: SDET at PlayStation (Jan-May 2026)",
+   "New talking points"
+  ]
+ },
+ {
+  "id": "U0CJ16DCG92",
+  "status": "done",
+  "name": "Dhyaanam Pandya",
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/dhyaanam-pandya-9393bb2a1",
+   "evidence": "He posted [email omitted] in a public LinkedIn comment from this profile."
+  },
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "school_program": "Western University, Chemical Engineering (Western Engineering Student Ambassadors page: Second Year Chemical)",
+  "grad_year": "2030 (LinkedIn education dates 2025-2030; finished first year May 2026)",
+  "current_role": "Laboratory Research Assistant, Department of Chemical and Biochemical Engineering, Western University (Sep 2026-, self-reported on LinkedIn)",
+  "confidence_notes": "High: own email in his public LinkedIn comment plus Western Engineering ambassador listing. Grad year inferred from 'second year'. Team 1325 is presumably his high-school FIRST Robotics team (post text only says Team 1325). | pass3 conflict: grad_year: kept 2030 over the inferred 'likely 2029' because his LinkedIn education dates read 2025-2030. Team 1325 confirmed as his FRC team (FRC Team 1325: Inverse Paradox on LinkedIn).",
+  "other_professional_links": [
+   {
+    "url": "https://www.eng.uwo.ca/future-students/your-eng-experience/student-ambassadors/index.html",
+    "evidence": "Lists Dhyaanam Pandya, Second Year Chemical Engineering."
+   },
+   {
+    "url": "https://western-ues.com/commissioners",
+    "evidence": "Western UES commissioners page: Dhyaanam, second-year Chemical, career events and photography commissioner."
+   }
+  ],
+  "past_roles": [
+   "Team 1325 (robotics team): helped organize the new-facility open house, March 2025"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [
+   "2nd overall, Travel and Tourism Team Decision Making, DECA Area 4 Regionals (Nov 2024)",
+   "FIRST Robotics Engineering Inspiration Award, FRC Team 1325 (Mar 2025) (self-reported on LinkedIn)",
+   "Target Alpha Chapter of the Year 2024-2025, plus FPC and SPC Certificates of Distinction (self-reported on LinkedIn)"
+  ],
+  "publications": [],
+  "news": [],
+  "clubs_leadership": [
+   "Western Engineering Student Ambassador",
+   "Career Events and Photography Commissioner, Western Undergraduate Engineering Society (UES)",
+   "Year Representative, Western Engineering Endowed Student Donation Fund (WEESDF) Board (self-reported on LinkedIn)",
+   "VP Sponsorships, Western UES 24-hour charity carnival (Apr 2026-present; raised $3K+)",
+   "Volunteer, Hack the North 2024 (25+ hours)",
+   "Volunteer staff, Canadian Engineering Leadership Conference (CELC) 2025",
+   "Co-President, Target Alpha chapter (2024-2025) (also quoted on targetalpha.ca)",
+   "VP Training, Ontario DECA (2024-2025)",
+   "Committee Chair, Eclipse Hackathons (2023-2024)",
+   "Business, Build and Strategy subteam, FRC Team 1325 Inverse Paradox (2024-2025)"
+  ],
+  "skills_interests": [
+   "Chemical engineering",
+   "Lab research",
+   "Robotics (FIRST Team 1325)",
+   "DECA / business case competitions",
+   "Photography"
+  ],
+  "talking_points": [
+   "He is VP Sponsorships on Western UES's 24-hour charity carnival: ask how he lands sponsors as a second-year.",
+   "He was co-president of a Target Alpha chapter that won Chapter of the Year: ask what he took from running it.",
+   "His FRC team (1325 Inverse Paradox) won the Engineering Inspiration Award in 2025 after placing 27th of 29 weeks earlier: ask how they turned it around.",
+   "He volunteered at Hack the North 2024: ask how organizing compares to hacking."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/dhyaanam-pandya-9393bb2a1",
+   "https://www.linkedin.com/posts/atticusmoes_the-complete-guide-to-a-deca-winner-made-activity-7368093172658249728-MpBj",
+   "https://www.eng.uwo.ca/future-students/your-eng-experience/student-ambassadors/index.html",
+   "https://western-ues.com/commissioners",
+   "https://www.linkedin.com/posts/dhyaanam-pandya-9393bb2a1_im-thrilled-to-share-that-my-teammate-and-activity-7266622570748067840-0G3z",
+   "https://www.linkedin.com/posts/dhyaanam-pandya-9393bb2a1_this-past-week-myself-and-team-1325-organized-activity-7308672791266889730-K5ps",
+   "https://targetalpha.ca/chapters"
+  ],
+  "added_this_pass": [
+   "Grad year fixed to 2030 (LinkedIn)",
+   "FRC Engineering Inspiration Award, Target Alpha Chapter of the Year",
+   "UES carnival VP Sponsorships, Hack the North volunteer, Ontario DECA VP Training, Eclipse Hackathons"
+  ]
+ }
+]

@@ -1,0 +1,1062 @@
+[
+ {
+  "id": "U0CFF77FQCR",
+  "slack_name": "Brittney Chong",
+  "role": "Organizer",
+  "email": "",
+  "org_school": "",
+  "title": "Co-Director",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Confirmed Hack Western Co-Director (hackwestern.com) with Devpost brittneyrachellechong (email handle; project Align), but no LinkedIn found; prior candidate brittney-ch is a Dalhousie freelancer and is rejected. (was low)",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/brittney-ch"
+  ],
+  "current_record": {
+   "id": "U0CFF77FQCR",
+   "status": "done",
+   "name": "Brittney Chong",
+   "devpost": {
+    "url": "https://devpost.com/brittneyrachellechong",
+    "evidence": "Username equals Slack email handle; name matches."
+   },
+   "current_role": "Co-Director, Hack Western 13 (Slack title; listed on hackwestern.com)",
+   "confidence_notes": "Devpost tied by email handle (high); Co-Director role from Slack title and hackwestern.com. Devpost challenges list Hack Western 13 and Hack the North 2026. Align repo (jerryzhang04/align) has no commits from her, so no GitHub found. Other Brittney Chongs (Earlham/Weill Cornell medicine) are different people; people-search sites ignored.",
+   "other_professional_links": [
+    {
+     "label": "Hack Western organizer listing (Co-Director)",
+     "url": "https://www.hackwestern.com/"
+    }
+   ],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Align (Hack the North 2026)",
+     "summary": "Four-view posture check on an iPhone: MoveNet pose on front/right/back/left photos gives measured angles, an optional voice coach (Omni multimodal API) explains them, and a policy layer strips diagnoses and invented numbers. Built with Expo/React Native, a Hono API and TensorFlow.",
+     "url": "https://devpost.com/software/align-rqplvo"
+    },
+    {
+     "name": "Align",
+     "summary": "Four-view posture check with a coach you can talk to.",
+     "url": "https://devpost.com/software/align-rqplvo"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Co-Director, Hack Western 13"
+   ],
+   "skills_interests": [
+    "Hackathon organizing",
+    "Health and posture tech",
+    "Mobile (React Native/Expo)"
+   ],
+   "talking_points": [
+    "Ask what it took to run Hack Western 13 as co-director and what is new this year",
+    "She hacked at Hack the North 2026 on Align: ask what she learned as a hacker that changed how she organizes Hack Western",
+    "Ask how Align keeps its posture coach from inventing measurements or diagnoses",
+    "Ask what it took to run Hack Western 13 as co-director.",
+    "Ask about Align and posture coaching."
+   ],
+   "sources": [
+    "https://devpost.com/brittneyrachellechong",
+    "https://devpost.com/brittneyrachellechong/challenges",
+    "https://devpost.com/software/align-rqplvo",
+    "https://www.hackwestern.com/"
+   ],
+   "personal_site": "",
+   "github": "",
+   "school_program": "",
+   "grad_year": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-1.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 12
+ },
+ {
+  "id": "U0CHRSN0C3V",
+  "slack_name": "Ryuk Jones",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No public LinkedIn profile could be verified from the name, handle, and Canadian university context.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CHRSN0C3V",
+   "status": "done",
+   "name": "Ryuk Jones",
+   "github": {
+    "url": "https://github.com/heyshonen",
+    "evidence": "Only account with commits authored by the Slack email; linked from his Devpost."
+   },
+   "devpost": {
+    "url": "https://devpost.com/ryukjones07",
+    "evidence": "Username equals Slack email handle; name Ryuk Jones; links github.com/heyshonen."
+   },
+   "confidence_notes": "'Ryuk Jones' looks like a pseudonym; real name UNVERIFIED. Project details from his own Devpost project page (Hack The Nest is Eastern Michigan University's student hackathon, per its Devpost/press). School not stated anywhere checked.",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Sleep Paralyzer (Hack The Nest 2026)",
+     "summary": "Horror game controlled by blinking via a g.tec brain-computer-interface headset: you face sleep-paralysis demons using only your eyes. Built with Python/Pygame in the BCI track at Eastern Michigan University's Hack The Nest, with Diego De Jong and Victor Nwokoye.",
+     "url": "https://devpost.com/software/brain-horror"
+    },
+    {
+     "name": "Pinyin-Overlay",
+     "summary": "Python program that detects Chinese characters on screen and overlays pinyin to help language learning.",
+     "url": "https://github.com/heyshonen/Pinyin-Overlay"
+    },
+    {
+     "name": "Brain Horror",
+     "summary": "Horror game controlled by blinking.",
+     "url": "https://devpost.com/software/brain-horror"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Python",
+    "Pygame",
+    "Brain-computer interfaces (EEG, blink input)",
+    "Computer vision / OCR",
+    "Language learning (Mandarin)",
+    "Tkinter",
+    "Language learning"
+   ],
+   "talking_points": [
+    "He built a horror game you play by blinking, using a g.tec BCI headset at Hack The Nest: ask how they detected blinks reliably.",
+    "His team had to learn BCIs from scratch when the vendor hardware arrived late: ask what they would do differently.",
+    "He wrote Pinyin-Overlay to put pinyin over Chinese text on screen: ask whether he is learning Mandarin and how the character detection works.",
+    "Ask how the blink controls work in Brain Horror.",
+    "Ask about the Pinyin overlay tool.",
+    "Ask how Pinyin-Overlay detects Chinese characters on screen.",
+    "Ask whether he is learning Mandarin himself."
+   ],
+   "sources": [
+    "https://devpost.com/ryukjones07",
+    "https://devpost.com/software/brain-horror",
+    "https://github.com/Dasnapplel/Sleep-Paralysis",
+    "https://hack-the-nest.devpost.com/",
+    "https://github.com/heyshonen",
+    "https://github.com/heyshonen/Pinyin-Overlay"
+   ],
+   "personal_site": "",
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-2.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 11
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "slack_name": "Yifan Gao",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Very common name; no Yifan Gao profile ties to University of Waterloo undergraduate study, and the card has no GitHub or LinkedIn to cross-check. (was low)",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/yifan-gao-bme",
+   "https://ca.linkedin.com/in/yifangao"
+  ],
+  "current_record": {
+   "id": "U0CJZSV0R2A",
+   "status": "done",
+   "name": "Yifan Gao",
+   "devpost": {
+    "url": "https://devpost.com/yifan-gao-ca",
+    "evidence": "Username equals Slack email handle with dots as hyphens; name matches."
+   },
+   "school_program": "University of Waterloo (Hack Western team-finder card)",
+   "confidence_notes": "Devpost tied by email handle (medium; common name). It has no projects or hackathons listed; interests and skills come from the Devpost profile and team-finder card. No GitHub commits for the Slack email. Instagram/Discord on the card deliberately not used. Pronoun assumption from the earlier pass removed.",
+   "current_role": "Student, University of Waterloo",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Python",
+    "C++",
+    "Machine learning",
+    "Design",
+    "Hardware",
+    "Backend",
+    "AR/VR, gaming, health, music/art, robotic process automation (Devpost interests)"
+   ],
+   "talking_points": [
+    "Hack Western is Yifan's first hackathon: ask what they most want to learn this weekend",
+    "Yifan's Devpost interests include AR/VR, games and music/art: ask which of those would make a good first project",
+    "Yifan listed design, hardware and backend on the team-finder card: ask which role they want on the team",
+    "Ask what she hopes to learn at her first hackathon."
+   ],
+   "sources": [
+    "https://devpost.com/yifan-gao-ca",
+    "https://devpost.com/yifan-gao-ca/challenges",
+    "Hack Western team-finder card (hackwestern-site/by-slack-id.json)"
+   ],
+   "personal_site": "",
+   "github": "",
+   "grad_year": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-1.json"
+   ],
+   "independent": true,
+   "links_confidence": "medium"
+  },
+  "thin_score": 8
+ },
+ {
+  "id": "U0CHQ6ZCTCM",
+  "slack_name": "ahuan247",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CHD5Q66MV",
+  "slack_name": "Amy",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Devpost under her handle is 'amy wang' with no projects or links; the name is too common to match without a school or employer signal.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CHD5Q66MV",
+   "status": "done",
+   "name": "Amy Wang",
+   "personal_site": {
+    "url": "https://my-website-azure-mu.vercel.app",
+    "evidence": "Homepage of her soapghetti/my-website repo."
+   },
+   "github": {
+    "url": "https://github.com/soapghetti",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account."
+   },
+   "devpost": {
+    "url": "https://devpost.com/amyswangsa208",
+    "evidence": "Username equals Slack email handle; name amy wang."
+   },
+   "confidence_notes": "Surname Wang from Devpost display name only. Personal site returned no readable content to curl (client-rendered); not inspected further. Name \"Amy Wang\" too common for a LinkedIn match. [combined from thread2-github-results.json, thread2-none-b-results.json]",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "my-website",
+     "summary": "Personal website.",
+     "url": "https://my-website-azure-mu.vercel.app"
+    },
+    {
+     "name": "yitai-lawyer",
+     "summary": "Website for a Beijing law firm.",
+     "url": "https://yitai-lawyer.vercel.app"
+    },
+    {
+     "name": "YiTai law firm website",
+     "summary": "Website for YiTai Beijing Law Firm.",
+     "url": "https://yitai-lawyer.vercel.app"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Python",
+    "Web",
+    "Web development"
+   ],
+   "talking_points": [
+    "Ask about building a law-firm website.",
+    "Ask about building the YiTai law firm website and who it was for."
+   ],
+   "sources": [
+    "https://github.com/soapghetti",
+    "https://devpost.com/amyswangsa208"
+   ],
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 11
+ },
+ {
+  "id": "U0CHX8NSAVC",
+  "slack_name": "annajjj100",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CHX8NSAVC",
+   "status": "done",
+   "name": "Joanna Liu",
+   "devpost": {
+    "url": "https://devpost.com/annajjj100",
+    "evidence": "Username equals Slack email handle (annajjj100); display name 'J L', Toronto."
+   },
+   "confidence_notes": "Devpost tied by email handle (high). GitHub and site tied by the MeloMoods two-member team / two-contributor repo match plus 'Hi, I'm Joanna' (medium-high). Name 'Joanna Liu' comes from the site URL and greeting plus Devpost initials 'J L'. Internship facts are self-reported on her portfolio (not independently verified). School is not stated on her pages; 'Head of AI of Western' implies a Western connection. UNVERIFIED lead for the main thread (not used, per the independent-person rule): LinkedIn joanna-liu-ca (Western CS 2023, Ivey, 'Western National Scholar', a Backend role) and an Ivey HBA blog post 'Life Before HBA: Codes and Connections' about a Joanna Liu doing CS + Ivey look like her but are not cross-linked. Surname UNVERIFIED: Slack name is only annajjj100; \"Liu\" is inferred from her site and Devpost initials.",
+   "personal_site": {
+    "url": "https://joanna-liu.vercel.app",
+    "evidence": "Website field of GitHub immortalillusions; the site greets 'Hi, I'm Joanna' and lists MeloMoods-era projects. Initials match her Devpost display name 'J L'."
+   },
+   "github": {
+    "url": "https://github.com/immortalillusions",
+    "evidence": "Her Devpost projects MeloMoods and Lil Ghost link repos owned by immortalillusions. MeloMoods has exactly two Devpost members (J L = annajjj100, and Marzouq Mohsin) and exactly two repo contributors (immortalillusions, and Ardelerro, who commits as Marzouq Mohsin), so immortalillusions is J L. Profile README: 'Hi, I'm Joanna!'."
+   },
+   "current_role": "Student; Backend Software Engineer Intern, Ramp (Growth - Recommendation team) per her portfolio site",
+   "other_professional_links": [
+    {
+     "label": "Kaggle notebook: brain tumour classifier",
+     "url": "https://www.kaggle.com/code/qwertycake/brain-tumour-classifier"
+    }
+   ],
+   "past_roles": [
+    "Backend Software Engineer Intern, Ramp (Growth - Recommendation team): built an agent with persistent context via Notion MCP to automate GTM feature processes; tuned reverse ETL (Hightouch) to cut a task queue from 1,000 to 200, monitored with Datadog",
+    "Quantitative Developer Intern (Portfolio Design and Construction), CPP Investments: analytics pipelines for portfolio construction; automated 150+ risk analytics with Pandas and Matplotlib",
+    "Private Equity and Data Analyst Intern, Altas Partners: company analysis and board meetings; Selenium automation extracting 10K+ data points plus LLM insights",
+    "Brain tumour detection research under Western's Head of AI: tuned a CNN to 92% accuracy via grid search over 3 hyperparameters"
+   ],
+   "projects": [
+    {
+     "name": "MeloMoods (Hack Western 12)",
+     "summary": "Spotify recommendations matched to your mood, from manual input or live facial emotion detection (face-api.js plus a PyTorch model trained on 15k+ images); 278k-song Moodify dataset moved to Neon Postgres.",
+     "url": "https://devpost.com/software/melomoods"
+    },
+    {
+     "name": "Lil Ghost (SpurHacks)",
+     "summary": "Gesture-controlled smart home: ESP32 + IMU gestures drive a Next.js server that controls an Arduino simulating lights, locks and thermostat.",
+     "url": "https://devpost.com/software/lil-ghost"
+    },
+    {
+     "name": "ProtagMe (UofTHacks 13)",
+     "summary": "AI journaling app that turns daily entries into storybook images (Next.js, MongoDB, OpenRouter, Gemini).",
+     "url": "https://devpost.com/software/protagme"
+    },
+    {
+     "name": "NotLate",
+     "summary": "Event-driven scheduler that auto-adds 'leave-by' travel blocks with routes to Google Calendar (Next.js, Postgres, webhooks, Vercel Cron).",
+     "url": "https://notlate.vercel.app"
+    },
+    {
+     "name": "4Squares",
+     "summary": "Active study game: players jump to one of four calibrated regions of the room to answer (repo ramp_hacks).",
+     "url": "https://4squares.vercel.app"
+    },
+    {
+     "name": "Snapshot",
+     "summary": "Daily and weekly task summaries across all courses, built because she was taking seven courses.",
+     "url": "https://snapshot-your-day.vercel.app/"
+    },
+    {
+     "name": "PokiGuess",
+     "summary": "Pokemon silhouette guessing and collecting game.",
+     "url": "https://pokiguess.vercel.app"
+    },
+    {
+     "name": "Brain tumour classifier",
+     "summary": "CNN classifying gliomas, meningiomas and pituitary tumours.",
+     "url": "https://github.com/immortalillusions/brain-tumor-classifier"
+    },
+    {
+     "name": "MeloMoods",
+     "summary": "Facial recognition plus song analysis to match music to mood.",
+     "url": "https://devpost.com/software/melomoods"
+    },
+    {
+     "name": "Lil Ghost",
+     "summary": "Gesture-based smart home control.",
+     "url": "https://devpost.com/software/lil-ghost"
+    },
+    {
+     "name": "ProtagMe",
+     "summary": "Music for your own story.",
+     "url": "https://devpost.com/software/protagme"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Java",
+    "Python",
+    "C",
+    "JavaScript/TypeScript",
+    "React / Next.js",
+    "Tailwind",
+    "PostgreSQL",
+    "PyTorch / TensorFlow",
+    "Machine learning",
+    "Hardware (ESP32/Arduino)",
+    "Three.js (3D game-style portfolio)"
+   ],
+   "talking_points": [
+    "Her portfolio is a playable 3D game: ask how long the Three.js build took and what she would add next",
+    "She built an agent with Notion MCP during her Ramp internship: ask what she automated and what broke",
+    "Ask how MeloMoods reads emotion from a face and how she mapped moods to energy and valence",
+    "She has done both quant dev at CPP Investments and private equity at Altas: ask which side of finance she likes more",
+    "Ask how MeloMoods reads mood from a face.",
+    "Ask about the gesture controls in Lil Ghost."
+   ],
+   "sources": [
+    "https://devpost.com/annajjj100",
+    "https://devpost.com/annajjj100/challenges",
+    "https://devpost.com/software/melomoods",
+    "https://devpost.com/software/lil-ghost",
+    "https://devpost.com/software/protagme",
+    "https://github.com/immortalillusions",
+    "https://github.com/immortalillusions/MeloMoods",
+    "https://github.com/immortalillusions/little-ghost",
+    "https://joanna-liu.vercel.app"
+   ],
+   "school_program": "",
+   "grad_year": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-1.json"
+   ],
+   "independent": true,
+   "links_confidence": "medium"
+  },
+  "thin_score": 16
+ },
+ {
+  "id": "U0CJRA7HBME",
+  "slack_name": "asma001",
+  "role": "Participant",
+  "email": "",
+  "org_school": "York University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CHNC9DWP5",
+  "slack_name": "ayeung97",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CHYU0NBS9",
+  "slack_name": "Brayden Leung",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Email commits go to GitHub braydenleung-Git (Western Engineering: SE3351 and WE FIRST repos; Devpost braydenleung-Git), but no LinkedIn found; candidate brayden-leung-748b3a101 is an Ivey grad in Hong Kong and is rejected. (was low)",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [
+   "https://hk.linkedin.com/in/brayden-leung-748b3a101"
+  ],
+  "current_record": {
+   "id": "U0CHYU0NBS9",
+   "status": "done",
+   "name": "Brayden Leung",
+   "github": {
+    "url": "https://github.com/braydenleung-Git",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account; profile README names Brayden Leung."
+   },
+   "devpost": {
+    "url": "https://devpost.com/braydenleung-git",
+    "evidence": "Devpost links the GitHub."
+   },
+   "confidence_notes": "Projects, roles and prizes come from his Devpost project pages and commit-verified GitHub. Western Engineering is inferred from WE FIRST and Western course repos (program and year not stated). LinkedIn candidate brayden-leung-748b3a101 (Ivey 2011-2015, Hong Kong) is a different person and stays rejected. An Instagram post about WE FIRST was seen in search and not used.",
+   "school_program": "Western University, Engineering (Western course repos such as SE3351 and WE FIRST club work; program not stated explicitly)",
+   "other_professional_links": [
+    {
+     "url": "https://github.com/WE-FIRST-org",
+     "label": "WE FIRST (Western Engineering FIRST Robotics) GitHub org",
+     "evidence": "His webDemo README says 'This project is made by a WEFIRST member' and credits @braydenleung-Git and @WE-FIRST-org."
+    }
+   ],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Object Love Interface (CTRL+HACK+DEL 2.0)",
+     "summary": "Scan any object and AI gives it a persona you can go on a practice 'dinner date' with (Gemini + ElevenLabs on a Raspberry Pi, ESP32-driven servo arm). He was the mechanical and electrical designer. Won Best Useless Hack.",
+     "url": "https://devpost.com/software/object-love-interface"
+    },
+    {
+     "name": "Stubby (UTRA Hacks 2026)",
+     "summary": "Autonomous Winter-Olympics robot with a color sensor and servo attachment, plus a tool that logs multi-axis motion and gives AI tuning feedback. He wrote most of the robot code. Won [MLH] Best Use of MongoDB Atlas.",
+     "url": "https://devpost.com/software/44"
+    },
+    {
+     "name": "Goobs (GDG Hacks 3)",
+     "summary": "Agent workshop where you build chibi 3D AI agents, give them skills and tools, and watch them work in an isometric scene (Next.js, React Three Fiber, Prisma).",
+     "url": "https://devpost.com/software/goobs"
+    },
+    {
+     "name": "No-one-needs-to-Lie",
+     "summary": "Murder-mystery game in Unity 6.",
+     "url": "https://github.com/braydenleung-Git/No-one-needs-to-Lie"
+    },
+    {
+     "name": "Local-AI-Sprite-Maker",
+     "summary": "Local AI sprite generator (WIP).",
+     "url": "https://github.com/braydenleung-Git/Local-AI-Sprite-Maker"
+    },
+    {
+     "name": "forhead",
+     "summary": "Face tracker with servos, webcam and Raspberry Pi 3.",
+     "url": "https://github.com/Utilities-Shared-2/forhead"
+    },
+    {
+     "name": "webDemo (WE FIRST)",
+     "summary": "ESP32 reads sensors (IMU over I2C) and serves the data on a hosted webpage; WE FIRST demo code.",
+     "url": "https://github.com/braydenleung-Git/webDemo"
+    },
+    {
+     "name": "Dishrack",
+     "summary": "Scalable 3D-printed dish rack that folds compact for travel.",
+     "url": "https://github.com/Utilities-Shared-2/Dishrack"
+    }
+   ],
+   "hackathon_wins": [
+    "CTRL+HACK+DEL 2.0: Best Useless Hack (Object Love Interface)",
+    "UTRA Hacks 2026: [MLH] Best Use of MongoDB Atlas (Stubby)"
+   ],
+   "awards": [],
+   "clubs_leadership": [
+    "WE FIRST (Western Engineering FIRST Robotics) member"
+   ],
+   "skills_interests": [
+    "Robotics (ESP32, Raspberry Pi, servos)",
+    "Mechanical and electrical design",
+    "3D printing",
+    "Unity / C#",
+    "C++",
+    "AI agents",
+    "Game dev",
+    "Unity",
+    "Raspberry Pi"
+   ],
+   "talking_points": [
+    "His CTRL+HACK+DEL team won Best Useless Hack with a robot that lets you date your favourite object (he 'dated a cup noodle'): ask how the servo arm syncs with the AI voice.",
+    "He wrote the robot code for Stubby, which won MLH Best Use of MongoDB Atlas at UTRA Hacks 2026: ask how the motion-logging tool sped up tuning.",
+    "He is in WE FIRST at Western: ask what the club is building this season.",
+    "He built Goobs, a 3D game for learning how AI agents work: ask what concept was hardest to make visual.",
+    "Ask about the Unity murder mystery game.",
+    "Ask about the servo face tracker."
+   ],
+   "sources": [
+    "https://github.com/braydenleung-Git",
+    "https://devpost.com/braydenleung-git",
+    "https://devpost.com/software/object-love-interface",
+    "https://devpost.com/software/44",
+    "https://devpost.com/software/goobs",
+    "https://github.com/braydenleung-Git/webDemo",
+    "https://github.com/braydenleung-Git/No-one-needs-to-Lie",
+    "https://github.com/Utilities-Shared-2/forhead"
+   ],
+   "personal_site": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-2.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 16
+ },
+ {
+  "id": "U0CJVB28287",
+  "slack_name": "dantehhawken",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CJ16DCG92",
+  "slack_name": "dpandy7",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CKECV7E92",
+  "slack_name": "dwang682",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CJY5EBFTJ",
+  "slack_name": "ehuan",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CJU42FT2R",
+  "slack_name": "etema",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Western handle etema gives no reliable surname (GitHub 'etema' is an empty, unrelated 2016 account); nothing found.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CHNA712F5",
+  "slack_name": "frankanchengli",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Handle suggests Frank Ancheng Li; 'Frank Li' is very common and 'Ancheng Li' results (a Devpost user at HackNC, researchers) do not tie to this person.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CHNA712F5",
+   "status": "done",
+   "name": "Frank (Ancheng) Li",
+   "github": {
+    "url": "https://github.com/foolanke",
+    "evidence": "Commits authored 'Frank Li' with the Slack email; linked from Devpost foolanke."
+   },
+   "devpost": {
+    "url": "https://devpost.com/foolanke",
+    "evidence": "Same handle; Devpost profile links github.com/foolanke."
+   },
+   "confidence_notes": "Middle name Ancheng inferred from the email handle (UNVERIFIED). School not stated anywhere checked. No prize badges on his Devpost projects. riffl's link to Hack Western 13 is inferred from commit dates only (UNVERIFIED). A repo named Energizer mentions a 'Business Management Team' game but gives no employer, so no role is recorded.",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Reminiscence (ConHacks 2026)",
+     "summary": "Turns a phone or Meta Ray-Ban video into an explorable 3D memory: Swift capture app, FastAPI backend, COLMAP + FastGS Gaussian splatting, then Unity/OpenXR on a Quest; video to VR scene in under a minute. He built the iOS front end (swift-reminiscence).",
+     "url": "https://devpost.com/software/reminiscence-niv0pr"
+    },
+    {
+     "name": "HandInHand (CTRL+HACK+DEL 2.0)",
+     "summary": "Duolingo-style ASL app: gamified lessons, MediaPipe hand tracking and Gemini motion analysis that grades your signing against expert demos.",
+     "url": "https://devpost.com/software/handinhand"
+    },
+    {
+     "name": "riffl",
+     "summary": "Browser music looper with camera gestures (pinch to play melody notes, drum takes, slow-speed takes, flute instruments); commits on Nov 21, 2026, during Hack Western 13 weekend.",
+     "url": "https://github.com/foolanke/riffl"
+    },
+    {
+     "name": "NBA Trade Trees (nbatradetree)",
+     "summary": "Pick any NBA trade since 1996 and trace how its players, picks and cash moved over time, shown as a flow diagram; parsed from Basketball-Reference transaction pages.",
+     "url": "https://github.com/foolanke/nbatradetree"
+    },
+    {
+     "name": "nn-from-scratch",
+     "summary": "Neural network implemented from scratch (Jupyter).",
+     "url": "https://github.com/foolanke/nn-from-scratch"
+    },
+    {
+     "name": "InTouch",
+     "summary": "SpurHacks 2025 project (fork).",
+     "url": "https://github.com/foolanke/InTouch"
+    },
+    {
+     "name": "swift-reminiscence",
+     "summary": "ConHacks iOS front end for turning a video clip into a 3D scene.",
+     "url": "https://github.com/foolanke/swift-reminiscence"
+    },
+    {
+     "name": "Reminiscence",
+     "summary": "Turns a flat video clip into a 3D environment you can revisit in VR (ConHacks 2026).",
+     "url": "https://devpost.com/software/reminiscence-niv0pr"
+    },
+    {
+     "name": "HandInHand",
+     "summary": "Duolingo-style ASL app that grades signing attempts, built with React, OpenCV and Gemini (Ctrl+Hack+Del 2).",
+     "url": "https://devpost.com/software/handinhand"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Python",
+    "C / C++",
+    "AWS",
+    "Machine learning",
+    "Computer vision (MediaPipe, OpenCV)",
+    "3D reconstruction (COLMAP, Gaussian splatting)",
+    "VR (Unity/OpenXR)",
+    "iOS/Swift",
+    "Web audio",
+    "Data visualization",
+    "LeetCode/NeetCode practice",
+    "Machine learning / AI",
+    "Databases",
+    "VR"
+   ],
+   "talking_points": [
+    "His ConHacks project Reminiscence turns a phone clip into a walkable VR scene in under a minute with Gaussian splatting: ask how they made COLMAP that fast.",
+    "HandInHand grades ASL signing with MediaPipe and Gemini: ask how they compared a user's motion to the expert demo.",
+    "He built NBA Trade Trees, which traces every trade since 1996 through picks and players: ask which trade tree is the wildest.",
+    "He was pushing riffl, a gesture-controlled music looper, on Saturday of Hack Western: ask him to demo it.",
+    "Ask about InTouch from SpurHacks 2025.",
+    "Ask about building a neural net from scratch.",
+    "Ask how Reminiscence reconstructs a 3D scene from a single video clip.",
+    "Ask how HandInHand grades ASL signs with OpenCV."
+   ],
+   "sources": [
+    "https://github.com/foolanke",
+    "https://devpost.com/foolanke",
+    "https://devpost.com/software/reminiscence-niv0pr",
+    "https://devpost.com/software/handinhand",
+    "https://github.com/foolanke/riffl",
+    "https://github.com/foolanke/nbatradetree",
+    "https://github.com/foolanke/swift-reminiscence",
+    "https://github.com/LargoLardo/reminiscence",
+    "https://github.com/Paul-F7/hand-in-hand"
+   ],
+   "personal_site": "",
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-2.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 12
+ },
+ {
+  "id": "U0CK796322G",
+  "slack_name": "Joy",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "uwo.ca handle suggests Joy Okoye at Western, but no Joy Okoye profile with a Western or London tie surfaced (visible ones are in Nigeria, Winnipeg and Regina).",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CKLRH0S5T",
+  "slack_name": "Juliano",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "First name only; the email handle gives no clear surname and searches found nothing tied to it.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CKLRH0S5T",
+   "status": "done",
+   "name": "Juliano Ng",
+   "github": {
+    "url": "https://github.com/JulianoNg-eng",
+    "evidence": "Commits authored with his Slack email; profile name Juliano Ng."
+   },
+   "confidence_notes": "First-name-only Slack profile. GitHub confirmed by commit email (high). Nothing on GitHub or the two sites names a school or employer, so no further deepening was possible within the independent-person rule. LinkedIn stays none.",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "JereArm",
+     "summary": "Robot arm joint and torque sizing tool: per joint, it takes motor torque, masses, link length and actuator type (cycloidal, planetary or direct), applies a dynamic load factor and motor derate, reports pass/fail margins and max payload headroom, and shows a draggable 2D arm.",
+     "url": "https://robotarmsimulation.vercel.app"
+    },
+    {
+     "name": "ttga-project",
+     "summary": "Small Next.js drawing web app.",
+     "url": "https://ttga-project.vercel.app"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Robot arm design and actuator sizing",
+    "Cycloidal and planetary gearboxes",
+    "Python",
+    "JavaScript / Next.js",
+    "Robotics simulation",
+    "Web",
+    "Robotics / robot arm design",
+    "JavaScript"
+   ],
+   "talking_points": [
+    "Ask about JereArm: how he picks between cycloidal and planetary actuators for each joint",
+    "His simulator applies a dynamic load factor and a motor derate: ask where he got those numbers and whether he has built the arm physically",
+    "Ask what he is building at Hack Western, hardware or software",
+    "Ask about his robot arm simulation.",
+    "Ask about JereArm and how he sizes motors for each joint of a robot arm."
+   ],
+   "sources": [
+    "https://github.com/JulianoNg-eng",
+    "https://robotarmsimulation.vercel.app",
+    "https://ttga-project.vercel.app",
+    "https://api.github.com/search/commits?q=author-email:[email omitted]"
+   ],
+   "personal_site": "",
+   "devpost": "",
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-1.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 9
+ },
+ {
+  "id": "U0CJJ7RKQ2W",
+  "slack_name": "lamzhanhang",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "The email handle suggests Zhanhang Lam, but no matching profile surfaced.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {
+   "id": "U0CJJ7RKQ2W",
+   "status": "done",
+   "name": "Zhan Hang Lam",
+   "devpost": {
+    "url": "https://devpost.com/lamzhanhang",
+    "evidence": "Username equals Slack email handle; Devpost display name 'Zhan Hang Lam'."
+   },
+   "confidence_notes": "Full name 'Zhan Hang Lam' taken from his email-handle Devpost display name (high for the Devpost tie). Devpost has no public projects; its hackathon list could not be read (403). No GitHub commits for his Slack email and no matching GitHub user. Nothing else can be deepened without unconfirmed sources.",
+   "other_professional_links": [],
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Java",
+    "Python",
+    "C#"
+   ],
+   "talking_points": [
+    "His Devpost lists Java, Python and C#: ask whether he came in with a team or a project idea for Hack Western 13.",
+    "Ask whether this is his first hackathon; his Devpost has no public projects yet.",
+    "Ask what he plans to build at Hack Western."
+   ],
+   "sources": [
+    "https://devpost.com/lamzhanhang"
+   ],
+   "personal_site": "",
+   "github": "",
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "merged_from": [
+    "thread2-combined-results.json",
+    "thread2-deepen-2.json"
+   ],
+   "independent": true,
+   "links_confidence": "high"
+  },
+  "thin_score": 6
+ },
+ {
+  "id": "U0CLB3Q9R32",
+  "slack_name": "michael.dakt",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "The email handle gives an unusual surname with no matching student profile in search.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CKT07URU4",
+  "slack_name": "Mithra",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "First name only (Mithra) and the handle has no surname.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CJDLY4333",
+  "slack_name": "oahmed58",
+  "role": "Participant",
+  "email": "",
+  "org_school": "Western University",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Handle implies an O. Ahmed at Western; the surname is too common to match on two signals.",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [],
+  "current_record": {}
+ },
+ {
+  "id": "U0CJH5C83DK",
+  "slack_name": "Vic",
+  "role": "Participant",
+  "email": "",
+  "org_school": "",
+  "title": "",
+  "linkedin_url": "",
+  "linkedin_confidence": "none",
+  "linkedin_evidence": "Prior candidate victoria-fanvjf is a UPenn student in Pennsylvania and is rejected; the email has no public commits or Devpost. (was low)",
+  "linkedin_headline": "",
+  "linkedin_education": "",
+  "linkedin_location": "",
+  "candidates": [
+   "https://www.linkedin.com/in/victoria-fanvjf"
+  ],
+  "current_record": {}
+ }
+]

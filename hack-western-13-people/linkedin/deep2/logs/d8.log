@@ -1,0 +1,34 @@
+Warning: this sign-in ends between 2026-11-27 and 2026-11-30 (in 6 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+I've updated all 29 people in `linkedin/deep2/results-8.json`. The file is valid JSON and every record has `added_this_pass` and sources. These profiles were already fairly full, so about 20 of the 29 got real additions and the rest got small ones: an event name, a confirmed prize or a sharper talking point.
+
+**Most notable finds**
+- **Evan Lin:** He co-built Tiny-TPU (about 1.4k GitHub stars). It reached the Hacker News front page in Aug 2025 (271 points, plus a 134-point Show HN). I logged the tinytpu.com write-up as a publication.
+- **Andrew Dai:** His wins are now listed one by one from Devpost: 7 confirmed prizes (Hack the Ridge 2023, EurekaHACKS 2024, Ignition Hacks 2024, DeltaHacks XI, UTRA Hacks 2025, Ignition Hacks v.6, DeltaHacks 12). I also added his Hack the North 2026 and Hack the 6ix 2026 projects.
+- **James (Xinda) Yang:** Bricked was a finalist at Hack the North 2026. His other wins now carry exact prize names: Hack Canada 2026 (Stan + MLH Solana), Hack The Ridge 2025 1st place, PennApps XXVI Best Use of AI.
+- **Terry Wang:** He built ALIBI at HackPrinceton Fall 2026 (a test bench for AI incident investigators), with a live demo link. His site says co-op stream 8, first term summer 2027.
+- **Devpost profiles found for 4 people** (Adeline Lue Sang, Hanjing Lin, Reich Kiambati, Rayhan Mohamed), each confirmed by a matching GitHub or email handle. Adeline's has 5 hackathon projects, including Hack the North 2024 and 2026.
+- **New prizes:**
+  - Marco Chen: DeltaHacks X, MLH Starknet.
+  - James Hong: CommuniHacks, MLH Tiger Data.
+  - Ashmita Haldar: Auto Hacks 3rd place plus a Wolfram award, and a second Road Diet prize (School of Cities).
+  - Yousef Al-Wahami: exact prize and event names for his three wins.
+- **New roles:**
+  - Lucian Lavric: a 2025 contract role at Dejero. His Hack the North Whim prizes are now confirmed on Devpost.
+  - Alex Li: titles for IBM (AI Software Engineer Intern) and Turing (Software Engineer Intern).
+- **Shared team:** James Hong and Matt Farzaneh built Urbanova together at Hack the Valley 11. That's a ready conversation opener with either.
+
+**Corrections**
+- Adeline's earlier note said she had no Devpost. She does (`addetude`), and I fixed the note.
+- I removed BioBuddyAI from James Yang's wins because its Devpost page shows no prize.
+- I rebuilt Andrew Dai's wins list from Devpost. The old "Best Use of Databricks (Physiotherapy Form Tracker)" entry is the UTRA Hacks 2025 prize for The Exercists.
+- A second Devpost account named "andrewdai" (Cal Hacks projects) has no link to him, so I left it out.
+
+**What blocked me**
+- Web search found almost nothing new for news or awards; name searches mostly returned unrelated people. Most new facts came from Devpost, GitHub, personal sites and the Hacker News search API.
+- No Devpost exists for Terry Wang, Jayden Plytas or Bill Wang.
+- Some Devpost profiles exist but have no public projects: Andrew Durnford, Clement Ho, and Rayhan Mohamed's new one.
+- Grad year is still not public for several people, including Terry Wang and Andrew Durnford.
+- I didn't fetch any LinkedIn pages.
+
+Scratch files are in `linkedin/deep2/work-8/`, as the task asked, rather than the `work-d8` folder the session started in.
+exit 0 Sat Nov 21 14:45:41 EST 2026

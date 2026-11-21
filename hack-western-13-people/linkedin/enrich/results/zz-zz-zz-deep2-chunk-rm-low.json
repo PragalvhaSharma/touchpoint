@@ -1,0 +1,339 @@
+[
+ {
+  "personal_site": {
+   "url": "https://www.edisonqu.com/",
+   "evidence": "Linked in his LinkedIn About section"
+  },
+  "github": {
+   "url": "https://github.com/edisonqu",
+   "evidence": "Linked from his Devpost profile 'web3' (Edison Qu), which also links linkedin.com/in/edisonqu"
+  },
+  "devpost": {
+   "url": "https://devpost.com/web3",
+   "evidence": "Profile name Edison Qu; links linkedin.com/in/edisonqu and GitHub edisonqu"
+  },
+  "other_professional_links": [],
+  "school_program": "Ivey Business School at Western University",
+  "grad_year": "",
+  "current_role": "Founder/builder of Fae, an AI agent living in iMessage (100,000+ users, 20M+ messages), acquired by Tomo in Oct 2026 (his LinkedIn post); co-founder of Sapien; Ivey Business School at Western",
+  "past_roles": [
+   "Co-President, Ignition Hacks (Aug 2021-Feb 2023)"
+  ],
+  "projects": [
+   {
+    "name": "Sapien",
+    "summary": "Started from a hackathon idea; decentralized human data labelling, now building Proof of Quality evaluation for AI work",
+    "url": ""
+   },
+   {
+    "name": "FlowPilot",
+    "summary": "TreeHacks 2025 agentic co-pilot that automates Zoom workflows",
+    "url": "https://devpost.com/software/flowpilot-zoom-agent-that-automates-your-workflows"
+   },
+   {
+    "name": "Etherspy",
+    "summary": "Watches an Ethereum address and texts you whenever it makes a transaction",
+    "url": "https://github.com/edisonqu/etherspy"
+   },
+   {
+    "name": "face2gho (ETHGlobal LFGHO)",
+    "summary": "ETHGlobal LFGHO hackathon project with Sailesh and William, built on Aave's GHO stablecoin",
+    "url": "https://face2gho.edisonqu.com/"
+   },
+   {
+    "name": "hackathon-trophies",
+    "summary": "Site showcasing his hackathon trophies",
+    "url": "https://hackathon-trophies.vercel.app"
+   },
+   {
+    "name": "feline",
+    "summary": "Drag-and-drop interface for BracketBot",
+    "url": "https://github.com/edisonqu/feline"
+   },
+   {
+    "name": "thryve",
+    "summary": "App deployed at feas.edisonqu.com",
+    "url": "https://github.com/edisonqu/thryve-app"
+   },
+   {
+    "name": "Fae",
+    "summary": "AI agent that lives natively in iMessage, tuned to Gen Z culture; 100,000+ users and 20M+ messages; acquired by Tomo, Oct 2026 (his LinkedIn post)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "TreeHacks 2025: DAIN Labs AI Agent award, Zoom Best Use of Zoom APIs, Perplexity award (FlowPilot)",
+   "Agent:Hacker 2: First Overall (Etherspy)",
+   "DeltaHacks X: [MLH] Best Use of Starknet (Ribbit)",
+   "Hackville 2023: 1st Place and GDSC Challenge (AccessAI)",
+   "QHacks 2023: Environmental Impact Prize (EcoScan)",
+   "The GoldenHack 4.0: Top 5 Business Solutions, Technical Demo and others (EN-FT)",
+   "Hack With A Crew: Third Overall (DeMoment)",
+   "Plus smaller wins at QHacks 2024, JAMHacks 6 and 7, MacHacks 3, Hack the Valley 7 and an AI Agents Hackathon"
+  ],
+  "awards": [
+   "MLH Top 50 Hackers of 2025"
+  ],
+  "clubs_leadership": [
+   "Ignition Hacks, Co-President; grew it into Canada's largest high-school hackathon (500+ participants)"
+  ],
+  "skills_interests": [
+   "AI agents",
+   "Web3 / crypto incentives",
+   "Data labelling and AI evaluation",
+   "Startups",
+   "Web3 / Ethereum dapps (ETHGlobal LFGHO, omni-chain NFT marketplace, Etherspy)",
+   "Discord bots and LLM apps"
+  ],
+  "talking_points": [
+   "Fae, his iMessage-native AI agent steeped in Gen Z culture, was just acquired by Tomo after 100,000+ users and 20M+ messages: ask what made people keep texting it.",
+   "He co-founded Sapien as a weekend project in 2023, and it raised a $5M seed in 2024: ask how a gamified data-labelling idea turned into a company.",
+   "He's one of MLH's Top 50 Hackers of 2025 with wins at TreeHacks and Agent:Hacker: ask which hack he's proudest of.",
+   "He ran Ignition Hacks, which he grew to 500+ high-school hackers: ask what he'd tell first-time organizers."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/edisonqu",
+   "https://devpost.com/web3",
+   "https://top.mlh.com/2025/profiles/edison-qu",
+   "https://www.crunchbase.com/organization/sapien-f38e",
+   "https://www.edisonqu.com/",
+   "https://github.com/edisonqu",
+   "https://www.linkedin.com/in/edisonqu/"
+  ],
+  "confidence_notes": "The LinkedIn, Devpost and GitHub cross-link and clearly belong to the same Edison Qu. The link to this Slack member rests on the handle edisonquu (one extra 'u') and Western/Ivey; medium confidence for the Slack match. Rematch pass: identity now tied to the Slack email via GitHub commit search ([email omitted] -> GitHub edisonqu), and the Devpost web3 profile cross-links LinkedIn edisonqu, so LinkedIn confidence is high. GitHub location says New York City while the LinkedIn snippet says Toronto; treat location as uncertain. Verifier: Replaced '$10.5M seed led by Variant' (Crunchbase, 403 to curl, UNVERIFIED) with the $10M+ figure on his MLH Top 50 page. | pass3 conflict: current_role: kept 'Fae founder (acquired by Tomo, Oct 2026)' as the newest role over 'Co-founder, Sapien' because his own LinkedIn post (Oct 2026) announces the acquisition; Sapien kept as co-founder. Sapien funding: his Apr 2024 post says a $5M seed; MLH's '$10M+ raised' may include later rounds (UNVERIFIED). LinkedIn lists 'Friends for Humanity' as current experience (possibly Fae's company; UNVERIFIED).",
+  "status": "done",
+  "id": "U0CKMEFTATD",
+  "name": "Edison Qu",
+  "publications": [],
+  "news": [
+   "Sapien raised a $5M USD seed round (his LinkedIn post, Apr 2024)"
+  ],
+  "added_this_pass": [
+   "Fae (iMessage AI agent) acquired by Tomo, Oct 2026",
+   "Sapien $5M seed (his post)",
+   "Talking points"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/edisonqu/",
+   "evidence": "Slack email [email omitted] authors commits on GitHub edisonqu (Edison Qu); his Devpost 'web3' links both GitHub edisonqu and linkedin.com/in/edisonqu."
+  },
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CHDAKUDKR",
+  "status": "done",
+  "name": "Jennifer Wang",
+  "personal_site": "",
+  "github": {
+   "url": "https://github.com/jennw4",
+   "evidence": "Linked from her email-handle Devpost, and jennw4 is a commit author on the VocalReflections Hack Western 10 repo listed on that Devpost project."
+  },
+  "devpost": {
+   "url": "https://devpost.com/jenn-wang04",
+   "evidence": "Username equals Slack email handle; name matches."
+  },
+  "confidence_notes": "Devpost tied by email handle (high); GitHub linked from that Devpost and confirmed as a VocalReflections contributor. The uwo-timetable-maker fork suggests a Western student (UNVERIFIED). jennw4.github.io has only placeholder content, so it is dropped as a personal site. LinkedIn stays low. Rematch pass: LinkedIn jennn-wang accepted at medium. Name + Western match the GitHub/Devpost chain; not cross-linked. Search snippet also mentions a University of Waterloo School of Pharmacy Rx2029 White Coat Ceremony post; whether that is her own milestone is unverified, so it's left out of the profile. Verifier: Cleared personal_site jennw4.github.io to match the earlier note that it has only placeholder content. | pass3: WEST Lab team page lists '2025 - Jennifer Wang: Spine biomechanics using CAD modelling, 3D printing and mechanical testing', matching the USRI research award on her LinkedIn; supports the LinkedIn match (still medium, no direct cross-link).",
+  "other_professional_links": [],
+  "past_roles": [
+   "Researcher, WEST Lab @UWO (Western Engineering for Spine and Trauma), 2025: spine biomechanics using CAD modelling, 3D printing and mechanical testing"
+  ],
+  "projects": [
+   {
+    "name": "DivaDends (Hack Western 12)",
+    "summary": "Investing-education app for women: TikTok-style feed of bite-size lessons, courses and quizzes, beginner stock discovery, and a Gemini mentor with one-click inline jargon explanations (Next.js, React, Tailwind).",
+    "url": "https://devpost.com/software/divadends"
+   },
+   {
+    "name": "VocalReflections (Hack Western 10)",
+    "summary": "Speech-to-text journaling app with sentiment analysis, an entries page and a mood summary (Django, Google Speech and Natural Language APIs).",
+    "url": "https://devpost.com/software/vocalreflections"
+   },
+   {
+    "name": "uwo-timetable-maker (fork)",
+    "summary": "Fork of a timetable maker for Western (UWO) courses.",
+    "url": "https://github.com/jennw4/uwo-timetable-maker"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Undergraduate Summer Research Internship (USRI), Western Research, 2025 (self-reported on LinkedIn)",
+   "Spadotto & Greco Family Women in Engineering Award, Western Engineering, 2024 (self-reported on LinkedIn)",
+   "Western Scholarship of Distinction, 2022 (self-reported on LinkedIn)",
+   "SOLIDWORKS CAD Design Associate (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "WEST Lab @UWO (LinkedIn headline)",
+   "Marketing Director, Women+ in Technology Society (May 2026-present)",
+   "Off-Campus Soph, USC at Western (2026)"
+  ],
+  "skills_interests": [
+   "Next.js / React / TypeScript",
+   "Django / Python",
+   "Gemini API",
+   "Speech-to-text and sentiment analysis",
+   "Fintech education",
+   "Biomechanics",
+   "CAD (SOLIDWORKS, Onshape)",
+   "3D printing"
+  ],
+  "talking_points": [
+   "She does spine biomechanics research at Western's WEST Lab (CAD, 3D printing, mechanical testing): ask what they are testing.",
+   "She switched from Medical Sciences into Engineering after two years: ask what made her switch.",
+   "This is at least her third Hack Western (VocalReflections at HW10, DivaDends at HW12): ask what's different this year.",
+   "She is Marketing Director for Women+ in Technology Society: ask how the club is growing."
+  ],
+  "sources": [
+   "https://devpost.com/jenn-wang04",
+   "https://devpost.com/jenn-wang04/challenges",
+   "https://devpost.com/software/divadends",
+   "https://devpost.com/software/vocalreflections",
+   "https://github.com/jennw4",
+   "https://github.com/redmac135/hack-western-2023",
+   "https://www.linkedin.com/in/jennn-wang/",
+   "https://github.com/jennw4/uwo-timetable-maker",
+   "https://sites.google.com/view/westlab-wu/our-team"
+  ],
+  "school_program": "Western University, Engineering (transferred after 2 years of BMSc), 2022-2028 (self-reported on LinkedIn)",
+  "grad_year": "2028 (LinkedIn education dates 2022-2028)",
+  "current_role": "Engineering student, Western; RBC (current employer on LinkedIn, title not shown); research with WEST Lab @UWO",
+  "merged_from": [
+   "thread2-combined-results.json",
+   "thread2-deepen-1.json",
+   "deep2"
+  ],
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Western Engineering (ex-BMSc), grad 2028 (LinkedIn)",
+   "WEST Lab spine biomechanics research (lab team page)",
+   "Awards: USRI, Women in Engineering Award, Scholarship of Distinction",
+   "Current employer RBC; Women+ in Tech marketing director"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/jennn-wang/",
+   "evidence": "Medium: same name, and the LinkedIn lists Western University and 'WEST Lab @UWO', matching her email-handle Devpost (two Hack Western entries) and GitHub jennw4 (uwo-timetable-maker). No direct cross-link."
+  }
+ },
+ {
+  "id": "U0CJSE1SREU",
+  "status": "done",
+  "name": "Emily Yu",
+  "github": {
+   "url": "https://github.com/em1190",
+   "evidence": "Linked from her email-handle Devpost; profile name Emily Yu."
+  },
+  "devpost": {
+   "url": "https://devpost.com/emilyyu18739",
+   "evidence": "Username equals Slack email handle; name matches."
+  },
+  "confidence_notes": "All projects and prizes come from her email-handle Devpost and its project pages ('Winner' labels on the project pages). Her exact role on each team is not stated. School not stated anywhere checked (hackathons attended are all Ontario: Hack the North, Hack the 6ix, UofTHacks, DeltaHacks). GitHub em1190 has only a profile README. Rematch pass: LinkedIn emily-nz-yu confirmed through the TradeOff project match. This fixes the earlier note that her school was unknown: she's an Ivey/Western business student. The RBC role comes from the headline in a search snippet; dates not visible. Her DeltaHacks X Ribbit teammate 'web3' is Edison Qu's Devpost, which fits the Ivey/Western circle. | pass3 conflict: current_role: kept 'Ivey student; Hack the 6ix ops exec' over 'Business Analyst @ RBC' because her own LinkedIn post (Sep 2026) says the RBC Amplify summer is a wrap; RBC moved to past_roles. | pass3: LinkedIn calls the Hack the North 2025 result '2nd Place in AWS Track'; Devpost labels it AWS Campus Champions Best Use of DynamoDB Streams. Same win, both kept. DeltaHacks X Starknet win came with $1,000+ in StarkWare grants (self-reported). | pass3: ChequeMark arXiv paper lists Emily Yu, Royal Bank of Canada, RBC Amplify, matching her LinkedIn post about her Amplify team building ChequeMark. | pass3: talking points trimmed to the brief's 2-4.",
+  "other_professional_links": [],
+  "past_roles": [
+   "Business Analyst, RBC Amplify (summer 2026); team built ChequeMark, cheque-fraud detection"
+  ],
+  "projects": [
+   {
+    "name": "TradeOff (Hack the North 2025)",
+    "summary": "Stock-market simulation game where students set life goals and trade long/short against a live news feed that moves prices. Won AWS Campus Champions: Best Use of DynamoDB Streams.",
+    "url": "https://devpost.com/software/tradeoff-c24mwv"
+   },
+   {
+    "name": "Hayward (Hack the 6ix 2026)",
+    "summary": "Edge-AI wildlife detection and humane deterrence for small farms: PIR sensor + camera + TensorFlow Lite on a Raspberry Pi running QNX, with a farmer dashboard (Next.js, MongoDB Atlas).",
+    "url": "https://devpost.com/software/hayward"
+   },
+   {
+    "name": "whermhole (BlockHack 2024 Spring)",
+    "summary": "Donation-transparency platform using Solidity smart contracts and NFTs so donors can trace how charities spend funds. Won Community Voting Prize and AstraKode Challenge Prize.",
+    "url": "https://devpost.com/software/wherm"
+   },
+   {
+    "name": "Ribbit (DeltaHacks X)",
+    "summary": "Anonymous Web3 social network on Starknet with Cairo smart contracts. Won [MLH] Best Use of Starknet.",
+    "url": "https://devpost.com/software/ribbit-8sc5kj"
+   },
+   {
+    "name": "AI.spy (Hack the 6ix 2024)",
+    "summary": "Tool and multiplayer game for spotting AI-generated art; game data helps train the detection model.",
+    "url": "https://devpost.com/software/ai-spy-iqr246"
+   },
+   {
+    "name": "Noteable (UofTHacks 11)",
+    "summary": "Pairs photos of your day with matching songs (OpenAI + Spotify) to build a daily playlist of memories.",
+    "url": "https://devpost.com/software/noteable-j092qw"
+   }
+  ],
+  "hackathon_wins": [
+   "Hack the North 2025: AWS Campus Champions, Best Use of DynamoDB Streams (TradeOff)",
+   "BlockHack 2024 Spring: Community Voting Prize and AstraKode Challenge Prize (whermhole)",
+   "DeltaHacks X: [MLH] Best Use of Starknet (Ribbit)"
+  ],
+  "awards": [
+   "1st Place Overall, Ivey Marketing Summit (P&G x Ivey Marketing Club), Oct 2025: ECHO campaign for Olay Super Cream (self-reported on LinkedIn)",
+   "Top 10, Ivey Innovation North Student Challenge (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Operations Executive, Hack the 6ix (Oct 2026-present)",
+   "Designer, The Residency (Apr-Dec 2024)",
+   "President, World in Focus (2021-2023, high school)",
+   "Director of Marketing, Project 5K (2021-2023)"
+  ],
+  "skills_interests": [
+   "Design / UI (Figma)",
+   "Web3 (Starknet, Solidity)",
+   "Edge AI hardware (Raspberry Pi, QNX)",
+   "Fintech education",
+   "AI art detection",
+   "Marketing and brand strategy",
+   "Product storytelling and pitching"
+  ],
+  "talking_points": [
+   "She co-authored ChequeMark, an arXiv paper on after-hours cheque-fraud detection from her RBC Amplify summer: ask what the business-analyst side of an ML paper looked like.",
+   "She won the Ivey Marketing Summit (P&G case, ECHO campaign for Olay) and also wins hackathons: ask how case judges compare with hackathon judges.",
+   "She is on the Hack the 6ix organizing team now: ask what she is picking up from Hack Western's setup.",
+   "She was on Edison Qu's DeltaHacks X team (Ribbit, Starknet track), then went to the Starknet Hacker House: ask what came of it."
+  ],
+  "sources": [
+   "https://devpost.com/emilyyu18739",
+   "https://github.com/em1190",
+   "https://devpost.com/software/tradeoff-c24mwv",
+   "https://devpost.com/software/hayward",
+   "https://devpost.com/software/wherm",
+   "https://devpost.com/software/ribbit-8sc5kj",
+   "https://devpost.com/software/ai-spy-iqr246",
+   "https://devpost.com/software/noteable-j092qw",
+   "https://ca.linkedin.com/in/emily-nz-yu",
+   "https://arxiv.org/abs/2608.21629"
+  ],
+  "personal_site": "",
+  "school_program": "Ivey Business School at Western University, HBA (2025-2028) (self-reported on LinkedIn)",
+  "grad_year": "2028 (LinkedIn education dates 2025-2028)",
+  "current_role": "Ivey HBA student; Operations Executive, Hack the 6ix (Oct 2026-present)",
+  "merged_from": [
+   "thread2-combined-results.json",
+   "thread2-deepen-2.json",
+   "deep2"
+  ],
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [
+   {
+    "title": "ChequeMark: An Ensemble Machine Learning Framework for After-Hours Business Deposit Fraud Detection",
+    "venue": "arXiv 2608.21629 (2026), with Ann Youduo Xu, Justin Leski, William Lam; work done at RBC Amplify",
+    "url": "https://arxiv.org/abs/2608.21629"
+   }
+  ],
+  "news": [],
+  "added_this_pass": [
+   "Talking points trimmed to 4"
+  ],
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/emily-nz-yu",
+   "evidence": "High: her email-handle Devpost lists TradeOff (Hack the North 2025), and LinkedIn emily-nz-yu (Ivey/Western) has her own post about building TradeOff for the RBC InvestEase challenge at Hack the North; teammate Henrique Leite (Devpost hAlcLeite) also surfaces for TradeOff."
+  }
+ }
+]

@@ -1,0 +1,36 @@
+Warning: this sign-in ends between 2026-11-27 and 2026-11-30 (in 6 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+I've worked through all 28 people in `input-12.json` and written `linkedin/deep2/results-12.json`. The file is valid JSON, in input order, with every entry marked done. The task said about 29 people, but the input file has 28. 25 people got meaningful additions; Emily Liu, Kristina Batrak and Sebastian Sora were re-checked and nothing new turned up.
+
+**Fixes to existing records**
+- **Nathan Espejo:**
+  - His grad year was wrong: it's 2029, not 2028 (his own site says he graduates May 2029).
+  - His wins were mismatched. Object Love Interface won at CTRL+HACK+DEL 2.0, not NSBEHacks; his NSBEHacks 2024 win was Careerly (3rd overall plus Cohere's challenge 1st place).
+  - His site lists 8 awards from 22 hackathons; all 8 are now in the record with event and year. The record also has his TeraGo internship, his VP Data/ML role at 3D Western, and recent projects (Campus, Clank, AWARE).
+- **Tejas Kaushik:** his site spells the name "Tejass". His role is now COO at Anticipation Labs. I added his CTO role at Stellar Learning (Aug 2025 to Jul 2026), a national first-place research team result (2025), and the Stan Launchpad founder camp (2026).
+- **Jeffrey Wong:** the vague "3x winner" is replaced with two named prizes: 2nd overall at the Stupid Ideas Hackathon (Toronto, W26) and Community Discord Choice at Battle of the Schools. I added six earlier roles from his portfolio. That site is out of date (it says he's an incoming Waterloo student), so I kept UofT ECE from his GitHub bio.
+- **Ram, Harry Yang:** their wins now name the event, the prize and the project. I also removed duplicate talking points from Harry's record.
+
+**Most notable new finds**
+- **Publication:** Hadi Youssef is third author on SCMRAG, a retrieval system for AI agents, at the AAMAS 2025 conference (confirmed in the proceedings PDF).
+- **Hack Western 13 builds already public:**
+  - Krishnam Jhalani is building a smart cane ("hold-my-stick").
+  - Gloriana Zheng is building Brim, a hat for blind and low-vision people that runs everything on the device.
+- **Teammate links I can confirm:**
+  - Arjun Harinath and Surya Sure (Profit Path).
+  - Evalina Wang and Gloriana Zheng (Rumble).
+  - Murali Shruthi and Karthikraj Sivakumar (the Ruckus app).
+- **Other additions:**
+  - Lukas Bozinov's exact AMD and J.D. Power titles and results.
+  - Karthikraj's Trax pilot with the City of Kitchener.
+  - Oladele Magbadelo's internship acne classifier and his music background.
+  - Isabelle Gan's year as product manager at UW Blueprint.
+
+**Left out or still unconfirmed** (each is noted in that person's record)
+- **Baron Liu:** a SickKids page under the name Jie Xuan Liu came up, but it wouldn't load and had nothing else tying it to him.
+- **Murali Shruthi:** a possible second GitHub account (Shruthiiii03).
+- **Arjun and Krishnam:** whether they are one team this weekend. Both have smart-cane repos, but that's only a guess.
+- **Tejass:** his research paper's title, since his site only links it as a Google Drive file.
+- **Lukas:** an older LinkedIn address linked from his GitHub.
+
+**What blocked me:** web searches found almost nothing for these students, so no news items were added for anyone. Five personal sites load their content with JavaScript and showed no text when fetched (Evalina, Aarush, Harry, Matthew, Krishnam). Grad years are still missing for several people, including Evalina, Justin, Surya, Isabelle and Harry.
+exit 0 Sat Nov 21 14:46:45 EST 2026

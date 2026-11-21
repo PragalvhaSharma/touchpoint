@@ -1,0 +1,37 @@
+Warning: this sign-in ends between 2026-11-27 and 2026-11-30 (in 6 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+I worked through all 28 people in `input-11.json` (the brief said about 29; the file has 28). `linkedin/deep2/results-11.json` is written and checks out as valid JSON, in input order, with no phone numbers. About 24 people got real additions, Fiona Xu got only one project link, and I found nothing new for Zlata Honchar or Isha Das.
+
+**Most notable finds**
+- **Xander Chin:** two peer-reviewed papers. He is first author on a 2024 paper in *Designs* about tiling solar panels onto odd-shaped buildings, and co-author on a 2025 *Technologies* paper (an open-source automation device called BREAD). His site says Groq and Opal Camera both recruited him because of his open-source projects.
+- **George Farag:**
+  - He has incoming internships at Microsoft in Redmond (Summer 2027, a cold application) and IBM in Toronto (Fall 2027).
+  - Sheridan's newsroom (Aug 2026) covered Ember, a firefighter headset project, finishing top 3 in the Google Solution Challenge North America as the only Canadian team and only hardware project.
+  - He has run Sheridan's Google Developer Group since July 2026 and directed its 300-person datathon.
+- **Ethan Yang:** three Devpost wins the record was missing:
+  - HackHive 2026, MLH Best Use of Solana
+  - Stupid Ideas Hackathon (Toronto W26), 2nd overall
+  - Battle of the Schools, Community Discord Choice
+  
+  His public resume also adds a DeltaHacks 12 top-6 finish, a UofT rover team role, a UofTHacks exec role, and research with Prof. Steve Mann.
+- **Mohammed Owda:** an RBC Design Thinking fellowship, VP Technical Operations at Western Engineering Competition, six club leadership roles, and self-reported placings, including 1st in Hack Western's Canada Life stream.
+- **Arianna Tan:** a CIBC quant and fixed income role (Summer 2025), a private equity analyst role (Winter 2024), five fellowships, her Substack, and a research paper on free-to-play game revenue.
+- **Jack Ruttan:** his Google Scholar link and the full title of his paper on the endangered Comanche language (a NAACL 2025 workshop).
+- **Others:** grad years for Tygo Crawley (2027) and Tudor Filimon (2028), inferred from "4th year" and "3rd year" in their GitHub READMEs. New current roles for Dhruv Thakar, Jamie Seoh, Nathan Feng and Ian Korovinsky. Fresh conversation openers for most people.
+
+**Corrections** (each noted in that person's record)
+- **George Farag:** IBM was listed as a past job; it is an incoming Fall 2027 internship.
+- **Jamie Seoh:** the Cerebras internship ended in Aug 2026. His current role is now research on a code verification tool (SeaHorn) at Waterloo.
+- **Ian Korovinsky:** his Hack the North Co-Director role is now "former".
+- **Tygo Crawley:** his BearHacks 2026 result is now the exact placing, 2nd place.
+- **Jaemin Han:** his CxC 2025 project placed 3rd, not 1st, in its challenge. His site suggests he has already finished his degree.
+- **Daniel Wang:** his 2023 climate hackathon 2nd place is now tied to the named project.
+- **Eric Song:** program refined to Math and Statistics (Co-op), started Sept 2025.
+
+**What blocked me**
+- Web search found almost nothing for most names. Most of what I added came from Devpost, GitHub, personal sites, and public resumes in people's own GitHub repos.
+- No Devpost profile turned up for Zlata Honchar, Arianna Tan, Isha Das or Shawn Xiong under the handles I tried.
+- I couldn't re-confirm Rafay Kashif's Western Gold Medal, so it stays from the earlier sources.
+- I didn't load any LinkedIn pages.
+
+My scratch files are in `work-d11/` (where this session started), not `work-11/` as the task named. If you add notes to `work-d11/patches.py`, rerun `work-d11/merge.py`, which rebuilds the output from the input file each time.
+exit 0 Sat Nov 21 14:48:04 EST 2026

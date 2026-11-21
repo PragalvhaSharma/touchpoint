@@ -1,0 +1,5 @@
+Read the brief first: /Users/prag/Documents/PragPersonal/Projects/at-Western/outputs/hack-western-13-slack/linkedin/deep2/BRIEF.md (follow it exactly, including the hard rules).
+
+Your task: LinkedIn re-match for linkedin/deep2/rematch-none.json (22 people with no match yet; many are first-name-only Slack names, so lean on email handles, GitHub commit-email search and Devpost). Write linkedin/deep2/rematch-results-none.json and, for anyone you confirm, linkedin/deep2/rematch-profiles-none.json. Scratch: linkedin/deep2/work-rn/.
+
+You are running headless in Claude Code with cwd set to the work dir. Use Bash (curl, gh api, python3), WebSearch and WebFetch. Work through every person; don't stop to ask questions. Save progress to your output file as you go.

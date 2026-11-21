@@ -1,0 +1,38 @@
+Warning: this sign-in ends between 2026-11-27 and 2026-11-30 (in 6 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+I went through all 29 people and `linkedin/deep2/results-7.json` is updated and valid JSON. 22 people got real additions. The other 7 (Ella, Jiaming, Tristan, Horst, Abby, Jessica and Matias) only got small confirmations or new links. Every new fact has a source URL, and I didn't spawn subagents.
+
+**New hackathon wins and Devpost profiles**
+- **Ola Waked:** her Devpost is `hola66567`, which matches her email. Her project TedTalks won Third Place Overall and the MLH Best Use of MongoDB Atlas prize at SheHacks+10.
+- **Sawaab Anas:** Devpost is `sawaabanas`. DeepDrive took 3rd place at Hack to the Future (WLU). He also has projects at RoadStar, CommuniHacks and Hack Canada 2026, plus two new fall 2026 repos (PacketPilot and Axiom Atlas).
+- **Eric Chen:** three older wins from his site and Devpost: GuideBot (MLH Best Accessibility Hack, Hack the 6ix 2023), Grip Guardian (JAMHacks 8) and IWitness (2nd place, YRHacks 2023). Also his grad year (2028), a Qwen3 decode engine for the Dryft kernel challenge at Hack the North 2026 (6.2x faster on one H100), and details of his Korah and Autumn internships.
+- **Andrew Chu:** wins now name the event: Hack the 6ix 2025 (ThirteenLabs), DeltaHacks XI 2nd place and YRHacks 2023. He has also organized, mentored or judged at six hackathons.
+- **Osarumen Izedonmwen, Sharib Masum, Liam Ma (second handle), Luke Blommesteyn, Amelia Lon and Alvik Maharjan:** Devpost profiles added. Alvik's has no public projects yet.
+
+**Roles, publications and projects**
+- **Luke Blommesteyn:**
+  - Past roles: RBC Amplify internship in 2024 (a patent-pending recommendation engine), and founder of Western Developer Society, which grew past 700 members.
+  - Papers: GroupWAR at CASSIS 2026 and the CUCAI 2026 Best Paper.
+  - New projects: an NBA movement-fingerprints model, a Tiny Tapeout chip submission, and a Solana trading-research engine.
+- **Osarumen:** Shopify internship is Jan to Apr 2027. Current Solink role added. His app RUMII has passed 1,000 users.
+- **Maxwell Peng:** he built creatordice.com, an AI tax tool for content creators. Role details for Resilient Privacy and Autumn added.
+- **Jacob Lee:** a manuscript he led is under double-blind review. I inferred his grad year as 2027 from "3rd year" on his site; it isn't stated directly.
+- **Xinge Xu:** fall 2026 case competitions (PBSN ASPIRE and WFN Pitch the Future) and InForce, a regulation-aware RAG project.
+- **Brianna Xiao:** a GitHub repo confirms the MLH Production Engineering Fellowship.
+- **Others:**
+  - Otis Lau's Courtyard AI work is iMessage agents.
+  - Edwin Ngui's site claims a PacRoyale Starknet win (self-reported, event not named).
+  - Liam Ma has a lamp-robot build.
+  - Kathy Dong probably went to HackMIT 2026 (based only on a repo name).
+
+**Corrections** (each one is noted in that person's `confidence_notes`)
+- **William Zeng:** his hackathon wins were just project names. I replaced them with the event and prize from Devpost and removed Equill, which shows no prize. I also removed an empty link entry.
+- **Duplicates removed:** a duplicate win line for Eric and Andrew, and a duplicate Devpost link in Luke's other links.
+- **Flagged, not changed:**
+  - Brayden Leung: the Stubby Devpost page shows no prize, and his handle isn't in the team list there, so that win rests on earlier evidence.
+  - Sawaab: his RoadStar Devpost entry has no prize badge.
+  - Edwin: an Ivey article about Hack Western 11 mentions PacRoyale but names no team.
+
+**What blocked me:** web search was close to useless. WebSearch couldn't find these names, DuckDuckGo returned nothing and Bing returned spam. So there are almost no news items this pass; everything came from Devpost, GitHub and personal sites. I didn't touch LinkedIn. Scratch files are in `work-d7/`, not `work-7/` as the task said, because that was the session's working directory.
+
+That notice is about a listing command I started at the very beginning. It stalled and has now been stopped. Nothing depended on it: I read the same data with other commands, and `results-7.json` (all 29 entries, valid JSON) was written separately, so the results above are unaffected.
+exit 0 Sat Nov 21 14:53:43 EST 2026

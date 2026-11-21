@@ -1,0 +1,23 @@
+Warning: this sign-in ends between 2026-11-27 and 2026-11-30 (in 6 days at the earliest). Renewing it does not move those dates. Run claude auth login before then, or use claude setup-token for unattended jobs.
+I confirmed 3 of the 26 people. The other 23 stay at low confidence, mostly unchanged; for two of them I added notes or an extra candidate.
+
+- **`linkedin/deep2/rematch-results-low.json`**: one entry for each of the 26 people. It's valid JSON.
+- **`linkedin/deep2/rematch-profiles-low.json`**: full profile records for the 3 confirmed people.
+
+**Confirmed:**
+- **Edison Qu (edisonquu), high:** commits from his Slack email belong to GitHub edisonqu, and his Devpost (`web3`) links straight to linkedin.com/in/edisonqu. That profile shows Ivey/Western and that he co-ran Ignition Hacks. I added several of his GitHub projects (Etherspy, his ETHGlobal LFGHO project, a hackathon-trophies site).
+- **Emily Yu, high:** her Devpost (same handle as her email) lists TradeOff, which won an AWS prize at Hack the North 2025. LinkedIn emily-nz-yu (Ivey/Western, headline "Business Analyst @ RBC") has a post about building TradeOff for RBC's challenge there, and one of her teammates also turns up in searches for it. This fixes her earlier "school unknown" note. She was also on Edison's DeltaHacks X team. I saw that post only through search results, not on LinkedIn itself.
+- **Jennifer Wang, medium:** her Devpost (same handle as her email) shows Hack Western 10 and 12. It links her GitHub, which has a UWO timetable-maker repo. LinkedIn jennn-wang lists Western and "WEST Lab @UWO". The name and school match, but nothing links the LinkedIn to her other accounts.
+
+**Other new findings (all still low):**
+- **Samuel Shi:** two McMaster software engineering students share the name: /in/samuel-shi (ex-Stripe/AMD) and /in/samuel-shi-910651293 (ex-Alectra, incoming RBC). Nothing tells them apart, so both are listed.
+- **"Moses Justin":** the email-handle Devpost belongs to Justin Fang, and both of his teams include a Devpost user "mosesmliang". The Slack account may be shared or borrowed.
+- **Ibrahim:** his Devpost shows EurekaHacks 2026, a high-school hackathon. That makes the existing LinkedIn guess less likely.
+
+**What held me back:**
+- WebSearch refused most name searches. Bing returned unrelated results, DuckDuckGo, Yahoo and Ecosia returned nothing, and Brave worked for one query before blocking me.
+- Searching GitHub commits by each email found accounts for only 9 people, and most had no school or LinkedIn link.
+- For the remaining low-confidence people, the existing state is repeated except where noted above.
+
+An early setup command was stopped after it ran out of time, but this doesn't affect the results. Only its last step, listing the work folders, hung. The step that created `rematch-results-low.json` had already finished, and I've updated that file several times since. Both output files load as valid JSON: 26 entries in the results file and 3 in the profiles file.
+exit 0 Sat Nov 21 14:53:41 EST 2026

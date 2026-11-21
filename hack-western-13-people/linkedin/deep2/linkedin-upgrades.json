@@ -1,0 +1,4 @@
+[
+ {"id":"U0CHXQH2NCW","name":"Anastasiya Volgina","linkedin_url":"https://ca.linkedin.com/in/anastasiya-volgina","confidence":"high","evidence":"Her email-tied GitHub and Devpost (Anastasiya006; commit-email search returns her name) both link linkedin.com/in/anastasiya-volgina and anastasiyavolgina.com. (was medium)"},
+ {"id":"U0CJ0JMB352","name":"Sydney Gahunia","linkedin_url":"https://ca.linkedin.com/in/sydney-gahunia-b9a704318","confidence":"high","evidence":"Her own GitHub README (sydneygahunia-wq) links linkedin.com/in/sydney-gahunia-b9a704318, and her site sydneygahunia.com matches the headline (Systems Design Engineering @ UWaterloo). (was medium)"}
+]

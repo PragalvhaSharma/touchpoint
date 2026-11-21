@@ -1,0 +1,3280 @@
+[
+ {
+  "id": "U0CHPGP06PP",
+  "status": "done",
+  "name": "Abdullah Chabaytah",
+  "personal_site": {
+   "url": "https://maniic.github.io",
+   "evidence": "GitHub website field."
+  },
+  "github": {
+   "url": "https://github.com/maniic",
+   "evidence": "Commit-email search for the Slack email returns commits authored by this account (author Abdullah Chabaytah)."
+  },
+  "devpost": {
+   "url": "https://devpost.com/maniic",
+   "evidence": "Devpost links github.com/maniic."
+  },
+  "school_program": "University of Toronto, Computer Science major, Math and Statistics minor (2024-2028) (self-reported on LinkedIn)",
+  "grad_year": "2028",
+  "current_role": "CS student, University of Toronto; Outlier (current employer on LinkedIn, title not shown)",
+  "confidence_notes": "Upgraded low -> high. [combined from thread2-github-results.json, thread2-low-a-results.json] Pass 2: Devpost lists one project (EquiLearn) with no prizes; site maniic.github.io is a minimal shell (Projects/Photography/Resume) with no extra public facts. Web search found nothing further. | pass3: minor (Math and Statistics) and current employer Outlier from his public LinkedIn page; grad 2028 confirmed by education dates 2024-2028. Web search for his name found only unrelated medical papers.",
+  "other_professional_links": [],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Predictive Maintenance Digital Twin",
+    "summary": "Predicts remaining useful life of turbofan engines.",
+    "url": "https://github.com/maniic/predictive-maintenance-digital-twin"
+   },
+   {
+    "name": "Sentiment-Forecasting",
+    "summary": "FinBERT headline sentiment plus price stock forecasting.",
+    "url": "https://github.com/maniic/Sentiment-Forecasting"
+   },
+   {
+    "name": "Collaborative-Code-Editor",
+    "summary": "Google Docs for coding.",
+    "url": "https://github.com/maniic/Collaborative-Code-Editor"
+   },
+   {
+    "name": "Gesture Recognition System",
+    "summary": "Real-time hand tracking and gesture recognition with Kalman-filter data fusion.",
+    "url": "https://github.com/maniic/gesture-recognition-system"
+   },
+   {
+    "name": "Ultimate Finder",
+    "summary": "Wayfinding app for the U of T campus.",
+    "url": "https://github.com/maniic/Ultimate-Finder"
+   },
+   {
+    "name": "ad-canvas",
+    "summary": "Turns a chat message into a generated ad on an editable canvas via structured LLM-to-UI generation.",
+    "url": "https://github.com/maniic/ad-canvas"
+   },
+   {
+    "name": "EquiLearn",
+    "summary": "Digital platform promoting equal access to education, justice, sustainability and wellbeing resources (Devpost).",
+    "url": "https://devpost.com/software/equilearn"
+   },
+   {
+    "name": "PromptForge",
+    "summary": "Recent repo (Oct 2026), no public description.",
+    "url": "https://github.com/maniic/PromptForge"
+   },
+   {
+    "name": "Fall Detection Model",
+    "summary": "Logistic-regression fall detector trained on the SisFall dataset.",
+    "url": "https://github.com/maniic/fall-detection-model"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Deep learning",
+   "NLP",
+   "Computer vision",
+   "Machine learning",
+   "Systems",
+   "Backend engineering",
+   "Photography"
+  ],
+  "talking_points": [
+   "His LinkedIn lists Outlier, the AI-training data platform: ask what kinds of model tasks he works on.",
+   "He built a predictive-maintenance digital twin: ask what data it was trained on.",
+   "Ask about his gesture-recognition and fall-detection models and whether he is doing CV this weekend."
+  ],
+  "sources": [
+   "https://github.com/maniic",
+   "https://devpost.com/maniic",
+   "https://maniic.github.io",
+   "https://linkedin.com/in/achabaytah",
+   "https://github.com/maniic?tab=repositories",
+   "https://www.linkedin.com/in/achabaytah"
+  ],
+  "merged_from": [
+   "zz-research-chunk.json",
+   "thread2-combined-results.json",
+   "deep2"
+  ],
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Minor in Math and Statistics (LinkedIn)",
+   "Current employer: Outlier"
+  ]
+ },
+ {
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/BaronLiu1993",
+   "evidence": "Same as his email handle; README ('Hi! I'm Baron') links his LinkedIn"
+  },
+  "devpost": {
+   "url": "https://devpost.com/baronliu1993",
+   "evidence": "Same as his email handle; name Baron Liu; links GitHub BaronLiu1993"
+  },
+  "other_professional_links": [],
+  "school_program": "University of Toronto, Industrial Engineering (third year)",
+  "grad_year": "2028 (LinkedIn education dates 2024-2028)",
+  "current_role": "Building Gerbera, a CLI + SDK for connecting AI agents to hardware",
+  "past_roles": [
+   "SWE intern, Wealthsimple",
+   "SWE intern, Ada"
+  ],
+  "projects": [
+   {
+    "name": "Gerbera",
+    "summary": "All-in-one CLI + SDK for connecting agents to hardware",
+    "url": "https://github.com/BaronLiu1993/gerbera"
+   },
+   {
+    "name": "Quartz",
+    "summary": "QA agent for hardware",
+    "url": "https://github.com/BaronLiu1993/quartz"
+   },
+   {
+    "name": "UnderwriteIQ",
+    "summary": "Ranks Federato underwriting against carrier appetite with a fine-tuned distilled model",
+    "url": ""
+   },
+   {
+    "name": "reMindA",
+    "summary": "Glasses that use facial recognition to help Alzheimer's patients recognize loved ones",
+    "url": "https://devpost.com/software/reminda"
+   },
+   {
+    "name": "GlassBox",
+    "summary": "Build AI agent workflows to keep customers engaged",
+    "url": ""
+   },
+   {
+    "name": "overcookedAI",
+    "summary": "Recent repo (Jul 2026), likely multi-agent RL on the Overcooked environment; no description.",
+    "url": "https://github.com/BaronLiu1993/overcookedAI"
+   },
+   {
+    "name": "Palette (research outreach app)",
+    "summary": "Next.js frontend for a research-outreach app.",
+    "url": "https://github.com/BaronLiu1993/palettefrontend"
+   },
+   {
+    "name": "htn-2026",
+    "summary": "Hack the North 2026 repo (Sep 2026).",
+    "url": "https://github.com/BaronLiu1993/htn-2026"
+   }
+  ],
+  "hackathon_wins": [
+   "RythmHacks: 2nd Place (Protential)",
+   "WaffleHacks 2023: Best Hack for Accessibility (MyoCharm)",
+   "Ignition Hacks 2023: top-three overall (ARcademy)",
+   "Ignition Hacks 2024: Second Place Overall (reMindA)",
+   "Hack the Valley 9: [MLH] Best AI Application Built with Cloudflare (SnaipShot)",
+   "Spring Hacks: First Place and Theme Prize (Phosment)",
+   "SimpliHacks 2.0: 2nd Place (College) and Best Domain Name (Nourpact)"
+  ],
+  "awards": [
+   "Generation Google Scholarship (Jun 2024) (self-reported on LinkedIn)",
+   "Avogadro Contest Certificate of Distinction, University of Waterloo (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "VP of Sponsorship, UofTHacks (Jun 2025-present) (LinkedIn; UofT student organization page)",
+   "Software Engineering Team Lead, You're Next Career Network (Feb 2026-present)",
+   "Engineering Science conference volunteer, UofT Engineering (2024-present)",
+   "President, Milliken Mills HS chapters of HOSA and DECA (2022-2023)"
+  ],
+  "skills_interests": [
+   "Distributed systems",
+   "AI infrastructure and agents",
+   "Hardware + AI integration",
+   "Python, TypeScript, Node.js"
+  ],
+  "talking_points": [
+   "He is VP of Sponsorship at UofTHacks: ask how he pitches sponsors and what Hack Western does differently.",
+   "He has seven-plus hackathon wins (Ignition Hacks, Spring Hacks, WaffleHacks and more): ask which win he is proudest of.",
+   "He is building Gerbera, a CLI + SDK for connecting AI agents to hardware: ask what hardware it already talks to.",
+   "He is a Generation Google Scholar who interned at Wealthsimple and Ada: ask what he learned shipping at Wealthsimple."
+  ],
+  "sources": [
+   "https://github.com/BaronLiu1993",
+   "https://devpost.com/baronliu1993",
+   "https://www.linkedin.com/in/baron-liu-a21283277/",
+   "https://github.com/BaronLiu1993?tab=repositories",
+   "https://sop.utoronto.ca/group/copy-of-uofthacks-student-organization",
+   "https://techrseries.com/hrtechnology/humi-supports-canadas-next-generation-of-tech-talent-at-ignition-hacks-2023"
+  ],
+  "confidence_notes": "Strong: handle matches GitHub and Devpost, and the GitHub README links the LinkedIn. GitHub also has an htn-2026 repo. Wins come from the awards on his Devpost project entries. Pass 2: a Riipen page for 'Jie Xuan Liu' (SickKids assistant researcher, 2024) surfaced in search but could not be loaded (403) and has no second tie, so it was left out. He also attended Hack the North 2026 (htn-2026 repo). | pass3 conflict: hackathon_wins: Ignition Hacks 2023: kept Devpost's 'top-three overall (ARcademy)' over a Humi press release saying Rachel Wei, Ethan Teh, Baron Liu and Jerry Liu won first place, because Devpost ranks above news in the precedence rule; the press release suggests it may have been 1st. | pass3: LinkedIn still lists Wealthsimple as current employer but his headline reads 'prev eng @ Wealthsimple, Ada', so Wealthsimple stays a past role.",
+  "status": "done",
+  "id": "U0CJNUFM90U",
+  "name": "Baron (Jie Xuan) Liu",
+  "publications": [],
+  "news": [
+   {
+    "title": "Humi Supports Canada's Next Generation of Tech Talent at Ignition Hacks 2023 (names Baron Liu among first-place winners)",
+    "url": "https://techrseries.com/hrtechnology/humi-supports-canadas-next-generation-of-tech-talent-at-ignition-hacks-2023"
+   }
+  ],
+  "added_this_pass": [
+   "Grad 2028 (LinkedIn)",
+   "Generation Google Scholarship",
+   "VP of Sponsorship, UofTHacks; You're Next Career Network team lead",
+   "Humi press release on Ignition Hacks 2023 win"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "personal_site": {
+   "url": "https://evalinawang.com",
+   "evidence": "Links linkedin.com/in/evalinawang, GitHub evalinawang and the Rumble Devpost project also on Devpost evalinaxwang"
+  },
+  "github": {
+   "url": "https://github.com/evalinawang",
+   "evidence": "Linked from evalinawang.com"
+  },
+  "devpost": {
+   "url": "https://devpost.com/evalinaxwang",
+   "evidence": "Same as her email handle; project Rumble, linked from her site"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Computer Science",
+  "grad_year": "",
+  "current_role": "CS student at Western",
+  "past_roles": [
+   "Software Engineer Intern, TD Bank (May-Aug 2026)",
+   "Product Management Intern, Luxor Technology / Tenki (May-Aug 2025), supporting a CI/CD compute platform",
+   "Activities Chair, Create Markham (2020-2024)"
+  ],
+  "projects": [
+   {
+    "name": "Rumble",
+    "summary": "UofTHacks social betting platform with non-monetary stakes (chores, favors, dares)",
+    "url": "https://devpost.com/software/rumble-as9183"
+   },
+   {
+    "name": "Hand-tracking vocoder",
+    "summary": "Real-time hand-gesture-controlled live music system (MediaPipe, MIDI, GarageBand)",
+    "url": ""
+   },
+   {
+    "name": "StudyAI",
+    "summary": "Generates practice tests from course notes",
+    "url": ""
+   },
+   {
+    "name": "dolymarket",
+    "summary": "Repo from Jan 2026 (likely a prediction-market build; no description).",
+    "url": "https://github.com/evalinawang/dolymarket"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "BCG x EY case competition: 2nd place (fintech go-to-market for healthcare billing automation)",
+   "Dean's Honour List, Western (self-reported on LinkedIn)",
+   "BUS 2257 Feasibility Section Winner (self-reported on LinkedIn)",
+   "Ontario Scholar, 2024 (self-reported on LinkedIn)",
+   "DECA Ontario Top 10 Provincial Roleplay, Sports and Entertainment Decision Making, 2023 (self-reported on LinkedIn)",
+   "Salesforce Certified Administrator (self-reported on LinkedIn)",
+   "RCM Level 9 Piano with Honours (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Director of Development, Women+ in Technology Society (Oct 2026-present)",
+   "VP Vocal & Performance, WeMix Western (Sep 2025-present)",
+   "Senior Advisor, CREATE Conference Council (2020-2025; earlier Delegate, Maven, Activities Chair)"
+  ],
+  "skills_interests": [
+   "Product strategy and UX",
+   "Creative coding",
+   "Python, Java, SQL, TypeScript",
+   "PostHog, Grafana"
+  ],
+  "talking_points": [
+   "She just became Director of Development at Women+ in Technology Society (the SheHacks team): ask what she's planning for SheHacks.",
+   "She placed 2nd at the BCG x EY technology consulting case competition with a fintech go-to-market for healthcare billing: ask how she framed the market.",
+   "She spent summer 2026 as a software engineering intern at TD after a PM internship at Luxor/Tenki: ask whether she prefers building or product.",
+   "She's VP Vocal & Performance at WeMix Western and holds RCM Level 9 piano: ask about her hand-tracking vocoder project."
+  ],
+  "sources": [
+   "https://evalinawang.com",
+   "https://devpost.com/evalinaxwang",
+   "https://ca.linkedin.com/in/evalinawang",
+   "https://devpost.com/software/rumble-as9183",
+   "https://github.com/evalinawang/dolymarket"
+  ],
+  "confidence_notes": "Strong cross-links. Organizations from her site's content; the Luxor Technology / Tenki relationship is as listed there. Pass 2: evalinawang.com is JS-rendered and returned no text; grad year still not public. | pass3: LinkedIn lists Hollister Co. as current experience (likely part-time retail; not used as current_role). BCG x EY 2nd place confirmed on LinkedIn education entry (WFN competition). Grad year still not shown.",
+  "status": "done",
+  "id": "U0CJVNDASBV",
+  "name": "Evalina Wang",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Women+ in Tech Director of Development",
+   "WeMix Western VP",
+   "Dean's Honour List, BUS2257 section winner, Ontario Scholar, DECA",
+   "Salesforce Certified Administrator",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CKTGUM45A",
+  "name": "Ram",
+  "personal_site": null,
+  "github": null,
+  "devpost": {
+   "url": "https://devpost.com/ramcharanvelpuri",
+   "evidence": "Devpost profile named Ramcharan Velpuri ('tryna build') with GitHub and LinkedIn links; holds the Hackathon Winner achievement."
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Engineering",
+  "grad_year": "2030 (per his public bio 'uwo eng 30')",
+  "current_role": "First-year Engineering student, Western University (2026-); LinkedIn headline 'prev @vly.ai, uwo eng 30'",
+  "past_roles": [
+   "Growth Intern, vly.ai (YC F24), from June 2025 (LinkedIn; headline says 'prev')",
+   "Co-Founder & CMO, Payle (AI-agent payments infrastructure) per Payle's former team page (page now redirects; UNVERIFIED beyond the search index)"
+  ],
+  "projects": [
+   {
+    "name": "Goodminton",
+    "summary": "3D computer-vision badminton analysis; winning project.",
+    "url": ""
+   },
+   {
+    "name": "HandSync",
+    "summary": "Sign-language video calls; winning project.",
+    "url": ""
+   },
+   {
+    "name": "JobBot",
+    "summary": "Job-search automation project.",
+    "url": ""
+   },
+   {
+    "name": "SpawnKit",
+    "summary": "Project on his Devpost.",
+    "url": ""
+   },
+   {
+    "name": "Lift Loop",
+    "summary": "Hack the Bronx 4 project.",
+    "url": ""
+   },
+   {
+    "name": "MedGaurdian",
+    "summary": "Health project on his Devpost.",
+    "url": ""
+   },
+   {
+    "name": "Patch",
+    "summary": "AI-assisted vulnerability scanning that finds real security issues and shows the fix.",
+    "url": "https://devpost.com/software/patch-wedrtc"
+   },
+   {
+    "name": "OceanScanHub",
+    "summary": "Hackathon project (no description).",
+    "url": "https://devpost.com/software/oceanscanhub"
+   },
+   {
+    "name": "Healthomate",
+    "summary": "AI tools for clinics (predictive analytics and triage) to cut wait times; built in buildspace S5 (2024)",
+    "url": "https://www.linkedin.com/posts/ramcharan-velpuri_buildinpublic-buildinpublic-activity-7155580366475407361-BmLk"
+   }
+  ],
+  "hackathon_wins": [
+   "Ignition Hacks v.6: Best Use of Roboflow (Goodminton, object-permanent 3D CV for badminton)",
+   "KTHack 2025: Best Beginner Hack (HandSync, sign-language learning platform)"
+  ],
+  "awards": [
+   "Best Pitch Award, FIRST Robotics Girls and Allies STEMATHON (May 2023) (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "buildspace Nights & Weekends S5 participant (2024)",
+   "Ambassador, DataEthics4All Foundation (STEAM in AI) (2023-present)",
+   "Volunteer tutor, Code Ninjas (2023-present)"
+  ],
+  "skills_interests": [
+   "Computer vision",
+   "Accessibility tech",
+   "Growth",
+   "Startup growth / marketing",
+   "Health tech",
+   "Fast MVP shipping with AI coding tools"
+  ],
+  "talking_points": [
+   "He did growth at vly.ai (YC F24) before starting Western Eng: ask what growth looks like at a YC startup and what he'd build differently.",
+   "He was in buildspace S5 building Healthomate, AI triage to cut clinic wait times: ask what clinics told him.",
+   "He posts about shipping MVPs fast with Cursor/Claude: ask what he plans to ship by Sunday.",
+   "He won Best Roboflow use at Ignition Hacks with Goodminton (3D CV for badminton): ask how the object permanence worked."
+  ],
+  "sources": [
+   "LinkedIn search snippet (https://ca.linkedin.com/in/ramcharan-velpuri)",
+   "https://devpost.com/ramcharanvelpuri",
+   "https://devpost.com/software/goodminton",
+   "https://devpost.com/software/hack-sync",
+   "https://devpost.com/software/patch-wedrtc",
+   "https://ca.linkedin.com/in/ramcharan-velpuri",
+   "https://usepayle.com/team/ramcharan-velpuri/"
+  ],
+  "confidence_notes": "Distinctive name; Devpost, LinkedIn and public bio agree on Western Engineering. His personal X account was used only for the program/year and vly.ai role and is not linked. Pass 2: replaced vague 'winner, per Devpost' wins with exact Devpost prize names. | pass3: LinkedIn page confirms Western Engineering (2026-present) and vly.ai (YC F24); search snippet gives 'growth intern, June 2025'. Payle co-founder/CMO comes only from a search-indexed Payle team page (Toronto) that now redirects to an unrelated founder site, so it is marked UNVERIFIED. Political canvassing volunteer entry deliberately omitted.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "vly.ai growth intern dates; marked as past (headline 'prev')",
+   "Healthomate (buildspace S5) project",
+   "Payle co-founder/CMO lead (UNVERIFIED)",
+   "FIRST Robotics pitch award; DataEthics4All ambassador"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "personal_site": {
+   "url": "https://aarushmodi.ca/",
+   "evidence": "Portfolio says third-year Software Engineering at Western (AI specialization); GitHub aarush-modi bio 'Software Engineering Student at UWO' links to it; Devpost profile links site, GitHub and linkedin.com/in/aarush-modi"
+  },
+  "github": {
+   "url": "https://github.com/aarush-modi",
+   "evidence": "Name Aarush Modi, bio 'Software Engineering Student at UWO', blog aarushmodi.ca; cross-linked from Devpost"
+  },
+  "devpost": {
+   "url": "https://devpost.com/aarush-modi",
+   "evidence": "Devpost profile links aarushmodi.ca, github.com/aarush-modi and linkedin.com/in/aarush-modi"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, BESc Software Engineering (Co-op), Specialization in Artificial Intelligence",
+  "grad_year": "2029 (portfolio: Sept 2024 to June 2029)",
+  "current_role": "Student; LinkedIn headline: 'Software Engineering @ Western | Building multi-agent AI for finance | Seeking Summer 2027 SWE/AI co-ops'",
+  "past_roles": [
+   "Sole software developer, A&A Optoelectronics (AALED): corporate website plus Bluetooth mesh lighting-control app",
+   "Apple-partnered iOS co-op program; pitched a Swift self-improvement app at the Guelph Developer Showcase (6 investor inquiries)"
+  ],
+  "projects": [
+   {
+    "name": "Autonomous Investment Committee",
+    "summary": "Six LLM agents act as an investment committee; a Claude 'Chair' agent picks specialists at runtime, RAG over SEC filings in ChromaDB, outputs a cited Buy/Sell/Hold memo for under $1 per run",
+    "url": "https://github.com/aarush-modi/Autonomous-Investment-Committee"
+   },
+   {
+    "name": "Momentum Backtesting Engine",
+    "summary": "Long/short momentum backtester over 1,000+ equities and 20 years of data with Sharpe, drawdown, transaction costs",
+    "url": "https://github.com/aarush-modi/Momentum-Backtesting-Engine"
+   },
+   {
+    "name": "Monte Carlo European Option Pricer",
+    "summary": "Option pricing with 1M Monte Carlo simulations",
+    "url": "https://github.com/aarush-modi/Monte-Carlo-European-Option-Pricer"
+   },
+   {
+    "name": "SecondHand",
+    "summary": "TerraHacks (Aug 2024) project with Arjun Rathore: free buy/sell marketplace ('Buy? Sell? Free. Forever.')",
+    "url": "https://devpost.com/software/secondhand"
+   },
+   {
+    "name": "IBM SkillsBuild AI Experiential (Cache Out)",
+    "summary": "Recent team repo (Nov 2026) for an IBM SkillsBuild AI experiential program project.",
+    "url": "https://github.com/aarush-modi/IBM-SkillsBuild-AI-Experiential-Cache-Out"
+   },
+   {
+    "name": "SE3351 Team 50 WEVE",
+    "summary": "Course team project for Western SE 3351 (Nov 2026).",
+    "url": "https://github.com/aarush-modi/SE3351-Team50-WEVE"
+   },
+   {
+    "name": "Northern Hail Project device (ES1050)",
+    "summary": "First-year design team prototype for measuring the kinetic energy of hail for the Northern Hail Project client; presented at the ES1050 Design Showcase, Apr 2025 (his LinkedIn post)",
+    "url": ""
+   },
+   {
+    "name": "ML Stock Portfolio Analysis",
+    "summary": "Python system automating equity data collection, storage and short-term price forecasting (LinkedIn project, May 2025)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Dean's Honours List 2024-25, Western Engineering (self-reported on LinkedIn)",
+   "App Development with Swift Showcase award, Career Education Council, Jan 2024 (self-reported on LinkedIn)",
+   "Ontario DECA ETDM Regionals Finalist, 2023 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "6th Floor Representative, Essex Residence Council (Oct 2024-May 2025)",
+   "Competitor, Western Engineering Competition 2024 (his LinkedIn post)"
+  ],
+  "skills_interests": [
+   "Multi-agent LLM systems",
+   "RAG pipelines",
+   "Anthropic SDK / tool use",
+   "Quantitative finance and algorithmic trading",
+   "Python, Java, C++, Swift",
+   "iOS development"
+  ],
+  "talking_points": [
+   "He's building a multi-agent system where specialist agents report to an orchestrator, and posted about debugging where its outputs went wrong: ask how he traced it.",
+   "His ES1050 team built a device for the Northern Hail Project to measure hail kinetic energy: ask how they tested it without hail.",
+   "He built a momentum backtester and a Monte Carlo option pricer: ask whether he's aiming at quant or AI roles for his Summer 2027 co-op.",
+   "He was elected 6th-floor rep on Essex Residence Council: ask what he ran for the floor."
+  ],
+  "sources": [
+   "https://aarushmodi.ca/",
+   "https://github.com/aarush-modi",
+   "https://devpost.com/aarush-modi",
+   "https://devpost.com/software/secondhand",
+   "https://github.com/aarush-modi?tab=repositories",
+   "https://ca.linkedin.com/in/aarush-modi"
+  ],
+  "confidence_notes": "Strong identity: portfolio, GitHub and Devpost all cross-link and name Western Software Engineering. GitHub location says Toronto, which matches the LinkedIn GTA location. A Singapore student and an India student with the same name were excluded. No hackathon wins found. Pass 2: aarushmodi.ca is JS-rendered (no text via curl); Devpost has one project (SecondHand), no prizes. | pass3: honors, Essex Residence Council role and ES1050/WEC posts from his LinkedIn page. Certifications (IBM, Onshape, Coursera, first aid) and political-campaign volunteering left out as trivia/out of scope.",
+  "status": "done",
+  "id": "U0CJYP29TNH",
+  "name": "Aarush Modi",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Dean's Honours List 2024-25",
+   "Swift showcase award and DECA finalist",
+   "Essex Residence Council floor rep",
+   "ES1050 Northern Hail Project",
+   "Multi-agent system talking point"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CKL5HMTK3",
+  "name": "Arjun Harinath",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/arjunh1",
+   "evidence": "One of only three contributors to frankenstein-v1/LPULite, whose README says it was created by Michael Trbovic, Saksham Batra and Arjun Harinath (other two contributors are Trbovic and Batra). Profile has no name set, so attribution rests on that repo."
+  },
+  "devpost": {
+   "url": "https://devpost.com/mhaju05",
+   "evidence": "Devpost username mhaju05 equals email handle; display name Arjun Harinath."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://www.lpulite.com",
+    "label": "LPU Lite project site (co-author)",
+    "evidence": "Byline: \"a lite language processing unit by Saksham Batra, Michael Trbovic, and Arjun Harinath\"; Arjun shared it on his LinkedIn."
+   },
+   {
+    "url": "https://github.com/frankenstein-v1/LPULite",
+    "label": "LPULite open-source repo",
+    "evidence": "README credits Arjun Harinath as co-creator."
+   }
+  ],
+  "school_program": "Western University (Engineering; attended FYIC 2023 as a Western delegate)",
+  "grad_year": "2027",
+  "current_role": "Dancifier Labs (title not visible on LinkedIn); student at Western University",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "LPULite",
+    "summary": "Reinvented Groq's Language Processing Unit from scratch: an 8-lane INT8 accelerator in SystemVerilog on a DE1-SoC FPGA that runs a full forward pass of Karpathy's MicroGPT, with its own VLIW compiler and SKY130 ASIC experiment (Aug 2026)",
+    "url": "https://www.lpulite.com"
+   },
+   {
+    "name": "Profit Path",
+    "summary": "ML model predicting future sales from historical data; Ignition Hacks 2024",
+    "url": "https://devpost.com/software/profit-path"
+   },
+   {
+    "name": "InkLink",
+    "summary": "Pitch deck and website built at Western Developers Society's Overhaul hackathon (Dec 2023)",
+    "url": "https://devpost.com/software/inklink"
+   },
+   {
+    "name": "smart_cane",
+    "summary": "GitHub repo (no description)",
+    "url": "https://github.com/arjunh1/smart_cane"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Western delegate, First Year Integration Conference 2023 (ESSCO)"
+  ],
+  "skills_interests": [
+   "Digital hardware design, SystemVerilog, FPGAs",
+   "AI hardware / ML accelerators, transformers",
+   "Machine learning",
+   "Languages: Tamil, English, Hindi, Malayalam"
+  ],
+  "talking_points": [
+   "He, Saksham Batra and Michael Trbovic rebuilt Groq's LPU idea to run Karpathy's MicroGPT (LPULite) with no prior chip design experience: ask which part he owned.",
+   "He went to the First Year Integration Conference as a Western engineering delegate: ask what he took from it.",
+   "He's at Dancifier Labs: ask what they build.",
+   "Ask whether the smart cane project is his idea for this weekend."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/arjun-harinath (indexed text via search)",
+   "https://devpost.com/mhaju05",
+   "https://www.lpulite.com",
+   "https://github.com/frankenstein-v1/LPULite",
+   "https://github.com/arjunh1",
+   "https://devpost.com/software/profit-path",
+   "https://github.com/arjunh1/smart_cane",
+   "https://github.com/kj12354/hold-my-stick",
+   "https://ca.linkedin.com/in/arjun-harinath"
+  ],
+  "confidence_notes": "Identity confirmed by LinkedIn About listing the exact input email and Devpost handle mhaju05. GitHub arjunh1 is attributed through LPULite contributor list only (no name on profile). Dancifier Labs title and Western program name are not shown; engineering is inferred from the FYIC/UES post and the digital logic course mention on lpulite.com. No Devpost prizes. Pass 2: the HW13 smart-cane team link with Krishnam is inferred from matching project themes, not confirmed (hold-my-stick has only kj12354 as contributor). | pass3: LinkedIn education 2023-2027 confirms grad 2027; LPULite teammates confirmed by his LinkedIn post. Dancifier Labs title still not shown.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LPULite teammates confirmed",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJWD67SAH",
+  "name": "Eliza Anis",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/eanis28",
+   "evidence": "Linked from Devpost eanis28 (Eliza Anis); GitHub name 'Eliza'"
+  },
+  "devpost": {
+   "url": "https://devpost.com/eanis28",
+   "evidence": "Devpost 'Eliza Anis' (Ontario) with Hack Western 10 and a Western University campus-safety app; teammate's LinkedIn post about the Hack Western 10 win names Eliza Anis; rare name"
+  },
+  "other_professional_links": [],
+  "school_program": "Computer Science, Western University (2023-2027), with Ivey AEO",
+  "grad_year": "2027",
+  "current_role": "Fourth-year CS student, Western University (Ivey AEO); Residence Advisor; Senior Advisor, Women+ in Technology Society",
+  "past_roles": [
+   "Co-op, RBC Commercial Payments Technology (summer 2026; ended late Aug 2026 per her LinkedIn post)"
+  ],
+  "projects": [
+   {
+    "name": "Credit Crimes",
+    "summary": "Papers-Please-style 2D puzzle game about spotting credit fraud; Hack Western 10",
+    "url": "https://devpost.com/software/papers-please-clone"
+   },
+   {
+    "name": "WayFinder",
+    "summary": "React Native campus-safety app for Western: class locations, emergency location sharing, nearby hospitals; SheHacks+ 8",
+    "url": "https://devpost.com/software/wayfinder-5hr9an"
+   },
+   {
+    "name": "neura",
+    "summary": "Locally hosted hands-free voice and gesture assistant for Unix, in C++ with OpenCV, Whisper.cpp and PortAudio",
+    "url": "https://github.com/eanis28/neura"
+   },
+   {
+    "name": "flowprint",
+    "summary": "Privacy-conscious Chrome extension that finds repeated browser workflows locally",
+    "url": "https://github.com/eanis28/flowprint"
+   },
+   {
+    "name": "nudge",
+    "summary": "Privacy-conscious assistant for unresolved email conversations",
+    "url": "https://github.com/eanis28/nudge"
+   },
+   {
+    "name": "DigiPets",
+    "summary": "Older repo (2025), no description.",
+    "url": "https://github.com/eanis28/DigiPets"
+   }
+  ],
+  "hackathon_wins": [
+   "Hack Western 10: Top 5 Overall + Best Game Hack presented by Big Blue Bubble (Credit Crimes)",
+   "SheHacks+ 8 (Jan 2024): Top 5 Overall Hack (WayFinder, campus safety and navigation) (self-reported on LinkedIn)"
+  ],
+  "awards": [
+   "Best Product 2024, Women+ in Tech ADA Mentorship Program (mental wellness app) (self-reported on LinkedIn)",
+   "Western Scholarship of Distinction, 2023 (self-reported on LinkedIn)",
+   "DELF B2 French diploma (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Women+ In Tech Society",
+   "Ivey Product Society",
+   "Ivey AEO",
+   "Women+ in Technology Society: Director of Sponsorships 2024-25, VP of Sponsorships 2025-26, Senior Advisor (Apr 2025-present)",
+   "Residence Advisor, Western University (Aug 2024-present)"
+  ],
+  "skills_interests": [
+   "Privacy-first local AI tools",
+   "C++ / OpenCV / Whisper.cpp",
+   "TypeScript browser extensions",
+   "Game design",
+   "Product"
+  ],
+  "talking_points": [
+   "She just finished a summer co-op with RBC Commercial Payments Technology: ask what she worked on in payments.",
+   "Her first hackathon was Hack Western 10, where her tax-fraud detective game Credit Crimes won Best Game Hack: ask about building it in Godot.",
+   "She ran sponsorships for Women+ in Tech (Director, then VP) and is now a Senior Advisor: ask what sponsors want from a student hackathon.",
+   "Her SheHacks+ 8 campus safety app WayFinder made the top 5: ask whether it ever shipped."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/eliza-anis-281907e",
+   "https://devpost.com/eanis28",
+   "https://github.com/eanis28",
+   "https://devpost.com/software/papers-please-clone",
+   "https://devpost.com/software/wayfinder-5hr9an",
+   "https://www.linkedin.com/posts/yanevan_first-hackathon-first-win-hack-western-activity-7136506086638972928-h2mB",
+   "https://github.com/eanis28?tab=repositories"
+  ],
+  "confidence_notes": "High. Rare full name plus Western-specific evidence: Devpost eanis28 hosts a Hack Western 10 winner and a Western campus app; teammate Evan Yan's post names her. GitHub is linked from that Devpost. Unrelated same-name corporate/estate records ignored. Pass 2: no new prizes on Devpost beyond Hack Western 10; title at RBC still not public. | pass3 conflict: current_role: kept 'student, RBC co-op ended Aug 2026' over 'RBC (per LinkedIn)' because her own LinkedIn post (Sep 2026) says her summer co-op with RBC Commercial Payments Technology ended. Hack Western 10 label updated to Top 5 Overall per her LinkedIn honors.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "RBC Commercial Payments Technology co-op (ended Aug 2026)",
+   "SheHacks+ 8 Top 5",
+   "ADA Mentorship Best Product",
+   "Women+ in Tech sponsorship leadership",
+   "Residence Advisor",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJWFXJH0B",
+  "name": "Justin C",
+  "personal_site": {
+   "url": "https://www.justinchow.tech/",
+   "evidence": "Current GitHub website field (justintimejt); site text: Western CS, prev SWE intern @ CIBC (summer 2026) and @ ACTO (summer 2025). Older site justinpchow.vercel.app kept in other links."
+  },
+  "github": {
+   "url": "https://github.com/justintimejt",
+   "evidence": "Linked from his site; bio 'cs @ uwo'"
+  },
+  "devpost": {
+   "url": "https://devpost.com/justintimejt",
+   "evidence": "Devpost profile links justinpchow.vercel.app and github.com/justintimejt"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://www.justinchow.tech/",
+    "label": "Alternate portfolio domain (GitHub blog field)",
+    "evidence": "Listed on github.com/justintimejt"
+   },
+   {
+    "url": "https://www.aarchi.tech/",
+    "label": "Architech (deployed product)",
+    "evidence": "Linked from his site"
+   },
+   {
+    "url": "https://justinpchow.vercel.app/",
+    "evidence": "Earlier portfolio site."
+   }
+  ],
+  "school_program": "Computer Science, Western University",
+  "grad_year": "",
+  "current_role": "CS student at Western; LinkedIn shows RBC as current experience",
+  "past_roles": [
+   "Software Engineer Intern, CIBC (summer 2026)",
+   "Software Engineer Intern, ACTO (summer 2025)"
+  ],
+  "projects": [
+   {
+    "name": "Architech",
+    "summary": "Hack Western 12: visual canvas editor for system design architecture (FastAPI, React, Supabase, Gemini); later deployed at aarchi.tech",
+    "url": "https://devpost.com/software/architech-bqejgp"
+   },
+   {
+    "name": "TravelGenie AI",
+    "summary": "AI day-by-day trip itinerary with interactive map (Next.js, Gemini, Mapbox)",
+    "url": "https://devpost.com/software/travelgenie-tvojsc"
+   },
+   {
+    "name": "RubyDraw",
+    "summary": "Rough sketch to coloured image using TLDraw (Rails, Redis, GraphQL, GCP)",
+    "url": "https://github.com/justintimejt/rubydraw"
+   },
+   {
+    "name": "CrackdResume",
+    "summary": "AI LaTeX resume builder for CS/SWE in under 60 s",
+    "url": "https://github.com/justintimejt/CrackdResume"
+   },
+   {
+    "name": "Parking Spotter",
+    "summary": "Computer vision model detecting open parking spaces (OpenCV, Flask)",
+    "url": "https://github.com/justintimejt/parking-spotter"
+   },
+   {
+    "name": "WDS website 2026",
+    "summary": "Contributor repo for the new Western Developers Society website",
+    "url": "https://github.com/justintimejt/WDS-Website-2026"
+   },
+   {
+    "name": "product-webhook",
+    "summary": "Repo from Aug 2026, no description.",
+    "url": "https://github.com/justintimejt/product-webhook"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Director, Western Computer Science Undergraduate Society (Oct 2024-Mar 2025)",
+   "Software Developer, Tech for Social Impact (Jan-Apr 2025)"
+  ],
+  "skills_interests": [
+   "Distributed systems / system design",
+   "FastAPI",
+   "React / Next.js",
+   "TypeScript",
+   "Ruby on Rails",
+   "Computer vision",
+   "LeetCode",
+   "Distributed systems",
+   "System design"
+  ],
+  "talking_points": [
+   "He interned as a software engineer at CIBC (summer 2026) and ACTO (summer 2025), and LinkedIn now shows RBC: ask how bank engineering teams compared.",
+   "He built Architech, an AI architecture-diagram tool: ask how it turns prompts into diagrams.",
+   "He was a director in Western's CS Undergraduate Society and a developer for Tech for Social Impact: ask what TSI built."
+  ],
+  "sources": [
+   "https://justinpchow.vercel.app/",
+   "https://justinpchow.vercel.app/projects",
+   "https://github.com/justintimejt",
+   "https://devpost.com/justintimejt",
+   "https://devpost.com/software/architech-bqejgp",
+   "https://www.justinchow.tech/",
+   "https://www.linkedin.com/in/justinpchow"
+  ],
+  "confidence_notes": "High: personal site links his LinkedIn slug justinpchow; GitHub and Devpost cross-link the site. LinkedIn headline says 'Prev. @ CIBC' with RBC as current experience; RBC role details not public. Pass 2: personal_site switched to justinchow.tech (current GitHub link). Grad year not public. | pass3: LinkedIn education Western 2024-present (grad year not shown; likely 2028). Club roles from LinkedIn volunteering.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Western CSUS director",
+   "Tech for Social Impact developer",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJWFZ2V0V",
+  "name": "Murali Shruthi",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/shruthi-murali",
+   "evidence": "The account has the same full name; attribution is supported by the exact-name professional profile and matching technical-student context, though it has little public content."
+  },
+  "devpost": {
+   "url": "https://devpost.com/muralishruthi",
+   "evidence": "The handle exactly matches the input email handle and LinkedIn slug, and the profile gives the same full name."
+  },
+  "other_professional_links": [],
+  "school_program": "Double degree in Computer Science and Business Administration, National University of Singapore",
+  "grad_year": "2028",
+  "current_role": "Year 4 Computer Science and Business Administration double-degree student, National University of Singapore; Software Engineering Intern, Terminal (YC S23) (joined 2026 per her Feb 2026 LinkedIn post)",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Ruckus",
+    "summary": "Group-planning app that helps users discover and save activities, then turn them into plans with friends.",
+    "url": "https://devpost.com/muralishruthi"
+   },
+   {
+    "name": "Salty Crocodile",
+    "summary": "Autonomous machine-learning research agent that iterates on recommender systems and learns from failed experiments.",
+    "url": "https://devpost.com/muralishruthi"
+   },
+   {
+    "name": "Calmi",
+    "summary": "Gamified mental-health app for university students that placed top six at NUS SDG OpenHack and received a project grant.",
+    "url": "https://linkedin.com/in/muralishruthi"
+   },
+   {
+    "name": "SpotLight (EasyA x Ripple XRP Hackathon, Jun 2025)",
+    "summary": "XRP-powered low-cost cross-border charity donation platform built in 36 hours (LinkedIn project)",
+    "url": ""
+   },
+   {
+    "name": "Project Aurora (NUS Future Interaction for Smart Glasses Bootcamp, Jan 2025)",
+    "summary": "Led a team of four designing a HoloLens assistive tool to help autistic children recognize social cues (LinkedIn project)",
+    "url": ""
+   },
+   {
+    "name": "Coruscant (Passionate heARTS)",
+    "summary": "Art therapy app for underprivileged youth, built with 7 other developers (Jun-Sep 2024, LinkedIn project)",
+    "url": ""
+   },
+   {
+    "name": "Orbital (Apollo 11, advanced) dining app",
+    "summary": "React Native + PostgreSQL app for people with strict dietary needs, NUS CP2106 (Mar-Aug 2024)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "Winner, NUS-KCL Global MedTech Innovation Challenge for Amica",
+   "Second runner-up, NES GroundZero Hackathon for PorTBle",
+   "Top 6 of 51, NUS SDG OpenHack for Calmi",
+   "BrainHack (DSTA): Finalist (self-reported on LinkedIn)"
+  ],
+  "awards": [
+   "$1,000 project grant for Calmi",
+   "ACS(I) Award for a perfect score in the International Baccalaureate (2022) (self-reported on LinkedIn)",
+   "a community association Excellence Award, 2021 and 2023 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Deputy Head, NUS Entrepreneurship Society CatalystX division",
+   "Junior Associate, NUS Alumni Ventures Relations Committee",
+   "Secretary, freshmen orientation committee"
+  ],
+  "skills_interests": [
+   "data platforms",
+   "telematics",
+   "machine learning",
+   "recommender systems",
+   "fintech",
+   "health technology",
+   "social impact"
+  ],
+  "talking_points": [
+   "Her team was the NUS winner of the NUS-KCL Global MedTech Innovation Challenge with Amica, a voice-only AI companion for medication adherence: ask how they tested it with patients.",
+   "She organized NUS Entrepreneurship Society's CatalystX as Deputy Head because hackathons got her into entrepreneurship: ask what she'd copy from it for other events.",
+   "She's interning at Terminal (YC S23): ask what she's building there.",
+   "She led Project Aurora, a HoloLens tool to help autistic children read social cues: ask what the prototype could do."
+  ],
+  "sources": [
+   "https://devpost.com/muralishruthi",
+   "https://github.com/shruthi-murali",
+   "https://www.withterminal.com/careers",
+   "https://github.com/TechRaj/ruckus",
+   "https://devpost.com/software/ruckus",
+   "https://devpost.com/software/salty-crocodile",
+   "https://www.linkedin.com/in/muralishruthi"
+  ],
+  "confidence_notes": "High confidence in Devpost because its handle matches both the email handle and matched LinkedIn slug. The GitHub has the same full name but little public corroborating content, so that link is somewhat less certain. Program, roles, and wins come from public professional profile text anchored to the exact matched identity. Pass 2: GitHub user Shruthiiii03 is a Ruckus contributor alongside TechRaj; likely her second GitHub account, but not confirmed, so not added as her GitHub. | pass3: LinkedIn confirms NUS 2023-2028 and Terminal (YC S23) as current experience; CatalystX Deputy Head confirmed by her Dec 2025 post. School-level volunteering and McGraw Hill/SwimSafer certificates left out as trivia.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Perfect IB score award and a community association awards",
+   "BrainHack DSTA finalist",
+   "SpotLight, Project Aurora, Coruscant, Orbital projects",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CK5T7G3TN",
+  "name": "Sebastian Sora",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/Nightbreaker18",
+   "evidence": "Linked from his own Hack Western team finder card (Sebastian S., University of Windsor). Profile name 'Seb18456', bio 'Procedural generation my beloved / Coding & 3D modelling', location Canada"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "YouTube dev channel (linked from GitHub profile)",
+    "url": "https://www.youtube.com/@NightsDev"
+   },
+   {
+    "label": "SMArt (UWindsor student art) artist page",
+    "url": "https://smartuwindsor.com/copy-of-tien-le"
+   }
+  ],
+  "school_program": "University of Windsor, 2nd year (team finder). A UWindsor SMArt artist page for Sebastian Sora says Biomedical Sciences (written in his first year)",
+  "grad_year": "",
+  "current_role": "Student, University of Windsor",
+  "past_roles": [
+   "Coding Instructor (volunteer), Code Ninjas, Sep 2023-Jun 2024: helped students with game-development code in JavaScript, Lua and C#"
+  ],
+  "projects": [
+   {
+    "name": "NASA Space Apps 2025 habitat layout creator",
+    "summary": "Interactive 3D web app (HTML/CSS/JS, Three.js) for the 'Your Home in Space: Habitat Layout Creator' challenge; users build a habitat while balancing cost and placement rules from NASA data. He was lead designer",
+    "url": ""
+   },
+   {
+    "name": "Aero Rush",
+    "summary": "3D platformer mixing first-person exploration with third-person gameplay, built as his Code Ninjas Windsor Black Belt project (inspired by Super Mario 3D World and Terraria modding)",
+    "url": "https://blog.codeninjas.com/black-belt-ninja/sebastian-sora"
+   },
+   {
+    "name": "landmass_krems_austria",
+    "summary": "C# procedural landmass generation recreating the Blue Krems area in Krems, Austria",
+    "url": "https://github.com/Nightbreaker18/landmass_krems_austria"
+   },
+   {
+    "name": "Fertilizer Defender",
+    "summary": "Browser shooter game made with teammates (credits @nightbreaker18)",
+    "url": "https://hjzr.itch.io/pjp"
+   }
+  ],
+  "hackathon_wins": [
+   "NASA Space Apps Challenge 2025: 2nd place, Lead Designer (self-reported on LinkedIn)",
+   "WinHacks 2025: Category Winner, Front-end Developer (self-reported on LinkedIn)"
+  ],
+  "awards": [
+   "Code Ninjas Black Belt (Code Ninjas Windsor)",
+   "DELF B2 French diploma (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Procedural generation",
+   "3D modelling",
+   "Game development (C#, JavaScript, Lua)",
+   "Three.js",
+   "Frontend, backend, design (team finder)",
+   "Digital art",
+   "Languages: English, French, Romanian"
+  ],
+  "talking_points": [
+   "He was lead designer on a NASA Space Apps 2025 team that placed 2nd with a habitat layout creator: ask how they modelled the habitat.",
+   "His team won a category at WinHacks 2025, where he did the front end: ask what they built.",
+   "He taught game development at Code Ninjas and posts dev work as NightsDev: ask what game he's working on now."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/sebastian-sora-93884438b",
+   "https://github.com/Nightbreaker18",
+   "https://blog.codeninjas.com/black-belt-ninja/sebastian-sora",
+   "https://smartuwindsor.com/copy-of-tien-le",
+   "https://hjzr.itch.io/pjp"
+  ],
+  "confidence_notes": "LinkedIn and GitHub are both self-listed on his team finder card, and his Slack email handle sebastiansora.ss matches the name. Code Ninjas Windsor Black Belt page and UWindsor SMArt page are tied by name, Windsor, and the same interests (game dev, 3D modelling, procedural design) plus his LinkedIn Code Ninjas role; the Biomedical Sciences program is from that SMArt page only. Excluded: high-school race results, a Miami sales director, a Delaware construction student, a Colombian account and an unrelated obituary sharing the name. Pass 2: no new sources; GitHub Nightbreaker18 last active Sep 2025. | pass3: cached LinkedIn page shows only the Code Ninjas role (dated Sep 2023-Jun 2024) and DELF B2; the hackathon placings come from the earlier LinkedIn snippet and remain self-reported.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Code Ninjas dates",
+   "DELF B2",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CKF47KWFL",
+  "name": "Hadi Ahmed",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/hadiahmed13",
+   "evidence": "Hosts the CareerIQ repo, matching the CareerIQ project (career-iq.vercel.app) on his LinkedIn; location Toronto; also a 'uoftexperience' repo; linked from Devpost hadiahmed13. (The github.com/hadiahmedd account has no public repos.)"
+  },
+  "devpost": {
+   "url": "https://devpost.com/hadiahmed13",
+   "evidence": "Links github.com/hadiahmed13; lists Aura-67"
+  },
+  "other_professional_links": [
+   {
+    "label": "CareerIQ live demo",
+    "url": "https://career-iq.vercel.app/"
+   }
+  ],
+  "school_program": "University of Toronto, BS Computer Science (2023 to 2027), 4th year",
+  "grad_year": "2027",
+  "current_role": "CS student, University of Toronto; LinkedIn headline 'prev @ amazon | cs @ university of toronto'",
+  "past_roles": [
+   "Software Engineer Intern, Amazon, Vancouver (May 2026 to Sep 2026)",
+   "Founder, Aetheria, Toronto (May 2025 to Dec 2025)",
+   "Software Engineer, Venture for Canada, Toronto (Jun 2025 to Aug 2025)",
+   "Computing Solutions Advisor, Best Buy Canada (Aug 2022 to Sep 2024)"
+  ],
+  "projects": [
+   {
+    "name": "CareerIQ",
+    "summary": "AI career coaching platform: industry insights, ATS resume builder, mock interviews and cover letter generation (Feb to Mar 2025)",
+    "url": "https://github.com/hadiahmed13/CareerIQ"
+   },
+   {
+    "name": "Aura-67",
+    "summary": "Self-balancing robot (ESP32 balance loop, Raspberry Pi Zero 2 W vision) that follows natural-language commands via an LLM and tracks objects with OpenCV; Next.js + FastAPI control app. Team of 4; GitHub org name HTN-Aura-67 suggests Hack the North",
+    "url": "https://devpost.com/software/aura-67"
+   },
+   {
+    "name": "Interactive Data Visualization Application",
+    "summary": "Recursive treemap explorer for 1,000+ research papers with expand/collapse and live resizing",
+    "url": "https://github.com/hadiahmed13/Interactive-Data-Visualization-Application"
+   },
+   {
+    "name": "F1 Safety Car Prediction / F1 Race Insight",
+    "summary": "Formula 1 data projects in Python/Jupyter",
+    "url": "https://github.com/hadiahmed13/F1-Safety-Car-Prediction"
+   },
+   {
+    "name": "Aladi",
+    "summary": "Toronto web development startup site (Next.js).",
+    "url": "https://github.com/hadiahmed13/Aladi"
+   },
+   {
+    "name": "Opsly",
+    "summary": "Repo from Jul 2025, no description.",
+    "url": "https://github.com/hadiahmed13/Opsly"
+   },
+   {
+    "name": "Football Analysis",
+    "summary": "Computer-vision football (soccer) analysis project.",
+    "url": "https://github.com/hadiahmed13/Football-Analysis"
+   },
+   {
+    "name": "Aura-67 (Hack the North 2025)",
+    "summary": "Self-balancing robot with ML vision and an AI agent that follows natural-language instructions from a web app; teammates Prisca Chien, Jiucheng Zang, Alex Xu (his LinkedIn post, Sep 2025)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Backend, frontend, ML/AI (team finder)",
+   "Python, JavaScript/TypeScript, Java",
+   "React, Next.js, Node.js, MongoDB",
+   "PyTorch, pandas, NumPy",
+   "Robotics and computer vision",
+   "Formula 1 and football analytics"
+  ],
+  "talking_points": [
+   "He just finished a software engineering internship at Amazon in Vancouver: ask what team he was on.",
+   "At Hack the North 2025 he built Aura-67, a self-balancing robot with ML vision that takes natural-language commands, with Prisca Chien, Jiucheng Zang and Alex Xu: ask how they kept it balanced while it navigated.",
+   "He founded Aetheria in 2025: ask what it was and what he learned from running it.",
+   "Ask about CareerIQ and whether people still use it."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/hadiahmedd",
+   "https://linkedin.com/in/hadiahmedd",
+   "https://devpost.com/hadiahmed13",
+   "https://github.com/hadiahmed13",
+   "https://devpost.com/software/aura-67",
+   "https://career-iq.vercel.app/",
+   "https://github.com/hadiahmed13?tab=repositories"
+  ],
+  "confidence_notes": "LinkedIn self-listed on team finder card 'Hadi A.' (UofT, 4th year); LinkedIn education (UofT CS 2023 to 2027) matches. GitHub/Devpost hadiahmed13 tied by the CareerIQ project that appears on his LinkedIn, plus Toronto location. Slack email handle hadiahmed554 is consistent with the name. Excluded: hadi-ahmed.com (a Durham University grad in UK payments ML), an Aetheria in the Netherlands from a data-broker site, and several other Hadi Ahmeds. Pass 2: grad year 2027 retained (UofT 2023-2027). | pass3: LinkedIn page confirms UofT 2023-2027 and Amazon as current/most recent experience; Hack the North 2025 team from his post (no prize mentioned).",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Hack the North 2025 Aura-67 team detail",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CHE5NL5H7",
+  "name": "Emily Liu",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/emiliuly",
+   "evidence": "Linked from her Devpost profile devpost.com/emiliuly, whose handle matches her LinkedIn slug (emiliuly); GitHub display name 'Emily'."
+  },
+  "devpost": {
+   "url": "https://devpost.com/emiliuly",
+   "evidence": "Handle identical to her LinkedIn slug emiliuly; profile links github.com/emiliuly."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://hackwestern.com",
+    "label": "Hack Western team page (Events Organizer)",
+    "evidence": "Listed on the Hack Western organizer team; matches LinkedIn role."
+   }
+  ],
+  "school_program": "Computer Science & Business (HBA track), Western University",
+  "grad_year": "2029 (Western 2025-2029 per LinkedIn)",
+  "current_role": "Events Organizer, Hack Western (Mar 2026-present); Content Hero (LinkedIn headline experience, employer not shown)",
+  "past_roles": [
+   "Projects Director, Western Founders Network (Sep 2025-Apr 2026)",
+   "Internals Director, Western AI",
+   "Founder, SolveXchange (nonprofit, Jan 2023-present)"
+  ],
+  "projects": [
+   {
+    "name": "PoliTalk",
+    "summary": "Real-time tool that detects political bias in social media news content; React/TypeScript front end with an Express back end. Won Best Beginner Hack at SheHacks+ 10.",
+    "url": "https://devpost.com/software/politalk-6digfl"
+   },
+   {
+    "name": "SolveXchange",
+    "summary": "Nonprofit she founded in 2023 (per LinkedIn).",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "SheHacks+ 10: Best Beginner Hack (PoliTalk)"
+  ],
+  "awards": [
+   "F.K. Ashbaugh President's Entrance Scholarship, Western University (~$93,000, per LinkedIn)",
+   "Society of United Professionals Post-Secondary Scholarship, 2025 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Events Organizer, Hack Western (since Mar 2026)",
+   "Projects Director, Western Founders Network (2025-26)",
+   "Internals Director, Western AI",
+   "Founder, SolveXchange"
+  ],
+  "skills_interests": [
+   "React",
+   "TypeScript",
+   "Express",
+   "Media bias / civic tech",
+   "Entrepreneurship",
+   "Event organizing"
+  ],
+  "talking_points": [
+   "She organizes events for Hack Western: ask what's new at this year's event.",
+   "She founded SolveXchange, a nonprofit, in high school: ask what it does now.",
+   "Her PoliTalk won Best Beginner Hack at SheHacks+ 10: ask what it does with politics.",
+   "She was Projects Director at Western Founders Network and Internals Director at Western AI in first year: ask which she'd recommend to a first-year."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/emiliuly",
+   "https://devpost.com/emiliuly",
+   "https://devpost.com/software/politalk-6digfl",
+   "https://github.com/emiliuly",
+   "https://hackwestern.com"
+  ],
+  "confidence_notes": "Identity anchored on matched LinkedIn (high) and Hack Western team page. Devpost handle equals LinkedIn slug and Devpost links the GitHub. Excluded a different 'Emily Liu' (Illuminate Leadership / Ivey) and a government-records page about SolveXchange. GitHub has little public content. Pass 2: no new public sources found. | pass3: LinkedIn confirms Western 2025-2029 and the F.K. Ashbaugh scholarship; adds the Society of United Professionals scholarship. Western AI and WFN roles dated Sep 2025-Apr 2026.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Society of United Professionals scholarship",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJLQ6PMHV",
+  "name": "Surya Sure",
+  "personal_site": {
+   "url": "https://suryasure.com",
+   "evidence": "Listed in LinkedIn description; site links LinkedIn /in/suryasure"
+  },
+  "github": {
+   "url": "https://github.com/SurjaHead",
+   "evidence": "Linked from suryasure.com and from his Devpost profile. GitHub name 'Surya Sure', blog suryasure.com."
+  },
+  "devpost": {
+   "url": "https://devpost.com/suryasure734",
+   "evidence": "Devpost 'Surya Sure (suryasure734)' links github.com/SurjaHead and linkedin.com/in/suryasure."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://tinytpu.com",
+    "label": "TinyTPU (open-source ML inference/training chip project)",
+    "evidence": "Linked from suryasure.com/projects"
+   },
+   {
+    "url": "https://decompose.substack.com",
+    "label": "Decompose (Substack hardware explainers)",
+    "evidence": "Articles linked from suryasure.com/projects"
+   },
+   {
+    "url": "https://suryasure.notion.site/Surya-s-Portfolio-ee047e7a4f494765b4a3ac7b5fb19c5b",
+    "label": "Older Notion portfolio",
+    "evidence": "Website link on his Devpost profile"
+   },
+   {
+    "url": "https://x.com/suryasure05",
+    "evidence": "Twitter/X handle listed on his GitHub profile and linked from suryasure.com."
+   }
+  ],
+  "school_program": "Electrical and Computer Engineering (BE), Western University",
+  "grad_year": "2027 (LinkedIn education Western 2023-2027)",
+  "current_role": "DistributedSystemsInternatNVIDIA,workingontheLPX(inference)",
+  "past_roles": [
+   "Distributed Systems Intern, Groq (Sep 2025 to Jan 2026): model bringup and the Groq load balancer",
+   "Undergraduate Research Assistant, University of Waterloo WATCAG under Prof. Nachiket Kapre (May to Sep 2025): reconfigurable activation unit for ML accelerator ASICs",
+   "Software Engineer Intern, Hevy (May to Aug 2024): generative AI workout and diet plans for 5M+ users"
+  ],
+  "projects": [
+   {
+    "name": "TinyTPU",
+    "summary": "Minimal TPU built from scratch for on-chip inference and training of a 2-2-1 MLP solving XOR; open source.",
+    "url": "https://tinytpu.com"
+   },
+   {
+    "name": "Softmax in Hardware",
+    "summary": "Pipelined SystemVerilog softmax for transformer attention, with a Substack write-up.",
+    "url": "https://github.com/SurjaHead/softmax-in-hardware"
+   },
+   {
+    "name": "Systolic Array",
+    "summary": "2x2 systolic array in SystemVerilog for matrix-multiply acceleration.",
+    "url": "https://github.com/SurjaHead/systolic-array"
+   },
+   {
+    "name": "Hack Computer (NAND2Tetris)",
+    "summary": "16-bit computer in HDL plus assembler and compiler.",
+    "url": "https://github.com/SurjaHead/tiny-computer"
+   },
+   {
+    "name": "Breakject.ai",
+    "summary": "NewHacks 2023: AI breaks projects into steps on Google Calendar. He built the calendar and Google auth front end.",
+    "url": "https://devpost.com/software/breakject-ai"
+   },
+   {
+    "name": "Profit Path",
+    "summary": "Ignition Hacks 2024 ML sales forecasting, built with Saksham Batra, Arjun Harinath and Satvik Garimella.",
+    "url": "https://devpost.com/software/profit-path"
+   },
+   {
+    "name": "The Singing Goose",
+    "summary": "Hack the North 2024 karaoke app with live singing feedback.",
+    "url": "https://devpost.com/software/the-singing-goose"
+   },
+   {
+    "name": "UTRA Hacks 2025 rover",
+    "summary": "Autonomous color-sensing maze rover on Arduino.",
+    "url": "https://devpost.com/software/utra-2025"
+   }
+  ],
+  "hackathon_wins": [
+   "NewHacks 2023, Breakject.ai: Winner, Theme Prize AI/ML",
+   "NewHacks 2023, Breakject.ai: Winner, Best Domain Name from GoDaddy Registry"
+  ],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "ML inference and accelerator hardware (TPUs, systolic arrays)",
+   "SystemVerilog/Verilog, FPGA",
+   "Distributed systems",
+   "Python, PyTorch",
+   "KV-cache compression (TurboQuant write-up)",
+   "Neurotech/EEG side projects (OpenBCI)",
+   "Writing first-principles explainers"
+  ],
+  "talking_points": [
+   "He and friends built TinyTPU, an open-source chip that does ML inference and training entirely on chip, in one summer: ask what they'd change in a second version.",
+   "He went from Groq to NVIDIA as a distributed systems intern working on the LPX: ask what changed for the Groq team after the move.",
+   "He learned Verilog by building a systolic array without taking a course first: ask whether he'd recommend that approach.",
+   "He built a pipelined softmax unit in SystemVerilog: ask how he handled exponentiation and division in hardware."
+  ],
+  "sources": [
+   "https://suryasure.com",
+   "https://www.suryasure.com/work",
+   "https://www.suryasure.com/projects",
+   "https://www.suryasure.com/articles",
+   "https://github.com/SurjaHead",
+   "https://devpost.com/suryasure734",
+   "https://devpost.com/software/breakject-ai",
+   "https://devpost.com/software/profit-path",
+   "https://devpost.com/software/the-singing-goose",
+   "https://devpost.com/software/utra-2025",
+   "https://ca.linkedin.com/in/suryasure"
+  ],
+  "confidence_notes": "Strong. The LinkedIn description lists suryasure.com, which links LinkedIn /in/suryasure and GitHub SurjaHead; the Devpost suryasure734 links the same GitHub and LinkedIn. His site dates NVIDIA as '01/2025 - Present', which conflicts with Groq Sep 2025 to Jan 2026 and is probably a typo for 01/2026. Grad year not found. The Breakject.ai wins are shown as Winner badges on the Devpost project page. Pass 2: suryasure.com confirms current work on the LPX at NVIDIA. Grad year not public. | pass3 conflict: NVIDIA start date: kept January 2026 over his site's '01/2025' because his LinkedIn post announcing NVIDIA is dated 16 Jan 2026 and he was at Groq Sep 2025-Jan 2026. Grad 2027 from LinkedIn education dates (2023-2027).",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Grad 2027 (LinkedIn)",
+   "NVIDIA start date resolved to Jan 2026",
+   "TinyTPU teammates",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJZMQHAJ3",
+  "status": "done",
+  "name": "Jeffrey Wong",
+  "personal_site": {
+   "url": "https://jeffreywong.vercel.app/",
+   "evidence": "GitHub website field."
+  },
+  "github": {
+   "url": "https://github.com/JeffreyWongg",
+   "evidence": "Commit-email search for the Slack email returns commits authored by this account; user email search also returns it."
+  },
+  "devpost": {
+   "url": "https://devpost.com/jeffrey-wong-businessmail",
+   "evidence": "Username equals email handle; links the GitHub."
+  },
+  "school_program": "Electrical and Computer Engineering, University of Toronto",
+  "current_role": "AI Engineer Intern, Futurify",
+  "confidence_notes": "Upgraded low -> high. GitHub social account lists jeffrey-wongg; his README links an older-looking jeffrey-wong-bb1173261, kept as a candidate. Pass 2: his portfolio (jeffreywong.vercel.app) is stale: written in grade 12 and says 'incoming Software Engineering at University of Waterloo', but GitHub bio now says 'ECE @ UofT', so current_record's UofT ECE was kept. Grade 12 in 2024-25 implies entry fall 2025 and expected grad about 2029-2030 (inferred, not added as grad_year). | Verifier: removed a family detail from the SiteWhiz role. | pass3: grad 2030 from LinkedIn education dates (UofT ECE 2025-2030). Cursor Hackathon win confirmed by his own LinkedIn post (Mar 2026). Battle of the Schools: LinkedIn says 'Winner'; Devpost shows it as the Side Quests Community Discord Choice, both kept. LinkedIn lists Hack the 6ix as current experience; Futurify kept from earlier sources. High-school subject awards left out.",
+  "other_professional_links": [
+   {
+    "label": "LeetCode",
+    "url": "https://leetcode.com/u/JeffreyWongg/"
+   }
+  ],
+  "past_roles": [
+   "Co-Founder & Tech Lead, SiteWhiz (freelance web dev, from Jan 2025)",
+   "President, MHSS (Maxwell Heights SS) Computer Science Club (2024-25, 80+ members)",
+   "Web/Tech Executive, JAMHacks 9",
+   "Logistics/Software Associate, Starts With One (student-mentor matching app, 2024-)",
+   "Computer Science Research Intern, UofT DGP lab (Mar 2024; orbital simulator in Python)",
+   "Program Assistant & Tutor, Kumon (2023-)"
+  ],
+  "projects": [
+   {
+    "name": "Polymolt",
+    "summary": "Where AI agents bet on the truth (AI prediction market).",
+    "url": "https://github.com/JeffreyWongg/polymolt"
+   },
+   {
+    "name": "Sinatra",
+    "summary": "AI browser DAW that turns vocals into instruments.",
+    "url": "https://github.com/JeffreyWongg/sinatra"
+   },
+   {
+    "name": "Shadow Sync",
+    "summary": "AI sports coach comparing technique to legends.",
+    "url": "https://github.com/JeffreyWongg/shadowsync"
+   },
+   {
+    "name": "DroneAI",
+    "summary": "Drone paper under review at ICUAS 2026 (self-reported)",
+    "url": "https://github.com/JeffreyWongg"
+   },
+   {
+    "name": "4WARD",
+    "summary": "Four browser agents race to plan a Toronto trip four ways (cheapest, fastest, etc.)",
+    "url": "https://devpost.com/software/4ward-ajlg51"
+   },
+   {
+    "name": "BeaverTrails",
+    "summary": "AI travel itinerary planner for Canada (code: github.com/JeffreyWongg/beavertrail)",
+    "url": "https://devpost.com/software/beavertrails"
+   },
+   {
+    "name": "courtvision / mainstreamers",
+    "summary": "NBA stat-scraping apps",
+    "url": "https://github.com/JeffreyWongg"
+   },
+   {
+    "name": "Uncle",
+    "summary": "'See the future before it's too late' (Devpost).",
+    "url": "https://devpost.com/software/uncle-2q4ax3"
+   },
+   {
+    "name": "Chud GO!",
+    "summary": "Capture and fight your friends; 2nd overall at Stupid Ideas Hackathon Toronto W26.",
+    "url": "https://devpost.com/software/chud-go"
+   },
+   {
+    "name": "Tung tung saharteries",
+    "summary": "Anatomy game: name 10 daughter arteries; Community Discord Choice at Battle of the Schools.",
+    "url": "https://devpost.com/software/tung-tung-saharteries"
+   },
+   {
+    "name": "DementAId",
+    "summary": "Web app with an AI chatbot to help dementia patients.",
+    "url": "https://jeffreywong.vercel.app/"
+   }
+  ],
+  "hackathon_wins": [
+   "Stupid Ideas Hackathon (Toronto W26): 'stupider' (2nd overall) for Chud GO! (capture and fight your friends)",
+   "Battle of the Schools: Side Quests, Community Discord Choice for Tung tung saharteries (name 10 daughter arteries)",
+   "Self-reports '3x hackathon winner' on GitHub README",
+   "Cursor Hackathon Toronto (Mar 2026): 1st Place Overall (30-minute hackathon) (his LinkedIn post and honors)",
+   "UTMIST x WAT.ai Battle of the Schools (Sep 2026): listed as 'Winner' on LinkedIn"
+  ],
+  "awards": [
+   "Edward S. Rogers Sr. Admission Scholarship, UofT, 2025 (self-reported on LinkedIn)",
+   "University of Toronto Scholar, 2025 (self-reported on LinkedIn)",
+   "Dr. Mradula Verma and Mr. Pawas Verma Family Scholarship, 2025: inaugural sole recipient among first-year ECE students (self-reported on LinkedIn)",
+   "Schulich Leader nominee, Maxwell Heights SS, 2025 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "JAMHacks organizer/contributor",
+   "JAMHacks (listed under his projects; Canada's largest high-school hackathon)",
+   "First Year Electrical & Computer Engineering Representative, University of Toronto",
+   "Driverless recruit, University of Toronto Formula Racing",
+   "Hack the 6ix (current experience on LinkedIn)",
+   "Student Council Prime Minister, Maxwell Heights SS (2024-25)",
+   "Shad alumnus (Wilfrid Laurier, 2023)"
+  ],
+  "skills_interests": [
+   "Python",
+   "C++",
+   "React",
+   "Three.js",
+   "OpenCV",
+   "Python, C++, TypeScript",
+   "React, Next.js, Three.js, FastAPI",
+   "OpenCV, ArcGIS, Arduino",
+   "Basketball"
+  ],
+  "talking_points": [
+   "His all-first-year team won 1st overall at the Cursor Hackathon Toronto, which lasted 30 minutes: ask what they built for someone scared of the stock market.",
+   "He, Ethan Yang and Jeremy Liu took 2nd at Toronto's Stupid Ideas Hackathon with Chud GO!, a Pokemon GO parody: ask how they scoped it.",
+   "He's the first-year ECE rep at UofT and a driverless recruit on UofT Formula Racing: ask what he's working on for the car.",
+   "He was Web/Tech Executive for JAMHacks and helps with Hack the 6ix: ask what he'd change about student hackathons."
+  ],
+  "sources": [
+   "https://github.com/JeffreyWongg",
+   "https://devpost.com/jeffrey-wong-businessmail",
+   "https://jeffreywong.vercel.app/",
+   "https://devpost.com/software/chud-go",
+   "https://devpost.com/software/tung-tung-saharteries",
+   "https://www.linkedin.com/in/jeffrey-wongg"
+  ],
+  "grad_year": "2030 (LinkedIn education University of Toronto 2025-2030)",
+  "merged_from": [
+   "zz-research-chunk.json",
+   "research-low-results.json",
+   "thread2-combined-results.json",
+   "deep2"
+  ],
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Grad 2030 (LinkedIn)",
+   "Cursor Hackathon Toronto 1st overall",
+   "UofT admission scholarships",
+   "First-year ECE rep and UofT Formula Racing",
+   "Talking points"
+  ]
+ },
+ {
+  "id": "U0CKS687WHG",
+  "name": "Oladele Magbadelo",
+  "personal_site": {
+   "url": "https://www.magbadelojr.com/",
+   "evidence": "The matched professional profile explicitly lists this portfolio URL, and the portfolio/GitHub identity uses the same unique full name."
+  },
+  "github": {
+   "url": "https://github.com/Omjnr06",
+   "evidence": "The GitHub profile gives the exact full name and cross-links the exact matched LinkedIn profile."
+  },
+  "devpost": {
+   "url": "https://devpost.com/oj-magbadelo",
+   "evidence": "The unique full name, London location, linked GitHub/LinkedIn, and Western context all match."
+  },
+  "other_professional_links": [],
+  "school_program": "BSc Computer Science, Western University",
+  "grad_year": "2028",
+  "current_role": "Computer Science student at Western University",
+  "past_roles": [
+   "AI & Software Developer Intern, PurelyBiome (summer 2026): CNN transfer-learning model (EfficientNetB3) classifying acne severity from photos (his LinkedIn post)"
+  ],
+  "projects": [
+   {
+    "name": "MLH Meta Production Engineering Hack",
+    "summary": "Production-minded URL shortener using PostgreSQL, Redis, Docker, Prometheus, Grafana, and k6 for resilient, observable operation.",
+    "url": "https://devpost.com/software/mlh-meta-production-engineering-hack"
+   },
+   {
+    "name": "Capture",
+    "summary": "Product-design prototype for secure digital time capsules that unlock Spotify, photo, and note memories after a chosen delay.",
+    "url": "https://devpost.com/software/capture-b12v3e"
+   },
+   {
+    "name": "AI Financial Dashboard",
+    "summary": "Public financial tracker aimed at helping university students manage money.",
+    "url": "https://github.com/Omjnr06/ai-financial-dashboard"
+   },
+   {
+    "name": "PimpleNet",
+    "summary": "Internship ML project at PurelyBiome: EfficientNetB0 acne-severity classifier, 95.5% validation accuracy.",
+    "url": "https://www.magbadelojr.com/"
+   },
+   {
+    "name": "Mustang Wrapped",
+    "summary": "Spotify Web API + Supabase platform showing Western community music trends.",
+    "url": "https://www.magbadelojr.com/"
+   },
+   {
+    "name": "Flowlytics (UofTHacks)",
+    "summary": "UX analytics for physical spaces (Amplitude capabilities moved to the physical world).",
+    "url": "https://devpost.com/software/phygital-4exqp8"
+   },
+   {
+    "name": "Jam",
+    "summary": "Monorepo for an app to find friends and people to jam music with.",
+    "url": "https://github.com/Omjnr06/Jam"
+   },
+   {
+    "name": "Grind",
+    "summary": "Internship grind: LeetCode tracking plus an internship alert pipeline (pushed Nov 2026).",
+    "url": "https://github.com/Omjnr06/Grind"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Western Black Student Scholarship recipient, 2025",
+   "Western Carmeta Thelma Hodges Scholarship Award, 2024 (self-reported on LinkedIn)",
+   "Western Admission Scholarship of Distinction, 2024 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Co-lead of a developer team building for Childcan",
+   "Vice President of Projects, Western Founders Network (May 2026-present; Projects Director 2025-26)",
+   "Marketing Director, WE AutoPilot Club (Oct 2025-Apr 2026)"
+  ],
+  "skills_interests": [
+   "machine learning",
+   "computer vision",
+   "Python",
+   "Java",
+   "React",
+   "SQL",
+   "Express.js",
+   "fintech",
+   "production engineering",
+   "Fingerstyle guitar / music",
+   "Deep learning (computer vision)",
+   "Full-stack (React, Express, Supabase)"
+  ],
+  "talking_points": [
+   "At PurelyBiome he trained an EfficientNetB3 transfer-learning model to grade acne severity from user photos: ask how they labelled the data.",
+   "He's VP of Projects at Western Founders Network after a year as Projects Director: ask what teams are building this year.",
+   "He ran marketing for WE AutoPilot Club, Western's self-driving team: ask how he recruited.",
+   "He co-leads a developer team building for Childcan: ask what the tool does for families."
+  ],
+  "sources": [
+   "https://www.magbadelojr.com/",
+   "https://github.com/Omjnr06",
+   "https://devpost.com/oj-magbadelo",
+   "https://devpost.com/software/mlh-meta-production-engineering-hack",
+   "https://devpost.com/software/capture-b12v3e",
+   "https://www.edi.uwo.ca/events/black-scholarship-program-2025.pdf",
+   "https://github.com/Omjnr06?tab=repositories",
+   "https://www.linkedin.com/in/oladele-magbadelo"
+  ],
+  "confidence_notes": "High confidence: unique full name, London and Western affiliation, exact matched LinkedIn cross-link, and reciprocal Devpost/GitHub references converge. No hackathon placement was verified. Pass 2: grad '28 re-confirmed on magbadelojr.com. | pass3: PurelyBiome work from his LinkedIn post (Sep 2026); WFN and AutoPilot roles from LinkedIn volunteering. LinkedIn lists Grand Theatre as current experience (not recorded as a role). The earlier 'Western Black Student Scholarship, 2025' was kept; it may be the same award as the Carmeta Thelma Hodges Scholarship (UNVERIFIED).",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "PurelyBiome acne-severity model",
+   "WFN VP Projects",
+   "WE AutoPilot marketing director",
+   "Western scholarships",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CKYLGDQE4",
+  "name": "Tharaka Thurairasa",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/thutharaka",
+   "evidence": "GitHub name 'Tharaka Thurairasa'. Her LinkedIn project entries link github.com/thutharaka/City-Design-Challenge and /simonsays."
+  },
+  "devpost": {
+   "url": "https://devpost.com/thutharaka",
+   "evidence": "Devpost 'Tharaka Thurairasa (thutharaka)' lists Simon Says (Hack Western 12) and Green Toronto, which match the projects on her LinkedIn."
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Computer Science",
+  "grad_year": "Started 2025 (second year); expected about 2029, inferred and unconfirmed",
+  "current_role": "Cogsdale Corporation (role title not shown); Western CS student",
+  "past_roles": [
+   "Assistant Instructor, Canada's Professional School of Music and Arts (Nov 2024 to Jun 2025)",
+   "Junior Aquatic Swim Instructor, City of Mississauga (volunteer, 2022 to 2023)"
+  ],
+  "projects": [
+   {
+    "name": "Simon Says",
+    "summary": "Hack Western 12 productivity app (team of 4) that manages tasks and closes distracting apps when you drift off task.",
+    "url": "https://devpost.com/software/simon-says-50j3ku"
+   },
+   {
+    "name": "Star Quest",
+    "summary": "SheHacks+ 10 gamified to-do list ('Galactic Girls') that earns star badges for your galaxy. Built with Katerina Hatsios, Linxi Fan and Archanaa Vivek.",
+    "url": "https://devpost.com/software/star-quest-e09mpl"
+   },
+   {
+    "name": "ThoughtTide",
+    "summary": "Product Design Sprint (Mar 2026) mobile concept for sharing unpolished 60-second thoughts.",
+    "url": "https://devpost.com/software/thoughttide"
+   },
+   {
+    "name": "Green Toronto",
+    "summary": "City Design Challenge educational game about growing trees across the GTA. She did graphics and research.",
+    "url": "https://devpost.com/software/green-toronto"
+   },
+   {
+    "name": "Umpack",
+    "summary": "Hands-free umbrella concept; 1st place at UWaterloo Summer Catalyst 2024 pitch competition (LinkedIn project)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "SheHacks+ 10 (Jan 2026), Star Quest: Winner, 1st Place Hacker Olympics",
+   "City Design Challenge (hackmate), Green Toronto: Winner (gift card prize)"
+  ],
+  "awards": [
+   "Dean's Honour List, Western (2025-2026)",
+   "1st place, University of Waterloo Summer Catalyst Program pitch competition, Aug 2024 (Umpack) (self-reported on LinkedIn)",
+   "AP Scholar (self-reported on LinkedIn)",
+   "RCM Level 8 Piano (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Python",
+   "HTML/web",
+   "Product design",
+   "Game development / graphics",
+   "Sustainability / urban greening"
+  ],
+  "talking_points": [
+   "Her Star Quest to-do app with a star-map interface won 1st in Hacker Olympics at SheHacks+ 10: ask how the star progression works.",
+   "Her Green Toronto tree-planting game won the City Design Challenge: ask what players learn about the GTA.",
+   "She won 1st place at the University of Waterloo Summer Catalyst pitch competition with Umpack, a hands-free umbrella: ask whether she built a prototype.",
+   "Her Hack Western 12 project Simon Says closed distracting apps automatically: ask what she's building this year."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/tharaka-thurairasa (cached text via search_service)",
+   "https://github.com/thutharaka",
+   "https://devpost.com/thutharaka",
+   "https://devpost.com/software/simon-says-50j3ku",
+   "https://devpost.com/software/star-quest-e09mpl",
+   "https://devpost.com/software/thoughttide",
+   "https://devpost.com/software/green-toronto",
+   "https://github.com/thutharaka/simonsays",
+   "https://ca.linkedin.com/in/tharaka-thurairasa"
+  ],
+  "confidence_notes": "Strong. Uncommon exact name. Her cached LinkedIn lists Simon Says (HW12) and Green Toronto with github.com/thutharaka repo links, and the Devpost thutharaka holds the same projects. Wins are Winner badges on the Devpost project pages. Her Cogsdale title and grad year aren't public; the grad year is inferred from Western '2025 - Present'. Pass 2: no new prizes or roles found. | pass3: LinkedIn adds the UWaterloo Summer Catalyst pitch win; lifeguard/first-aid certificates, ballet and high-school awards left out as trivia. Cogsdale title and grad year still not shown.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "UWaterloo Summer Catalyst pitch 1st place (Umpack)",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CLB0FMJAC",
+  "status": "done",
+  "name": "Kristina Batrak",
+  "school_program": "Western University, Honours Specialization in Computer Science (third year)",
+  "current_role": "Third-year Western CS student; Project Director, Western Computer Science Undergraduate Society (CSUS)",
+  "confidence_notes": "High: the team-finder card links both LinkedIn and GitHub KristinaBBBB, and her portfolio and Devpost use the same handle. The earlier note doubting KristinaBBBB is superseded. Headline on LinkedIn: 'Third-Year CS | Software Dev, Web Dev & Robotics | CSUS Project Director'. Pass 2: no new public facts. | pass3: grad 2029 from LinkedIn education dates (2024-2029); Honours Specialization from LinkedIn. LinkedIn lists CSUS as current experience; AccessWeb no longer appears on the cached page. freeCodeCamp certificates left out.",
+  "personal_site": {
+   "url": "https://kristinabatrak.com",
+   "evidence": "Portfolio of Kristina Batrak, third-year CS; links GitHub KristinaBBBB, which she also lists on her Hack Western team-finder card."
+  },
+  "github": {
+   "url": "https://github.com/KristinaBBBB",
+   "evidence": "Listed on her Hack Western team-finder card ('Kristina B.', Western, 3rd year) and linked from kristinabatrak.com; the ElleHacks-EchoLight repo matches her Devpost project."
+  },
+  "devpost": {
+   "url": "https://devpost.com/KristinaBBBB",
+   "evidence": "Same handle as her GitHub; listed as a creator of EchoLight (ElleHacks 2026)."
+  },
+  "other_professional_links": [],
+  "past_roles": [
+   "AccessWeb (listed on LinkedIn)"
+  ],
+  "projects": [
+   {
+    "name": "EchoLight",
+    "summary": "ElleHacks 2026 project that detects sirens and fire alarms and shows visual alerts for deaf and hard-of-hearing users; she built the Python audio detection and backend.",
+    "url": "https://devpost.com/software/echolight"
+   },
+   {
+    "name": "Clementine (FIRST Tech Challenge robot)",
+    "summary": "FTC robot where she was team lead and primary programmer; the team won 1st at regionals (self-reported on her portfolio).",
+    "url": "https://kristinabatrak.com"
+   },
+   {
+    "name": "LUME Projects website",
+    "summary": "Responsive business website built for LUME Projects (per her portfolio).",
+    "url": "https://kristinabatrak.com"
+   },
+   {
+    "name": "ElleHacks / Wealthsimple hackathon project",
+    "summary": "She posted on LinkedIn about building a project at an ElleHacks hackathon with a Wealthsimple challenge; the Devpost link could not be resolved.",
+    "url": ""
+   },
+   {
+    "name": "LUME Projects Inc. website",
+    "summary": "Responsive business website built from scratch in HTML/CSS/JS (LinkedIn project, Aug 2026-present)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "1st at regionals, FIRST Tech Challenge, as team lead and primary programmer of robot Clementine (self-reported)"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "Director, Western CSUS (2026/27)",
+   "Team lead and programmer, FIRST Tech Challenge robotics team (high school)"
+  ],
+  "skills_interests": [
+   "Web accessibility",
+   "Hackathons",
+   "Software development",
+   "Web development",
+   "Robotics",
+   "Python",
+   "Audio signal detection",
+   "Frontend",
+   "Backend",
+   "Pitching"
+  ],
+  "talking_points": [
+   "She's Project Director at Western's CS Undergraduate Society: ask what projects CSUS is running this year.",
+   "In Grade 11 she led her FIRST Tech Challenge team and programmed Clementine to a regional 1st place: ask what the autonomous routine did.",
+   "She's building a website from scratch for LUME Projects, a consulting and decluttering business: ask what the client cared about most."
+  ],
+  "sources": [
+   "LinkedIn search snippet (https://ca.linkedin.com/in/kristina-batrak)",
+   "Western CSUS executive listing (search result)",
+   "LinkedIn post about ElleHacks (search snippet)",
+   "https://kristinabatrak.com",
+   "https://github.com/KristinaBBBB",
+   "https://devpost.com/KristinaBBBB",
+   "https://devpost.com/software/echolight",
+   "Hack Western team finder card (Kristina B.)",
+   "https://ca.linkedin.com/in/kristina-batrak"
+  ],
+  "grad_year": "2029 (LinkedIn education dates 2024-2029)",
+  "merged_from": [
+   "nophoto-chunk-6.json",
+   "zz-deepen-chunk-2.json",
+   "deep2"
+  ],
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Grad 2029 (LinkedIn)",
+   "Honours Specialization CS",
+   "Talking points"
+  ]
+ },
+ {
+  "id": "U0CKSPQ93AA",
+  "name": "Tejass Kaushik",
+  "personal_site": {
+   "url": "https://tejass-kaushik.vercel.app/",
+   "evidence": "Site of Tejass Kaushik links LinkedIn tejasskaushik and GitHub tejask-dev; resume says Western BSc CS 2026-2030, Ivey AEO"
+  },
+  "github": {
+   "url": "https://github.com/tejask-dev",
+   "evidence": "Name Tejass Kaushik, blog tejass-kaushik.vercel.app"
+  },
+  "devpost": {
+   "url": "https://devpost.com/tejask-dev",
+   "evidence": "Same tejask-dev handle; links github.com/tejask-dev"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://tejasskaushik.com/",
+    "evidence": "Personal domain linked from his portfolio."
+   },
+   {
+    "url": "https://www.anticipationlabs.com/",
+    "evidence": "Company he is COO of, linked from his portfolio."
+   },
+   {
+    "url": "https://tryelda.com/",
+    "evidence": "Elda product site, linked from his portfolio."
+   },
+   {
+    "url": "https://stellarlearning.app/",
+    "evidence": "Stellar Learning (he was CTO), linked from his portfolio."
+   }
+  ],
+  "school_program": "Western University, BSc Computer Science, Ivey AEO",
+  "grad_year": "2030 (expected)",
+  "current_role": "COO, Anticipation Labs: building June, an AI assistant older adults reach by landline, with Jose Cruz-Lopez during Stan Launchpad (Oct 2026); earlier products Anticipy (AI pendant) and Elda (bracelet); first-year CS, Western (Ivey AEO)",
+  "past_roles": [
+   "CTO, Stellar Learning (Aug 2025-Jul 2026; free IB/AP prep, 40,000+ learners)",
+   "Anticipy (Anticipation Labs' earlier AI pendant): connected apps, private AI workflows, prototype testing",
+   "Software engineering intern (DocuBridge prototype for exploring Excel/CSV data)"
+  ],
+  "projects": [
+   {
+    "name": "Elda",
+    "summary": "Screenless bracelet helping older adults with daily tasks; he leads customer discovery and software testing",
+    "url": ""
+   },
+   {
+    "name": "OrganicChem WebApp",
+    "summary": "Turns molecule names and drawings into properties and 3D structures (React, FastAPI, RDKit)",
+    "url": "https://github.com/tejask-dev/OrganicChem-WebApp"
+   },
+   {
+    "name": "RelayPass",
+    "summary": "Signed permissions that narrow as work passes between AI agents (hackathon prototype)",
+    "url": "https://devpost.com/software/relaypass"
+   },
+   {
+    "name": "claude-codex-connector",
+    "summary": "Local MCP teamwork between Claude and Codex",
+    "url": "https://github.com/tejask-dev/claude-codex-connector"
+   },
+   {
+    "name": "CanDrive",
+    "summary": "Food-drive tracker built in five days; campaign collected 27,000+ cans",
+    "url": "https://github.com/tejask-dev/ACS_CanDrive-WebApp"
+   },
+   {
+    "name": "MoleculeAI",
+    "summary": "Organic chemistry app: molecule names/drawings to properties, functional groups and 3D structures (React, FastAPI, RDKit).",
+    "url": "https://organic-chem-web-app.vercel.app/"
+   },
+   {
+    "name": "PromMatch",
+    "summary": "Student matchmaking with weighted questionnaire answers plus pgvector semantic similarity.",
+    "url": "https://prom-match.vercel.app/"
+   },
+   {
+    "name": "Soma AI",
+    "summary": "Conversational teen sexual-health education; 300+ users reported, closed 2026.",
+    "url": "https://devpost.com/software/somaai-open-health-education-for-the-underprivileged"
+   },
+   {
+    "name": "Signify",
+    "summary": "ASL-to-text translation with emotion detection.",
+    "url": "https://devpost.com/software/signify-n2v6l7"
+   },
+   {
+    "name": "Cortex",
+    "summary": "Local-first Markdown memory shared by humans and AI agents (Oct 2026).",
+    "url": "https://github.com/tejask-dev/cortex"
+   },
+   {
+    "name": "June (Anticipation Labs)",
+    "summary": "AI assistant reachable from a landline for older adults, no app needed; built with Jose Cruz-Lopez during Stan Launchpad (his LinkedIn posts, Oct 2026)",
+    "url": "https://www.anticipationlabs.com/"
+   },
+   {
+    "name": "Open Water portfolio",
+    "summary": "Personal site where you drive a yacht across an ocean to see his work (his LinkedIn post, Oct 2026)",
+    "url": "https://tejasskaushik.com/"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Stan Launchpad founder camp (2026)",
+   "Youreka Canada National Symposium: 1st place team (self-reported on LinkedIn)",
+   "Youreka Canada 3-Minute Thesis Challenge: 1st place nationally, Apr 2025 (self-reported on LinkedIn)",
+   "Youreka Canada Regional Research Competition: 3rd place, May 2025 (self-reported on LinkedIn)",
+   "Target Alpha Canada: national finalist, top 7 (Apr 2025) (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "AI agents and MCP",
+   "React, TypeScript, FastAPI",
+   "Health tech for older adults"
+  ],
+  "talking_points": [
+   "He and Jose Cruz-Lopez are building June, an AI assistant older adults can call from a landline, at Stan Launchpad: ask how they make sure the agent finishes the job and not just the call.",
+   "He co-authored a Youreka study on adolescent fertility and pediatric HIV treatment across 34 Sub-Saharan countries and won the national 3-minute thesis: ask what the data showed.",
+   "He turned his portfolio into an ocean you drive a yacht across: ask how he built it.",
+   "He was CTO of Stellar Learning, free IB/AP prep for 40,000+ learners: ask what drove the growth."
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/tejasskaushik",
+   "https://tejass-kaushik.vercel.app/",
+   "https://github.com/tejask-dev",
+   "https://devpost.com/tejask-dev",
+   "https://drive.google.com/file/d/1lTrTsLfvYSEkUlYoGWTSYcoekdeiJqu4/view"
+  ],
+  "confidence_notes": "Profile and site spell the name 'Tejass'; the Slack name is 'Tejas'. Kept medium for that reason. Site says COO; LinkedIn headline says CIO. Pass 2: his own site spells the name 'Tejass Kaushik' and gives role as COO (not COO/CIO); updated. Research paper title not visible (Drive link only). | pass3: Youreka paper title now known from his LinkedIn publications (Youreka Canada Journal, Jun 2026). June/Anticipy at Stan Launchpad from his Oct 2026 posts; LinkedIn lists 'Stealth AI Startup' as current experience. LinkedIn education Western 2026-2030. Higgsfield certificate left out.",
+  "status": "done",
+  "publications": [
+   {
+    "title": "Exploring the Relationship Between Adolescent Fertility Rates and Pediatric Antiretroviral Treatment Coverage in Countries Across Sub-Saharan Africa",
+    "venue": "Youreka Canada Journal, June 2026 (co-author; 34 countries)",
+    "url": ""
+   }
+  ],
+  "news": [],
+  "added_this_pass": [
+   "Youreka paper title",
+   "June landline AI assistant at Stan Launchpad",
+   "Youreka 3MT and Target Alpha placings",
+   "Open Water portfolio",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJPSMNNNT",
+  "name": "Isabelle Gan",
+  "personal_site": {
+   "url": "https://www.isabellegan.com/",
+   "evidence": "Site links linkedin.com/in/isabellegan; lists Western University and University of Waterloo among her schools"
+  },
+  "github": null,
+  "devpost": {
+   "url": "https://devpost.com/isabellegan",
+   "evidence": "Devpost links linkedin.com/in/isabellegan; Hack Western 10 in her hackathon list"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://luma.com/openaiwaterloo",
+    "label": "OpenAI Student Collective at University of Waterloo (host)",
+    "evidence": "Luma calendar 'By Isabelle Gan'; her site says she is Waterloo's founding OpenAI Campus Lead"
+   },
+   {
+    "url": "https://www.ivey.uwo.ca/news/news-ivey/2023/november/mentorship-event-at-ivey-helps-young-girls-to-bring-out-their-best/",
+    "label": "Ivey news: mentorship event (2023)",
+    "evidence": "Quotes Isabelle Gan, a second-year Western student"
+   },
+   {
+    "url": "https://2024.hackwestern.com/live?tab=mentors",
+    "label": "Hack Western 2024 mentor listing",
+    "evidence": "Mentor list shows Isabelle Gan, 'Ex-SWE @ Hack Western'"
+   },
+   {
+    "url": "https://www.delphi.ai/isabelle",
+    "label": "Delphi AI clone ('Campus Lead at OpenAI')",
+    "evidence": "Delphi page titled Isabelle Gan, Campus Lead at OpenAI"
+   }
+  ],
+  "school_program": "University of Waterloo, Cognitive Science and HCI (previously Western University, Economics & CS; BrainStation software engineering)",
+  "grad_year": "",
+  "current_role": "Founding OpenAI Campus Lead, University of Waterloo; President, UW Blueprint; Notion AI Product Partner",
+  "past_roles": [
+   "Solo founder: AI-native health data interoperability (SF/NYC; supported by Redesign Health, Pear VC, Founders Inc.)",
+   "PM, UW Blueprint (Food4Kids)",
+   "BMO (systems integration for a $16B acquisition)",
+   "SAP (enterprise deals)",
+   "Pogo (scaled $0 to 5-figure ARR)",
+   "Pear VC and Ripple Ventures (investing)",
+   "Intern at YC startup Jemi (in high school)",
+   "Founded first startup at 16 with PayPal support",
+   "Hack Western software engineering team (per 2024 mentor listing)",
+   "Product Manager, UW Blueprint (one year; software for nonprofits feeding 7,500+ children) before becoming President",
+   "RippleX Fellowship: co-ran its first Toronto Startup Showcase (her LinkedIn post, Jun 2023)"
+  ],
+  "projects": [
+   {
+    "name": "Attest",
+    "summary": "Autonomous accounts payable powered by contract intelligence (Cal Hacks 13.0)",
+    "url": "https://devpost.com/software/attest-ljoby0"
+   },
+   {
+    "name": "PlugPal",
+    "summary": "AI copilot for EV charging infrastructure (SpurHacks)",
+    "url": "https://devpost.com/software/plugpal"
+   },
+   {
+    "name": "NeoLume",
+    "summary": "AI monitoring to help detect neonatal jaundice early",
+    "url": "https://devpost.com/software/neolume"
+   },
+   {
+    "name": "CapitalQuest",
+    "summary": "Financial decision-making game (GeeseHacks)",
+    "url": "https://devpost.com/software/idk-mng58v"
+   },
+   {
+    "name": "EcoGuardian",
+    "summary": "Wildlife protection via computer vision and AI-powered reporting, adoption and volunteering.",
+    "url": "https://devpost.com/software/ecopulse-sicyv1"
+   },
+   {
+    "name": "SafeGuard",
+    "summary": "Safety guide for solo travellers.",
+    "url": "https://devpost.com/software/safeguard-10ms7z"
+   },
+   {
+    "name": "SpeedDial",
+    "summary": "App for when you need a friend to help with decisions and isolation.",
+    "url": "https://devpost.com/software/speeddial"
+   }
+  ],
+  "hackathon_wins": [
+   "GeeseHacks: Sun Life Case Prize (CapitalQuest)"
+  ],
+  "awards": [
+   "Notion Product Partner (1 of 15)"
+  ],
+  "clubs_leadership": [
+   "President, UW Blueprint (125+ members)",
+   "Founding OpenAI Campus Lead, Waterloo (hosts OpenAI Studio Hours with WAT.ai)",
+   "Hack Western (former SWE team; 2024 mentor)"
+  ],
+  "skills_interests": [
+   "Product engineering",
+   "forward deployed engineering",
+   "health tech / interoperability",
+   "Figma/design",
+   "HCI",
+   "endurance racing",
+   "solo travel",
+   "photography",
+   "Endurance racing",
+   "Volunteer event photography (RippleX Fellowship, Socratica Symposium)",
+   "Solo travel, mountaineering goal of a summit on every continent"
+  ],
+  "talking_points": [
+   "She's the founding OpenAI Campus Lead at Waterloo, running OpenAI Studio Hours with WAT.ai: ask what students are building with the API.",
+   "She leads UW Blueprint (125+ members) after a year as PM on software for Food4Kids: ask how Blueprint picks its nonprofit partners.",
+   "She used to be on Hack Western's software team and mentored in 2024: ask how the event has changed.",
+   "She's working on AI-native health data interoperability with support from Redesign Health and Pear VC: ask what data format fights hardest."
+  ],
+  "sources": [
+   "https://www.isabellegan.com/",
+   "https://www.isabellegan.com/now",
+   "https://devpost.com/isabellegan",
+   "https://luma.com/openaiwaterloo",
+   "https://www.ivey.uwo.ca/news/news-ivey/2023/november/mentorship-event-at-ivey-helps-young-girls-to-bring-out-their-best/",
+   "https://2024.hackwestern.com/live?tab=mentors",
+   "https://ca.linkedin.com/in/isabellegan"
+  ],
+  "confidence_notes": "High: personal site and Devpost both link linkedin.com/in/isabellegan (matches email handle isabellejgan); site lists Western and Waterloo. LinkedIn headline says OpenAI, which matches the Campus Lead role. No GitHub found. Pass 2: /now page re-confirms Waterloo Cog Sci + HCI, OpenAI Campus Lead, Blueprint President, Notion Product Partner. Grad year still not public. | pass3: cached LinkedIn page shows OpenAI as current experience (matches the Campus Lead role) and a 2023 post about the RippleX Fellowship Toronto Startup Showcase. No education dates shown; grad year still not public.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "RippleX Fellowship Toronto Startup Showcase",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "personal_site": {
+   "url": "https://anay-baid-website.netlify.app/",
+   "evidence": "Linked as the website on Devpost profile 'anaybaid', which also links linkedin.com/in/anaybaid. The site is rendered by JavaScript, so its contents were not read"
+  },
+  "github": {
+   "url": "https://github.com/anaybaid-uwaterloo",
+   "evidence": "GitHub name Anay Baid, bio 'University of Waterloo, 4A Computer Science', blog links linkedin.com/in/anaybaid; also linked from his Devpost"
+  },
+  "devpost": {
+   "url": "https://devpost.com/anaybaid",
+   "evidence": "Devpost name Anay Baid ('University of Waterloo - Computer Science 2027'), links the LinkedIn slug, GitHub and site"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://about.me/iamanaybaid",
+    "label": "about.me (lists portfolios)",
+    "evidence": "Same name; Waterloo student, software developer"
+   },
+   {
+    "url": "https://topmate.io/iamanaybaid",
+    "label": "Topmate (offers paid resume reviews, mock interviews and mentorship)",
+    "evidence": "'2nd Year Computer Science @ UWaterloo', same name and handle as about.me"
+   },
+   {
+    "url": "https://github.com/anaybaid-uwaterloo/nasa-space-hacks-submission",
+    "evidence": "NASA Space Apps (Celestial Tracker orrery) submission on his GitHub."
+   }
+  ],
+  "school_program": "University of Waterloo, Computer Science (David R. Cheriton School); 4A term",
+  "grad_year": "2027",
+  "current_role": "4A Computer Science student at Waterloo; prolific hackathon builder",
+  "past_roles": [
+   "Built StarRez Front Desk workflow automation (Jan to Mar 2026), likely tied to a residence front-desk role (inferred)",
+   "Information Technology team, The Nationwide Group, Markham (from Sept 2024, per his LinkedIn post)"
+  ],
+  "projects": [
+   {
+    "name": "The Inattention Tax",
+    "summary": "Sheridan Datathon 2026: measures uneven pass-through of Bank of Canada rate changes to Big Six lending and savings rates, with break detection and a dollar estimate of savings interest lost",
+    "url": "https://devpost.com/software/the-inattention-tax"
+   },
+   {
+    "name": "THREAD: Catch the Change",
+    "summary": "Hack the Valley 11: senior-care simulation that teaches teams to spot meaningful changes from residents' baselines, with branching scenarios and AI handovers",
+    "url": "https://devpost.com/software/thread-catch-the-change"
+   },
+   {
+    "name": "LegacyBridge AI",
+    "summary": "ConUHacks X: turns legacy banking systems into REST APIs with Gemini function calling, schema validation and retries (FastAPI, k8s, Prometheus/Grafana)",
+    "url": "https://devpost.com/software/legacybridge-ai"
+   },
+   {
+    "name": "StarRez Workflow Automation",
+    "summary": "Chrome Manifest V3 browser-native RPA for StarRez Front Desk workflows (DOM adapters, MutationObserver)",
+    "url": ""
+   },
+   {
+    "name": "GitHub Build Trigger Application",
+    "summary": "One-click build triggers for GitHub projects",
+    "url": "https://devpost.com/software/github-build-trigger-application"
+   },
+   {
+    "name": "Vital Guardian",
+    "summary": "CTRL+HACK+DEL: ESP32 + TensorFlow Lite vital-sign monitoring for underserved communities",
+    "url": "https://devpost.com/software/vital-guardian-ai-powered-predictive-healthcare"
+   },
+   {
+    "name": "Celestial Tracker",
+    "summary": "Web orrery visualizing planetary positions (NASA Space Apps 2024 submission).",
+    "url": "https://github.com/anaybaid-uwaterloo/nasa-space-hacks-submission"
+   },
+   {
+    "name": "NAS Forms",
+    "summary": "Replacement for Adobe Forms with backend API calls.",
+    "url": "https://github.com/anaybaid-uwaterloo/nas-forms"
+   },
+   {
+    "name": "When2Work dashboard",
+    "summary": "Browser extension for When2Work UI enhancement (Jan 2026).",
+    "url": "https://github.com/anaybaid-uwaterloo/when2work-dashboard"
+   },
+   {
+    "name": "CS 241 WLP4 compiler",
+    "summary": "C++/MIPS compiler for a C-style language with a custom lexer and LR(1) parser (LinkedIn project, Jul 2024)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "uOttaHack 5 (2023): Winner, Most Creative Use of GitHub, for GitHub Build Trigger Application"
+  ],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Java, C/C++, Python",
+   "Web development (React, TypeScript, Node)",
+   "Browser automation / RPA",
+   "AI-powered legacy modernization",
+   "Fintech / economics data analysis",
+   "Agentic coding tools (forked Kilo Code)",
+   "Computational linguistics (applied to CompLING lab internship)"
+  ],
+  "talking_points": [
+   "He started in IT at The Nationwide Group's Markham office in Sept 2024: ask what the work involved.",
+   "He built a Chrome extension that automates StarRez front-desk workflows directly in the browser: ask what it saved the desk staff.",
+   "He won Most Creative Use of GitHub at uOttaHack 5 with a build-trigger service: ask how he's used CI since.",
+   "He wrote a WLP4 compiler in C++ for CS 241: ask what part of the compiler was hardest."
+  ],
+  "sources": [
+   "https://devpost.com/anaybaid",
+   "https://github.com/anaybaid-uwaterloo",
+   "https://about.me/iamanaybaid",
+   "https://topmate.io/iamanaybaid",
+   "LinkedIn public profile text via search_service index (ca.linkedin.com/in/anaybaid)",
+   "Devpost project pages listed above",
+   "https://github.com/anaybaid-uwaterloo?tab=repositories",
+   "https://ca.linkedin.com/in/anaybaid"
+  ],
+  "confidence_notes": "Strong: rare name, and Devpost, GitHub and LinkedIn cross-link, all Waterloo CS 2027. He is a Waterloo student (not Western). The GitHub account 'anaybaid' (empty) was not attributed. Employer history is not visible in indexed text; the StarRez role is an inference. Devpost lists a personal X/Twitter account, which was not recorded. Pass 2: GitHub has a 'ura-practice' repo for a CompLING lab internship application (Sep 2025); outcome unknown, so not listed as a role. | pass3: Nationwide Group IT role from his own LinkedIn post (Sep 2024); title not stated. Kept identical across both Slack records (U0CHSV19T6H and U0CJF8GBZ54).",
+  "status": "done",
+  "id": "U0CJF8GBZ54",
+  "name": "Anay Baid",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "The Nationwide Group IT role (Sept 2024)",
+   "CS 241 compiler project",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CL64QUK08",
+  "name": "Gloriana Zheng",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/glorianazheng",
+   "evidence": "Linked from Devpost glorianazheng; repo Rehably matches her Hack Western 12 project; handle equals email handle"
+  },
+  "devpost": {
+   "url": "https://devpost.com/glorianazheng",
+   "evidence": "Handle equals email handle; projects at Hack Western 12/13 and SheHacks+ Gemini win match her LinkedIn awards"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://news.westernu.ca/2025/09/schulich-leaders/",
+    "label": "Western News: 2025 Schulich Leaders cohort",
+    "evidence": "Lists Gloriana Zheng, Markham, Ont., Faculty of Science ($100,000)"
+   }
+  ],
+  "school_program": "Western University, BSc Computer Science (2025-2030), Ivey AEO",
+  "grad_year": "2030",
+  "current_role": "Purple Lotus Technologies (title not public)",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "ReceiptJars",
+    "summary": "Turns everyday receipts into memorable collages while tracking spending (Gemini, TypeScript)",
+    "url": "https://devpost.com/software/receiptjars"
+   },
+   {
+    "name": "Brim",
+    "summary": "Health tech project submitted to Hack Western 13",
+    "url": "https://devpost.com/software/brim-2iphsr"
+   },
+   {
+    "name": "Rehably",
+    "summary": "Personalized exercise plans with live motion feedback for seniors recovering at home (Hack Western 12)",
+    "url": "https://devpost.com/software/rehably"
+   },
+   {
+    "name": "Rumble",
+    "summary": "Bet with friends on real-life events using chores, favors or dares instead of money (UofTHacks 13)",
+    "url": "https://devpost.com/software/rumble-as9183"
+   },
+   {
+    "name": "ConnectU",
+    "summary": "Student networking platform (McGill CodeJam 15)",
+    "url": "https://devpost.com/software/connectu-nzi0ct"
+   }
+  ],
+  "hackathon_wins": [
+   "SheHacks+ 10: [MLH] Best Use of Gemini API (ReceiptJars)"
+  ],
+  "awards": [
+   "Schulich Leader Scholarship 2025 ($100,000)",
+   "Finalist, Accenture x EY x WFN 'Pitch the Future' (2025)",
+   "Ivey AEO",
+   "RCM Level 10 piano, harmony/counterpoint and history"
+  ],
+  "clubs_leadership": [
+   "Western Founders Network (appears on WFN site/team imagery)",
+   "Internals Director, a cultural student association (Sep 2025-present)",
+   "President, Trudeau Athletic Council (2024-25)",
+   "President, SHSM Trudeau (2024-25)"
+  ],
+  "skills_interests": [
+   "JavaScript",
+   "TypeScript",
+   "Figma",
+   "health tech",
+   "fintech/consumer apps",
+   "piano (RCM Level 10)"
+  ],
+  "talking_points": [
+   "She's a 2025 Schulich Leader ($100,000) studying CS at Western with Ivey AEO: ask what she wants to build.",
+   "Her team's ReceiptJars won MLH's Best Use of Gemini API at SheHacks+ 10: ask how the app reads receipts.",
+   "She was a finalist in the Accenture x EY x WFN 'Pitch the Future' competition: ask what she pitched.",
+   "She's internals director for the a cultural student association: ask what events they run."
+  ],
+  "sources": [
+   "https://devpost.com/glorianazheng",
+   "https://devpost.com/software/receiptjars",
+   "https://devpost.com/software/brim-2iphsr",
+   "https://devpost.com/software/rehably",
+   "https://github.com/glorianazheng",
+   "https://news.westernu.ca/2025/09/schulich-leaders/",
+   "LinkedIn search snippet (education, awards)",
+   "https://github.com/glorianazheng/brim",
+   "https://devpost.com/software/rumble-as9183",
+   "https://ca.linkedin.com/in/glorianazheng"
+  ],
+  "confidence_notes": "High: email handle matches LinkedIn slug, GitHub and Devpost; Devpost Gemini win matches LinkedIn award. Her Purple Lotus role and WFN position are not public in text. Devpost shows a Website link that could not be extracted. Pass 2: Brim description taken from the public repo README; status is skeleton + pipelines. | pass3: program clarified to Computer Science from her LinkedIn post (Aug 2025: 'Bachelor of Science in Computer Science' with Ivey AEO and the Schulich Leader Scholarship). Purple Lotus Technologies title still not shown. Dance, camp and fashion-show entries left out.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Program: BSc Computer Science (her LinkedIn post)",
+   "a cultural student association internals director",
+   "High-school council presidencies",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CHPHPQ2LV",
+  "name": "Nathan Espejo",
+  "personal_site": {
+   "url": "https://www.nathanespejo.com/",
+   "evidence": "The site names Nathan Espejo, lists Western Software Engineering and WE MARS, and cross-links his GitHub and Devpost."
+  },
+  "github": {
+   "url": "https://github.com/HasNate618",
+   "evidence": "The account names Nathan Espejo, lists Western University, and links his personal site."
+  },
+  "devpost": {
+   "url": "https://devpost.com/nate-e-espejo",
+   "evidence": "The profile name, Brampton location, personal site, and GitHub all match."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://www.nathanespejo.com/llms.txt",
+    "evidence": "Machine-readable profile on his own site with full awards and project knowledge base."
+   }
+  ],
+  "school_program": "BESc Software Engineering, Western University (third year in 2026-27; graduating May 2029)",
+  "grad_year": "2029",
+  "current_role": "Software Team Member (autonomy), WEMars; Western Software Engineering student seeking a May 2027 internship (up to 16 months)",
+  "past_roles": [
+   "Software Engineering Intern, TeraGo, Markham (May-Aug 2026): local-LLM email-to-ticket pipeline, RF channel-planning tool, internal RAG assistant",
+   "VP of Data/ML (promoted from Software Developer), 3D Western (Sep 2025-Aug 2026): 2,559-model VLM-checked print-safety dataset",
+   "Software Developer, WEFirst Robotics (Jan-Apr 2026): swerve drive programming",
+   "IT Intern (part-time), Microcomputer Consulting Inc., Mississauga (May-Aug 2025)",
+   "WEMars software team (2024-25): ESP32-CAM wireless video streaming for the rover"
+  ],
+  "projects": [
+   {
+    "name": "Auralis",
+    "summary": "AI health assistant that reads facial cues and won an MLH Cloudflare prize at Hack Western 12.",
+    "url": "https://devpost.com/software/docai-evq74t"
+   },
+   {
+    "name": "AgntOS",
+    "summary": "Agent-native operating-system project built on NixOS.",
+    "url": "https://github.com/HasNate618/AgntOS"
+   },
+   {
+    "name": "Campus",
+    "summary": "AI agent that syncs his six Brightspace courses into SQLite and answers from course files with lexical search plus optional reranking.",
+    "url": "https://github.com/HasNate618/Campus"
+   },
+   {
+    "name": "Clank",
+    "summary": "Local 2B vision-language model hears a VR game, sees its frame, and drives a simulated Unitree G1 humanoid on one GPU.",
+    "url": "https://github.com/HasNate618/Clank"
+   },
+   {
+    "name": "NixOS homelab",
+    "summary": "Two-machine NixOS homelab in one flake: 35 containers, Tailscale/Caddy, daily NAS backups.",
+    "url": "https://github.com/HasNate618/nixos-config-public"
+   },
+   {
+    "name": "AWARE",
+    "summary": "Solo Hack the 6ix 2026 build: $80 Arduino UNO Q with on-board vision/audio models and plain-English automation rules.",
+    "url": "https://devpost.com/software/a-w-a-r-e-autonomous-witness-and-response-engine"
+   },
+   {
+    "name": "Careerly",
+    "summary": "Career exploration app; NSBEHacks 2024 3rd overall and Cohere Challenge winner.",
+    "url": "https://devpost.com/software/career-fair-xz0f67"
+   },
+   {
+    "name": "Eyecandy",
+    "summary": "Shopify products as AR try-ons on Snap Spectacles; Hack the North 2025 Snap AR runner-up.",
+    "url": "https://devpost.com/software/eye-candy"
+   },
+   {
+    "name": "Zenith Tower",
+    "summary": "Unity mobile dungeon crawler with procedural rooms.",
+    "url": "https://github.com/HasNate618/Zenith-Tower"
+   },
+   {
+    "name": "Western DataQuest model",
+    "summary": "ML model built from scratch with no pretrained models at Western's DataQuest hackathon (Mar 2026), with Liam Ma, Ethan Luo and Riley Wong",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "NSBEHacks 2024: 3rd overall + Cohere's Challenge 1st place (Careerly)",
+   "GameHACKS 1.0 (2023): Second Award (Street Cleaner, solo)",
+   "Hack Western 12 (2025): [MLH] Best AI Application Built with Cloudflare (Auralis)",
+   "TerraHacks 2025: [MLH] Best Use of MongoDB Atlas (Lumen)",
+   "Hack the North 2025: Snap Spectacles AR Runner Up (Eyecandy)",
+   "Stupid Hackathon @ Western 2025: Worst UX (Stupid Spotify)",
+   "Spark 2026: Overall 3rd place (CareBridge AI)",
+   "CTRL+HACK+DEL 2.0 (2026): Best Useless Hack (Object Love Interface)"
+  ],
+  "awards": [
+   "Dean's Honour List, 2024 and 2025",
+   "UNVERIFIED: Western Engineering Competition finalist (top 5 of 87 teams); not on his current site, awards page or resume",
+   "8 hackathon awards across 22 hackathons (per his site, Oct 2026)"
+  ],
+  "clubs_leadership": [
+   "VP of Data/ML, 3D Western",
+   "Software Team Member, WE MARS",
+   "Software Developer, WEFirst Robotics"
+  ],
+  "skills_interests": [
+   "edge AI",
+   "local LLMs",
+   "Linux and NixOS",
+   "ROS 2",
+   "robotics",
+   "computer vision",
+   "hardware",
+   "AR/VR",
+   "Local / cost-aware AI",
+   "NixOS and homelabs",
+   "Physical AI and robotics (ROS 2, Nav2, Jetson Orin)",
+   "Unity games, AR/VR"
+  ],
+  "talking_points": [
+   "He went solo for the first time in 20+ hackathons and built A.W.A.R.E., a camera, sound and sensor watcher on Qualcomm's Arduino UNO Q, at Hack the 6ix: ask what it was like without a team.",
+   "He interned at TeraGo building a local-LLM email-to-ticket pipeline and an RF channel-planning tool: ask why they went local.",
+   "His team's Valentine's hack won Best Useless Hack at CTRL+HACK+DEL 2.0: ask what the Object Love Interface does.",
+   "He writes the autonomy software for WE MARS and is looking for a May 2027 internship of up to 16 months: ask what the rover can do on its own now."
+  ],
+  "sources": [
+   "https://www.nathanespejo.com/",
+   "https://www.nathanespejo.com/experience",
+   "https://github.com/HasNate618",
+   "https://devpost.com/nate-e-espejo",
+   "https://devpost.com/software/docai-evq74t",
+   "https://www.nathanespejo.com/knowledgebase/awards.md",
+   "https://www.nathanespejo.com/llms.txt",
+   "https://nathan-espejo.vercel.app/Nathan_Espejo_Resume.pdf",
+   "https://www.linkedin.com/in/nathan-espejo"
+  ],
+  "confidence_notes": "High confidence: personal site, GitHub, Devpost, Western program, Brampton location, and WE MARS role cross-link. The personal site's summary briefly says 2029, while its detailed education section and professional profile say May 2028; 2028 is used because two detailed records agree. Pass 2 fixes: grad_year 2028 was wrong (own site says May 2029, third year in 2026-27). Prior 'Winner at NSBEHacks 2024 for Object Love Interface' was a mix-up; corrected from Devpost and his awards page. | Verifier: WEC finalist claim not found on his site/awards/resume; marked UNVERIFIED. Six Devpost wins and site awards confirmed. | pass3: LinkedIn education Western 2024-2029 supports grad 2029 (the older 2028 note in confidence_notes is superseded). A.W.A.R.E. was his first solo hack (Jul 2026 post). Ontario Scholar and high-school math award left out.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Grad 2029 confirmed by LinkedIn",
+   "AWARE solo-hack context",
+   "DataQuest team",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJT362K6C",
+  "status": "done",
+  "name": "Krishnam Jhalani",
+  "personal_site": {
+   "url": "https://kj12354.github.io/",
+   "evidence": "Titled Krishnam Jhalani, Computer Science @ University of Waterloo; links to github.com/kj12354 and linkedin.com/in/krishnam-jhalani."
+  },
+  "github": {
+   "url": "https://github.com/kj12354",
+   "evidence": "Profile name Krishnam Jhalani, bio UW CS; linked from his personal site."
+  },
+  "school_program": "Honours Computer Science, University of Waterloo",
+  "grad_year": "2029",
+  "current_role": "AI/ML Developer Co-op, Future Cities Institute (founded by CAIVAN), University of Waterloo (fall 2026); Founder & CTO, What2Do",
+  "confidence_notes": "Medium: site to LinkedIn to GitHub is a direct chain and the FCI page confirms the name, but the Slack userid k2jhalan is tied to the name only by Waterloo's userid convention. Phone number on his site deliberately omitted. Earlier roles seen only on data-broker pages were excluded. [combined from thread2-github-results.json, thread2-low-a-results.json] Pass 2: WatAI_S26_THA repo suggests he applied to WAT.ai (S26 take-home); not listed as a role. | pass3: FCI role title 'AI/ML Developer Co-op' and his organizer/judge role for CIVIC Hack 2026 from his own LinkedIn post (Nov 2026). LinkedIn education Waterloo 2024-2029 matches grad 2029.",
+  "other_professional_links": [
+   {
+    "label": "CIVIC Hack 2026 (organizer contact)",
+    "url": "https://fciprojects.ca/hackathons/2026-civic-hack/"
+   }
+  ],
+  "past_roles": [
+   "Business Systems Analyst, Blake, Cassels & Graydon LLP (Jan-Apr 2026)",
+   "Software Developer / AI-ML Engineer, Fluxion AI (May-Aug 2025)",
+   "Controls & Power Team, WATurbine (Feb-Jun 2025)"
+  ],
+  "projects": [
+   {
+    "name": "What2Do",
+    "summary": "Location-based social app shipped to the App Store, 1,000+ users in the first 48 hours.",
+    "url": ""
+   },
+   {
+    "name": "Landfall",
+    "summary": "AI market-entry intelligence that turns Shopify product pages into cited launch guidance across 12 countries.",
+    "url": ""
+   },
+   {
+    "name": "LawDer",
+    "summary": "Multi-agent RAG system for contract review over 10K+ documents.",
+    "url": ""
+   },
+   {
+    "name": "MemoryOS",
+    "summary": "AI developer memory platform indexing 1,000+ LLM conversations with RAG retrieval.",
+    "url": ""
+   },
+   {
+    "name": "hold-my-stick (Hack Western 13)",
+    "summary": "Smart cane: decides wrist-strap haptic ticks from the camera and a distance sensor; pushed Nov 21, 2026.",
+    "url": "https://github.com/kj12354/hold-my-stick"
+   },
+   {
+    "name": "Branchseed (gaffer_ai)",
+    "summary": "Abdominal aorta daughter-artery detector for the Toralis challenge (Sep 2026).",
+    "url": "https://github.com/kj12354/gaffer_ai"
+   },
+   {
+    "name": "wlooanalytics",
+    "summary": "Repo from Mar 2026, no description.",
+    "url": "https://github.com/kj12354/wlooanalytics"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "President's Scholarship of Distinction, University of Waterloo"
+  ],
+  "clubs_leadership": [
+   "Controls & Power Team, WATurbine",
+   "Organizer, host and judge, CIVIC Hack 2026, Future Cities Institute (organized in under two weeks; his LinkedIn post, Nov 2026)"
+  ],
+  "skills_interests": [
+   "Full-stack (Next.js, TypeScript)",
+   "RAG and LLM systems",
+   "GPU kernel optimization",
+   "Civic tech"
+  ],
+  "talking_points": [
+   "During his Future Cities Institute co-op he organized, hosted and judged CIVIC Hack 2026 from scratch in under two weeks: ask what municipal problems teams tackled.",
+   "He builds AI tools for municipalities at FCI: ask which city problem is most suited to AI.",
+   "Before that he was a business systems analyst at Blake, Cassels & Graydon: ask what a law firm wanted automated.",
+   "He's building hold-my-stick, a smart cane, at Hack Western 13: ask what sensors it uses."
+  ],
+  "sources": [
+   "https://kj12354.github.io/",
+   "https://github.com/kj12354",
+   "https://fciprojects.ca/hackathons/2026-civic-hack/",
+   "https://linkedin.com/in/krishnam-jhalani",
+   "https://github.com/kj12354/hold-my-stick",
+   "https://github.com/kj12354/gaffer_ai"
+  ],
+  "devpost": "",
+  "merged_from": [
+   "zz-research-chunk.json",
+   "thread2-combined-results.json",
+   "deep2"
+  ],
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "CIVIC Hack 2026: organized, hosted and judged",
+   "FCI co-op title",
+   "Talking points"
+  ]
+ },
+ {
+  "id": "U0CJSMLB1PE",
+  "name": "Lukas Bozinov",
+  "personal_site": {
+   "url": "https://lukasboz.github.io/",
+   "evidence": "'Lukas Bozinov | Software Engineer'; Western CS (graduating April 2027), AMD; links github.com/lukasboz and linkedin.com/in/lukasbozinov (matches input LinkedIn)."
+  },
+  "github": {
+   "url": "https://github.com/lukasboz",
+   "evidence": "Linked from his personal site; hosts lukasboz.github.io and the Prospera and OpenCV-Face-RCGN repos that match site and Devpost projects."
+  },
+  "devpost": {
+   "url": "https://devpost.com/lukasboz",
+   "evidence": "Links github.com/lukasboz; Hack Western 12 project Prospera, which Devpost search shows was 'started by Lukas Bozinov'."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://lukasboz.github.io/about.html",
+    "label": "About / experience page",
+    "evidence": "Same personal site."
+   },
+   {
+    "url": "https://leetcode.com/u/lukasbozinov",
+    "evidence": "Linked from his GitHub profile README."
+   },
+   {
+    "url": "https://github.com/lukasboz/lukasboz/blob/main/lukas-resume.pdf",
+    "evidence": "Resume linked from his GitHub README."
+   }
+  ],
+  "school_program": "BSc Honours Specialization in Computer Science, Western University (3.8 GPA, 2x Dean's Honours List)",
+  "grad_year": "2027 (April)",
+  "current_role": "Final-year Western CS student, back from an 8-month AMD internship; Hack Western 13 mentor",
+  "past_roles": [
+   "Associate Software Engineer / Agentic AI & ML SWE Intern, AMD, Markham (Jan-Aug 2026): agentic AI tools, NPU development agent swarms, KNN bug detector; NPU testing efficiency +40%, 99% uptime across 300+ CI/CVML workstations",
+   "DevOps and MLOps Engineer Intern (QA automation), J.D. Power (May-Dec 2025; remote from London ON): Playwright + GitLab CI/Xray, manual testing -35%"
+  ],
+  "projects": [
+   {
+    "name": "ClauDia",
+    "summary": "Agentic AI diagnostic tool for AMD lab engineers that streamlines workstation troubleshooting; reportedly won AMD's 2026 Intern Innovation Showcase (UNVERIFIED, LinkedIn snippet only).",
+    "url": ""
+   },
+   {
+    "name": "Prospera",
+    "summary": "Hack Western 12: helps women build financial literacy and invest smarter (React/TypeScript, Gemini, ElevenLabs).",
+    "url": "https://devpost.com/software/revenue-road"
+   },
+   {
+    "name": "Stem Separator",
+    "summary": "Local-first AI audio stem separation (Demucs backend) with a Next.js client and a native Windows app.",
+    "url": "https://lukasboz.github.io/"
+   },
+   {
+    "name": "Facial Recognition Security System",
+    "summary": "Real-time OpenCV + Qt5 C++ face recognition with role-based access and alerts.",
+    "url": "https://github.com/lukasboz/OpenCV-Face-RCGN"
+   },
+   {
+    "name": "Chef.ai",
+    "summary": "ML meal planning that optimizes grocery purchases to cut food waste.",
+    "url": "https://lukasboz.github.io/"
+   },
+   {
+    "name": "TETR.IO RL",
+    "summary": "Reinforcement-learning agent for TETR.IO with an offline arena (Nov 2026).",
+    "url": "https://github.com/lukasboz/TETR.IO-RL"
+   },
+   {
+    "name": "ScamLens",
+    "summary": "Recent repo (Nov 2026), no description.",
+    "url": "https://github.com/lukasboz/scamlens"
+   },
+   {
+    "name": "TrafficAnalyzer",
+    "summary": "Recent repo (Nov 2026), no description.",
+    "url": "https://github.com/lukasboz/TrafficAnalyzer"
+   },
+   {
+    "name": "TensorKernel",
+    "summary": "Repo from Apr 2026, no description.",
+    "url": "https://github.com/lukasboz/TensorKernel"
+   },
+   {
+    "name": "Nicheify",
+    "summary": "Web app that scores how niche your Spotify listening is (his LinkedIn, Jan 2025)",
+    "url": ""
+   },
+   {
+    "name": "ReelBot",
+    "summary": "Project shared in his Jul 2025 LinkedIn post",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Winner, AMD 2026 Intern Innovation Showcase (ClauDia) (UNVERIFIED: LinkedIn snippet only; not on lukasboz.github.io)",
+   "Dean's Honours List, Western, 2022-23, 2023-24 and 2024-25 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Hack Western 13 mentor",
+   "President, Western Computer Science Undergraduate Society (May 2026-present; 250+ members)",
+   "VP Projects, Western CSUS (Sep 2025-May 2026)"
+  ],
+  "skills_interests": [
+   "Computer vision",
+   "ML / PyTorch",
+   "NPU and GPU drivers, CUDA",
+   "C/C++",
+   "TypeScript/React",
+   "Python",
+   "CI/CD and test automation (Playwright)",
+   "Go",
+   "Local-first tools",
+   "NPU tooling",
+   "PyTorch, Demucs, OpenCV, CUDA"
+  ],
+  "talking_points": [
+   "He's President of Western's Computer Science Undergraduate Society (250+ members) after a year as VP Projects: ask what CSUS is running this year.",
+   "He built ClauDia, an agentic troubleshooting tool for AMD lab engineers: ask how he got engineers to trust an agent for troubleshooting.",
+   "He's done NPU driver validation at AMD and QA automation at J.D. Power: ask for the most useful testing habit for a 36-hour hack.",
+   "He built Nicheify, which scores how niche your Spotify taste is: ask what his own score is."
+  ],
+  "sources": [
+   "https://lukasboz.github.io/",
+   "https://lukasboz.github.io/about.html",
+   "https://github.com/lukasboz",
+   "https://devpost.com/lukasboz",
+   "https://devpost.com/software/revenue-road",
+   "LinkedIn search snippet (ca.linkedin.com/in/lukasbozinov) incl. AMD internship posts",
+   "https://ca.linkedin.com/in/lukasbozinov"
+  ],
+  "confidence_notes": "Strong identity: his personal site links the input LinkedIn slug and GitHub lukasboz, and Devpost links the same GitHub. AMD dates come from the site (Jan 2026 - present) and the LinkedIn post (8-month internship, now ended). The 'Prev. 2x SWE @ AMD' headline suggests two AMD terms, but only one is dated publicly. No hackathon prizes found. Pass 2: his GitHub README links an older LinkedIn slug (lukas-bozinov-b52479244) while the matched profile is lukasbozinov; likely the same person's earlier URL. Grad April 2027 re-confirmed. | Verifier: AMD Intern Innovation Showcase win comes only from a LinkedIn snippet; marked UNVERIFIED. | pass3 conflict: awards: kept LinkedIn's three Dean's Honours years over the earlier '2 years' because LinkedIn lists each year and his site gives no count. CSUS President/VP Projects and Nicheify/ReelBot from LinkedIn. J.D. Power role started May 2025 per LinkedIn.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "CSUS President and VP Projects",
+   "Dean's Honours List three years",
+   "Nicheify, ReelBot",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CLBR7H9MW",
+  "name": "Hadi Youssef",
+  "personal_site": {
+   "url": "https://hyoussef.tech/",
+   "evidence": "Portfolio of Hadi Youssef, Western SE + Ivey; links linkedin.com/in/hadiy and github.com/HadiYoussef2005"
+  },
+  "github": {
+   "url": "https://github.com/HadiYoussef2005",
+   "evidence": "Linked from hyoussef.tech; bio 'SWE Intern @ Scotiabank'"
+  },
+  "devpost": {
+   "url": "https://devpost.com/G0ld3nHacker0101",
+   "evidence": "Devpost named Hadi Youssef links github.com/HadiYoussef2005; WaffleHacks project matches the win on his site"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://aamas2025.org/index.php/conference/program/accepted-papers/",
+    "label": "AAMAS 2025 paper: SCMRAG (co-author)",
+    "evidence": "Accepted paper by Rishabh Agrawal, Murtaza Asrani, Hadi Youssef, Apurva Narayan; listed as his publication on hyoussef.tech"
+   },
+   {
+    "url": "https://hyoussef.tech/leetleitner",
+    "label": "LeetLeitner app",
+    "evidence": "Homepage of his repo HadiYoussef2005/LeetLeitner"
+   }
+  ],
+  "school_program": "Western University BESc Software Engineering + Ivey HBA",
+  "grad_year": "2027",
+  "current_role": "SWE Intern, Scotiabank (per GitHub bio / LinkedIn)",
+  "past_roles": [
+   "ML Research Intern, IDSL (May-Sep 2025)",
+   "Software Engineer Intern, SwarmZero (May-Aug 2025)",
+   "ML Research Intern, Western University (May-Sep 2024, NSERC)"
+  ],
+  "projects": [
+   {
+    "name": "SCMRAG",
+    "summary": "Self-corrective multihop RAG for LLM agents with an LLM-built knowledge graph; published at AAMAS 2025",
+    "url": "https://aamas2025.org/index.php/conference/program/accepted-papers/"
+   },
+   {
+    "name": "Speech2SlAIdes",
+    "summary": "Builds slides live from a presenter's speech (Flask, LangChain, GCP)",
+    "url": "https://devpost.com/software/speech2slaides"
+   },
+   {
+    "name": "Kumon Tracker",
+    "summary": "Barcode attendance/time tracking for a Kumon center used by 400+ students and staff",
+    "url": ""
+   },
+   {
+    "name": "LeetLeitner",
+    "summary": "Local-first LeetCode tracker using Leitner spaced repetition (React, TypeScript)",
+    "url": "https://github.com/HadiYoussef2005/LeetLeitner"
+   },
+   {
+    "name": "Dynamic-Based Scoring Corrective RAG",
+    "summary": "Optimized Corrective RAG across benchmarks, doubling the score on some (his LinkedIn projects)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "WaffleHacks 2024: Honorable Mention, Diversity & Inclusion (Speech2SlAIdes; his site calls it a WaffleHacks win)"
+  ],
+  "awards": [
+   "NSERC USRA scholarship (2024)"
+  ],
+  "clubs_leadership": [
+   "Founder and President, Western TECH (UWO Tech), Oct 2023-present",
+   "Associate VP Academic, Western UES (Apr 2025-present)",
+   "HBA Year Representative, Western UES (Oct 2025-present)",
+   "Second Year Software Representative, Western UES (2024-25; 170 students)",
+   "First Year Representative and Strategic Planning Representative, Western UES (2023-24)",
+   "Donation Fund Chair, Western UES (Sep-Dec 2024)",
+   "Quantitative Developer, Mustang Capital (Oct 2025-May 2026)",
+   "Machine Learning Engineer, Western AI (Oct 2025-May 2026): portfolio optimization bot",
+   "Back End Developer, Tech for Social Impact (2024-25)"
+  ],
+  "skills_interests": [
+   "Java",
+   "Python",
+   "Go",
+   "TypeScript",
+   "Rust",
+   "C#",
+   "FastAPI",
+   "Spring Boot",
+   "LangChain",
+   "RAG",
+   "AI agents",
+   "MCP servers",
+   "Agentic commerce (MCP/UCP)",
+   "Reinforcement learning for portfolios"
+  ],
+  "talking_points": [
+   "He co-authored SCMRAG, a self-correcting multihop RAG system for LLM agents presented at AAMAS 2025: ask what the self-correction step does.",
+   "He founded and leads Western TECH, which runs intro workshops on UI/UX and frontend, and he's Associate VP Academic in the engineering society: ask how he balances both with Ivey.",
+   "He builds quant tools as a developer at Mustang Capital and as an ML engineer at Western AI on a portfolio optimization bot: ask what the bot optimizes for.",
+   "He's a software intern at Scotiabank: ask which team he's on."
+  ],
+  "sources": [
+   "https://hyoussef.tech/",
+   "https://github.com/HadiYoussef2005",
+   "https://devpost.com/G0ld3nHacker0101",
+   "https://devpost.com/software/speech2slaides",
+   "https://aamas2025.org/index.php/conference/program/accepted-papers/",
+   "https://aamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p50.pdf",
+   "https://ifaamas.org/Proceedings/aamas2026/pdfs/AYBA8976.pdf",
+   "https://ca.linkedin.com/in/hadiy"
+  ],
+  "confidence_notes": "High: site links LinkedIn hadiy and GitHub. The Devpost links a different LinkedIn slug (hadi-youssef-4631a8278), probably an older profile, but shares the GitHub. Devpost lists the WaffleHacks result as an Honorable Mention (D&I). Pass 2: authorship confirmed via AAMAS 2025 proceedings PDF; his own site also lists SCMRAG. Not confirmed he is an author on SCMRAG 2.0. | pass3: clubs and student-government roles from his LinkedIn volunteering section (dated). Ivey 2025-2027 on LinkedIn matches grad 2027. Peer tutoring and a one-off summit role left out.",
+  "status": "done",
+  "publications": [
+   "SCMRAG: Self-Corrective Multihop Retrieval Augmented Generation System for LLM Agents. R. Agrawal, M. Asrani, H. Youssef, A. Narayan. AAMAS 2025 (Detroit, May 19-23, 2025). https://aamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p50.pdf"
+  ],
+  "news": [],
+  "added_this_pass": [
+   "Western TECH founder",
+   "UES roles",
+   "Mustang Capital and Western AI roles",
+   "Corrective RAG project",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CHQ3CQ5AP",
+  "name": "Karthikraj Sivakumar",
+  "personal_site": {
+   "url": "https://www.techrajx.com",
+   "evidence": "CV on site lists his LinkedIn (techraj) and Slack email skarthikraj0207"
+  },
+  "github": {
+   "url": "https://github.com/TechRaj",
+   "evidence": "GitHub name Karthikraj Sivakumar, bio 'CS @ NUS | SWE Intern @ Trax', blog techrajx.com"
+  },
+  "devpost": {
+   "url": "https://devpost.com/skarthikraj0207",
+   "evidence": "Handle identical to email handle; LetsMakanBot project also listed on techrajx.com"
+  },
+  "other_professional_links": [],
+  "school_program": "B.Comp. Computer Science, National University of Singapore",
+  "grad_year": "2027",
+  "current_role": "Software Engineer at Trax (Toronto regtech startup for Canadian building codes), 2026-; in Toronto for a year through NUS Overseas Colleges (from Jan 2026)",
+  "past_roles": [
+   "Software Engineer, Perfingo (2025): multi-currency group bill splitting across 16 currencies (Flutter, Node, DynamoDB)",
+   "Co-founder & Vice President, NUS Computing AI Society (2024-25), grew to 150+ members",
+   "VP Cycling, NUS Outdoor Adventures",
+   "Trax: AI permit-audit pipeline piloted with the City of Kitchener; eval harness took verdicts to 84% accuracy on 25 cases; first-party Snowplow/Redis/Postgres analytics"
+  ],
+  "projects": [
+   {
+    "name": "Trax permit auditing pipeline",
+    "summary": "AI audit of building-permit submissions against municipal checklists with hybrid retrieval (Qdrant, Meilisearch) and cited LLM verdicts; piloted with City of Kitchener; eval harness to 84% accuracy",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "Snitch",
+    "summary": "Hack the North 2026 (2nd in GPTZero track): AI review tool for remote interviews flagging AI-text, CV mismatches and speaking rhythm",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "CAPTCHA recognition",
+    "summary": "ResNet-style CNN + BiLSTM + CTC; 35% to 55.6% sequence accuracy, live on Hugging Face",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "Klingon Heads",
+    "summary": "Transformer/GRU English-Klingon translation app (NUS Orbital, Apollo 11 tier)",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "LetsMakan Bot",
+    "summary": "Hack&Roll 2024: Telegram bot for group food orders and cost splitting",
+    "url": "https://devpost.com/software/letsmakanbot"
+   },
+   {
+    "name": "Ruckus",
+    "summary": "iOS app that turns places friends send you (reels) into pins and plans on a shared map; built with Murali Shruthi.",
+    "url": "https://github.com/TechRaj/ruckus"
+   },
+   {
+    "name": "Minimart@MWH",
+    "summary": "Token store for Muhammadiyah Welfare Home residents (Hack4Good 2025).",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "CrimeWhere",
+    "summary": "Random-forest crime hotspot models for patrol planning (LifeHack 2024).",
+    "url": "https://www.techrajx.com"
+   },
+   {
+    "name": "PayWise",
+    "summary": "Pick the credit card that maximizes rewards per purchase (iNTUition 2023).",
+    "url": "https://www.techrajx.com"
+   }
+  ],
+  "hackathon_wins": [
+   "2nd place, GPTZero track, Hack the North 2026 (Snitch)"
+  ],
+  "awards": [
+   "Orbital (NUS) Apollo 11 top tier (Klingon Heads)",
+   "NUS Health Hack 2024 semi-finalist (Healthrix)",
+   "NUS ALSET National Coding Championships finalist, 2017 and 2018 (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Co-founder & VP, NUS Computing AI Society",
+   "VP Cycling, NUS Outdoor Adventures",
+   "NUS Overseas Colleges (Toronto), 2026"
+  ],
+  "skills_interests": [
+   "Python",
+   "TypeScript / Node.js",
+   "FastAPI",
+   "PyTorch",
+   "LangChain / RAG (Qdrant)",
+   "PostgreSQL",
+   "Redis",
+   "Flutter",
+   "Cycling",
+   "Cycling and trail riding (led night routes as NUS Outdoor Adventures VP Cycling)",
+   "Psychology minor (NUS)"
+  ],
+  "talking_points": [
+   "He's in Toronto for a year through NUS Overseas Colleges, working at Trax on AI audits of building permits piloted with the City of Kitchener: ask how they evaluate the model's verdicts.",
+   "Snitch took 2nd in the GPTZero track at Hack the North 2026, his first hackathon podium: ask how it flags AI help in remote interviews.",
+   "He co-founded the NUS Computing AI Society: ask how it compares with Western AI.",
+   "He's a two-time finalist in Singapore's national coding championships: ask whether he still does competitive programming."
+  ],
+  "sources": [
+   "https://www.techrajx.com",
+   "https://github.com/TechRaj",
+   "https://devpost.com/skarthikraj0207",
+   "https://devpost.com/software/letsmakanbot",
+   "https://github.com/TechRaj/ruckus",
+   "https://sg.linkedin.com/in/karthikraj-sivakumar"
+  ],
+  "confidence_notes": "High: site CV lists the LinkedIn slug and exact Slack email; GitHub and Devpost cross-match. Site says he is open to 2027 new-grad SWE/AI roles. Pass 2: psychology minor is from a search-engine snippet of his public LinkedIn, not the page itself. | pass3: NOC Toronto year from his Jan 2026 LinkedIn post; Snitch's GPTZero-track 2nd place confirmed by his own post (first podium). Also did LifeHack 2024 (CrimeWhere) and Ideasjam 2024. Perfingo internship ended around Nov 2025; psychology minor confirmed on LinkedIn.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "NOC Toronto confirmed",
+   "National Coding Championships finalist",
+   "Snitch placing confirmed",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ },
+ {
+  "id": "U0CJLJL9SKH",
+  "status": "done",
+  "name": "Harry Yang",
+  "personal_site": {
+   "url": "https://harryyang.ca",
+   "evidence": "Linked from GitHub; links the LinkedIn."
+  },
+  "github": {
+   "url": "https://github.com/harryyangzy",
+   "evidence": "Commit-email search for the Slack email returns commits authored by this account; README lists the same uwo email."
+  },
+  "devpost": {
+   "url": "https://devpost.com/harryyangzy",
+   "evidence": "Same handle, name Harry Y; not cross-linked (UNVERIFIED)."
+  },
+  "school_program": "Computer Science and Business (Ivey HBA 2026-2028), Western University",
+  "current_role": "Vice Chair, Board of Directors, University Students' Council at Western; Co-Director, Western Computer Science Association",
+  "confidence_notes": "Upgraded none -> high. [combined from thread2-github-results.json, thread2-none-a-results.json] Pass 2: harryyang.ca is JS-rendered; no new roles. Deduplicated talking points and merged the duplicate win/award line. | pass3: Ivey HBA 2026-2028 from LinkedIn gives grad 2028. PDS 2026 role from his own LinkedIn posts (Feb and Apr 2026). The Federal Economic Development Agency internship may be the Clarington Section 4 research award or a separate role; both kept. RCM and athletics awards left out.",
+  "other_professional_links": [
+   {
+    "label": "Peerlist",
+    "url": "https://peerlist.io/harryyng"
+   }
+  ],
+  "past_roles": [
+   "Intern, Federal Economic Development Agency (per LinkedIn snippet)",
+   "Chair, PurpleCare Trust (USC)",
+   "Stush Foods (summer 2025, per his LinkedIn post)"
+  ],
+  "projects": [
+   {
+    "name": "Stumbl",
+    "summary": "Less waiting for the bus.",
+    "url": "https://github.com/harryyangzy/stumbl"
+   },
+   {
+    "name": "towallet",
+    "summary": "Bring any barcode to Apple Wallet.",
+    "url": "https://github.com/harryyangzy/towallet"
+   },
+   {
+    "name": "csa-whos-who",
+    "summary": "CSA executive team flashcards.",
+    "url": "https://github.com/harryyangzy/csa-whos-who"
+   },
+   {
+    "name": "lettuce",
+    "summary": "GitHub-style streaks and pinned projects for Figma design work.",
+    "url": "https://github.com/harryyangzy/lettuce"
+   },
+   {
+    "name": "Cœur",
+    "summary": "First Place at the QUX Design-a-thon: core memories made to be cherished, not just shared.",
+    "url": "https://devpost.com/software/coeur"
+   },
+   {
+    "name": "AirPod Pickleball",
+    "summary": "Laptop pickleball game using AirPod motion tracking (Devpost).",
+    "url": "https://devpost.com/harryyangzy"
+   },
+   {
+    "name": "emailcommute",
+    "summary": "Emails commute instructions so he doesn't check transit on a big monitor at work.",
+    "url": "https://github.com/harryyangzy/emailcommute"
+   }
+  ],
+  "hackathon_wins": [
+   "QUX (Queen's UX) Design-a-thon: First Place (Cœur, a space for core memories made to be cherished, not just shared)",
+   "GBDA Society Award, Mosaic Designathon (University of Waterloo), Mar 2026 (self-reported on LinkedIn)"
+  ],
+  "awards": [
+   "2nd place, Western Founders Network Technology Consulting Competition, Feb 2025 (self-reported on LinkedIn)",
+   "2nd place, PBSN Aspire Case Competition, Nov 2024 (self-reported on LinkedIn)",
+   "BUS 2257 Feasibility Study Section Winner (self-reported on LinkedIn)",
+   "DECA Provincial Champion, Franchise Business Plan, 2023 (self-reported on LinkedIn)",
+   "Ivey Section 4 Research: Municipal Innovation Intern, City of Clarington ($30,000) (self-reported on LinkedIn)"
+  ],
+  "clubs_leadership": [
+   "Vice Chair, USC Board of Directors",
+   "Co-Director, a cultural student association",
+   "Host/lead organizer, Product Design Sprint 2026 (Mar 21, 2026; his LinkedIn posts)",
+   "Vice President of Design, Western Founders Network (May 2025-present)",
+   "VP of Development, W5 (Apr 2025-present)",
+   "Developer, Mapping and Localisation, WE AutoPilot Club (Jan 2026-present)",
+   "Graphics Director, a cultural student association",
+   "Product Designer, Tethos Association (prev. TSI) (Jan-Jun 2025)",
+   "Mentor, HBAA; member, Ivey Tech Club and Ivey Product Society"
+  ],
+  "skills_interests": [
+   "Product design",
+   "UX",
+   "Web",
+   "Design engineering",
+   "TypeScript",
+   "Community leadership"
+  ],
+  "talking_points": [
+   "He spent 10 months planning Product Design Sprint 2026, which he calls the nation's biggest product design competition, after PDS25's budget was cut: ask how he rebuilt it.",
+   "His Cœur concept for keeping core memories won 1st at the Queen's UX Design-a-thon: ask about the design.",
+   "He's Vice Chair of the USC Board of Directors: ask what the board is working on this year.",
+   "He's doing his Ivey Section 4 research as a Municipal Innovation Intern with the City of Clarington: ask what he's studying."
+  ],
+  "sources": [
+   "https://github.com/harryyangzy",
+   "https://harryyang.ca",
+   "https://www.linkedin.com/in/harryyangzy/",
+   "https://csawestern.com/our-team",
+   "https://devpost.com/software/coeur",
+   "https://github.com/harryyangzy?tab=repositories"
+  ],
+  "grad_year": "2028 (Ivey HBA 2026-2028 on LinkedIn)",
+  "merged_from": [
+   "zz-research-chunk.json",
+   "thread2-combined-results.json",
+   "deep2"
+  ],
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "Grad 2028 (Ivey)",
+   "Product Design Sprint 2026 host",
+   "Mosaic Designathon award and case competition placings",
+   "City of Clarington Section 4 research",
+   "WFN VP Design, W5 VP Development, AutoPilot mapping developer",
+   "Talking points"
+  ]
+ },
+ {
+  "id": "U0CJVB8M5FW",
+  "name": "Matthew Mo",
+  "personal_site": {
+   "url": "https://www.matthew-mo.com/",
+   "evidence": "'Matthew Mo | Data Science Student & Full-Stack Developer', UWaterloo Data Science; links linkedin.com/in/matthew-mo520 (the input LinkedIn). The resume on the site lists github.com/MatthewMo520."
+  },
+  "github": {
+   "url": "https://github.com/MatthewMo520",
+   "evidence": "Listed on the resume PDF hosted on matthew-mo.com next to the input LinkedIn; GitHub name 'Matthew Mo', bio 'DS @ UWaterloo', repos LinkedIt-V2 and Farm-Data-Automation match his resume projects and AgSights role."
+  },
+  "devpost": {
+   "url": "https://devpost.com/mzmo",
+   "evidence": "Devpost 'Matthew Mo (mzmo)'. The handle matches his uWaterloo email prefix on his own resume, and its projects LinkedIt and AgeWell are on that resume. A separate devpost.com/matthew-mo520 account exists with no projects."
+  },
+  "other_professional_links": [
+   {
+    "url": "https://www.uwdatascience.ca/team",
+    "label": "UWaterloo Data Science Club team page (Developer)",
+    "evidence": "Lists Matthew Mo as Developer; LinkedIn shows Developer, Waterloo Data Science Club, May 2026 - present."
+   }
+  ],
+  "school_program": "Bachelor of Mathematics, Data Science (Co-op), University of Waterloo",
+  "grad_year": "2028",
+  "current_role": "Software Engineer at KORE Solutions (per LinkedIn headline); Hack Western 13 participant",
+  "past_roles": [
+   "Data Science Intern, Scotiabank (Jan-Apr 2026): pricing and product recommendation models",
+   "ML Engineer, AgSights, Elora ON (from Nov 2025): voice-driven farm record entry, speech-to-text into Microsoft Dynamics",
+   "Accounting Associate, Stratos Solutions (with Anderson Global), May-Aug 2025: tax and invoice overpayment recovery analysis"
+  ],
+  "projects": [
+   {
+    "name": "LinkedIt",
+    "summary": "Web app that automates LinkedIn job searches with Selenium; won Best Beginner Hack at GeeseHacks.",
+    "url": "https://devpost.com/software/linkedit"
+   },
+   {
+    "name": "AgeWell",
+    "summary": "Caregiver-patient platform for Alzheimer's: YOLOv8 + MediaPipe fall detection, OCR on medication labels, GPS tracking and Twilio SMS alerts (TerraHacks 2025).",
+    "url": "https://devpost.com/software/elderlyassist"
+   },
+   {
+    "name": "Customer churn / IMDB sentiment / stock dashboard",
+    "summary": "ML portfolio projects: Random Forest churn (78.5%), TF-IDF sentiment (88.7%), Streamlit stock dashboard.",
+    "url": "https://www.matthew-mo.com/"
+   },
+   {
+    "name": "rag-financial-qa / finbert-sentiment",
+    "summary": "Recent GitHub repos on financial RAG Q&A and FinBERT sentiment.",
+    "url": "https://github.com/MatthewMo520"
+   },
+   {
+    "name": "Stockfilter",
+    "summary": "Repo from Jul 2026, no description.",
+    "url": "https://github.com/MatthewMo520/Stockfilter"
+   },
+   {
+    "name": "Budgeting and finance app",
+    "summary": "Centralized transaction dashboard (in development per his README).",
+    "url": "https://github.com/MatthewMo520/budgeting-and-finance-app"
+   },
+   {
+    "name": "AI-Powered Email Outreach",
+    "summary": "Repo from Jul 2026.",
+    "url": "https://github.com/MatthewMo520/AI-POWERED-EMAIL-OUTREACH"
+   }
+  ],
+  "hackathon_wins": [
+   "GeeseHacks 2025 (Jan 25-26, 2025): Best Beginner Hack (LinkedIt)"
+  ],
+  "awards": [
+   "AmplifyME Finance Accelerator certificate (Mar 2025)"
+  ],
+  "clubs_leadership": [
+   "Developer, UWaterloo Data Science Club (May 2026 - present)",
+   "Machine Learning Engineer, Wat Street (May 2026 - present)",
+   "Sponsorship team, SummerHacks (May 2026 - present)"
+  ],
+  "skills_interests": [
+   "Python, SQL, R, SAS",
+   "PyTorch, scikit-learn, XGBoost, PySpark",
+   "React, FastAPI, Flask, Node.js",
+   "Computer vision (YOLOv8, MediaPipe)",
+   "Quant / fintech NLP"
+  ],
+  "talking_points": [
+   "He did a data science internship at Scotiabank on pricing and product recommendation models: ask what made a recommendation model useful to the business.",
+   "At AgSights he built voice-driven farm record entry that feeds speech-to-text into Microsoft Dynamics: ask how it copes with barn noise.",
+   "LinkedIt, his Selenium job-search bot, won Best Beginner Hack at GeeseHacks 2025: ask whether he still uses it.",
+   "He's on Waterloo's Data Science Club, Wat Street's ML team and SummerHacks sponsorship: ask what Wat Street is building."
+  ],
+  "sources": [
+   "https://www.matthew-mo.com/",
+   "https://www.matthew-mo.com/Resume_Matthew_Mo.pdf",
+   "https://github.com/MatthewMo520",
+   "https://devpost.com/mzmo",
+   "https://devpost.com/software/linkedit",
+   "https://devpost.com/software/elderlyassist",
+   "https://www.uwdatascience.ca/team",
+   "LinkedIn search snippet (ca.linkedin.com/in/matthew-mo520)",
+   "https://github.com/MatthewMo520?tab=repositories",
+   "https://www.linkedin.com/in/matthew-mo520",
+   "https://geesehacks.devpost.com/"
+  ],
+  "confidence_notes": "Strong identity: the personal site links the input LinkedIn slug, and the resume on that site lists GitHub MatthewMo520 and the projects found on Devpost mzmo. Contact details on the resume (phone, email) are left out on purpose. The personal site HTML also links github.com/matthewmo2, which returns 404, so it was ignored. His KORE Solutions role is only in the LinkedIn headline; no title or dates found. The GeeseHacks year comes from his site ('GeeseHacks 2024'). Pass 2: matthew-mo.com is JS-rendered; nothing new beyond repos. | pass3 conflict: hackathon_wins: GeeseHacks year set to 2025 over his site's '2024' because the GeeseHacks Devpost page dates the event Jan 25-26, 2025 and his LinkedIn post about the win is dated Jan 28, 2025. Scotiabank winter 2026 internship confirmed by his Dec 2025 LinkedIn post.",
+  "status": "done",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "GeeseHacks year corrected to 2025",
+   "Scotiabank internship confirmed",
+   "Talking points"
+  ],
+  "merged_from": [
+   "deep2"
+  ]
+ }
+]

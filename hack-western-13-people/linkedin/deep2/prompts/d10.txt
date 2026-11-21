@@ -1,0 +1,5 @@
+Read the brief first: /Users/prag/Documents/PragPersonal/Projects/at-Western/outputs/hack-western-13-slack/linkedin/deep2/BRIEF.md (follow it exactly, including the hard rules).
+
+Your task: profile deepening for linkedin/deep2/input-10.json (about 29 people whose profiles are already fairly full; focus on what is missing or stale: grad year, recent roles and internships, Devpost prizes, awards, publications, news, and sharper talking points). Write linkedin/deep2/results-10.json. Scratch: linkedin/deep2/work-10/.
+
+You are running headless in Claude Code with cwd set to the work dir. Use Bash (curl, gh api, python3), WebSearch and WebFetch. Work through every person; don't stop to ask questions. Save progress to your output file as you go.
