@@ -1,0 +1,12 @@
+
+# Local tools (never pushed)
+local/
+__pycache__/
+people.db-wal
+people.db-shm
+
+# Flue (flue/)
+node_modules/
+.env
+flue/dist/
+flue/.data/
