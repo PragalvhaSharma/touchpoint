@@ -1,0 +1,80 @@
+{
+ "url": "https://www.linkedin.com/in/eric-o-neil-b868a0324",
+ "about": "I'm a computer science student at Western University with a passion for using software to…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Locado",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": "Deans list 2024-2025, 2025-2026"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "IBM Z Xplore - All Star",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "IBM Z Xplore - Advanced",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "IBM Z Xplore - Fundamentals and Concepts",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-03-24",
+   "text": "Such a fun project, always great to both explore how to problem solve with technology (specifically AI/ML), and analyze real businesses to understand how and where to effectively deploy with the best cost effective analysis. Looking forward to continuing to build this project out further on the LinuxONE community cloud.",
+   "url": "https://www.linkedin.com/posts/eric-o-neil-b868a0324_such-a-fun-project-always-great-to-both-activity-7442288275391725571-L7s9",
+   "likes": 26
+  },
+  {
+   "date": "2025-08-28",
+   "text": "The past four months at Sun Life have been an incredible introduction into the world of software development and mainframe modernization. Stepping into a community that truly values fresh perspectives gave me the space to build, learn, and experiment. At Sun Life, continuous improvement isn't simply a phrase, it's a mindset One experience that stood to me was participating (and winning) the 2025 summer CI challenge, designing an AI RAG powered automation assistant to dramatically support underwr",
+   "url": "https://www.linkedin.com/posts/eric-o-neil-b868a0324_the-past-four-months-at-sun-life-have-been-activity-7366869795780161536-QYo5",
+   "likes": 85
+  },
+  {
+   "date": "2025-03-04",
+   "text": "I'm happy to announce I will be joining Sun Life this summer as a Mainframe Database Administrator Intern! I'm looking forward to: 1. Being able to apply and grow my mainframe skills in a real enterprise environment. 2. Joining an incredibly positive and strong community to contribute to Sun Life's clients and communities. Anyone interning at Sun Life don't hesitate to reach out! #SunLifeCampus #Summer2025",
+   "url": "https://www.linkedin.com/posts/eric-o-neil-b868a0324_sunlifecampus-summer2025-activity-7302711948641505282-NC_e",
+   "likes": 82
+  },
+  {
+   "date": "2025-01-27",
+   "text": "This past week I had the opportunity to tour the IBM Canada head office in Markham. It was eye opening to see the actual intricacies of the hardware everyone in North America interacts with on a daily basis. I was also able to introduce my current SIP project, which uses IBM Z mainframe hardware to run AI accelerated credit card fraud detection. Leveraging the on-chip AI acceleration of the z16 has become a must for big banks, governments, and all other mainframe powered industries, so building",
+   "url": "https://www.linkedin.com/posts/eric-o-neil-b868a0324_this-past-week-i-had-the-opportunity-to-tour-activity-7289490899410030592-Os3W",
+   "likes": 65
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Eric O'Neil - Locado | LinkedIn",
+ "name": "Eric O'Neil"
+}

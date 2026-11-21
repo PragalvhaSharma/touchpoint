@@ -1,0 +1,136 @@
+{
+ "url": "https://www.linkedin.com/in/chloe-chan-339819290",
+ "about": "I'm a Computer Science student at the University of Waterloo who likes building things…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Hack the 6ix",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "85%",
+   "dates": "2025 - 2030",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "President's Scholarship of Distinction",
+   "org": "",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Received the President's Scholarship of Distinction for an admission average of over 95%."
+  },
+  {
+   "title": "Specialist High Skills Major",
+   "org": "",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Completed the Health and Wellness Specialist High Skills Major (SHSM) program in grades 11 and 12."
+  },
+  {
+   "title": "Highest Score in Euclid Mathematics Competition",
+   "org": "",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": "Received the highest score (school-wide) for the 2025 Euclid mathematics competition."
+  },
+  {
+   "title": "University of Toronto National Book Award",
+   "org": "",
+   "dates": "Oct 2024",
+   "meta": [],
+   "description": "Received a nomination for the University of Toronto National Book Award. The National Scholarship program awards students with creativity, originality, and dedication to a variety of interests."
+  },
+  {
+   "title": "Honour Roll",
+   "org": "",
+   "dates": "Jun 2024",
+   "meta": [],
+   "description": "I received an average mark of above 80% in grades 9, 10, 11, and 12."
+  },
+  {
+   "title": "Canadian Senior Mathematics Contest",
+   "org": "",
+   "dates": "Nov 2023",
+   "meta": [],
+   "description": "Received a Certificate of Distinction for placing top 25% in the 2023 Canadian Senior Mathematics Contest (CSMC)."
+  },
+  {
+   "title": "Student Achievement Awards Art Contest",
+   "org": "",
+   "dates": "Nov 2022",
+   "meta": [],
+   "description": "Placed second in my category for a digital artwork created for the “Our Moment in Time” Ontario Secondary School Teachers' Federation (OSSTF) Student Achievement Awards art contest."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Elementary School Teacher's Assistant",
+   "org": "Laure-Riese Elementary School",
+   "dates": "Aug 2022 - Aug 2024 2 years 1 month",
+   "meta": [],
+   "description": "Assisted an elementary school teacher with setting up the classroom for the new school year. I organized classroom materials, created posters to promote learning, decorated bulletin boards, and arranged worksheets into duotangs."
+  },
+  {
+   "title": "Peer Tutor",
+   "org": "Richmond Green Peer Tutoring Program",
+   "dates": "Sep 2022 - Jun 2024 1 year 10 months",
+   "meta": [],
+   "description": "At the start of each semester, I was paired with a younger student to help them with a course I had already completed. Some ways I assisted them was explaining new concepts, walking them through questions, correcting their homework solutions, and answering their questions."
+  },
+  {
+   "title": "Greeting-Card Writing",
+   "org": "Sending Sunshine",
+   "dates": "Sep 2023 - Dec 2023 4 months",
+   "meta": [],
+   "description": "Wrote greeting-cards for the elderly."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "SnuffleStudy",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "Privacy-first Chrome extension with real-time study rooms (LiveKit video/audio) and recorded nudges for peer accountability. Delivered friend notifications across 6 real-time event streams with zero background sync outside opted-in sessions. Secured a friend-approved restriction system with salted-hash, rate-limited passcodes, validated by 35/35 automated authorization tests, including a live bypa"
+  },
+  {
+   "title": "Design Portfolio",
+   "org": "May 2026 - Present",
+   "dates": "May 2026 - Present",
+   "meta": [],
+   "description": "chloechan.ca Hand-illustrated every asset in Procreate, built the design system in Figma, and converted it into a responsive live site showcasing all my projects."
+  },
+  {
+   "title": "Reverielle",
+   "org": "May 2026 - Present",
+   "dates": "May 2026 - Present",
+   "meta": [],
+   "description": "Co-developed an AI mobile app whose agentic outfit planner uses live weather, calendar context, and wardrobe data via Claude tool use. Co-built a face-structure-aware makeup tutorial engine tested across 5+ face shapes, addressing underrepresented East Asian facial features in mainstream AI beauty apps."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": ", ,",
+ "location": "Canada",
+ "languages": [
+  "French"
+ ],
+ "page_title": "Chloe Chan - Hack the 6ix | LinkedIn",
+ "name": "Chloe Chan"
+}

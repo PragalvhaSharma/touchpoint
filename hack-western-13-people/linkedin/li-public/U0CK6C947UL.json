@@ -1,0 +1,94 @@
+{
+ "url": "https://www.linkedin.com/in/ericyuchensong",
+ "about": "I like making computers do things people shouldn't have to. I'm a Mathematics and…",
+ "experience": [],
+ "education": [
+  {
+   "title": "University of Toronto",
+   "org": "",
+   "dates": "2025 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Mathematics Tutor",
+   "org": "Khan Academy",
+   "dates": "Jan 2026 - Jun 2026 6 months",
+   "meta": [],
+   "description": "Tutor students in mathematics through the UofT × Khan Academy partnership, focusing on structured problem-solving, confidence-building, and foundational math skills."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Automation Supervisor — Monitoring & Recovery",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "Built a Python/Textual terminal supervisor on Windows 11 (ConPTY process hosting) that manages three live marketplace automation bots plus over 26+ scheduled daily jobs from one window, using a priority- and capacity-aware queue that prevents duplicate launches and incompatible run modes. Isolated per-project failures and separated transient failures (bounded retry/cooldown) from repair-required f"
+  },
+  {
+   "title": "Runway — YouTube Editorial Workspace",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "Built an editorial workspace that discovers images, generates captions, records creator feedback, and organizes accepted YouTube Community posts. Developed a channel-specific recommendation pipeline using image analysis, caption retrieval, and 771 historical posts from an established content channel."
+  },
+  {
+   "title": "CS2 Marketplace Automation System",
+   "org": "Jan 2026 - Present",
+   "dates": "Jan 2026 - Present",
+   "meta": [],
+   "description": "Built automated tools and strategies for monitoring prices, purchasing items, managing buy orders, and relisting inventory across multiple CS2 marketplaces. Integrated marketplace APIs and browser workflows with exact item, sticker, float-value, paint-pattern, id and pricing validation. Generated US$4000+ in realized profit while keeping routine maintenance below one hour per week. https://github."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-29",
+   "text": "Super fun event, met a lot of super cool people. Excited for the next one!",
+   "url": "https://www.linkedin.com/posts/ericyuchensong_super-fun-event-met-a-lot-of-super-cool-activity-7521374622362017794-NPRP",
+   "likes": 2
+  },
+  {
+   "date": "2026-10-19",
+   "text": "Just wrapped up an incredible Y Combinator event at UofT Had an amazing time hearing from founders and builders about their experiences starting and scaling companies. Huge thank you to YC and our speakers for sharing their insights: Christopher Golda Boris Jabes @Jay V (Opencode) Also, a big thank you to everyone who helped organize the event! One of the highlights was meeting so many ambitious founders, students, and fellow content creators. Loved the conversations and excited to keep building",
+   "url": "https://www.linkedin.com/posts/ericyuchensong_ycombinator-uoft-startups-activity-7518008664801247235-KHal",
+   "likes": 7
+  },
+  {
+   "date": "2026-09-18",
+   "text": "ChatGPT launched almost 𝟒 𝘆𝗲𝗮𝗿𝘀 𝗮𝗴𝗼. I remember using it in high school to make little Python projects. Just recently, an OpenAI model produced a solution to the Navier-Stokes problem, one of the famous Millennium Prize Problems left unsolved for roughly 90 years. Now I can't imagine what AI will be capable of 4 years from now.",
+   "url": "https://www.linkedin.com/posts/ericyuchensong_chatgpt-launched-almost-%F0%9D%9F%92-%F0%9D%98%86%F0%9D%97%B2%F0%9D%97%AE%F0%9D%97%BF%F0%9D%98%80-%F0%9D%97%AE%F0%9D%97%B4%F0%9D%97%BC-activity-7506808041615454208-aX_L",
+   "likes": 8
+  },
+  {
+   "date": "2026-09-16",
+   "text": "Amazon is giving students free AI👀 If you're a university student in Canada, check this before paying for another coding AI tool. Kiro, Amazon's AI-powered IDE, is offering eligible students 1 year of free access. That includes: • 1,000 credits every month • Kiro's AI coding tools • No credit card required The Canadian universities currently listed include: University of Toronto University of Waterloo University of British Columbia Queen's University And more! I've been using Kiro for my own pro",
+   "url": "https://www.linkedin.com/posts/ericyuchensong_amazon-is-giving-students-free-ai-if-youre-activity-7506079777426939906-_UN1",
+   "likes": 58
+  },
+  {
+   "date": "2026-08-19",
+   "text": "What makes a project stand out? One metric I like to look at is revenue. Here’s one of mine. I’ve been trading Counter-Strike skins for about 2 years, so I wanted to build something that could help me do it better. About 6 months ago, I launched a small bot that searched the market and notified me when it found an opportunity. At the time, it tracked around 8 categories. It worked, but there was still too much manual work involved. I was missing opportunities and couldn’t scale it the way I want",
+   "url": "https://www.linkedin.com/posts/ericyuchensong_what-makes-a-project-stand-out-one-metric-activity-7495932621638578176-cHZT",
+   "likes": 14
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [
+  "English",
+  "Chinese"
+ ],
+ "page_title": "Eric Song - Toronto, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "ericsuper8890"
+}

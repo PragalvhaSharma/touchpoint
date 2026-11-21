@@ -1,0 +1,158 @@
+{
+ "url": "https://ca.linkedin.com/in/vaishaknair",
+ "about": "I am a technology leader specializing in Infrastructure Automation, Site Reliability…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Canada Life",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Anna University Chennai",
+   "org": "",
+   "dates": "2003 - 2007",
+   "meta": [],
+   "description": "Bachelors Degree in Information Technology"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dell EMC Elect 2017",
+   "org": "DellEMC",
+   "dates": "May 2017",
+   "meta": [],
+   "description": "Dell EMC Elect is an annual recognition for people who have given back to the community of Dell EMC users by sharing their technical expertise and evangelising to others about Dell EMC solutions and services."
+  },
+  {
+   "title": "Eminence and Excellence Award",
+   "org": "IBM India Pvt Ltd",
+   "dates": "Nov 2012",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Statistics for Data Science",
+   "org": "University of Waterloo",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Foundations of Data Science",
+   "org": "University of Waterloo",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Specialist - Systems Administrator, Elastic Cloud Storage (ECS) Version 1.0",
+   "org": "Dell Technologies",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Specialist - Implementation Engineer, PowerMax and VMAX Family Solutions Version 1.0",
+   "org": "Dell Technologies",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Information Storage Associate Version 3 (EMCISA)",
+   "org": "Dell EMC",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "ITIL V3 Foundations",
+   "org": "Examination Institute for Information Science",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AWS Certified SysOps Administrator – Associate",
+   "org": "Amazon Web Services (AWS)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Splunk Core Certified Power User",
+   "org": "Splunk",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AWS Certified Solutions Architect – Associate",
+   "org": "Amazon Web Services (AWS)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AWS Certified Cloud Practitioner",
+   "org": "Amazon Web Services",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-11-21",
+   "text": "What a great session at HackWestern today! I had the privilege of moderating a panel of women leaders from Canada Life: Amber Bird, Julie Fraser and Susan Binning . They shared their career journeys, the lessons they learned along the way, and honest advice for students starting out in tech. #HackWestern #WomenInTech #CanadaLife #TechCareers #Leadership",
+   "url": "https://www.linkedin.com/posts/vaishaknair_hackwestern-womenintech-canadalife-activity-7529984131787702273-wH45",
+   "likes": 2
+  },
+  {
+   "date": "2026-11-19",
+   "text": "Well deserved !!",
+   "url": "https://www.linkedin.com/posts/vaishaknair_well-deserved-activity-7529232756615340033-5MxZ",
+   "likes": null
+  },
+  {
+   "date": "2026-11-09",
+   "text": "Grateful for the opportunity to share my perspective on AI and automation at the Agentic Automation in Finance Summit. It was energizing to be on stage with such sharp leaders from across Canada's financial sector. The conversation kept coming back to the questions that matter in production: 🔹 Reliability first: agents need SLIs, guardrails and clear failure modes, just like any other critical system. 🔹 Governance by design: in regulated industries, trust and auditability aren't optional. 🔹 Meas",
+   "url": "https://www.linkedin.com/posts/vaishaknair_agenticai-automation-financialservices-activity-7525560245041987585-IS3J",
+   "likes": 83
+  },
+  {
+   "date": "2026-09-18",
+   "text": "Just wrapped an incredible few days at Splunk .conf26 in Denver. Thank you to everyone who showed up, asked sharp questions, and stuck around after to talk shop, that's the best part of these events. A deliberate choice on our part: this wasn't an AI session. It was about the unglamorous, load-bearing work of automation and observability that makes everything else possible. And that made the keynote messaging land even harder for me: → \"The agentic era is here\" → \"Agents are going to be running",
+   "url": "https://www.linkedin.com/posts/vaishaknair_splunkconf26-sre-ansible-activity-7506732647751168000-ysYI",
+   "likes": 105
+  },
+  {
+   "date": "2026-09-10",
+   "text": "I’m looking forward to heading to Denver for .conf26 and speaking with Ankit Arya, Product Owner / Platform Specialist for Splunk at Canada Life Our session, OBS1389 : The Closed-Loop Blueprint: How Canada Life Automates Remediation with Splunk ITSI, ServiceNow, and Event-Driven Ansible - is happening September 16, 2026 at 3:00 PM MDT. Observability creates enormous value when it does more than surface alerts. The real opportunity is connecting the right operational signals to context, workflow,",
+   "url": "https://www.linkedin.com/posts/vaishaknair_conf26-splunk-observability-activity-7503619865803411456-RO1e",
+   "likes": 76
+  },
+  {
+   "date": "2026-05-20",
+   "text": "Successfully completed the AI Automation Certification - an intensive 5-week advanced program focused on leveraging AI to drive productivity and scale impact. As AI continues to reshape the landscape of Infrastructure, SRE, and Automation, I’m looking forward to applying these learnings to drive smarter, more scalable, and more efficient operations. A big thank you to the instructors and peers who made this learning experience impactful! #AI #Automation #AIOps #SRE #NoCode #DigitalTransformation",
+   "url": "https://www.linkedin.com/posts/vaishaknair_ai-automation-vaishak-nair-applied-business-activity-7462857399251419136-YA98",
+   "likes": 37
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Vaishak Nair - Canada Life | LinkedIn",
+ "name": "Vaishak Nair"
+}

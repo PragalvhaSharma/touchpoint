@@ -1,0 +1,88 @@
+{
+ "url": "https://sg.linkedin.com/in/amelia-lon-42a649242",
+ "about": "Hi there! I'm Amelia, a Penultimate student studying Data Science and Analytics at NUS. I…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Mavennet",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "National University of Singapore",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "Courses: Math, Statistics, CS Clubs & Societies: - Math & Statistics Orientation 2025 Organising Committee Member - NUS Greyhats Logistics Committee Member"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Ruckus",
+   "org": "Sep 2026 - Present",
+   "dates": "Sep 2026 - Present",
+   "meta": [],
+   "description": "Discover things, save them before they get lost, and turn them into plans you’ll actually make with your friends. Here is where your Ruckus becomes a plan. Ruckus was submitted for Revenuecat Shipaton and will be launched on App Store soon!"
+  },
+  {
+   "title": "Snitch",
+   "org": "Sep 2026 - Sep 2026",
+   "dates": "Sep 2026 - Sep 2026",
+   "meta": [],
+   "description": "Snitch helps recruiters spot suspicious moments in remote interviews by combining behavioral signals, AI-language detection, CV checks, and visual canaries. Snitch was presented for Hack the North, Waterloo and won a 2nd prize under the GPTZero Track. Learn more about Snitch here: https://devpost.com/software/snitch-ldyzh9"
+  },
+  {
+   "title": "LLM ReviewGuard: Review Moderator",
+   "org": "Aug 2025 - Aug 2025",
+   "dates": "Aug 2025 - Aug 2025",
+   "meta": [],
+   "description": "Built for TikTok TechJam 2025 LLM ReviewGuard is an automated moderation framework for Google location reviews. Each review is checked against four policy categories (advertisement, irrelevant, false, and vulgar language), scored for relevance and quality, and returned with a short written justification for the decision. Most moderation systems flag content without explaining the reasoning, leavin"
+  },
+  {
+   "title": "Traffic Light Images ML Classification Project using CNNs",
+   "org": "Mar 2025 - Apr 2025",
+   "dates": "Mar 2025 - Apr 2025",
+   "meta": [],
+   "description": "- This project leverages deep learning techniques to classify traffic signs from images. Our team utilized Convolutional Neural Networks (CNN), along with advanced architectures like VGG16 and ResNet, to accurately recognize and categorize various traffic signs. - The project involved data preprocessing, model training, and performance evaluation to ensure high accuracy in the classification proce"
+  },
+  {
+   "title": "NUS Datathon 2025",
+   "org": "Feb 2025 - Feb 2025",
+   "dates": "Feb 2025 - Feb 2025",
+   "meta": [],
+   "description": "- Engaged in a 6-day intensive datathon focused on building a machine learning model to classify companies into Domestic and Global categories based on operational, financial, and structural characteristics. - Utilized advanced data-cleaning, visualization, and analytical techniques to preprocess the dataset and uncover key insights. - Developed and trained a high-performing random forest model, a"
+  },
+  {
+   "title": "KAIST Individual Research Project",
+   "org": "Jul 2024 - Aug 2024",
+   "dates": "Jul 2024 - Aug 2024",
+   "meta": [],
+   "description": "- Conducted research on generative models (DCGANs, VAEs) using PyTorch and HuggingFace datasets under the Neuro-Machine Augmented Intelligence Lab. - Implemented and trained deep learning architectures to synthesize realistic data from custom datasets, and authored a technical report detailing model design, training procedures, and evaluation metrics for generative data synthesis."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-09-21",
+   "text": "WE TOOK 2ND PLACE IN THE GPTZERO TRACK AT Hack the North 2026!!! 🥹🏆❤️‍🔥 We built Snitch, a tool for spotting the use of real time AI copilots during remote interviews! We started with something we’d been seeing more and more: AI interview assistants that can listen to the interviewer and generate answers for the candidate in real time. Instead of trying to build another black box “cheating detector”, we wanted to give recruiters specific moments they could actually go back and review. Snitch run",
+   "url": "https://www.linkedin.com/posts/amelia-lon-42a649242_hackthenorth-hackthenorth2026-hackathon-activity-7507925858934968320-iNZp",
+   "likes": 69
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Singapore",
+ "languages": [],
+ "page_title": "Amelia Lon - Mavennet | LinkedIn",
+ "name": "Amelia Lon"
+}

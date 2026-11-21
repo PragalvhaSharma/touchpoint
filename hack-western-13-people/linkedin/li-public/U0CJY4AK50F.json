@@ -1,0 +1,58 @@
+{
+ "url": "https://ca.linkedin.com/in/stephenmkshin",
+ "about": "Hi! I'm Stephen, a 3rd year HBA and computer science student at Ivey Business School and…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Accenture",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Ivey Business School at Western University",
+   "org": "",
+   "dates": "2024 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Vice President of Development",
+   "org": "Western AI",
+   "dates": "Sep 2022 - Dec 2026 4 years 4 months",
+   "meta": [],
+   "description": "2023-2024 - Director of Development 2022-2023 - Project Developer"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Claude Certified Associate - Foundations",
+   "org": "Anthropic",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-11-13",
+   "text": "Can a hitter tell what pitch is coming from where it leaves the pitcher’s hand? I've always loved baseball and a hot topic recently is pitch tunneling, or how pitchers make different pitches look the same before they break apart. I wanted to know whether release point plays a role, so I analyzed three seasons of MLB pitching data in Python to see what I could find.",
+   "url": "https://www.linkedin.com/posts/stephenmkshin_seeing-is-believing-but-pitchers-lie-activity-7526811948185804801-wntV",
+   "likes": 35
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Stephen Shin - Accenture | LinkedIn",
+ "name": "Stephen S"
+}

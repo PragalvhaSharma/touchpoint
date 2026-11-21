@@ -1,0 +1,61 @@
+{
+ "url": "https://ca.linkedin.com/in/anaybaid",
+ "about": "",
+ "experience": [],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "StarRez Workflow Automation - Browser-Native RPA",
+   "org": "Jan 2026 - Mar 2026",
+   "dates": "Jan 2026 - Mar 2026",
+   "meta": [],
+   "description": "Built a Chrome Manifest V3 automation layer for StarRez Front Desk workflows, implementing attended RPA/RDA directly against the browser DOM • Developed JavaScript content-script automation for a dynamic SPA using DOM extraction, MutationObserver lifecycle detection, state management, workflow handlers, and deterministic output formatting • Implemented reusable DOM adapters/extractors to isolate S"
+  },
+  {
+   "title": "CS 241 - C++ Type Compiler (WLP4)",
+   "org": "Jul 2024 - Jul 2024",
+   "dates": "Jul 2024 - Jul 2024",
+   "meta": [],
+   "description": "C++, MIPS Assembly Developed a C++ and MIPS Assembly-based compiler for a statically typed, C-style language, incorporating a custom lexer for tokenization and an LR(1) parser for efficient syntax analysis."
+  },
+  {
+   "title": "TechStackify - MERN-GraphQL Solution",
+   "org": "Apr 2024 - Apr 2024",
+   "dates": "Apr 2024 - Apr 2024",
+   "meta": [],
+   "description": "Managed user-interactions with Apollo Client & Context API"
+  },
+  {
+   "title": "GitHub Build Trigger - CI/CD Automation",
+   "org": "Mar 2023 - Mar 2023",
+   "dates": "Mar 2023 - Mar 2023",
+   "meta": [],
+   "description": "A Flask/Python automation service that triggers GitHub repository builds programmatically through the GitHub REST API (https://devpost.com/software/github-build-trigger-application) • Integrated GitHub POST /repos/{owner}/{repo}/dispatches with custom client_payload parameters to trigger repository workflows on demand • Implemented input/environment validation, structured Python logging, exception"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2024-09-12",
+   "text": "I'm happy to share that I've started a new position this September at The Nationwide Group as part of the Information Technology team, at their Markham office. At Nationwide, I'll be engaging in a variety of technical responsibilities, including managing cloud services with AWS S3 & Azure, overseeing device management through Intune MDM, and optimizing IT infrastructure. My work would involve enhancing LAN/Wi-Fi connectivity, configuring network environments using Docker & VMWare, and leveraging",
+   "url": "https://www.linkedin.com/posts/anaybaid_itanalyst-cloudmanagement-networkoptimization-activity-7240100545384837121-V-D4",
+   "likes": 187
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Anay Baid - Greater Toronto Area, Canada | Professional Profile | LinkedIn",
+ "name": "Anay Baid"
+}

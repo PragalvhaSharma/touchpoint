@@ -1,0 +1,48 @@
+{
+ "url": "https://ca.linkedin.com/in/anton-kuzmichev",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "BLCK Optimization Inc.",
+   "dates": "",
+   "meta": [
+    "Calgary, Alberta, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "University of Waterloo Richard & Elizabeth Madter Entrance Scholarship (3.5K) University of Waterloo Presidential Scholarship (2K)"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-07-10",
+   "text": "I just spent a week in Calgary with the BLCK Optimization team writing cool oil software. We're building the decision brain for blending, it pulls live data off a facility and works out in real time how to blend the streams to hit spec while capturing the most value. The catch is you can't just trust the data, sensors drift out of calibration and hand you a number that looks perfectly fine, right up until it's quietly costing real value. So the whole thing is built on multiple layers of validati",
+   "url": "https://www.linkedin.com/posts/anton-kuzmichev_i-just-spent-a-week-in-calgary-with-the-blck-activity-7481413759404519424-5CNU",
+   "likes": 105
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Richmond Hill, Ontario, Canada",
+ "languages": [
+  "English",
+  "Russian"
+ ],
+ "page_title": "Anton Kuzmichev - BLCK Optimization Inc. | LinkedIn",
+ "name": "Anton Kuzmichev"
+}

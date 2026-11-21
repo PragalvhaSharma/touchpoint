@@ -1,0 +1,145 @@
+{
+ "url": "https://www.linkedin.com/in/millerdowney",
+ "about": "I build software, host hackathons, and run a Red Bull sponsored ski rail jam out of my…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Mave",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Digital Citizenship Graduation Award & Scholarship",
+   "org": "STEM Fellowship",
+   "dates": "Jun 2023",
+   "meta": [],
+   "description": "\"The STEM Fellowship’s Digital Citizenship Graduation Award recognizes students that have demonstrated responsibility, innovation, and creativity in the digital world throughout their high school years. These students go beyond academics as they succeed at learning about 21st-century tools through their classes or by themselves. Their projects or contributions demonstrate leadership in their schoo"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Guinness Academy",
+   "org": "Guinness Storehouse",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Wood & Metal Shop Safety - Level 2",
+   "org": "Western University",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "CSIA - Ski Instructor - L2",
+   "org": "Canadian Ski Instructors'​ Alliance / Alliance des moniteurs de ski du Canada",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "HIGH FIVE - Principles of Healthy Child Development - C",
+   "org": "HIGH FIVE Canada",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Respect in Sport - Activity Leader Certificate",
+   "org": "Hockey Opportunity Camp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Emergency First Aid",
+   "org": "Canadian Red Cross",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "2holl.is",
+   "org": "Sep 2025 - Present",
+   "dates": "Sep 2025 - Present",
+   "meta": [],
+   "description": "Built a scroll-driven cinematic 3D intro with custom GLSL shaders, a lightspeed highway renderer, Draco-compressed 3D models, and particle systems entirely in vanilla TypeScript with no framework. Developed an interactive cylinder timeline displaying 605+ items with momentum scrolling, fuzzy search, and community submissions backed by Supabase real-time sync. Implemented a full audio engine with W"
+  },
+  {
+   "title": "TrickyClip",
+   "org": "Jan 2025 - Present",
+   "dates": "Jan 2025 - Present",
+   "meta": [],
+   "description": "Built a 2-stage ML detection pipeline combining OpenCV motion tracking (ORB keypoints + homography) with TFLite inference to automatically identify trick segments in raw ski/snowboard footage. Deployed a full-stack application on Google Cloud with Cloudflare Tunnel, multi-worker Redis job queues, Google Drive API integration, and LRU disk management. Tech: React, FastAPI, PostgreSQL, Redis, Tensor"
+  },
+  {
+   "title": "Tact-Aid — The Blind Rock Climbing Solution",
+   "org": "Sep 2023 - Feb 2024",
+   "dates": "Sep 2023 - Feb 2024",
+   "meta": [],
+   "description": "Won 1st place and the People's Choice Design Award competing against 120 teams and 700+ participants. Created a tactile 3D-printed plaque system to empower visually impaired climbers to climb independently at $1.73/unit. Tech: Blender, Onshape, Photoshop"
+  },
+  {
+   "title": "OSU remake in Java",
+   "org": "Sep 2022 - Feb 2023",
+   "dates": "Sep 2022 - Feb 2023",
+   "meta": [],
+   "description": "Java recreation of popular game OSU. All sprites were made by me in Photoshop. Java's object-oriented programming style was perfect for creating abstract hitboxes and objects. I also implemented randomized standard deviation with a 3D heatmap concentration on the centre of the screen. To make the game easy to learn but interesting when the circles (occasionally) spawn far away from the middle. All"
+  },
+  {
+   "title": "Geometry Dash remake, fully in Java",
+   "org": "Feb 2022 - Jun 2022",
+   "dates": "Feb 2022 - Jun 2022",
+   "meta": [],
+   "description": "I recreated the hit game Geometry Dash from scratch, with no external libraries. This took over 500 hours and I remade every sprite in photoshop alongside a custom made physics collision detection system."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://mllr.ca",
+  "https://mllr.ca/"
+ ],
+ "posts": [
+  {
+   "date": "2026-05-26",
+   "text": "Very fortunate to have worked alongside a wonderful team at [case]Hacks this past weekend. The combination of a technical solution in a case format made it one of the most unique hackathons I had ever been to. Thank you to all of the event organizers, Scotiabank(Olivia Ngo & Jennifer (Yifei) Jia), my teammates (Omar Elfekky, Jack Hyland-Dunphy, Grant Patel), and the many guest speakers who took time out of their weekend to come talk/present their ideas & insights. I'm really looking forward to t",
+   "url": "https://www.linkedin.com/posts/millerdowney_very-fortunate-to-have-worked-alongside-a-activity-7465065774156726274-yWGl",
+   "likes": 30
+  },
+  {
+   "date": "2026-01-21",
+   "text": "Sharing some great news at Mave! Over the past nine months, I’ve had the opportunity to be part of some incredible momentum, and I’m excited for what we’ll accomplish next. https://lnkd.in/excfwjPw",
+   "url": "https://www.linkedin.com/posts/millerdowney_following-rapid-growth-mave-raises-5m-to-activity-7419576727296958464-Dh1e",
+   "likes": 23
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [
+  "English",
+  "French",
+  "Chinese"
+ ],
+ "page_title": "Miller Downey - Toronto, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Miller Downey"
+}

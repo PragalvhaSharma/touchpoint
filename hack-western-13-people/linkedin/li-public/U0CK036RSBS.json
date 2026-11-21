@@ -1,0 +1,193 @@
+{
+ "url": "https://linkedin.com/in/kevin-hill-9291693b0",
+ "about": "Hi, i enjoy working on motion detection, ML, and most importantly love solving problems…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western Computer Science Undergraduate Society",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2026 - 2030",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Second at Hack the Valley Hackdays",
+   "org": "Hack the Valley Hackdays",
+   "dates": "Jul 2026",
+   "meta": [],
+   "description": "Created RivalRuns, a 2 player game inspired by Subway Surfers. The objective is to run as far as possible before your rival catches you!"
+  },
+  {
+   "title": "Nominee of The Mikalachki Scholarship",
+   "org": "",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Nominated for the The Mikalachki Scholarship which will be awarded in June 2026."
+  },
+  {
+   "title": "Western Scholarship of Excellence",
+   "org": "Western University",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Nominated for the Western Scholarship of Excellence, an $8000 scholarship awarded to the top 250 incoming students."
+  },
+  {
+   "title": "Grade 11 Accounting Award",
+   "org": "",
+   "dates": "Oct 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Honour Roll",
+   "org": "",
+   "dates": "Jul 2025",
+   "meta": [],
+   "description": "Made the honour roll grades 9 to 11."
+  },
+  {
+   "title": "Grade 9 Science Award",
+   "org": "",
+   "dates": "Oct 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Grade 8 Math Award",
+   "org": "Riverside Public School",
+   "dates": "Jun 2022",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Teaching Assistant",
+   "org": "Riverside Elementary School",
+   "dates": "Sep 2024 - Jun 2025 10 months",
+   "meta": [],
+   "description": "I helped young students in S.K and grade 1 develop problem solving skills by allowing them to think through tasks. Additionally, I supported students with advice about how to organize themselves and communicate to others effectively."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Standard First Aid with CPR-C",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Connect4 Bot",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "Training a connect4 AI model to become unbeatable."
+  },
+  {
+   "title": "Emotion Detection",
+   "org": "Jul 2026 - Present",
+   "dates": "Jul 2026 - Present",
+   "meta": [],
+   "description": "Trained a AI model on the FER2013 to detect in real time what emotion is on your face. Achieved 61% test accuracy, and 65% when I combined 5 unique models into a ensemble."
+  },
+  {
+   "title": "Object Scanner",
+   "org": "Jul 2026 - Present",
+   "dates": "Jul 2026 - Present",
+   "meta": [],
+   "description": "Using a claude API and TensorFlow, automatically detect what is on the screen and display it in real time."
+  },
+  {
+   "title": "Shape Tracking",
+   "org": "Jul 2026 - Present",
+   "dates": "Jul 2026 - Present",
+   "meta": [],
+   "description": "In real time, track where your hands are and create various filters between them, including an invisibility one."
+  },
+  {
+   "title": "Personal Website",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "Created my personal website."
+  },
+  {
+   "title": "School Programming Event",
+   "org": "Feb 2025 - Mar 2025",
+   "dates": "Feb 2025 - Mar 2025",
+   "meta": [],
+   "description": "Attended 8 different classrooms at Riverside Public School, teaching grades 3-8 about various methods and ways to think through problems in code."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-28",
+   "text": "We won 2nd🥈 in the Hack the Valley x School of Cities, University of Toronto track! We noticed that roughly 40% of Toronto trash could be put in the green bin, the issue was who knows how to compost? And, who even wants to compost if it feels like a chore? What if composting was fun, simple, and interactive? And that's how Calmost was made! It works by using temperature, CO2, and moisture sensors inside a compost bin to determine how far along compost is. And to make composting part of your dail",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_we-won-2nd-in-the-hack-the-valley-x-school-activity-7521234417516945409-EgWx",
+   "likes": 42
+  },
+  {
+   "date": "2026-10-09",
+   "text": "I got accepted to Hack the Valley 2026! 🎉 My friend Eeshan Agarwal and I are putting together a team for the Climate Action and Sustainability track, and we’re looking for 2 more people who want to win. We’re building something with hardware, so we’re especially looking for: • Someone who’s worked hands on with sensors and microcontrollers (ESP32, Arduino) and is comfortable with wiring, debugging and the physical side of building • Frontend/mobile developer with strong design instincts and expe",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_hackthevalley-sustainability-hackathon-activity-7514467613029167104-Jhth",
+   "likes": 23
+  },
+  {
+   "date": "2026-10-03",
+   "text": "Last night I attended Western University's tech night, and it was a great way to learn more about the industry as a first year CS student. I was able to chat with representatives from Bell, Deep Breathe, Canada Life, IBM, and so many more other companies. I learned how AI is used in the workplace, what companies look for especially for first years, and the various types of work they do. Here are some of my major takeaways. → LeetCode is still important for interviews, and understanding how code",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_westernuniversity-computerscience-technight-activity-7511987061562728448-I2bc",
+   "likes": 17
+  },
+  {
+   "date": "2026-08-16",
+   "text": "Every day I kicked a rock down a street, hoping to turn it into a perfect sphere. People think I'm crazy. A few have asked if I'm okay. Here's what they don't know. Last year I couldn't do a muscle up. Every attempt ended with me getting stuck halfway. But the real wall wasn't in my arms. It was outside factors, trying to get me to stop. I was forced to step backwards, time and time again. Eventually though, the wall wasn't there anymore, and I completed the muscle up. In grade 12, I set out to",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_every-day-i-kicked-a-rock-down-a-street-activity-7494794223142174720-weKi",
+   "likes": 31
+  },
+  {
+   "date": "2026-08-12",
+   "text": "I was never good at board games, so I built a bot to get good at Connect 4 for me. Over 24 hours, it played itself thousands of times, learning from every loss. Now when I sit down to play it, I watch the eval bar swing against me before I even see what I missed. Here's how it actually works. → The network doesn't know Connect 4 strategy going in. It just outputs a rough guess at which moves look good, and who's winning → Before every move, it runs 200 quick lookahead searches (Monte Carlo Tree",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_machinelearning-reinforcementlearning-activity-7493363576217169920-iI_T",
+   "likes": 20
+  },
+  {
+   "date": "2026-08-06",
+   "text": "I (sort of) made an invisibility cloak. And 9 other filters. Hold up both hands, and the moment all your index fingers and thumbs are in frame, they connect into a shape, and whatever's inside that shape disappears. Here's how it actually works. → Mediapipe's handlandmarker tracks 21 points per hand from the live webcam feed. I only need 2 of those 21: the thumb tip and index fingertip, on each hand. → Those 4 points get sorted by their angle around the shape's center before connecting them, so",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_computervision-mediapipe-opencv-activity-7491224975396438016-U_mA",
+   "likes": 1242
+  },
+  {
+   "date": "2026-07-26",
+   "text": "I went to my first ever hackathon...AND GOT SECOND! 🥈 My team and I built RivalRuns, a two-player endless runner inspired by Subway Surfers but without a keyboard or controller. Player A dodges obstacles by moving their body in real life. You can change lanes by stepping side to side, jump, duck, and throw both arms up to activate a shield. Player B, on a second laptop, builds the obstacle course in real time using hand gestures, actively trying to end Player A's run. So here is everything I wor",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_rivalruns-activity-7487255002357501952-rboQ",
+   "likes": 22
+  },
+  {
+   "date": "2026-07-22",
+   "text": "Insane project from the NextGen Founder, going to have to try this",
+   "url": "https://www.linkedin.com/posts/kevin-hill-9291693b0_insane-project-from-the-nextgen-founder-activity-7485761710851641345-JvKW",
+   "likes": 5
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Kevin Hill - Western Computer Science Undergraduate Society | LinkedIn",
+ "name": "Kevin Hill"
+}

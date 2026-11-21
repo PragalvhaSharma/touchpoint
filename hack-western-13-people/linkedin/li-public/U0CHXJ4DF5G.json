@@ -1,0 +1,74 @@
+{
+ "url": "https://www.linkedin.com/in/daniel-hyman-a81a56310",
+ "about": "Aspiring Systems Engineer with passion for Robotics, Embedded Systems, and Machine…",
+ "experience": [
+  {
+   "title": "",
+   "org": "UofG Rocketry Club",
+   "dates": "",
+   "meta": [
+    "Guelph, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Guelph",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": "CO-OP"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Certified SOLIDWORKS Design Associate",
+   "org": "Dassault Systèmes",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Voice to Website Builder",
+   "org": "Jun 2025 - Jun 2025",
+   "dates": "Jun 2025 - Jun 2025",
+   "meta": [],
+   "description": "A platform for blind or otherwise, disabled users to create a website, through verbal communication. Can also be used for general convenience. Built with Speech Recognition API, JavaScript, HTML, and CSS Voice to Website Builder Created for Hack the Vibe Hackathon"
+  },
+  {
+   "title": "Mobile Timer App - Flutter",
+   "org": "Feb 2025 - Feb 2025",
+   "dates": "Feb 2025 - Feb 2025",
+   "meta": [],
+   "description": "Built a cross-platform Timer application with the Flutter Framework in 2h, with the ability to be run as a web and android application Focusing on Front-End integration, and UI design, the application was Successfully used by many students, with overall, positive feedback"
+  },
+  {
+   "title": "Messaging Server - Java",
+   "org": "Jan 2025 - Feb 2025",
+   "dates": "Jan 2025 - Feb 2025",
+   "meta": [],
+   "description": "Developed a multi-client messaging application, using the Java language, implementing individual user identification, and enabling an unlimited number of simultaneous users for real-time communication. Engineered server functionalities by implementing threads, stream readers/writers, and the Socket, SocketServer and HttpServer classes Optimally used for live collaboration platforms, or friend and"
+  },
+  {
+   "title": "Zumo Bot Competition",
+   "org": "Dec 2024 - Dec 2024",
+   "dates": "Dec 2024 - Dec 2024",
+   "meta": [],
+   "description": "As a team of 3 in a University tournament, a 100% Autonomous robot was constructed, designed to push other competing robots out of an arena, adapting to material and time constraints, given a 3 hour limit, finishing 2rd out of 20 teams Responsible for programming the Ultrasonic sensor, designed to charge at other robots when 15 cm away, as well as the Infrared sensor program, outlined to detect an"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "page_title": "Daniel Hyman - UofG Rocketry Club | LinkedIn",
+ "name": "Daniel Hyman"
+}

@@ -1,0 +1,66 @@
+{
+ "url": "https://www.linkedin.com/in/tygo-crawley-034b1a271",
+ "about": "Software Engineering student at the University of Western Ontario. Interested in ML/AI…",
+ "experience": [
+  {
+   "title": "",
+   "org": "WE AutoPilot Club",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.7/4.0",
+   "dates": "2021 - 2026",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Dungeon Crawler Game",
+   "org": "Feb 2024 - May 2024",
+   "dates": "Feb 2024 - May 2024",
+   "meta": [],
+   "description": "Developed a dynamic first-person shooter (FPS) game utilizing Unity and C# in collaboration with a skilled team. Utilized various animations and enemy AI to enhance the game. Responsible for player movement and level design."
+  },
+  {
+   "title": "Remote Beehive Sensor",
+   "org": "Nov 2022 - Apr 2023",
+   "dates": "Nov 2022 - Apr 2023",
+   "meta": [],
+   "description": "Developed a temperature, humidity, and weight sensor for beehive monitoring purposes using an Arduino, SQL, and python for a client that owns a bee farm business. Displayed results through a graph on a hosted website. Our design was successful in determining which hives were struggling during the winters, and which ones were thriving based on the measurements made, allowing for the client to boost"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://github.com/TCrawley11",
+  "tcrawley.xyz"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-03",
+   "text": "Come check it out!",
+   "url": "https://www.linkedin.com/posts/tygo-crawley-034b1a271_come-check-it-out-activity-7512222560151879680-sIMg",
+   "likes": null
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [
+  "Japanese",
+  "French"
+ ],
+ "page_title": "Tygo Crawley - WE AutoPilot Club | LinkedIn",
+ "name": "tcrawley"
+}

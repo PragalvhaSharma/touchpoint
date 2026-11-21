@@ -1,0 +1,118 @@
+{
+ "url": "https://ca.linkedin.com/in/surya-tallapaneni",
+ "about": "Hello! I am Surya, a second-year electrical and computer engineering (ECE) student at…",
+ "experience": [
+  {
+   "title": "",
+   "org": "IEEE Western Student Branch",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2025 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Western Scholarship of Distinction",
+   "org": "Western University",
+   "dates": "Aug 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "ERA E-Waste Scholarship",
+   "org": "Electronic Recycling Association",
+   "dates": "Oct 2023",
+   "meta": [],
+   "description": "Won 3rd place nationally in ERA's E-Waste Collection Scholarship Award."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Volunteer Match Queuer",
+   "org": "FIRST Robotics Canada",
+   "dates": "Jan 2023 - Nov 2023 11 months",
+   "meta": [],
+   "description": "Volunteered at three full-day events in the 2023 and 2024 FTC seasons, coordinating with robotics teams, judges, and other volunteers to ensure 100+ match transitions ran smoothly and on time. I prevented delays and adapted to schedule changes."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Cognichip Builder",
+   "org": "Cognichip",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Microsoft Certified: Azure AI Fundamentals",
+   "org": "Microsoft",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "CompTIA SecAI+",
+   "org": "CompTIA",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Certified in Cybersecurity (CC)",
+   "org": "ISC2",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Bicolor Matrix V2",
+   "org": "Jun 2025 - Present",
+   "dates": "Jun 2025 - Present",
+   "meta": [],
+   "description": "• Custom 32×8 red/green/orange LED matrix (4× HT16K33A I²C drivers) that runs as a desk clock; V2 re-routed and added chainability • Designed a 4-layer ESP32-C3 adapter board with an RTC, CO₂, temp/humidity, pressure and accelerometer sensors • Halved the adapter's length so it mounts behind the display, keeping JLCPCB cost down (~$12 PCB, ~$31 total parts)"
+  },
+  {
+   "title": "piLinkE",
+   "org": "Jul 2026 - Oct 2026",
+   "dates": "Jul 2026 - Oct 2026",
+   "meta": [],
+   "description": "• Compact USB-C debugger for WCH RISC-V MCUs (CH32V305, 4-layer, Altium) that also switches to ARM DAPLink mode and works as a USB-UART • DIY assembly (paste, placement, reflow) to test a low-cost assembly process • Assembled and verified by flashing/debugging a CH32 target"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-06-01",
+   "text": "I’m thrilled to share that I’ve officially earned my CompTIA SecAI+ certification! 🚀 After 2 weeks of intense preparation, I have passed with a score of 718. A huge shoutout to Mike Chapple's SecAI+ Study Guide, it was an incredibly valuable resource that provided the framework I needed to succeed. I’m looking forward to expanding my expertise in cybersecurity and applying these skills in a practical setting over the coming months. https://lnkd.in/eKPxhZpw #CompTIA #SecAIPlus",
+   "url": "https://www.linkedin.com/posts/surya-tallapaneni_comptia-secai-certification-was-issued-by-activity-7467045712975953920-0BV-",
+   "likes": 22
+  },
+  {
+   "date": "2026-01-20",
+   "text": "Despite getting abandoned 4 times, we still managed to win! Yesterday, I competed at UofTHacks 13 alongside Derek Yu and Evan Y.. To say it was a chaotic start would be an understatement; we had four different people join and back out of our team before and during the event. Instead of letting it slow us down, we locked in as a trio and built Wavelength. I’m proud to share that our hard work paid off: we took home the Best Use of Vultr prize! 🏆 What is Wavelength? It’s an AI recruitment platform",
+   "url": "https://www.linkedin.com/posts/surya-tallapaneni_uofthacks-hackathon-vultr-activity-7419227232654483457-BpYB",
+   "likes": 34
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [],
+ "page_title": "Surya Tallapaneni - IEEE Western Student Branch | LinkedIn",
+ "name": "tallapaneni.surya"
+}

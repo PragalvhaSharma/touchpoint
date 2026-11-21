@@ -1,0 +1,219 @@
+{
+ "url": "https://ca.linkedin.com/in/tharaka-thurairasa",
+ "about": "Hi! I'm Tharaka, a Western Computer Science student. Feel free to reach out to…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Cogsdale Corporation",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2025 - Present",
+   "meta": [],
+   "description": "Dean's Honour List (2025-2026)"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dean's Honour List",
+   "org": "University of Western Ontario",
+   "dates": "Jun 2026",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AP Precalculus",
+   "org": "AP College Board",
+   "dates": "Jul 2025",
+   "meta": [],
+   "description": "5 in AP Precalculus"
+  },
+  {
+   "title": "Friends at Fraser Award",
+   "org": "John Fraser Secondary School",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Awarded to a select number of excellent graduating students at John Fraser who provided outstanding contributions towards the betterment of life at school."
+  },
+  {
+   "title": "1st Place at Pitch Competition",
+   "org": "University of Waterloo",
+   "dates": "Aug 2024",
+   "meta": [],
+   "description": "- First Place in Pitch Competition - Designed a product that solves a world issue - Attended lectures and workshops from professors at the University of Waterloo"
+  },
+  {
+   "title": "RCM Level 7 Piano (Honours)",
+   "org": "Royal Conservatory of Music",
+   "dates": "Aug 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AP Computer Science Principles",
+   "org": "AP College Board",
+   "dates": "Jul 2023",
+   "meta": [],
+   "description": "4 in AP Computer Science Principles"
+  },
+  {
+   "title": "Top 5 at Spring Leadership Conference in 2023",
+   "org": "HOSA Canada",
+   "dates": "May 2023",
+   "meta": [],
+   "description": "- Competed at international level and placed top 25% in CPR and First Aid category"
+  },
+  {
+   "title": "1st Place in Hacker Olympics @ SheHacks+ 10",
+   "org": "Western University (SheHacks+)",
+   "dates": "",
+   "meta": [],
+   "description": "Designed and developed a gamified to-do list web application featuring a futuristic star-map interface that visually tracks task completion through dynamic star progression."
+  },
+  {
+   "title": "AP Scholar",
+   "org": "AP College Board",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Competitive Ballet",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "First place in group category"
+  },
+  {
+   "title": "RCM Level 5, 6 and 8 Theory (First Class Honours with Distinction)",
+   "org": "Royal Conservatory of Music",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "RCM Level 7 Theory (Honours with Distinction)",
+   "org": "Royal Conservatory of Music",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "RCM Level 8 Piano",
+   "org": "Royal Conservatory of Music",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Junior Aquatic Swim Instructor",
+   "org": "City of Mississauga",
+   "dates": "Jun 2022 - Sep 2023 1 year 4 months",
+   "meta": [],
+   "description": "- Assisted lifeguards in teaching swimming lessons - Over 250 hours of experience"
+  },
+  {
+   "title": "Summer Volunteer",
+   "org": "The Riverwood Conservancy",
+   "dates": "Aug 2021 - Aug 2023 2 years 1 month",
+   "meta": [],
+   "description": "- Maintained a healthy environment by removing invasive species and garbage - Collaborated with other volunteers to create a better scenery for visitors"
+  },
+  {
+   "title": "Student Volunteer at Library",
+   "org": "John Fraser Secondary School",
+   "dates": "Mar 2021 - Apr 2025 4 years 2 months",
+   "meta": [],
+   "description": "- Organize school library to provide students with a welcoming place to learn."
+  },
+  {
+   "title": "Assistant Instructor",
+   "org": "Canada's Professional School of Music and Arts",
+   "dates": "Nov 2024 - Jun 2025 8 months",
+   "meta": [],
+   "description": "- Teach students the fundamentals of ballet."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Aquatic Supervisor",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Emergency First Aid, Lifesaving and Swim Instructor",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "HIGH FIVE PHCD",
+   "org": "HIGH FIVE Canada",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "National Lifeguard",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Standard First Aid with CPR-C",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Green Toronto (City Design Challenge, Hackathon Winner)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Educational game that simulates growing trees across the GTA to help users learn how to contribute to a greener Toronto. https://github.com/thutharaka/City-Design-Challenge.git"
+  },
+  {
+   "title": "Simon Says (Hack Western 12)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Created a productivity web app that enables task management and automatically detects distractions by closing applications that are leading users off task with a team of 4 at Hack Western which is one of Canada's largest hackathons with 400+ attendees and 1400+ applicants. https://github.com/thutharaka/simonsays.git"
+  },
+  {
+   "title": "Star Quest (SheHacks+ 10, 1st Place in Hacker Olympics)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Designed and developed a gamified to-do list web application featuring a futuristic star-map interface that visually tracks task completion through dynamic star progression."
+  },
+  {
+   "title": "Umpack, 1st Place at University of Waterloo Summer Catalyst Program in 2024",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Identified a recurring student pain point (inconvenient umbrella use on campus) and designed a hands-free product solution and incorporated user needs into design features such as stability and accessibility during movement"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "page_title": "Tharaka Thurairasa - Cogsdale Corporation | LinkedIn",
+ "name": "Tharaka Thurairasa"
+}

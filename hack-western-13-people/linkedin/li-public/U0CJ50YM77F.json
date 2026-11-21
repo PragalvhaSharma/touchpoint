@@ -1,0 +1,55 @@
+{
+ "url": "https://www.linkedin.com/in/shane-edelstein/",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Brickworks Academy",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "Relevant Courses: Data Structures & Algorithms (Java/C++), Software Engineering Design, Operating Systems, Computer System Architecture."
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Min-Max Life (Productivity App)",
+   "org": "Sep 2025",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "A gamified productivity application available on Android. - Tech Stack: Built with React Native (Expo) and TypeScript; backend powered by Supabase (PostgreSQL). - Features: Implemented quest tracking, real-time stat visualization using TanStack Query, and a cross-platform UI with React-Native-Paper and NativeWind. - AI Integration: Integrated OpenAI GPT-4 API to automate difficulty scoring and sta"
+  },
+  {
+   "title": "Multitenant E-commerce Platform",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "A reusable SaaS marketplace template enabling users to launch independent digital storefronts. - Architecture: Full-stack application using Next.js 15, React 19, and PayloadCMS with MongoDB. - Payments: Engineered a complex Stripe Connect integration to handle split payments, platform fees, and automated webhooks for independent tenant accounts. - Data Handling: Utilized tRPC and TanStack Query fo"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "London, Canada Metropolitan Area",
+ "languages": [],
+ "page_title": "Shane Edelstein - London, Canada Metropolitan Area | Professional Profile | LinkedIn",
+ "name": "shaneedelstein"
+}

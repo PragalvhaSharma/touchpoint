@@ -1,0 +1,94 @@
+{
+ "url": "https://ca.linkedin.com/in/arnavpal27",
+ "about": "arnavpal.com",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western University",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.9 GPA",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Stupid Hackathon 3rd Place Winner",
+   "org": "Issued by Strik, Baldinelli, Moniz, Ltd. & Hack Western",
+   "dates": "Nov 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Dean’s Honour List",
+   "org": "Western University – Faculty of Science",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Awarded for achieving academic excellence in the Faculty of Science, Western University."
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Introduction to Generative AI",
+   "org": "Google Cloud Skills Boost",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Claude Code in Action",
+   "org": "Anthropic",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "LinkApp",
+   "org": "Aug 2025",
+   "dates": "Aug 2025",
+   "meta": [],
+   "description": "LinkApp is a social networking app designed to make planning and joining events simple, fun, and engaging. Built with React Native, Supabase, and Gluestack UI, it combines sleek design with real-time features and AI-driven recommendations."
+  },
+  {
+   "title": "CleanRoute",
+   "org": "Dec 2025 - Dec 2025",
+   "dates": "Dec 2025 - Dec 2025",
+   "meta": [],
+   "description": "A health-aware navigation web app that helps pedestrians find walking routes with the lowest air pollution exposure, not just the fastest path. CleanRoute combines real-time air quality data with geospatial routing to enable cleaner, healthier urban travel decisions."
+  },
+  {
+   "title": "ResumeHub",
+   "org": "May 2025 - May 2025",
+   "dates": "May 2025 - May 2025",
+   "meta": [],
+   "description": "ResumeHub is a web application that enables users to upload their resumes, share them with a community, and receive constructive feedback to improve their chances of landing their dream job. Built with Next.js and Firebase, the platform supports secure file storage, user authentication via Google, threaded comments for resume critiques, and category filtering by university, tech, finance, and tren"
+  },
+  {
+   "title": "Sentimark",
+   "org": "Apr 2025 - May 2025",
+   "dates": "Apr 2025 - May 2025",
+   "meta": [],
+   "description": "Sentimark is a real-time financial sentiment dashboard that helps investors make smarter decisions using natural language processing. The app scrapes Yahoo Finance headlines for stocks like Apple, Microsoft, and Google, then uses FinBERT to analyze sentiment. It visualizes the results alongside stock price data and delivers actionable insights—Buy, Hold, or Avoid—based on sentiment trends. Built w"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "page_title": "Arnav Pal - Greater Toronto Area, Canada | Professional Profile | LinkedIn",
+ "name": "Arnav Pal"
+}

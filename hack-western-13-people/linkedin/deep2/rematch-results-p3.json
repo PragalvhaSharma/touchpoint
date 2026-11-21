@@ -1,0 +1,525 @@
+[
+ {
+  "id": "U0CFF77FQCR",
+  "name": "Brittney Chong",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Confirmed Hack Western Co-Director (hackwestern.com) with Devpost brittneyrachellechong (email handle; project Align), but no LinkedIn found; prior candidate brittney-ch is a Dalhousie freelancer and is rejected. (was low) Pass 3: confirmed as Western Climbing Club president and HackWestern Society director; Michael Wu's LinkedIn post (michaelwukm) names her as his Hack the North 2026 teammate (project Align with Jerry Zhang) but does not link her profile. The two indexed Brittney Chong profiles (brittneychong: Honolulu, Arizona State; brittney-chong-0a20b61a4: Duke Family Medicine resident) are different people. Still none.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/brittney-ch"
+  ]
+ },
+ {
+  "id": "U0CJNQWPZQS",
+  "name": "Aiden Alaei",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Western's CS graduate-student directory lists an Arman Alaei, which fits a Hack Western mentor, but the only ML-focused LinkedIn found (arman-alaei-a29897181) shows Iran University of Science and Technology and University of the People with no Western or Canada link. (was none)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJ3B9PBBM",
+  "name": "Anna Li",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Multiple Western University students named Anna Li; no handle match to annaliyunjie.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/anna-li-42a3771b7",
+   "https://ca.linkedin.com/in/anna-li-215234358"
+  ]
+ },
+ {
+  "id": "U0CJBDPBNRF",
+  "name": "Benson Yu",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Benson Yu profiles found are Waterloo (WATurbine) with a University of Western Ontario mention; two slugs, no handle match to yubenson1122.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/benson-m-yu",
+   "https://ca.linkedin.com/in/benson-yu07"
+  ]
+ },
+ {
+  "id": "U0CKS6CFJM8",
+  "name": "Brian Huang",
+  "linkedin_url": "https://www.linkedin.com/in/brian-huang-2b581a35a",
+  "confidence": "medium",
+  "evidence": "Name plus school/location tie. Devpost bhuan84497 (username equals Slack email handle) is Brian Huang, London, Ontario, registered for Hack Western 13; GitHub speedweeweeman (92 commits from the Slack email) shows a beginner-to-app progression in summer 2026, consistent with a first-year student. LinkedIn brian-huang-2b581a35a (public page fetched) is Brian Huang, Ottawa, Western University (Ivey AEO, 2026-2030), Merivale High School, Odyssey Products Canada, and is tagged in a HackMIT 2026 hackathon post. A first-year Western student living in London matches the Devpost. Medium: no account links the LinkedIn directly and the name is common.",
+  "headline": "",
+  "education": "Western University, Ivey AEO (2026-2030); Merivale High School, Ottawa",
+  "location": "Ottawa, Ontario, Canada (hometown); London, Ontario per Devpost",
+  "candidates": [
+   "https://ca.linkedin.com/in/brian-huang-01647a179",
+   "https://ca.linkedin.com/in/brian-yc-huang"
+  ]
+ },
+ {
+  "id": "U0CJYM2CJJZ",
+  "name": "Colin Wang",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Several University of Waterloo Colin Wangs; none tied to the email handle colin.wang1. ColinWang001 is linked from colinwang.dev and GitHub passman300 (Computer Engineer @UWaterloo), but that site lists [email omitted], not this member's [email omitted]; no public tie to colin.wang1 found.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://www.linkedin.com/in/ColinWang001",
+   "https://www.linkedin.com/in/colinwng"
+  ]
+ },
+ {
+  "id": "U0CKWCQ9LF2",
+  "name": "Jodie Chen",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "No profile tied to a Canadian university student or the email; only weak candidates.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/jodie-chen-17273a165"
+  ]
+ },
+ {
+  "id": "U0CHZ7GNSJY",
+  "name": "Layan Al-Hamarneh",
+  "linkedin_url": "https://www.linkedin.com/in/layan-al-hamarneh-550a12298",
+  "confidence": "low",
+  "evidence": "Only profile found is in Edmonton with no Red Hat link.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHRSN0C3V",
+  "name": "Ryuk Jones",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "No public LinkedIn profile could be verified from the name, handle, and Canadian university context.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKLJ67CJW",
+  "name": "Satvik g",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Public search returned plausible profiles, but the available text did not uniquely match the Slack participant.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/gargsatvik",
+   "https://ca.linkedin.com/in/satvikgarg15"
+  ]
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "name": "Yifan Gao",
+  "linkedin_url": "https://ca.linkedin.com/in/yifan-gao-bme",
+  "confidence": "medium",
+  "evidence": "Name plus school and cohort. The Hack Western team-finder card for this Slack ID is 'Yifan G., University of Waterloo', first hackathon, skills design/hardware/backend; Devpost yifan-gao-ca (email handle) is Yifan Gao, Ontario. LinkedIn yifan-gao-bme (public page fetched) is Yifan Gao, University of Waterloo 2026-2031 (first year, slug suggests Biomedical Engineering, fits 'hardware'), Ottawa. Medium only: Yifan Gao is a common name and nothing links the LinkedIn to the email, Devpost or card.",
+  "headline": "",
+  "education": "University of Waterloo (2026-2031)",
+  "location": "Ottawa, Ontario, Canada",
+  "candidates": [
+   "https://ca.linkedin.com/in/yifangao"
+  ]
+ },
+ {
+  "id": "U0CK0K5GDM4",
+  "name": "Samuel Shi",
+  "linkedin_url": "https://www.linkedin.com/in/samuel-shi",
+  "confidence": "medium",
+  "evidence": "Name and school both tie. Commit-email search for the Slack email returns commits by GitHub sokosam, whose profile reads 'Samuel Shi', location 'McMaster University', with McMaster Formula Electric repos (MACFE-Firmware-2024, macformula/metrics) and a Hack Western 12 repo. Devpost samuelshiwork links that GitHub and reads 'Software Engineering 2 @ McMaster University'. LinkedIn samuel-shi (public page fetched) is Samuel Shi, McMaster University 2023-2028, now a SWE intern at Stripe (Dashboard team). Medium, not high: sokosam.com (his portfolio, which may link it) is down (HTTP 521) and the Wayback Machine was offline, so there is no direct link. A second slug samuel-shi-910651293 (AMD/RBC/Alectra internships, McMaster SE) seen on aggregators may be the same person under an old slug.",
+  "headline": "Software Engineering Intern, Stripe",
+  "education": "McMaster University (2023-2028), Software Engineering",
+  "location": "San Francisco Bay Area (internship)",
+  "candidates": [
+   "https://www.linkedin.com/in/samuel-shi-910651293"
+  ]
+ },
+ {
+  "id": "U0CJJ23C5EZ",
+  "name": "Tracy Su",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Several Tracy Su profiles in Ontario (one with an ElleHacks 2026 team mention), but none ties to Western or Hack Western, and the email handle gives no second signal.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/tracysu6",
+   "https://ca.linkedin.com/in/tracy-su"
+  ]
+ },
+ {
+  "id": "U0CJWQ32D0D",
+  "name": "Austin Salter",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Kept low. austincsalter (public page fetched) is Austin Salter, Western University 2025-2029, Richmond Hill, BGC London / Canlan Sports; the other candidate is in Austin, TX. Austin Salter is an uncommon name and a Western student fits Hack Western, but nothing from the Slack side (gmail aussalter92, no commits, no Devpost, no team-finder card) gives a school or other tie, so it stays name-only. Best candidate listed first.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/austincsalter",
+   "https://www.linkedin.com/in/austin-salter"
+  ]
+ },
+ {
+  "id": "U0CJ2HPUEBW",
+  "name": "Lily Song",
+  "linkedin_url": "https://ca.linkedin.com/in/s-lily",
+  "confidence": "low",
+  "evidence": "Lily Song of sillly.ca (Waterloo CS, SummerHacks Co-Director) self-links linkedin.com/in/s-lily, but nothing ties her to [email omitted]. (was low)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CK65L2TNG",
+  "name": "Sarah Gao",
+  "linkedin_url": "https://www.linkedin.com/in/sarah-gao-175a79297",
+  "confidence": "high",
+  "evidence": "Chain from the Slack email: commit search on [email omitted] returns GitHub sarahmlgao-sketch (repo lingobunns); Devpost sarahmlgao-sketch (email handle; London, Ontario) lists LingoBunns, TheDaily. and Bat Hat. Her own site sarahgao.ca/my-work lists \"LINGOBUNNS - SheHacks+ 10\" (2nd place, Best Use of ElevenLabs) and \"TheDaily. - Product Design Sprint\", and every page of sarahgao.ca links linkedin.com/in/sarah-gao-175a79297 (CS @ Western). Two independent ties: shared projects plus site link. (was low)",
+  "headline": "CS @ Western",
+  "education": "Western University (BMOS 2025-2029 per LinkedIn education; site says cs + business student)",
+  "location": "London, Ontario, Canada",
+  "candidates": []
+ },
+ {
+  "id": "U0CHYU0NBS9",
+  "name": "Brayden Leung",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Email commits go to GitHub braydenleung-Git (Western Engineering: SE3351 and WE FIRST repos; Devpost braydenleung-Git), but no LinkedIn found; candidate brayden-leung-748b3a101 is an Ivey grad in Hong Kong and is rejected. (was low) Pass 3: commits from the Slack email go to GitHub braydenleung-Git (Western SE3351 course repo, WE FIRST robotics REBUILT-2026, Object Love Interface); classmates' LinkedIn posts mention him (ES1050, WE FIRST exec) but no profile URL is indexed; the only indexed Brayden Leung slug is in Hong Kong. Still none.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://hk.linkedin.com/in/brayden-leung-748b3a101"
+  ]
+ },
+ {
+  "id": "U0CJLN8A4Q2",
+  "name": "Justin Fang",
+  "linkedin_url": "https://www.linkedin.com/in/justinfangjf",
+  "confidence": "medium",
+  "evidence": "Devpost justinfang2007 (exact Slack email handle) is located Ottawa, Ontario; justinfangjf public page shows University of Waterloo, current Ciena, location Ottawa, Ontario; the other candidate justinfanguw is at CareHawk Safety Communications. Name Justin Fang comes from the email handle; GitHub justinfangg README says University of Waterloo Computer Science. (was low) Extra support found this pass: GitHub justinfangg (tied to the email-handle Devpost via his Third Guard project repo) lists linkedin.com/in/justinfangjf as a social account, which by itself would meet the bar for high; kept at medium per the user's decision.",
+  "headline": "Ciena",
+  "education": "University of Waterloo",
+  "location": "Ottawa, Ontario, Canada",
+  "candidates": [
+   "https://ca.linkedin.com/in/justinfanguw"
+  ]
+ },
+ {
+  "id": "U0CKF2FEZPW",
+  "name": "Thomas Hao",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "A UofT-educated Thomas Hao in Oakville exists but his UofT dates end in 2022 while this participant has an active UofT email; another Toronto Thomas Hao is a high-school IB student, so neither is confirmed. Pass 3: a commit on arnavpxl/hackwestern2026 is authored 'Thomas Hao', confirming the participant; the only indexed Canadian slug (thomas-hao-3b8014122) has no school or account tie. Kept low.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/thomas-hao-3b8014122"
+  ]
+ },
+ {
+  "id": "U0CKALQP8RY",
+  "name": "Jon Rohan",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "TheOrg's Canada Life org chart and a Cyber Hive YXU speaker post name Jonathan Rohan as Sr Platform Engineering Lead at Canada Life, matching his canadalife.com email, but no LinkedIn profile URL surfaced across three search backends. Pass 3: TheOrg, a Cyber Hive talk and Canada Life's Hack Western post ('Jonathan Rohan') confirm the Canada Life role, but no Canada Life Jonathan Rohan LinkedIn slug is indexed (the indexed one is at the Australian Department of Social Services). Kept low.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHU64DWDD",
+  "name": "Eric Zhang",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Common name; a Western business student profile exists but nothing ties it to the gmail handle or the volunteer role. Pass 3: ericzhang0105's About lists [email omitted], a different handle from zhanger6417; no commits or Devpost for the Slack email. Kept low.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://linkedin.com/in/ericzhang0105"
+  ]
+ },
+ {
+  "id": "U0CHD5Q66MV",
+  "name": "Amy Wang",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Devpost under her handle is 'amy wang' with no projects or links; the name is too common to match without a school or employer signal.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJRA7HBME",
+  "name": "asma001",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHNC9DWP5",
+  "name": "ayeung97",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKJ2JPQ11",
+  "name": "Colin Wang",
+  "linkedin_url": "https://www.linkedin.com/in/ColinWang001",
+  "confidence": "high",
+  "evidence": "His own site colinwang.dev lists the exact Slack email [email omitted] (mailto) and links linkedin.com/in/ColinWang001 and GitHub passman300 (Colin Wang, Computer Engineer @UWaterloo). The LinkedIn public page (indexed) shows University of Waterloo and onsemi, matching the site (onsemi Wireless Firmware Intern, Sep-Dec 2026). Two independent ties: exact email on his own site plus site link. (was low)",
+  "headline": "Wireless Firmware Intern, onsemi",
+  "education": "University of Waterloo, Computer Engineering",
+  "location": "Waterloo, Ontario, Canada",
+  "candidates": []
+ },
+ {
+  "id": "U0CJVB28287",
+  "name": "dantehhawken",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJY5EBFTJ",
+  "name": "ehuan",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJU42FT2R",
+  "name": "etema",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Western handle etema gives no reliable surname (GitHub 'etema' is an empty, unrelated 2016 account); nothing found.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHNA712F5",
+  "name": "Frank (Ancheng) Li",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Handle suggests Frank Ancheng Li; 'Frank Li' is very common and 'Ancheng Li' results (a Devpost user at HackNC, researchers) do not tie to this person.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CK7RWB943",
+  "name": "hubertc2013",
+  "linkedin_url": "https://linkedin.com/in/hubert-chan-uwo",
+  "confidence": "low",
+  "evidence": "Verifier downgrade: GitHub Alienator135 is confidently his (commit from [email omitted], Hack-Western-13 repo), but the LinkedIn tie is a common name plus \"uwo\" and is not cross-linked or indexed. LinkedIn UNVERIFIED. (was medium) Pass 3: hubert-chan-uwo (public page fetched) is Western University 2024-2028, Tech for Social Impact (London ON), Toronto. Alienator135 GitHub/Devpost/site show no school or LinkedIn; a CIE exhibition volunteer list names 'Hubert Chan UWO'. Still no tie from his own accounts, so low stands.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJ09U2BAM",
+  "name": "Ibrahim Qayyum",
+  "linkedin_url": "https://www.linkedin.com/in/ibrahim-asif-qayyum",
+  "confidence": "medium",
+  "evidence": "Two ties beyond the name. (1) Email handle ibrahimaqayyum reads Ibrahim A. Qayyum, and Devpost ibrahimaqayyum (same handle) is Ibrahim Qayyum, Toronto. (2) The TED.com page for TEDxMcfarren Boulevard Youth (ted.com/tedx/events/61702, MiST Theatre UTM, Mississauga) lists the organizers as Nathan Yan (Organizer), Adam Hjouj (Curation, Mississauga) and Asif Qayyum (Co-organizer, Mississauga). Adam Hjouj is his teammate on all three projects on the email-tied Devpost (NoDoxx, Sea Scanner, FoodWise; verified on each project page), and LinkedIn ibrahim-asif-qayyum lists 'TEDx Event Lead Organizer at TEDxMcFarren Boulevard Youth' (Oct 2024-Sep 2025, Mississauga). Nathan Yan, his DECA teammate, also appears in the LinkedIn's activity. Lead from agent B, verified this pass. Medium, not high: nothing on his own accounts links the LinkedIn directly.",
+  "headline": "cybersec @ intelligenes | engineering + ivey @ uwo",
+  "education": "Western University (Engineering + Ivey, from fall 2026); IB, St. Francis Xavier SS, Mississauga",
+  "location": "Greater Toronto Area, Canada",
+  "candidates": []
+ },
+ {
+  "id": "U0CK796322G",
+  "name": "Joy",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "uwo.ca handle suggests Joy Okoye at Western, but no Joy Okoye profile with a Western or London tie surfaced (visible ones are in Nigeria, Winnipeg and Regina).",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKLRH0S5T",
+  "name": "Juliano Ng",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Commit search on [email omitted] returns commits authored \"Juliano Ng\" (GitHub JulianoNg-eng) including in cloudec11/HackWestern13 (Eric Chen, Western CS), so the real name is Juliano Ng. Western Aero Design team page lists Juliano Ng, Electrical Lead, Mechatronics & AI Systems Engineering (westernaerodesign.com/team), but gives no LinkedIn, and no LinkedIn profile for a Western Juliano Ng surfaced in search. (was none)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CLB3Q9R32",
+  "name": "michael.dakt",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "The email handle gives an unusual surname with no matching student profile in search.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKT07URU4",
+  "name": "Mithra",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "First name only (Mithra) and the handle has no surname.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJDLY4333",
+  "name": "oahmed58",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Handle implies an O. Ahmed at Western; the surname is too common to match on two signals.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKSB0SZ1P",
+  "name": "Shourya Walia",
+  "linkedin_url": "https://ca.linkedin.com/in/shouryaw",
+  "confidence": "medium",
+  "evidence": "The Western email [email omitted] gives surname Walia, first initial S and Western enrolment. LinkedIn shouryaw (public page fetched) is Shourya Walia, Western University 2025-2029, Toronto; his posts describe building CramMap, a live study-spot app for Western, Waterloo, McMaster and Laurier (also on the App Store under Shouryajeet Walia). No public commits or Devpost for the handle, so there is no direct link; medium on surname + initial + school.",
+  "headline": "Student founder (CramMap)",
+  "education": "Western University (2025-2029)",
+  "location": "Toronto, Ontario, Canada",
+  "candidates": []
+ },
+ {
+  "id": "U0CK00Q5E4W",
+  "name": "yluo553",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Rejected previous candidate yanglluo (Yang Luo, Western CS): his public LinkedIn About lists the Western email [email omitted], a different Western handle from this member's [email omitted], so they are different students. Commit search on [email omitted] returns only GitHub yluo553 (no name, one tutorial repo). No other profile ties to the handle. (was low)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/yanglluo"
+  ]
+ },
+ {
+  "id": "U0CKM620NF6",
+  "name": "zsong348",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Western candidate fits zsong, but exact numeric handle is absent. (was none)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CDZHB2KMH",
+  "name": "Sarah Lieng",
+  "linkedin_url": "https://ca.linkedin.com/in/sarah-lieng",
+  "confidence": "medium",
+  "evidence": "LinkedIn profile not publicly viewable (404 logged out) but linked from her own site sarahlieng.com (Nov 21, 2026). Prior evidence kept: Western CS student, Hack Western Events Lead; DoraHacks team page links the profile.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKARNJ63H",
+  "name": "Nishant Shah",
+  "linkedin_url": "https://www.linkedin.com/in/nishant-shah-340869306",
+  "confidence": "high",
+  "evidence": "LinkedIn profile not publicly viewable (404 logged out) but linked from his own site nishantshah.xyz and GitHub nishantshah0 README (Nov 21, 2026). Prior evidence kept: Western Engineering student whose About says \"Up next: Hack Western\".",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHXQH2NCW",
+  "name": "Anastasiya Volgina",
+  "linkedin_url": "https://ca.linkedin.com/in/anastasiya-volgina",
+  "confidence": "high",
+  "evidence": "LinkedIn profile not publicly viewable (404 logged out) but linked from her own site anastasiyavolgina.com, GitHub Anastasiya006 and Devpost Anastasiya006 (Nov 21, 2026); commit-email search on her Slack email returns her name.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKG9SGRPD",
+  "name": "Vijay Maulkhan",
+  "linkedin_url": "https://www.linkedin.com/in/VijayMaulkhan",
+  "confidence": "high",
+  "evidence": "LinkedIn profile not publicly viewable (404 logged out) but linked from his own GitHub VijayMaulkhan website field (Nov 21, 2026); commit-email search on his Slack email returns that GitHub account.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "name": "Shawn Xiong",
+  "linkedin_url": "https://www.linkedin.com/in/shawn-xionggg",
+  "confidence": "high",
+  "evidence": "His own site shawnxionggg.work links linkedin.com/in/shawn-xionggg; the public page title \"Shawn Xiong - Waterloo, Ontario, Canada\" matches his site and GitHub (University of Waterloo Computer Engineering). Old slug /in/shawnxionggg returns 404.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ }
+]

@@ -1,0 +1,48 @@
+{
+ "url": "https://ca.linkedin.com/in/saksham-batra1",
+ "about": "currently exploring machine learning inference compilers, chips, and now…",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-08-24",
+   "text": "we didn't know how to design a chip a couple months ago so we reinvented Groq's LPU to run inference on Karpathy's MicroGPT! the entire project is open source and has been documented at the following links! https://lnkd.in/gcM8dsZQ http://lpulite.com feel free to break the repo apart, and fix things we left broken. we highly encourage you to contribute! special thanks to the best teammates in the world Michael Trbovic and Arjun Harinath :) here's a breakdown of what we learned:",
+   "url": "https://www.linkedin.com/posts/saksham-batra1_we-didnt-know-how-to-design-a-chip-a-couple-activity-7497721897166737408-uFmr",
+   "likes": 121
+  },
+  {
+   "date": "2026-02-18",
+   "text": "i spent the last few months building microMLC, a machine learning compiler without any prior experience, by lowering a one layer MLP with ReLU activation. the result is an interactive educational resource that documents my journey and findings. find out more about how I built it @ micromlc.com project repo: https://lnkd.in/esVvpwi7 twitter thread: https://lnkd.in/eCBvjM3j I'm open to any feedback, or questions, please reach out via DMs!",
+   "url": "https://www.linkedin.com/posts/saksham-batra1_i-spent-the-last-few-months-building-micromlc-activity-7429936321034366977-Ze7q",
+   "likes": 112
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Saksham Batra - Canada | Professional Profile | LinkedIn",
+ "name": "Saksham Batra"
+}

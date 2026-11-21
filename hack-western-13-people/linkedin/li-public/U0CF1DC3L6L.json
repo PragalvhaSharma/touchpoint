@@ -1,0 +1,96 @@
+{
+ "url": "https://ca.linkedin.com/in/julian-laxman",
+ "about": "Currently building Hack Western, one of Canada's largest student-run…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Hack Western",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2027",
+   "meta": [],
+   "description": "Robert and Ruth Lumsden Undergraduate Awards in Science ($1500)"
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Product Management Fellowship Director",
+   "org": "Ivey Product Society",
+   "dates": "Oct 2025 - Apr 2026 7 months",
+   "meta": [],
+   "description": "Taught 30 fellows over 10 weeks how to think and speak like a PM."
+  },
+  {
+   "title": "Technical Product Manager",
+   "org": "Western Computer Science Undergraduate Society",
+   "dates": "Oct 2024 - Apr 2026 1 year 7 months",
+   "meta": [],
+   "description": "Led the 2024/25 and 2025/26 CSUS student development projects facilitating sprint planning, code reviews, API integrations, and end-to-end testing."
+  },
+  {
+   "title": "Mentor",
+   "org": "Women+ in Technology Society",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Beat 2257",
+   "org": "Sep 2025 - Dec 2025",
+   "dates": "Sep 2025 - Dec 2025",
+   "meta": [],
+   "description": "Built an educational accounting case solver for undergraduate students. Features user authentication, payment handling, file upload persistence, API deployment."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-10-21",
+   "text": "I built the Beli feature I wish existed: a way for the group chat to finally pick a restaurant. At MHacks, I met Eliot Frost and Judith Thelen. Something from their fireside chat stuck with me: they want Beli to get people out doing things in real life. As an active Beli user, I immediately thought about the gap between finding places I want to try and getting my friends to agree on one. Someone wants sushi. Someone has a firm budget. Someone needs vegetarian options. We’re all hungry. So I buil",
+   "url": "https://www.linkedin.com/posts/julian-laxman_i-built-the-beli-feature-i-wish-existed-activity-7518761507229392896-8qCY",
+   "likes": 133
+  },
+  {
+   "date": "2026-10-13",
+   "text": "This year at Hack Western, we launched a CTF challenge to win admission into our event 🚀 Inspired by research papers on prompt injection attacks, I designed a puzzle where your goal is to get three different LLMs to output a secret password. These are some of my favourite failed attempts so far 😂 Think you can get all three? Try it yourself: https://lnkd.in/gC_SaXqQ",
+   "url": "https://www.linkedin.com/posts/julian-laxman_this-year-at-hack-western-we-launched-a-activity-7515890352042463233-C30u",
+   "likes": 25
+  },
+  {
+   "date": "2026-10-03",
+   "text": "This year at Hack Western, we upgraded EVERYTHING: - Better Food 🌮 - Better Merch 👕 - Better Venue 🏰 and more surprises… 👀",
+   "url": "https://www.linkedin.com/posts/julian-laxman_this-year-at-hack-western-we-upgraded-everything-activity-7512168453349257216-OZmy",
+   "likes": 35
+  },
+  {
+   "date": "2026-09-07",
+   "text": "we gonna make big things happen. stay tuned. hackwestern.com",
+   "url": "https://www.linkedin.com/posts/julian-laxman_we-gonna-make-big-things-happen-stay-tuned-activity-7502529109433094144-Zexa",
+   "likes": 19
+  },
+  {
+   "date": "2026-08-29",
+   "text": "This summer, I shipped something that you can all see on Cloudflare's dashboard! As an active user of Cloudflare’s products and longtime reader of the Cloudflare blog, this is truly a dream come true. Seeing my name at the top of blog.cloudflare.com and my feature on dash.cloudflare.com is surreal. Introducing BotBase for Operators: the first version of a new hub designed to make it easy for bot operators to crawl the internet more politely. With AI agent usage on the rise, bots are becoming an",
+   "url": "https://www.linkedin.com/posts/julian-laxman_this-summer-i-shipped-something-that-you-activity-7499471441038512128-nPYd",
+   "likes": 187
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Julian Laxman - Hack Western | LinkedIn",
+ "name": "Julian Laxman"
+}

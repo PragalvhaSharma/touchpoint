@@ -1,0 +1,147 @@
+{
+ "url": "https://ca.linkedin.com/in/lucianlavric",
+ "about": "Probably looking for alpha, or working on my crossover. 🏀 Third-year CS at…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Meta",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Hack the North 2026: Cloudflare and Linq Track Winner",
+   "org": "Hack The North",
+   "dates": "Sep 2026",
+   "meta": [],
+   "description": "Won Cloudflare and Linq's track with Whim, a group chat agent for iMessage."
+  },
+  {
+   "title": "2026 Hackcon Scholarship Award",
+   "org": "Major League Hacking (MLH)",
+   "dates": "Jun 2026",
+   "meta": [],
+   "description": "Awarded the 2026 Hackcon Scholarship Award for taking initiative, guiding peers, and actively contributing to a vibrant and supportive hackathon community."
+  },
+  {
+   "title": "S:\\HACKS 1st Place",
+   "org": "Scotiabank",
+   "dates": "Jul 2025",
+   "meta": [],
+   "description": "First place at Scotiabank's student hackathon."
+  },
+  {
+   "title": "U18 Division C Medalist",
+   "org": "FIBA",
+   "dates": "Jul 2023",
+   "meta": [],
+   "description": "Received a bronze medal at the U18 Division C European Championship through my efforts with the national basketball team of Moldova knocking off countries like Luxembourg and Azerbaijan in the process"
+  },
+  {
+   "title": "Foresters Financial Scholarship",
+   "org": "Foresters Financial",
+   "dates": "",
+   "meta": [],
+   "description": "Awarded 2024–25 and 2025–26."
+  }
+ ],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Snapchat Open Source Contributor",
+   "org": "Oct 2026 - Present",
+   "dates": "Oct 2026 - Present",
+   "meta": [],
+   "description": "Fixed a web layout bug and migrated 25 test files to Snap's recommended testing API (valdiIt) in Valdi Widgets, Snap's UI component library. Both PRs were reviewed and merged by the Valdi maintainers."
+  },
+  {
+   "title": "@hunterchen/canvas — npmjs.com/package/@hunterchen/canvas",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Co-developed an open-source npm canvas-rendering library in TypeScript with a type-safe React context API, performant pan/zoom and viewport-optimized visibility. 1,000+ downloads across 26 releases."
+  },
+  {
+   "title": "3D Western",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Web platform for Western's 3D-printing club. Built a secure REST API (FastAPI, MariaDB) with token auth and rate limiting for 2,000+ users, plus a Next.js/TypeScript member dashboard, supporting $116K+ in equipment and fundraising and improving access for 40,000+ students and faculty."
+  },
+  {
+   "title": "Transformer Inference Engine (C)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "building an LLM inference engine in C from scratch, end-to-end."
+  }
+ ],
+ "publications": [
+  {
+   "title": "CLP-2 Integral Calculus (Errata Contributor)",
+   "org": "University of British Columbia, Department of Mathematics February 11, 2026",
+   "dates": "February 11, 2026",
+   "meta": [],
+   "description": "Identified and submitted errata corrections for the open-source CLP-2 Integral Calculus textbook used across Canadian universities. Contributions accepted via the textbook's bug bounty program."
+  },
+  {
+   "title": "Lucian Lavric brings international experience to Rez roster",
+   "org": "Waterloo Region Record February 24, 2024",
+   "dates": "February 24, 2024",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "organizations": [],
+ "websites": [
+  "github.com/lucianlavric",
+  "lucianlavric.tech"
+ ],
+ "posts": [
+  {
+   "date": "2026-11-04",
+   "text": "Got my first PRs merged into Snap's open source 👻 Valdi is Snap's cross-platform UI framework. I fixed a bug in Valdi Widgets where text fields overflowed their containers on web, then migrated 25 test files to their newer testing API Thanks to Beau Collins for the reviews! Excited to do more OSS work in the near future!",
+   "url": "https://www.linkedin.com/posts/lucianlavric_got-my-first-prs-merged-into-snaps-open-activity-7523611351257382915-5dIw",
+   "likes": 57
+  },
+  {
+   "date": "2026-10-30",
+   "text": "Pretty stoked to be joining Meta next summer as a Production Engineering intern! Thanks to all the people who took the time to mock with me during the process: Ethan Rong, William Liu, Robert Xing, and many more! See you in Seattle!",
+   "url": "https://www.linkedin.com/posts/lucianlavric_pretty-stoked-to-be-joining-meta-next-summer-activity-7521983050658824192-mBVn",
+   "likes": 354
+  },
+  {
+   "date": "2026-10-03",
+   "text": "Worked really hard on this with the whole team over the past 7 months! Apply Apply Apply!",
+   "url": "https://www.linkedin.com/posts/lucianlavric_worked-really-hard-on-this-with-the-whole-activity-7512210851852873728-IgPZ",
+   "likes": 22
+  },
+  {
+   "date": "2026-09-27",
+   "text": "Won Cloudflare and Linq's track at Hack the North! What we built: Whim, your group chat's agent. It plans dinner, splits the cart, and makes whatever game you want to play for all the times the plan DOESN'T make it out of the gc. Thanks to Cloudflare and Linq for the support and for pushing us on the idea and shout out to my teammates Jack Ruttan Sheng Chang Li and Karan!",
+   "url": "https://www.linkedin.com/posts/lucianlavric_won-cloudflare-and-linqs-track-at-hack-the-activity-7509775454585708544-f7Pk",
+   "likes": 78
+  },
+  {
+   "date": "2026-09-06",
+   "text": "Wow these guys are really awesome and have a super awesome hackathon hackwestern.com",
+   "url": "https://www.linkedin.com/posts/lucianlavric_wow-these-guys-are-really-awesome-and-have-activity-7502499646725001216-csaY",
+   "likes": 34
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Lucian Lavric - Meta | LinkedIn",
+ "name": "llavric"
+}

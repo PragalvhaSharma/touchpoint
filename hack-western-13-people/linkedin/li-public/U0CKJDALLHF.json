@@ -1,0 +1,110 @@
+{
+ "url": "https://ca.linkedin.com/in/munadirkhan",
+ "about": "SWE @ Western. ML research, fintech, autonomous systems. munadirkhan.me",
+ "experience": [
+  {
+   "title": "",
+   "org": "Robarts Research Institute",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": "GPA: 3.5 Relevant Coursework: Calculus, Linear Algebra, Discrete Mathematics, Data Structures and Algorithms, Statistics, and Data Science"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Academic Lions",
+   "org": "Eastwood Collegiate Institue",
+   "dates": "Sep 2021",
+   "meta": [],
+   "description": "For achieving a mark of 90% or higher while participating in Eastwood Athletics 2021-2022"
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Researcher",
+   "org": "Western Investment Club",
+   "dates": "",
+   "meta": [],
+   "description": "Stock Pitching & Research (TMT, RA)"
+  },
+  {
+   "title": "Analyst",
+   "org": "Western Capital Markets",
+   "dates": "",
+   "meta": [],
+   "description": "Capital Markets Analyst"
+  },
+  {
+   "title": "Member",
+   "org": "Western Climbing Club",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Investment Risk Management",
+   "org": "Coursera",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "The Founders Journey - An Entrepreneurial Process",
+   "org": "Morrissette Entrepreneurship",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Academy Accreditation - Generative AI Fundamentals",
+   "org": "Databricks",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Global AI Hackathon with Qwen Cloud 2026 - [Relay]",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Agents, Agents, more Agents. GitHub — https://github.com/munadirkhan/flowpilot"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-20",
+   "text": "Happy to share that I've been working with Dr. Aaron Fenster's lab at Robarts Research Institute on kidney tumor segmentation. Most of my experience so far has been on the startup and corporate side of tech, so getting to see machine learning applied in a research setting, and specifically in medical imaging, has been a completely different world. The problems are shaped differently. You're not optimizing for shipping fast, you're trying to get a model reliable enough that a clinician can trust",
+   "url": "https://www.linkedin.com/posts/munadirkhan_happy-to-share-that-ive-been-working-with-activity-7518281058166005760-YpXZ",
+   "likes": 19
+  },
+  {
+   "date": "2026-03-10",
+   "text": "Was really looking forward to being at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI) this year, but the past few days had other plans. Ended up stuck in Dubai for a bit amidst the regional conflict and couldn’t make it back to Canada in time for the conference. Huge credit to my team for holding it down while I was away. Our PM Aaron Yi and the rest of the CodeBuster team, Zhantore Borangali, Riley Wong, and Khilan Desai, pushed through the final polishing and testing",
+   "url": "https://www.linkedin.com/posts/munadirkhan_was-really-looking-forward-to-being-at-the-activity-7437258091605282816-OK5Z",
+   "likes": 16
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Munadir Khan - Robarts Research Institute | LinkedIn",
+ "name": "Munadir Khan"
+}

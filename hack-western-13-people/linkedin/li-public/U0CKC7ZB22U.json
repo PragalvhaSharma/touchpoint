@@ -1,0 +1,150 @@
+{
+ "url": "https://ca.linkedin.com/in/davidmakesmoves",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Tech for Social Impact",
+   "dates": "",
+   "meta": [
+    "Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2022 - 2026",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Solana: Best Use of Solana and Badge Hack – Hack the North 2026",
+   "org": "Hack the North",
+   "dates": "Sep 2026",
+   "meta": [],
+   "description": "Built a real-life Among Us on ESP32 badges. Proximity kills, NFC tasks, and live voting run over a serverless ESP-NOW mesh."
+  },
+  {
+   "title": "2nd place - AI at the edge of innovation ($5000)",
+   "org": "TECHNATION Canada",
+   "dates": "Jan 2026",
+   "meta": [],
+   "description": "24-hour hackathon where participants explore how artificial intelligence can transform the world around us. (2/180+ teams)"
+  },
+  {
+   "title": "CSDC 2022 Winning Team | 1st in Canada",
+   "org": "CSDCMS (Canadian Satellite Design Challenge Management Society)",
+   "dates": "May 2022",
+   "meta": [],
+   "description": "The Team Zephyr project, RotaSat, won the distinction of representing Canada at the European Space Agency (ESA) 2022 CanSat Finals."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Vice President of Education",
+   "org": "Western Founders Network",
+   "dates": "Sep 2023 - May 2024 9 months",
+   "meta": [],
+   "description": "prev. Director of Education Leading educational initiatives for one of Western’s largest tech and entrepreneurship communities. Organized and hosted workshops and hackathon prep sessions for 100 + students in partnership with Hack Western. Managed a team of 4 directors to deliver hands-on training that helped first-year CS and SWE students improve exam performance by an average of 12%. Focused on"
+  },
+  {
+   "title": "Judge",
+   "org": "Ignition Hacks",
+   "dates": "Aug 2025 - Aug 2025 1 month",
+   "meta": [],
+   "description": "Invited as a Judge and Technical Reviewer for one of Canada’s largest high school hackathons. Evaluated 50 + projects on technical innovation, design, and real-world impact. Provided feedback and mentorship to participants on project architecture and scalability."
+  },
+  {
+   "title": "Founder",
+   "org": "Sunshine Band Club",
+   "dates": "Jul 2020 - Sep 2023 3 years 3 months",
+   "meta": [],
+   "description": "The Sunshine Band Club aims to provide a virtual stage for musicians across North America who wish to present their passion to the world or beginners who wish to learn more about their instrument. Profits made from our concerts goes directly towards local charities. As the current president and founder, I provide musicians with resources they need to further express their musical talents. The club"
+  },
+  {
+   "title": "Volunteer",
+   "org": "Web Summit",
+   "dates": "May 2026 - May 2026 1 month",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Volunteer",
+   "org": "Web Summit",
+   "dates": "May 2025 - May 2025 1 month",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Command and Data Handling Developer",
+   "org": "Western Engineering Satellite Team",
+   "dates": "Sep 2022 - Aug 2023 1 year",
+   "meta": [],
+   "description": "cFS, C"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Supervised Machine Learning: Regression and Classification",
+   "org": "Coursera",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Rotasat | Canadian Satellite Design Challenge",
+   "org": "Oct 2021 - May 2022",
+   "dates": "Oct 2021 - May 2022",
+   "meta": [],
+   "description": "First Place, Canadian CanSat Design Challenge. Represented Canada team at the European CanSat Competition, Outstanding Final Report Distinction"
+  },
+  {
+   "title": "Youth Impact Challenge | Sustainable Water Waste Solution",
+   "org": "Jul 2021 - Jul 2021",
+   "dates": "Jul 2021 - Jul 2021",
+   "meta": [],
+   "description": "Lead software management within our competition group and developed a product to alleviate some of Canada's most detrimental water waste problems. Placed in the Semi-finals in this nation-wide competition."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-24",
+   "text": "I was trying to make my personal website more personal but it got a little out of hand. i cloned myself. there's now an AI version of me floating on around my website. he talks like me, and he flies around and points at things you ask about. his brain is a mini version of my obsidian vault. a script reads my notes, condenses each one, and syncs them to the site. talking to him used to feel like texting a slow texter, so i split the work in two. a fast model reads your message in about 100 ms, fi",
+   "url": "https://www.linkedin.com/posts/davidmakesmoves_i-was-trying-to-make-my-personal-website-activity-7519856648736288768-ojVo",
+   "likes": 142
+  },
+  {
+   "date": "2026-09-30",
+   "text": "Yanzi Guo, Lily Song and I won Solana's best badge hack at Hack the North. 🙀 we put among us on the hacker badge. 📮🔪 among us blew up in 2020 when everyone was stuck at home. now that we can go outside again, we wanted a version you play in person. every badge runs on an ESP32-C3. we built a peer to peer flood mesh over ESP-NOW, so any message a badge sends gets rebroadcast by every badge that hears it until the whole game has it. each message carries a TTL so it doesn't bounce around forever. f",
+   "url": "https://www.linkedin.com/posts/davidmakesmoves_yanzi-guo-lily-song-and-i-won-solanas-best-activity-7511103877740556288-IoYY",
+   "likes": 81
+  },
+  {
+   "date": "2026-05-06",
+   "text": "Spots are limited tethos.ca/student/apply",
+   "url": "https://www.linkedin.com/posts/davidmakesmoves_spots-are-limited-tethoscastudentapply-activity-7457881414714171392-pOgj",
+   "likes": 6
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [
+  "Mandarin",
+  "English"
+ ],
+ "page_title": "David Liu - Tech for Social Impact | LinkedIn",
+ "name": "David Liu"
+}

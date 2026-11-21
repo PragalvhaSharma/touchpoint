@@ -1,0 +1,64 @@
+{
+ "url": "https://ca.linkedin.com/in/pranavarma",
+ "about": "Hey, I'm studying computer science at the University of Western Ontario. I am interested…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Wealthsimple",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "91% Average",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Co President",
+   "org": "Western Developers Society",
+   "dates": "Aug 2023 - Present 3 years 4 months",
+   "meta": [],
+   "description": "Providing opportunities in tech & business to passionate students!"
+  },
+  {
+   "title": "Web Developer",
+   "org": "Hack Western",
+   "dates": "Apr 2025 - Present 1 year 8 months",
+   "meta": [],
+   "description": "Created the hacking platform for Hack Western 12!"
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-01-22",
+   "text": "This weekend at UofTHacks, Eileen Zhao, Chandler Xie, Bryant Zheng, and I pretended to be devs at 1Password 🤓 By this, I mean we tried implementing a feature we thought was missing in their core app. As student developers, to save API keys or other secrets, we often send them to ourselves or just paste them in our notes app. Beyond the fact that these are super vulnerable methods of storage, the clipboard itself is actually very susceptible to being hacked! To combat this, we created zapi, a Mac",
+   "url": "https://www.linkedin.com/posts/pranavarma_this-weekend-at-uofthacks-eileen-zhao-chandler-activity-7420208900378890240-TdmX",
+   "likes": 100
+  },
+  {
+   "date": "2024-04-04",
+   "text": "I'm very thrilled to announce that I'll be joining Google this summer as a STEP Software Engineering Intern, as a part of the Marketplace App team! I would like to thank Amanda Wysong for her help during the recruitment process and everyone who has supported my journey in tech thus far. Looking forward to this summer and can't wait to see what the future holds for me! See you in Waterloo! #google #noogler #kitchener",
+   "url": "https://www.linkedin.com/posts/pranavarma_google-noogler-kitchener-activity-7181698713726119936-NptP",
+   "likes": 263
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [],
+ "page_title": "Pranav Varma - Wealthsimple | LinkedIn",
+ "name": "Pranav Varma"
+}

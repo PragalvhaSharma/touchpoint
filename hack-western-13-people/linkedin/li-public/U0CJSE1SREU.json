@@ -1,0 +1,133 @@
+{
+ "url": "https://ca.linkedin.com/in/emily-nz-yu",
+ "about": "Hi, I’m Emily, a business student @ Ivey Business School working in tech. I'm obsessed…",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Ivey Business School at Western University",
+   "org": "",
+   "dates": "2025 - 2028",
+   "meta": [],
+   "description": "• Top 10 at Ivey Innovation North Student Challenge • 1st Place at P&G x Ivey Marketing Club - Ivey Marketing Summit • 2nd Place in AWS Track @ Hack the North"
+  }
+ ],
+ "awards": [
+  {
+   "title": "1st Place Overall @ Ivey Marketing Summit",
+   "org": "Ivey Marketing Club",
+   "dates": "Oct 2025",
+   "meta": [],
+   "description": "Developed and presented ECHO, a brand campaign for Olay Super Cream designed to boost sales and talkability through interactive kiosks and dermatologist-led social media content."
+  },
+  {
+   "title": "2nd Place in AWS Track @ Hack the North",
+   "org": "Hack the North",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Built TradeOff, a stock simulation game for the RBC InvestEase Challenge, promoting financial literacy through gamified UX. Led design, product storytelling, and pitch."
+  },
+  {
+   "title": "1st Place in Starknet Track @ DeltaHacks",
+   "org": "Deltahacks",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Built an anonymous social network on Starknet, the first on Ethereum’s ZKP rollup. Secured $1,000+ in grants from StarkWare, pitched user growth strategy to investors, and continued development at the Starknet Hacker House."
+  },
+  {
+   "title": "Top 10 in Business Calculations @ Canadian National Leadership Conference",
+   "org": "FBLA Canada",
+   "dates": "",
+   "meta": [],
+   "description": "February 2022, March 2023"
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Operations Executive",
+   "org": "Hack the 6ix",
+   "dates": "Oct 2026 - Present 2 months",
+   "meta": [],
+   "description": "Organizing Toronto's largest summer hackathon!"
+  },
+  {
+   "title": "Designer",
+   "org": "The Residency",
+   "dates": "Apr 2024 - Dec 2024 9 months",
+   "meta": [],
+   "description": "Designed visual assets and branding to support builders and community initiatives."
+  },
+  {
+   "title": "President",
+   "org": "World in Focus",
+   "dates": "Aug 2021 - Jun 2023 1 year 11 months",
+   "meta": [],
+   "description": "Improving global access to optical care through fundraising and awareness."
+  },
+  {
+   "title": "Director of Marketing",
+   "org": "Project 5K",
+   "dates": "Jun 2021 - Jun 2023 2 years 1 month",
+   "meta": [],
+   "description": "Connecting high school students to meaningful volunteering opportunities in their community."
+  },
+  {
+   "title": "Marketing Coordinator",
+   "org": "Pledges for Change",
+   "dates": "Feb 2022 - Nov 2022 10 months",
+   "meta": [],
+   "description": "Organized Ignite Fair, Canada's largest youth-run volunteer fair."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Product Management First Steps",
+   "org": "LinkedIn",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-09-04",
+   "text": "💙 THAT'S A WRAP ON AMPLIFY SUMMER 🥹 This summer, I joined RBC Amplify as a Business Analyst, working alongside developers and cross-functional teams to tackle a real challenge at the bank. 💸 My team built ChequeMark, a solution focused on detecting cheque fraud in the night deposit channel. Along the way, I learned how to understand a problem from the bottom up, work with teams and executives across the bank, and turn months of research, conversations (I got to hold a million in cash), and itera",
+   "url": "https://www.linkedin.com/posts/emily-nz-yu_thats-a-wrap-on-amplify-summer-this-activity-7501634481808691200-hf-W",
+   "likes": 112
+  },
+  {
+   "date": "2025-11-20",
+   "text": "“You are studying business. What are you doing at a hackathon?” I get this question a lot. Being one of the few women in the room (and non-technical) can be really intimidating. I still remember signing up for my first hackathon in first year, having no idea what I would build or even where I would sleep that night. It was chaotic, confusing, and honestly a little scary… but also, unironically, life changing. Hackathons became the place where I learned by doing, building silly ideas in hours, an",
+   "url": "https://www.linkedin.com/posts/emily-nz-yu_hacker-olympics-activity-7397411350962040832-Bpue",
+   "likes": 25
+  },
+  {
+   "date": "2025-10-06",
+   "text": "🥳 FIRST PLACE at Ivey Marketing Summit! I’ve worked in several marketing roles but it was great getting to apply those skills in a real case setting. The Ivey Marketing Summit is Ivey Marketing Club’s flagship event, featuring some of the biggest consumer goods companies in Canada. It was an amazing opportunity to learn more about careers in branding, marketing, and sales. Our team pitched ECHO (on theme!), a campaign to boost Olay Super Cream’s sales and talkability through in-person kiosks and",
+   "url": "https://www.linkedin.com/posts/emily-nz-yu_first-place-at-ivey-marketing-summit-activity-7381006689770168320--yuX",
+   "likes": 142
+  },
+  {
+   "date": "2025-09-17",
+   "text": "📈 WINNERS @ Hack the North 🪿 Investing can be intimidating. So last weekend, we built a game that teaches students how to try. At Canada’s biggest hackathon, my team built TradeOff: a stock market simulation game that helps boost financial literacy by making investing fun and educational. We used a live news sentiment engine and a Python bot to simulate price movement, with real-time data powered by AWS DynamoDB Streams. I led ideation, built the front-end in Figma, refined our pitch, and served",
+   "url": "https://www.linkedin.com/posts/emily-nz-yu_winners-hack-the-north-investing-activity-7374049522987040768-yHIW",
+   "likes": 236
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Emily Yu - RBC | LinkedIn",
+ "name": "Emily Yu"
+}

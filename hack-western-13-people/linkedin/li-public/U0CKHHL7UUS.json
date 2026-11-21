@@ -1,0 +1,51 @@
+{
+ "url": "https://ca.linkedin.com/in/danielantal2",
+ "about": "Hi, Im Daniel 👋 Im currently a 4th year Computer Science student at Western…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Hitachi Rail",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.7 GPA",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "🏆 2nd Pace Overall - DataQuest 26' 🏆 Prize Category - HackWestern 12 🏆 Finalist - Cursor for PM’s Hackathon"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-03-27",
+   "text": "8.6 Million+ that's how many injuries occurred in 2025. 50% of which could've been prevented with early fatigue and injury rehab. So in 36 hours I built HARper; a human activity recognition model which uses your phones gyroscope and accelerometer sensors to detect injury and fatigue in real-time. Here's how it works: open a free app called Sensor Logger, put your phone in your pocket, and start moving. Your phone streams motion data over WiFi to a 1D Convolutional Neural Network that classifies",
+   "url": "https://www.linkedin.com/posts/danielantal2_86-million-thats-how-many-injuries-occurred-activity-7443099547804958720-E-41",
+   "likes": 45
+  },
+  {
+   "date": "2025-11-30",
+   "text": "🚨 Your servers go down. Your phone stays silent. And your customers find out before you do. After AWS, GCP, and Cloudflare all had major outages this year, it's obvious that most teams still have no idea when something breaks until it's too late. So at HackWestern 12, my team and I built Continiuum: an AI-powered incident management platform that catches container failures in real time, explains what went wrong, and actually calls you so you never miss a critical outage again. 🏆 We won Best .tec",
+   "url": "https://www.linkedin.com/posts/danielantal2_hackwestern-hackathon-devops-activity-7401028588726300673-njn4",
+   "likes": 47
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Richmond Hill, Ontario, Canada",
+ "languages": [],
+ "page_title": "Daniel Antal - Hitachi Rail | LinkedIn",
+ "name": "Daniel Antal"
+}

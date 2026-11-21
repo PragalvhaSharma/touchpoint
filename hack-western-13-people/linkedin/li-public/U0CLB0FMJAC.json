@@ -1,0 +1,85 @@
+{
+ "url": "https://ca.linkedin.com/in/kristina-batrak",
+ "about": "Hi! I’m a third-year Computer Science student at Western University. I love everything…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western Computer Science Undergraduate Society",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": "Currently pursuing an Honors Specialization in Computer Science, with coursework covering software engineering, object-oriented programming, data structures and algorithms, computer organization and architecture, theoretical computer science, and data science. My studies have given me experience developing software in Java, Python, and C, as well as collaborating on software engineering projects."
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Legacy Responsive Web Design V8",
+   "org": "freeCodeCamp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Responsive Web Design",
+   "org": "freeCodeCamp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "LUME Projects Inc. - Business Website",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "I'm developing a responsive website for LUME Projects Inc., a business offering consulting and decluttering services. I'm building the site from scratch using HTML, CSS, and JavaScript, focusing on clean design and intuitive navigation. The homepage uses a split-screen layout to introduce both services with a design that adapts to different screen sizes. The individual service pages are still unde"
+  },
+  {
+   "title": "Personal Portfolio",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "I developed this portfolio from scratch to showcase my projects and web development skills. It features a responsive and accessible design that adapts to different screen sizes through CSS media queries and supports screen-reader navigation through semantic HTML and appropriate ARIA attributes. I also used JavaScript to implement a collapsible introductory section on smaller screens. Check out my"
+  },
+  {
+   "title": "Clementine Robot - FTC regional 1st place",
+   "org": "Sep 2022 - Jun 2023",
+   "dates": "Sep 2022 - Jun 2023",
+   "meta": [],
+   "description": "In Grade 11, I led a team in developing a robot to compete in the FIRST Tech Challenge (FTC). The challenge involved scoring points by placing cones on poles of different heights and parking in designated areas during matches. We explored several designs and built multiple prototypes before settling on an extendable robotic arm with a servo-operated claw. As the most experienced programmer on the"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://github.com/KristinaBBBB",
+  "https://kristinabatrak.com/"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-17",
+   "text": "I recently completed freeCodeCamp's Responsive Web Design certification! The course helped me learn a lot about HTML, CSS and responsive design. I've been applying all those skills by building several front-end web projects from scratch, most notably my project portfolio. I'm very excited to have reached a working version featuring my most interesting projects, and luckily, I found a perfect matching domain and bought it! Check it out at https://kristinabatrak.com Also, thank you to freeCodeCamp",
+   "url": "https://www.linkedin.com/posts/kristina-batrak_kristina-batrak-activity-7517093429856743424-1E9w",
+   "likes": 5
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [],
+ "page_title": "Kristina Batrak - Western Computer Science Undergraduate Society | LinkedIn",
+ "name": "Kristina"
+}

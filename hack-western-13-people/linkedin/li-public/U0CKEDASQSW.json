@@ -1,0 +1,153 @@
+{
+ "url": "https://ca.linkedin.com/in/ashmita-haldar",
+ "about": "https://ashmitahaldar.com A Computer Science and Entrepreneurship student at the…",
+ "experience": [
+  {
+   "title": "",
+   "org": "NiaHealth",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "National University of Singapore",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": "- NOC Toronto 12-month (August 2026) - UBS Tomorrow's Talent Program: Technology 2026 - Top 5% scorer in CS2103/T Software Engineering (AY25/26 Semester 1) - NOC Vietnam 3-month (AY24/25) - NUS SoC Technical Interview Preparation Summer 2026 - Teaching Team - Project Member at Women in Tech @ NUS Computing - Head of Operations at NUS Engineers Without Borders (AY24/25)"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Valedictorian Award",
+   "org": "Pathways World School Gurgaon",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": "Was awarded the Valedictorian award for being the highest-performing academic achiever in the Class of 2024."
+  },
+  {
+   "title": "Academic Excellence in Business Management SL",
+   "org": "Pathways World School Gurgaon",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Awarded the Excellence in Academics award for academic performance in the IB Business Management SL course over the IB Diploma program."
+  },
+  {
+   "title": "Academic Excellence in Computer Science HL",
+   "org": "Pathways World School Gurgaon",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Awarded the Excellence in Academics award for academic performance in the IB Computer Science HL course over the IB Diploma program."
+  },
+  {
+   "title": "Academic Excellence in English A Language and Literature SL",
+   "org": "Pathways World School Gurgaon",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Awarded the Excellence in Academics award for academic performance in the IB English A Language and Literature SL course over the IB Diploma program."
+  },
+  {
+   "title": "Academic Excellence in Mathematics Analysis and Approaches HL",
+   "org": "Pathways World School Gurgaon",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Awarded the Excellence in Academics award for academic performance in the IB Mathematics Analysis and Approaches HL course over the IB Diploma program."
+  },
+  {
+   "title": "Excellence in Computer Science and Robotics Award",
+   "org": "Taipei American School",
+   "dates": "May 2021",
+   "meta": [],
+   "description": "Awarded the Certificate of Honor in recognition of outstanding achievements in Computer Science and Robotics at Taipei American School during the 2020-21 school year."
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "NUS Overseas Colleges e-Certificate",
+   "org": "National University of Singapore",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Hack <CX> Together 2025",
+   "org": "Hanoi University of Science and Technology",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Chinese (Advanced)",
+   "org": "National University of Singapore",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Maritime Hackathon 2025",
+   "org": "National University of Singapore",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction To Quantum Computing",
+   "org": "The Coding School",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-28",
+   "text": "Two weeks ago, I attended two overlapping hackathons on the same weekend! Probably not my smartest decision, but one of them ended in 🏆 Best Solo Hack + 🥉 3rd place in the UofT School of Cities challenge. This post is about Hack the Valley at University of Toronto Scarborough, where I built Road Diet solo. Ever since I started living on my own and relying on public transit, I've been weirdly into urban planning. Two months in Toronto has only made it worse, so this project let me turn that into",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_two-weeks-ago-i-attended-two-overlapping-activity-7521252456517939200-up0Y",
+   "likes": 94
+  },
+  {
+   "date": "2026-09-17",
+   "text": "It's been a month now, but I've moved to Toronto as part of the NUS Overseas Colleges Toronto program, joining NiaHealth as a Software Engineering intern to learn from the best and brightest here! 🇨🇦 I actually joined the team three months prior, remotely. So by the time I landed, I'd already gotten hands-on with a range of both engineering and product problems: digging into user retention, working on time-critical infrastructure migrations, AI agent design, building order pipelines with externa",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_its-been-a-month-now-but-ive-moved-to-activity-7506186318058668032-kQTx",
+   "likes": 111
+  },
+  {
+   "date": "2026-06-02",
+   "text": "Four weeks into UBS Tomorrow's Talent Program: Technology and figured it was time to actually post about it. The project I'm building is in the space of unconscious bias in workplace decisions. The interesting part isn't the tech, it's the problem underneath it. Bias largely isn't intentional, it's a series of mental shortcuts that override what people consciously believe they're doing. Designing technology that intervenes in that, without overreaching or becoming a surveillance layer, turns out",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_four-weeks-into-ubs-tomorrows-talent-program-activity-7467555628035751937-mXm6",
+   "likes": 65
+  },
+  {
+   "date": "2026-05-09",
+   "text": "I spent 7 hours building a visual novel where the NPC is genuinely thinking. There are no dialogue options. You just type what you say to her. You arrive in a dying town. One person knows the safe route through the mountain pass. She doesn't share it with strangers. She notices when you contradict yourself. She warms up slowly, if at all — and some people never get the map. What surprised me most was watching people play it. There's a moment when Mara references something you said three turns ag",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_i-spent-7-hours-building-a-visual-novel-where-activity-7458899999800598528-PNwD",
+   "likes": 117
+  },
+  {
+   "date": "2026-01-27",
+   "text": "Last week, I had the chance to take part in two hackathons — each very different, but both incredibly rewarding learning experiences. This post focuses on the first; I'll be sharing more on the second soon. At Hack4Good 2026 hosted by Developer Group @ NUS Computing, my team worked on reducing friction in activity sign-ups for individuals and caregivers, while also easing the manual workload for staff — a real-world problem posed by MINDSG Ltd. We built Eumar: an AI chatbot and manager dashboard",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_eumar-ai-whatsapp-bot-manager-interface-activity-7421924543046397953-Wn5o",
+   "likes": 52
+  },
+  {
+   "date": "2025-10-27",
+   "text": "So proud of our team for clinching the Audience Choice award! 💪 Super proud for what we’ve built together and the potential for WalkSense later down the road. Grateful to be sharing this journey with such talented and passionate teammates 🙌🔥",
+   "url": "https://www.linkedin.com/posts/ashmita-haldar_so-proud-of-our-team-for-clinching-the-audience-activity-7388408370107572224-a_Wx",
+   "likes": 38
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Ashmita Haldar - NiaHealth | LinkedIn",
+ "name": "Ashmita Haldar"
+}

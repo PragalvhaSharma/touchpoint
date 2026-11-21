@@ -1,0 +1,60 @@
+{
+ "url": "https://ca.linkedin.com/in/lucas-vanderwielen-5b7947338",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Hack Western",
+   "dates": "",
+   "meta": [
+    "London, Ontario"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "TixUp",
+   "org": "Sep 2025 - Present",
+   "dates": "Sep 2025 - Present",
+   "meta": [],
+   "description": "Collaborated with peers to develop, design, and implement a full stack ticket reselling web app, utilizing React. (Typescript, CSS), Node.js, Express.js, PostgresSQL, following front-end development best practices. Created a platform for students to sell tickets for university run and student events. Designed secure and scalable RESTful API’s, database schemas for CRUD operations, authentication a"
+  },
+  {
+   "title": "Merger - Morphing Shapes",
+   "org": "Nov 2024 - Mar 2025",
+   "dates": "Nov 2024 - Mar 2025",
+   "meta": [],
+   "description": "Launched a fully featured IOS game, deployed to App Store, over seeing the entire mobile app development lifecycle, implemented continuous integration and deployment (CI/CD) with Xcode Cloud to automate testing and App Store releases to deliver scalable, maintainable, and high-performance systems. Developed using Swift, utilized frameworks like SwiftUI, GameKit, SwiftData, Swift Testing, XCUITest,"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-05-27",
+   "text": "Last month, I got to show off the CSUS project that my team and I have been working on all year at the first Western Computer Science Undergraduate Society (CSUS) show-and-tell event. Students came out and showcased the passion projects they've been quietly hacking away at. No pressure, no grades, just people building cool things and sharing them. I also got to debut something that the CSUS projects team and I have been working on this year. Jobless.live an AI powered interview prep tool specifi",
+   "url": "https://www.linkedin.com/posts/lucas-vanderwielen-5b7947338_last-month-i-got-to-show-off-the-csus-project-activity-7465198327811342336--OlG",
+   "likes": 8
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Canada",
+ "languages": [],
+ "page_title": "Lucas Vanderwielen - Hack Western | LinkedIn",
+ "name": "Lucas Vanderwielen"
+}

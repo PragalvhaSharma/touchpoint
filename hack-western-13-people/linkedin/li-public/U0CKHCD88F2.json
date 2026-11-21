@@ -1,0 +1,162 @@
+{
+ "url": "https://ca.linkedin.com/in/adam-porbanderwalla",
+ "about": "Check out my journey to becoming a 10,000x engineer",
+ "experience": [
+  {
+   "title": "",
+   "org": "Savify",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "1x Winner @ GenAI Genesis 2026 | 1st Google Sustainability | Solo Hacker",
+   "org": "GenAI Genesis",
+   "dates": "Mar 2026",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Project Director - CV/ML",
+   "org": "Western Computer Science Undergraduate Society",
+   "dates": "Oct 2026 - Present 2 months",
+   "meta": [],
+   "description": "Leading the Computer Vision and Machine Learning portion of CSUS 2026 Project Portfolio, Managing 2 other developers."
+  },
+  {
+   "title": "Lead Developer",
+   "org": "Western Cyber Society",
+   "dates": "Oct 2026 - Present 2 months",
+   "meta": [],
+   "description": "Working on Watchtower: a network security project Project presented at Canadian Tech Summit"
+  },
+  {
+   "title": "Developer",
+   "org": "Western AI",
+   "dates": "Oct 2026 - Present 2 months",
+   "meta": [],
+   "description": "Building PICO PARK for CUCAI"
+  },
+  {
+   "title": "UI/UX Executive & Development Executive",
+   "org": "Ignition Hacks",
+   "dates": "Feb 2026 - Aug 2026 7 months",
+   "meta": [],
+   "description": "Supporting UI/UX team design initiatives for Ignition Hacks’ digital presence Developing Landing page with Development team"
+  },
+  {
+   "title": "Director of Communications",
+   "org": "Western Strength",
+   "dates": "Oct 2025 - Present 1 year 2 months",
+   "meta": [],
+   "description": "Finance Director 25-26 Communications Director 26-27"
+  },
+  {
+   "title": "Mentee",
+   "org": "Western Developers Society",
+   "dates": "Nov 2025 - Apr 2026 6 months",
+   "meta": [],
+   "description": "Built a full-stack receipt digitization platform using Next.js, TypeScript, and Tailwind CSS, integrating Tesseract.js OCR with Groq Llama 3.3 for automated receipt extraction with 90%+ accuracy. Recognized as a finalist in an internal university course competition out of 75 participants based on technical depth and product quality."
+  },
+  {
+   "title": "Director of Campus Engagement for Western University's Chapter",
+   "org": "Habitat for Humanity Canada",
+   "dates": "Oct 2025 - Apr 2026 7 months",
+   "meta": [],
+   "description": "Supporting campus outreach initiatives by organizing fundraisers, awareness campaigns, and volunteer events that promote affordable housing and community engagement. Collaborating with the executive team to increase student involvement and strengthen Habitat for Humanity’s presence on campus. Through this role, I am developing strong leadership, communication, and event planning skills, while gain"
+  },
+  {
+   "title": "Hacker",
+   "org": "HackConcordia",
+   "dates": "Jan 2026 - Jan 2026 1 month",
+   "meta": [],
+   "description": "Participated in Canada's Largest 24hr Hackathon with over 850+ Participants. Built: FindMyProf Summary: Automates the process of cold emailing professors about research opportunities in their lab. 750+ Professors found on a database we set up by webscrapping top Canadian University faculty pages. Tech Stack: Frontend & Web Framework: Next.js 16 (App Router), TypeScript Styling: Tailwind CSS Authen"
+  },
+  {
+   "title": "Hacker",
+   "org": "UofTHacks",
+   "dates": "Jan 2026 - Jan 2026 1 month",
+   "meta": [],
+   "description": "Participated in UofT Hacks as a Hacker. Built a Web app called Reflecta that helps users journal giving them more modern day insights using AI and a Mental Health Analysis. Tech Stack: Next.js (App Router) Tailwind CSS Supabase (Postgres + Auth) Google Gemini API D-ID API Recharts"
+  },
+  {
+   "title": "Hacker",
+   "org": "BearHacks",
+   "dates": "Apr 2026 - Apr 2026 1 month",
+   "meta": [],
+   "description": "Participated in BearHacks 2026. Built a VSCode Extension that creates a local proxy server that intercepts prompts from Claude Code and give you the ability to edit everything that goes to the Anthropic API, all from a stacked modular bar graph."
+  },
+  {
+   "title": "Hacker",
+   "org": "GenAI Genesis",
+   "dates": "Mar 2026 - Mar 2026 1 month",
+   "meta": [],
+   "description": "1x Winner: 🏆 Google Best Sustainability AI Hack Built a local token compression proxy in rust. Tech Stack: Language: Rust Async Runtime: Tokio HTTP Framework: Axum TUI: Ratatui + Crossterm Parsing: tress-sitter Embeddings: fastembed Cache: Redis Containerization: Docker"
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [
+  {
+   "title": "Western Foot Patrol",
+   "org": "Patroller",
+   "dates": "Oct 2025 - Present",
+   "meta": [],
+   "description": "Providing nighttime walking escorts for students across campus, promoting safety, community engagement, and awareness as a Western Foot Patrol team member. Developing strong communication, teamwork, and situational awareness skills while maintaining professionalism and empathy in late-night environments. 1x Golden Foot Award"
+  },
+  {
+   "title": "Western Housing Facilities Management",
+   "org": "Housing Operations Commissioner - Alumni House",
+   "dates": "Nov 2025 - Apr 2026",
+   "meta": [],
+   "description": "As Housing Operations Commissioner, I work with residents and Facilities Management to gather feedback on Alumni House’s facilities, ensuring maintenance needs and improvement opportunities are identified and addressed. This role strengthens my skills in communication, stakeholder collaboration, and operational problem-solving while developing a deeper understanding of facility management and resi"
+  },
+  {
+   "title": "Residence Council",
+   "org": "Residence Floor Representative",
+   "dates": "Oct 2025 - Apr 2026",
+   "meta": [],
+   "description": "Elected as a Residence Floor Representative for Alumni House, serving as the primary liaison between students and residence council. Assisting in planning floor events, gathering feedback, and fostering a positive and inclusive living environment. Developing skills in leadership, event coordination, communication, and community engagement through consistent collaboration with peers and residence s"
+  },
+  {
+   "title": "Western Chess & Go Club",
+   "org": "Residence Representative",
+   "dates": "Sep 2024 - May 2025",
+   "meta": [],
+   "description": "Acted as Bayfield Residence Representative for the Western Chess & Go Club, supporting weekly chess sessions and encouraging student involvement from residence communities. Built skills in community engagement, communication, and team collaboration, while promoting a welcoming environment for new and experienced players."
+  }
+ ],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-01-26",
+   "text": "Breaking into research shouldn't feel like a full time job. For Garv Sharma, Mustafa Alp ARI, Ibrahim Saoud, and me, this was the problem we wanted to solve at HackConcordia (ConUHacks X). We wanted to tackle a major barrier many undergraduates face, the daunting process of finding the right supervisor and the endless cycle of manual cold emailing. That’s why we’re thrilled to introduce Find My Prof, a platform built to automate the research supervisor search. Our goal was to transform a stressf",
+   "url": "https://www.linkedin.com/posts/adam-porbanderwalla_conuhacks-hackathon-computerscience-activity-7421605049140928512-5UVv",
+   "likes": 23
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "London, Ontario, Canada",
+ "languages": [],
+ "page_title": "Adam Porbanderwalla - London, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Adam P"
+}

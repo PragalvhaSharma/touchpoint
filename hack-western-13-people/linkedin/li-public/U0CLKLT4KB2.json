@@ -1,0 +1,120 @@
+{
+ "url": "https://ca.linkedin.com/in/cole-branston",
+ "about": "I'm currently studying Engineering at Western University. I have a passion for software…",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Schulich Leader Scholarship",
+   "org": "The Schulich Foundation",
+   "dates": "May 2023",
+   "meta": [],
+   "description": "Schulich Leader Scholarships worth $120,000, are Canada’s most coveted undergraduate STEM scholarships. One hundred are awarded to entrepreneurial-minded high school graduates enrolling in a Science, Technology, Engineering or Math program at 20 partner universities across Canada."
+  },
+  {
+   "title": "Giopalm Scholarship",
+   "org": "Giopalm Group Inc.",
+   "dates": "Apr 2023",
+   "meta": [],
+   "description": "In recognition of academics, hard work, and outstanding leadership in the workplace."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Programming Instructor",
+   "org": "Thames Valley District School Board",
+   "dates": "Sep 2024 - Present 2 years 3 months",
+   "meta": [],
+   "description": "• Leading advanced lessons for elementary students, surpassing grade-level expectations by 4 to 5 years. • Speaking to classes, presenting slideshows, and educating 50+ students • Working alongside teachers to develop dynamic lesson plans for multiple grade 7 classes"
+  },
+  {
+   "title": "Co-President and Founder",
+   "org": "UWO Tech",
+   "dates": "Sep 2023 - Present 3 years 3 months",
+   "meta": [],
+   "description": "• Founded Western TECH, growing to 100+ members, focusing on giving experiential learning in AI, Web 3, and project development to younger students • Orchestrating club operations among a board of 8 vice-presidents and co-presidents • Leveraging strategic marketing, networking, and leadership to effectively promote the club"
+  },
+  {
+   "title": "Volunteer",
+   "org": "Property Maintenance",
+   "dates": "May 2019 - Aug 2024 5 years 4 months",
+   "meta": [],
+   "description": "• 100+ volunteer hours in home maintenance for elderly neighbour. • Included but was not limited to lawn-cutting, mowing and blowing, trimming, de-weeding, and mulching."
+  },
+  {
+   "title": "Peer Tutor",
+   "org": "Volunteer",
+   "dates": "Jul 2023 - Jul 2023 1 month",
+   "meta": [],
+   "description": "• Offered daily tutoring to multiple peers while progressing through their online math course. • Applied multiple learning strategies to ensure their success, with one achieving a final grade 10% higher than their average."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Spring Boot",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-11",
+   "text": "Wrapping up an impactful term as a Software Engineering Intern at Royal Bank of Canada 🚀 During my time on the Cyber Insights and Automation (CIA) team, I had the opportunity to: - Develop features and fixes across 150+ ETL pipelines built with Apache Airflow and Spring Boot, deployed on OpenShift, ingesting data from enterprise APIs into SQL Server to support security compliance reporting and internal infrastructure across North America. - Prototype an internal AI agent automation platform usin",
+   "url": "https://www.linkedin.com/posts/cole-branston_wrapping-up-an-impactful-term-as-a-software-activity-7504281472250302464-mCk9",
+   "likes": 58
+  },
+  {
+   "date": "2025-12-29",
+   "text": "Wrapping up an impactful term as a Software Engineering Intern at Scotiabank 🚀 During my time at Scotiabank, I had the opportunity to: • Lead the end-to-end implementation of semantic search for Scotiabank’s enterprise search platform, used by 89,000+ employees. • Design and build a document chunking and vector embedding pipeline to support KNN retrieval and re-ranking. • Design and deploy a dedicated Apache Solr index to support semantic and hybrid search, including custom schemas, ranking logi",
+   "url": "https://www.linkedin.com/posts/cole-branston_wrapping-up-an-impactful-term-as-a-software-activity-7411267143129935872-wzAG",
+   "likes": 154
+  },
+  {
+   "date": "2025-05-10",
+   "text": "🎉 Exciting Update! 🎉 I’m excited to share that I’ll rejoin Sun Life Financial this summer as a software engineering intern on the eBusiness team! My previous internship was an incredible learning experience. Now, I’m eager to dive back in, collaborate with such a skilled group, and help build the digital solutions that power Sun Life’s customer experiences. I can’t wait to tackle new projects, expand my technical toolkit, and contribute to the intersection of finance and technology. A big thank-",
+   "url": "https://www.linkedin.com/posts/cole-branston_exciting-update-im-excited-to-share-activity-7327028119490473984-2Fw8",
+   "likes": 76
+  },
+  {
+   "date": "2024-09-01",
+   "text": "What a journey it’s been! As I wrap up my four-month internship at Sun Life, I can’t help but reflect on the incredible experiences and lessons I’ve gained along the way. I remember the excitement of landing this opportunity, and soon after, the nerves kicked in. Starting something new always comes with a bit of anxiety, but I’m so glad I took the leap. Sun Life’s internship program exceeded my expectations with its supportive environment, focus on professional growth, and commitment to impactfu",
+   "url": "https://www.linkedin.com/posts/cole-branston_what-a-journey-its-been-as-i-wrap-up-my-activity-7235906532603826177-Mfc0",
+   "likes": 151
+  },
+  {
+   "date": "2024-04-12",
+   "text": "I’m excited to announce that I will be joining Sun Life as an API Developer Intern this summer! I'd like to thank Nassima Younes and James McGill for the opportunity and guidance throughout the application process. I can’t wait to meet the team, learn, and develop my skills while contributing in a meaningful way to Sun Life’s clients and communities! #SunLifeCampus",
+   "url": "https://www.linkedin.com/posts/cole-branston_sunlifecampus-activity-7184644992798195712-0DsC",
+   "likes": 32
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Cole Branston - Canada | Professional Profile | LinkedIn",
+ "name": "Cole Branston"
+}

@@ -1,0 +1,90 @@
+{
+ "url": "https://www.linkedin.com/in/eric-chen11",
+ "about": "https://www.eric-chen.ca/ I’m a 3rd-year Computer Science student at Western…",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Hack the North RBC Winner",
+   "org": "Hack the North",
+   "dates": "Sep 2026",
+   "meta": [],
+   "description": "Won RBC’s “Signal in the Noise” track at Hack the North 2026, Canada’s largest hackathon, with Signal. Signal is an agentic multi-agent research harness for financial research that shows the citations, sources and step-by-step reasoning behind its AI agents’ conclusions. Built in 36 hours with Liam Ma and Arhum Nouman."
+  },
+  {
+   "title": "Jamhacks 8 Best Development Tool",
+   "org": "Jamhacks 8",
+   "dates": "Jun 2024",
+   "meta": [],
+   "description": "Best Development Tool @ JAMHacks 8 Sensor-equipped ergonomic mouse that tracks hand position and pressure to flag strain risks in real time, with a web dashboard for analytics and posture tips."
+  },
+  {
+   "title": "Hack the 6ix 2023 MLH Best Accessibility Hack",
+   "org": "MLH @ Hack the 6ix",
+   "dates": "Aug 2023",
+   "meta": [],
+   "description": "MLH Best Accessibility Hack @ Hack the 6ix 2023 Navigation robot for visually impaired users: an ESP32 robot controlled over Bluetooth, with TensorFlow object recognition describing nearby objects."
+  },
+  {
+   "title": "2nd Place + Best Theme of Smart Cities at YRHacks",
+   "org": "York Region District School Board",
+   "dates": "Mar 2023",
+   "meta": [],
+   "description": "IWitness - A web application that uses TensorFlow's computer vision to track the movements and actions of people and report to a console when the person's actions are deemed suspicious. It can also track when someone has fallen over. It was built using HTML+CSS, JavaScript, and TensorFlow."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Volunteer",
+   "org": "Taste of Asia",
+   "dates": "Jun 2022 - Jun 2022 1 month",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Volunteer",
+   "org": "Michael Chan Campaign",
+   "dates": "Sep 2022 - Oct 2022 2 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "eric-chen.ca",
+  "https://github.com/cloudec11"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-22",
+   "text": "Hack the North 2026 was this weekend where my teammates Liam Ma, Arhum Nouman and I made Signal. Signal is an agentic multi-agent research harness allowing users to see citations, sources, and overall thinking process of their AI agents for use in financial research. Signal was built for RBC's Signal (lol) in the Noise, Elastic Find the Signal, Rox Best AI Agent, Huawei openJiuwen multi-agent challenges. Of which we ended up winning the RBC track! Thank you to my amazing teammates, everyone invo",
+   "url": "https://www.linkedin.com/posts/eric-chen11_signal-activity-7507998968694595584-eDNL",
+   "likes": 17
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Markham, Ontario, Canada",
+ "languages": [],
+ "page_title": "Eric Chen - RBC | LinkedIn",
+ "name": "Eric Chen"
+}

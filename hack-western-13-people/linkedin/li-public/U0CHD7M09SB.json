@@ -1,0 +1,273 @@
+{
+ "url": "https://ca.linkedin.com/in/dhruv-thakar-ba46aa296",
+ "about": "I’m a third-year Computer Science student at Ontario Tech University specializing in Data…",
+ "experience": [
+  {
+   "title": "",
+   "org": "TD",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [],
+ "awards": [
+  {
+   "title": "Market Master Award",
+   "org": "OpenClaw",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Awarded for demonstrating exceptional market validation, business viability, customer understanding, and commercialization potential during the OpenClaw AI Toronto Hackathon."
+  },
+  {
+   "title": "Security Master Award",
+   "org": "OpenClaw AI Toronto Hackathon",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Awarded for implementing strong security practices, risk mitigation strategies, and secure system architecture within a hackathon project."
+  },
+  {
+   "title": "UX Master Award",
+   "org": "OpenClaw AI Toronto Hackathon 2026",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Recognized for outstanding user experience design, usability, accessibility, and user-centered product development during the OpenClaw AI Toronto Hackathon."
+  },
+  {
+   "title": "x402 Master Award",
+   "org": "OpenClaw AI Toronto Hackathon",
+   "dates": "May 2026",
+   "meta": [],
+   "description": "Recognized for innovative implementation of the x402 payment protocol and machine-to-machine payment workflows during the OpenClaw AI Toronto Hackathon."
+  },
+  {
+   "title": "GitHub Developer Program Member",
+   "org": "Github",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Recognized as a member of the GitHub Developer Program, which provides access to developer resources, beta features, and opportunities to test and build with GitHub Apps and APIs."
+  },
+  {
+   "title": "NVIDIA Developer Program Member",
+   "org": "NVIDIA",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Member of the NVIDIA Developer Program, gaining access to SDKs, tools, and resources for AI, deep learning, accelerated computing, and graphics development."
+  },
+  {
+   "title": "Canadian Computing Competition participant",
+   "org": "University of Waterloo",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "CSCI Outreach Volunteer",
+   "org": "Ontario Tech University",
+   "dates": "Apr 2025 - Apr 2025 1 month",
+   "meta": [],
+   "description": "Supported prospective students during a university open house event designed to drive acceptances to the Computer Science program. Responsibilities included: Represented the Faculty of Science at the information booth, answering questions and offering insights into student life. Assisted in organizing and executing interactive CSCI sessions, including problem-solving and hands-on paper airplane ac"
+  },
+  {
+   "title": "CSCI Outreach Volunteer",
+   "org": "Ontario Tech University",
+   "dates": "Oct 2024 - Oct 2024 1 month",
+   "meta": [],
+   "description": "Volunteered as part of Ontario Tech’s Fall Open House event, supporting prospective students and their families in exploring academic programs, labs, and campus life. Responsibilities included: Assisted at program-specific booths, providing helpful insights about student life and academic experience. Participated in organizing and guiding Lab Demo Tours, ensuring smooth transitions between locatio"
+  },
+  {
+   "title": "Panelist",
+   "org": "Fletcher's Meadow Secondary School",
+   "dates": "May 2025 - May 2025 1 month",
+   "meta": [],
+   "description": "Invited as a panelist for the \"Life After FMSS\" event in May 2025, where I spoke to Grade 11 and 12 students at Fletcher's Meadow Secondary School about transitioning from high school to post-secondary education and the workforce. I shared insights based on my current experience as a Computer Science Student at Ontario Tech University, highlighting the realities of university/college life, time ma"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Accenture Nordics - Software Engineering Job Simulation",
+   "org": "Accenture",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "AWS - Solutions Architecture Job Simulation",
+   "org": "Amazon Web Services (AWS)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Datacom - Introduction to Cloud Job Simulation",
+   "org": "Datacom",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Datacom - Software Development Job Simulation",
+   "org": "Datacom",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Electronic Arts - Software Engineering Job Simulation",
+   "org": "Electronic Arts (EA)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Skyscanner - Front-End Software Engineering Job Simulation",
+   "org": "Skyscanner",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Full Stack Developer",
+   "org": "OneRoadmap",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Java(Basic)",
+   "org": "HackerRank",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Python(Basics)",
+   "org": "HackerRank",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction to Generative AI",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "File Compression Tool (Huffman Coding)",
+   "org": "Sep 2025",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Developed a Java-based file compression tool implementing Huffman Coding for lossless text compression and decompression. Designed with OOP principles and applied data structures (PriorityQueue, HashMap, Binary Tree) to build efficient Huffman Trees. The project demonstrates strong understanding of algorithms, file handling, and modular software design."
+  },
+  {
+   "title": "QR Code Generator (Node.js CLI App)",
+   "org": "Sep 2025 - Present",
+   "dates": "Sep 2025 - Present",
+   "meta": [],
+   "description": "Built a Node.js command-line app using Inquirer to take user input. Generated QR codes from URLs with the qr-image npm package. Implemented file handling with fs to save the QR code as a PNG and store the input URL in a .txt file. Demonstrated use of JavaScript, npm modules, and file system operations."
+  },
+  {
+   "title": "Computer Science True or False Quiz (Python)",
+   "org": "Aug 2025",
+   "dates": "Aug 2025",
+   "meta": [],
+   "description": "A simple interactive Computer Science Quiz written in Python. This program asks multiple-choice questions, checks answers, and gives the user a score with feedback at the end. Features: Multiple-choice quiz with 5 computer science questions. Immediate feedback after each question (✅ Correct / ❌ Wrong). Final score with performance evaluation. Lightweight and console-based (no extra libraries requi"
+  },
+  {
+   "title": "Personal Portfolio Website",
+   "org": "Jun 2025",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Designed and developed a personal portfolio website to showcase my projects, resume, and contact information in a professional and accessible format. Built with semantic HTML5 and styled using external CSS, the website features smooth navigation and a responsive layout for all devices. Key features include: About Section: A brief introduction and academic background. Projects Section: Highlights k"
+  },
+  {
+   "title": "Contact Manager App – Java",
+   "org": "Jun 2024 - Present",
+   "dates": "Jun 2024 - Present",
+   "meta": [],
+   "description": "A fully functional Java console application designed to manage a contact list using object-oriented programming principles. The app supports: Adding, updating, searching, and displaying contacts Search by name (binary & linear search) and phone number Uses recursive bubble sort to sort contacts alphabetically Stores multiple addresses per contact using arrays Demonstrates practical use of encapsul"
+  },
+  {
+   "title": "Common Algorithms Library (Java)",
+   "org": "May 2024",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Created a Java-based library featuring classic algorithms for searching, sorting, shuffling, reversing, and merging arrays. Designed as a hands-on learning resource to explore core programming concepts through implementation and testing. Key features: Sorting algorithms: Selection Sort, Insertion Sort, Bubble Sort for int, char, and String arrays Searching algorithms: Sequential Search, Binary Sea"
+  },
+  {
+   "title": "IphonePhone – Java OOP",
+   "org": "May 2024",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Designed and implemented a Java class simulating a modern iPhone, demonstrating key object-oriented programming principles such as encapsulation, constructors, accessor/mutator methods, instance methods, and overridden equals() and toString() methods. Features include app installation/uninstallation, flashlight control, battery and storage monitoring, and airplane mode simulation."
+  },
+  {
+   "title": "Numeric Data Manipulation GUI (Java)",
+   "org": "Jun 2024 - Jul 2024",
+   "dates": "Jun 2024 - Jul 2024",
+   "meta": [],
+   "description": "Designed and developed an interactive Java Swing-based GUI application to perform various numeric operations including: - Prime number and perfect square detection - Factorial and digit manipulation (sum, reverse, product) - Trigonometric calculations - Input validation and dynamic result display This project helped sharpen my skills in Java, GUI design, and algorithm implementation."
+  },
+  {
+   "title": "Police Strobe-Style LED Flasher Circuit Using Dual 555 Timers",
+   "org": "May 2024 - Jun 2024",
+   "dates": "May 2024 - Jun 2024",
+   "meta": [],
+   "description": "Project Type: Electronics Lab Project / Circuit Design Tools Used: Breadboard, 555 Timer ICs, Resistors, Capacitors, LEDs This project involves building a dual 555 timer-based LED flasher circuit, simulating the alternating red and blue strobe effect seen in police vehicle lights. Two astable multivibrator circuits are used with different timing configurations to achieve the alternating flash patt"
+  },
+  {
+   "title": "Sumo Bot Development & Competition Project",
+   "org": "Jun 2023 - Jun 2023",
+   "dates": "Jun 2023 - Jun 2023",
+   "meta": [],
+   "description": "Designed and developed an autonomous sumo robot capable of competing in sumo-style wrestling matches. The goal was to build a compact, robust robot that could detect, track, and push opponents out of a defined arena using strategic programming and precise mechanical design. The project emphasized hands-on experience in robotics, combining mechanical engineering, programming, and sensor integration"
+  },
+  {
+   "title": "Airline-Reservation-System- Console Based",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "A console-based Airline Reservation System built with Python using Object-Oriented Programming (OOP)."
+  }
+ ],
+ "publications": [],
+ "organizations": [
+  {
+   "title": "Google Developer Program",
+   "org": "Member",
+   "dates": "Jul 2025 - Present",
+   "meta": [],
+   "description": "Joined the Google Developer Program to stay connected with the latest tools, technologies, and resources from Google. Actively exploring and building projects using Google APIs, Firebase, and Android development tools. Engaging with the global developer community through events and learning platforms."
+  }
+ ],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-11-07",
+   "text": "Excited to Announce My Next Chapter at TD! 💚 I'm thrilled to share that I've officially accepted an offer to join TD Bank as a Software Engineer Intern/Co-op for the Winter 2027 term! As a third-year Computer Science student at Ontario Tech University, specializing in Artificial Intelligence, this opportunity marks an exciting milestone in my journey toward becoming a software engineer. Over the past year, I've had the opportunity to gain valuable industry experience at ZenduIT / GoFleet, workin",
+   "url": "https://www.linkedin.com/posts/dhruv-thakar-ba46aa296_td-softwareengineering-softwareengineerintern-activity-7524905267520602112-1H9M",
+   "likes": 228
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ", ,",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [
+  "Gujarati",
+  "Hindi",
+  "Punjabi",
+  "French"
+ ],
+ "page_title": "Dhruv Thakar - TD | LinkedIn",
+ "name": "Dhruv Thakar"
+}

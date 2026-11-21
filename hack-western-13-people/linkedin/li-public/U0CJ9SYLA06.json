@@ -1,0 +1,60 @@
+{
+ "url": "https://ca.linkedin.com/in/jeffreyllin",
+ "about": "jeffreylin.dev",
+ "experience": [
+  {
+   "title": "",
+   "org": "Tesser (YC W27)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "2024 - 2026",
+   "meta": [],
+   "description": "rage quit"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-16",
+   "text": "I'm excited to share that I'll be joining Y Combinator's Winter 2027 batch to build Tesser (YC W27) with Rohan Godha! Tesser lets you run multiple worktrees in parallel by offloading dev servers and other heavy workloads to isolated cloud VMs. We handle networking and port forwarding so you or a teammate can interact with any server locally. Compatible with any agentic coding setup you may have, cloud or local :) We're expanding our private beta, request early access at tesser(.)sh",
+   "url": "https://www.linkedin.com/posts/jeffreyllin_im-excited-to-share-that-ill-be-joining-activity-7516938788061761536-OXm9",
+   "likes": 1627
+  },
+  {
+   "date": "2025-12-27",
+   "text": "Sold another side project! A few months ago, I joined Rohan Godha to build brainrot(.)mov, a tool to generate short form videos with Peter & Stewie Griffin voiceovers. Rohan used this to scale his instagram aws_peter to 70k+ followers, with our other users growing to 100k+ followers. We grew to a peak of $1k MRR in a few months (with no marketing except one reel). After learning all we wanted to learn from the project, we decided it was time to let it go and work on bigger things. Onwards!",
+   "url": "https://www.linkedin.com/posts/jeffreyllin_sold-another-side-project-a-few-months-activity-7410726180309516288-k3sf",
+   "likes": 453
+  },
+  {
+   "date": "2025-09-01",
+   "text": "I’m excited to announce that I'm joining Shopify as a SWE intern on the Assistants team, where I’ll be working on AI for commerce 🤖 Thanks so much to Abby Leete and Yida Wang for the smooth recruiting process! Of course thanks to Allie Speers for the encouragement (and pizza!) Anyways here's some stuff I've been up to: - Scaled a project with Rohan Godha to $1,000 MRR in three months - Attended the YC AI SUS in SF (I just biked around the Golden Gate with Jeremy Su) - Went back a few weeks after",
+   "url": "https://www.linkedin.com/posts/jeffreyllin_im-excited-to-announce-that-im-joining-activity-7368364468361252864-PcDt",
+   "likes": 190
+  },
+  {
+   "date": "2025-03-17",
+   "text": "Shopify ordered us pizza for our side project.. ⁉️ 😭 🍕 Two weeks ago, Jeremy and I created UWSummit, a platform where you can rank UWaterloo students against eachother. In just the first 24 hours of it’s release, UWSummit gained: ✏️ 500 user signups 🚶‍➡️5k visitors 👀 40k page views And since it’s release two weeks ago, these numbers have near 🔥doubled🔥 ‼️ So what does the future bring...? Well, I'm excited to announce that UWSummit has been acquired by Linkd (YC X25) 🚀 ‼️ Big updates will come s",
+   "url": "https://www.linkedin.com/posts/jeffreyllin_shopify-ordered-us-pizza-for-our-side-project-activity-7307400449349828608-esEz",
+   "likes": 394
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Jeffrey Lin - Tesser (YC W27) | LinkedIn",
+ "name": "Jeffrey Lin"
+}

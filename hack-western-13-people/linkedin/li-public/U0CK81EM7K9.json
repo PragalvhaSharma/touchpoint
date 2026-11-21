@@ -1,0 +1,85 @@
+{
+ "url": "https://ca.linkedin.com/in/jack-ruttan",
+ "about": "Working on AI systems at Lifemark, studying CS and math at Western, and managing projects…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Lifemark Health Group",
+   "dates": "",
+   "meta": [
+    "Greater Toronto Area, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Project Manager",
+   "org": "Western AI",
+   "dates": "Sep 2026 - Present 3 months",
+   "meta": [],
+   "description": "Leading a team of student researchers writing a paper on how AI agents adapt to partner information."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-29",
+   "text": "After working on a lot of serious hackathon projects, I wanted to do something more fun for Hack the North this year and we ended up winning first place in Cloudflare and Linq's tracks. We built Whim, which we jokingly referred to as “innovation for group chats.” The idea was to see how much we could make possible through just the interface of an iMessage group chat. Whim is a super connected agent that can plan dinner, buy you an outfit, or make custom games for everyone to play for when the pl",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_after-working-on-a-lot-of-serious-hackathon-activity-7510759949011021824-gpvD",
+   "likes": 25
+  },
+  {
+   "date": "2026-07-05",
+   "text": "A bit of a late announcement, but this summer and fall I’ll be working with Lifemark Health Group as an AI Systems Engineer & Consultant. I’ll be translating business problems into software, planning out technical solutions, and building them end to end for the Medical Assessment Division. I’m excited to continue working on real problems in healthcare where the impact is tangible.",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_a-bit-of-a-late-announcement-but-this-summer-activity-7479570252473978881-BxQx",
+   "likes": 60
+  },
+  {
+   "date": "2026-06-17",
+   "text": "I went 0/200 on internships through job portals over the past year. Every opportunity I had came from someone vouching for me or me reaching out directly and making a case for myself. I posted about a project I built a few months ago. A stranger saw it, messaged me, and we ended up building a company together. Maybe my resume wasn’t good enough, maybe I got unlucky, maybe I was applying the wrong way, maybe I didn't apply early enough. What I do know is that application portals never led to a si",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_i-went-0200-on-internships-through-job-portals-activity-7473052036226363393-mY4x",
+   "likes": 75
+  },
+  {
+   "date": "2026-05-28",
+   "text": "Still searching for a summer internship? If you’re a student with experience or interest in startups and growth, you qualify. We’re looking for someone to own growth at Primate this summer. You’d be running outreach, content, and GTM strategy alongside the founding team. Real experience + performance stipend + equity. Comment Growth and I’ll DM you!",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_still-searching-for-a-summer-internship-activity-7465842959247130625-ZEtP",
+   "likes": 42
+  },
+  {
+   "date": "2026-04-28",
+   "text": "I've been building something new alongside Conor Roberts and Jeremy Bell. Teams are shipping more AI generated code every week. It looks fine in a pr diff, passes coderabbit, but nothing checks if it broke your UI. Primate runs on every PR, sends an agent through the parts your changes affected, and shows you what actually broke before you merge. Waitlist is open on our site. We're giving out 20 beta codes in the next few weeks, dm me for one.",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_ive-been-building-something-new-alongside-activity-7455042299803287552-Shla",
+   "likes": 28
+  },
+  {
+   "date": "2026-04-18",
+   "text": "I had a little bit of time between exams so I decided to learn Go. I built this little project that I thought was pretty cool. If you have a spec for any server (local or public), you can use this CLI to turn it into a working MCP server in one command.",
+   "url": "https://www.linkedin.com/posts/jack-ruttan_i-had-a-little-bit-of-time-between-exams-activity-7451385501175115777-vEZX",
+   "likes": 37
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Hamilton, Ontario, Canada",
+ "languages": [],
+ "page_title": "Jack Ruttan - Lifemark Health Group | LinkedIn",
+ "name": "Jack Ruttan"
+}

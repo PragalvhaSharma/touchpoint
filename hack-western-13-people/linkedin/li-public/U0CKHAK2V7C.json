@@ -1,0 +1,112 @@
+{
+ "url": "https://ca.linkedin.com/in/owen-li-waterloo",
+ "about": "👋 Hey, I'm Owen, a Management Engineering student @ UWaterloo pursuing product…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Beacon Health (YC W26)",
+   "dates": "",
+   "meta": [
+    "New York, New York, United States"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Hackathon Wins (6x)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "uOttaHacks 8 (1st overall, 700+ participants) uOttaHacks 8 (2nd - Thales innovation track) LA Hacks 2026 (1st - fetch.ai OmegaClaw track, 1000+ participants) Hack Princeton 2026 (Top 6 - Best use of Google Gemini, 1200+ participants) Opennote (YC S25) Build Sprint (1st overall) Shopify 2026 CUTC Hackathon (3rd overall)"
+  },
+  {
+   "title": "Jane Street Estimation 2025",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "6th - Data Science Club"
+  },
+  {
+   "title": "Laurier Supply Chain Case 2025",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "3rd Place - Laurier Supply Chain"
+  },
+  {
+   "title": "President's Scholarship of Distinction",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Campus Ambassador",
+   "org": "Opennote (acquired by Reducto)",
+   "dates": "Mar 2026 - May 2026 3 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Web Dev + Events Director",
+   "org": "UW Product Management Club",
+   "dates": "Sep 2025 - Oct 2026 1 year 2 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-11-18",
+   "text": "I'm excited to join Beacon Health (YC W26) as a Product Engineering Intern in New York City!🗽 Really grateful to all my family, friends, and mentors who have supported me, and thank you to Obinna and Mark for making this happen! Super stoked to be a part of this amazing team this winter!",
+   "url": "https://www.linkedin.com/posts/owen-li-waterloo_im-excited-to-join-beacon-health-yc-w26-activity-7528861555933958144-emSP",
+   "likes": 194
+  },
+  {
+   "date": "2026-05-16",
+   "text": "We won LA Hacks. Our team built Edith, a real-time AI assistant that runs on Meta Ray-Ban glasses. You speak naturally, the glasses see what you see, and Edith handles the rest, looking up who you just met, sending follow-up emails, booking reservations, all without touching your phone. Built on Fetch.ai's OmegaClaw reasoning system and ASI Agentverse, Edith is not a voice interface. It is a fully agentic pipeline that interprets intent, delegates to specialized agents, and executes actions end",
+   "url": "https://www.linkedin.com/posts/owen-li-waterloo_we-won-la-hacks-our-team-built-edith-a-activity-7461526906249781248-PSqX",
+   "likes": 115
+  },
+  {
+   "date": "2026-04-08",
+   "text": "I'm excited to share that I’ll be joining Thales as a Data Science Intern in Ottawa this summer! Incredibly grateful to everyone who supported me along the way and helped make this possible. Excited for what’s ahead!",
+   "url": "https://www.linkedin.com/posts/owen-li-waterloo_im-excited-to-share-that-ill-be-joining-activity-7447440480151289856-RGAz",
+   "likes": 228
+  },
+  {
+   "date": "2026-03-25",
+   "text": "We built Vit. Version control for DaVinci Resolve. Git, but for video editors. Professional video production is broken. Editors, colorists, and sound designers work sequentially. One person finishes, hands off, and waits. Software developers solved this 30 years ago with Git. Video editors have nothing. So we fixed it. vit serializes your DaVinci Resolve timeline into domain-split JSON files. Each role owns a different file: Editor → cuts.json Colorist → color.json Sound designer → audio.json Ev",
+   "url": "https://www.linkedin.com/posts/owen-li-waterloo_we-built-vit-version-control-for-davinci-activity-7442571079161827328-pXwR",
+   "likes": 314
+  },
+  {
+   "date": "2026-03-06",
+   "text": "The world moves fast. So should you. On Monday our team won a live sprint co-hosted by Waterloo Venture Group and Opennote (Y Combinator S25), competing against teams across Waterloo. During the event I had a conversation with Vedant Vyas, Opennote's Co-Founder, about pitching, what works, what doesn't, and how he approached YC. 30 minutes later we were pitching our hackathon project to a team at Thales. No time to overthink it. Just apply and go. They were impressed. Couldn't have done it witho",
+   "url": "https://www.linkedin.com/posts/owen-li-waterloo_the-world-moves-fast-so-should-you-on-activity-7435515983013859328-7KQv",
+   "likes": 132
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Owen Li - Beacon Health (YC W26) | LinkedIn",
+ "name": "owen.li1"
+}

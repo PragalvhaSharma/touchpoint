@@ -1,0 +1,67 @@
+{
+ "url": "https://ca.linkedin.com/in/melina-f-53372b20a",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western Cyber Society",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "AI Beauty Consultant",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Built an AI-powered beauty consultant application in Python that provides personalized recommendations based on user input. Explored how AI/ML techniques can be applied to a practical, consumer-facing use case — moving beyond theoretical coursework into a real application users could actually interact with. Designed and built independently, from concept through implementation."
+  },
+  {
+   "title": "Code-Red — Educational Typing Game",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Built a Java-based educational typing game with a JavaFX graphical interface, designed to help students improve typing speed and accuracy through gameplay. Included both a student gameplay mode and a teacher administration mode, along with difficulty levels and leaderboards to keep students engaged and motivated to improve. Implemented persistent data storage so progress and scores carry over betw"
+  },
+  {
+   "title": "DJ Analyzer — Audio Analysis & Stem Separation Tool",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Built a Python tool that processes music files to extract key audio metadata — BPM (tempo), musical key, and Camelot key — used by DJs and producers for beatmatching and harmonic mixing. Integrated Demucs, a deep learning-based audio source separation model, to optionally split tracks into individual stems (vocals, drums, bass, etc.). Metadata is written incrementally to a structured JSON output a"
+  },
+  {
+   "title": "SpendPal (SnapCart) — Grocery Receipt Budget Tracker",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Built a budget-tracking application that solves a common problem: manual grocery expense tracking is tedious, which causes people to lose track of spending and fall off their budgets. The app automates the tedious part — parsing grocery receipts to log transactions — so users can see their spending patterns without manual data entry. Used MongoDB to store and manage transaction and budget data, en"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": ", ,",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [],
+ "page_title": "Melina F. - Western Cyber Society | LinkedIn",
+ "name": "melinafathi3825"
+}

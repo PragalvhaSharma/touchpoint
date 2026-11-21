@@ -1,0 +1,97 @@
+{
+ "url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b",
+ "about": "hey i'm Andrew! I love math, ML(computer vision specifically), learning and building…",
+ "experience": [
+  {
+   "title": "",
+   "org": "University of Toronto Machine Intelligence Student Team (UTMIST)",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Toronto",
+   "org": "3.97",
+   "dates": "2025 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Vesper",
+   "org": "Mar 2026 - May 2026",
+   "dates": "Mar 2026 - May 2026",
+   "meta": [],
+   "description": "AI content workflow that continuously monitor your Slack channels for post-worthy signals (customer wins, product launches, hiring news, etc.) and turns them into ready-to-review LinkedIn drafts. Architecture: - classification pipeline to classify whether the messages are post-worthy and type of content - AI agent to search and understand the context for given content signal and build up context f"
+  },
+  {
+   "title": "ticket booking system",
+   "org": "Nov 2025 - Dec 2025",
+   "dates": "Nov 2025 - Dec 2025",
+   "meta": [],
+   "description": "• Built a distributed ticket booking system with independent booking, order, and inventory microservice to ensure scalability and separation of concern • Engineered an event driven architecture using Apache Kafka to decouple booking ingestion from order processing, enabling the system to handle high concurrency traffic • Developed a centralized API Gateway using Spring Cloud Gateway MVC to handle"
+  },
+  {
+   "title": "Taiwanese bankrupt dataset analysis",
+   "org": "Aug 2025 - Sep 2025",
+   "dates": "Aug 2025 - Sep 2025",
+   "meta": [],
+   "description": "Analyzing the taiwanese bankrupt dataset using python libraries including pandas, matplotlib, and seaborn to visualize the relationship between different features with bankruptcy. Using feature engineering to choose most relevant features and group them to category and using statistical method to get to the conclusion how important are different features related to bankruptcy and what category is"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-10-31",
+   "text": "Renting in Toronto is tough, and the first time renters usually learned the rules the hard way. At Hack the Valley, my teammates and I built Rentin’ ToRentino to solve this problem. Rentin’ ToRentino turns the Toronto rental landscape into a fully interactive game, including spotting scam listings, decision making for rent/commute compromise, and simulated negotiation with landlords. We processed the housing data from the City of Toronto to make the game realistic, and we integrated Google Gemin",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_hackthevalley-htv11-hackathon-activity-7522390098424934402-TiT2",
+   "likes": 8
+  },
+  {
+   "date": "2026-06-26",
+   "text": "I always argue with my friends that you don’t really learn things by just watching 3Blue1Brown video But don’t get me wrong, I really love how 3Blue1Brown break down the complex math idea and use beautiful animation for explanation, but I believe real learning only happens when you further explore the ideas and try out things yourself. Last weekend, I watched the video about convolution by 3Blue1Brown, and it drove my curiosity to dive into other related topics like Fourier transform, learning a",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_i-always-argue-with-my-friends-that-you-don-activity-7476375462768836608-gMoO",
+   "likes": 6
+  },
+  {
+   "date": "2026-05-29",
+   "text": "How to build a 100 billion dollar company? Well, I have no idea. This Tuesday in Toronto Tech Week, Databricks co-founder Reynold Xin and Ada CEO Mike Murchison talked about their Entrepreneur journey and how we can build the next billion dollar company. There are two things that stood out to me. 1. Who you surround yourself with matters. Reynold mentioned you should be around people who work harder than you and who deeply believe in some crazy things like building a billion dollar company. Thes",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_how-to-build-a-100-billion-dollar-company-activity-7465943093893328898-nSLI",
+   "likes": 7
+  },
+  {
+   "date": "2026-05-13",
+   "text": "Last Weekend, I had a chance to participate in the IBM X UNSA hackathon with my best friend(claude code, codex). For most immigrants/refugees who just arrived in Canada, they had no idea how the society and government system in Canada works, and this brought them lots of troubles and missed out tons of opportunities. For example, Most immigrants don’t know they need a family doctor until they get sick, miss out on government benefits because they don’t know how to file taxes, or miss the deadlin",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_last-weekend-i-had-a-chance-to-participate-activity-7460184904396607490-TbmK",
+   "likes": 7
+  },
+  {
+   "date": "2026-04-28",
+   "text": "Last Friday, I had a chance to participate in Vercel’s Zero to Agent event and visit the Stan Toronto office. For people who built a startup before, you know your initial idea SUCKS. Most startups have to pivot their idea over 10 times to even get the first customer. This is why I built GhostFounder. It helps you validate your idea by finding the customer’s pain point, market size, competitor analysis, find you potential customers, and pivot your startup to better idea with detail implementation",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_last-friday-i-had-a-chance-to-participate-activity-7454749486343626752-f2vq",
+   "likes": 2
+  },
+  {
+   "date": "2026-04-21",
+   "text": "With my freshman year at UofT coming to the end, one thing I learned most this year is to make a plan for every goal you have. It doesn’t have to be master or perfect, and it may change drastically as you start working toward it, but you need to have a direction to follow as you navigate through every day. Therefore, I make a plan for a few areas that I will be working on this summer: 1. Learn fundamental of software engineering + ship products I want to get good at not just coding, but also und",
+   "url": "https://www.linkedin.com/posts/andrew-tu-b7b64733b_with-my-freshman-year-at-uoft-coming-to-the-activity-7452222797365301248-g_fV",
+   "likes": 2
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [],
+ "page_title": "Andrew Tu - University of Toronto Machine Intelligence Student Team (UTMIST) | LinkedIn",
+ "name": "andrew960713147"
+}

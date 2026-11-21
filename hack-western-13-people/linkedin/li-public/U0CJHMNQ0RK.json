@@ -1,0 +1,229 @@
+{
+ "url": "https://ca.linkedin.com/in/edwin-ngui",
+ "about": "👋 Hi there! I'm Edwin, a 4th-year Computer Science student at Carleton University…",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Carleton University",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": "💻 uOttaHack - Directing Ottawa's largest hackathon organization 🛩️ Blackbird UAV - Leading the website for Carleton's premier unmanned aerial vehicles team 📘 Carleton Blueprint - Developing hospital web apps for social good"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Hack the North 2025 - (1) Finalist (Highest award), (2) Best Developer Tool by Warp",
+   "org": "Hack the North",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Winning Hack the North Finalist and Best Developer Tool from Warp, Puppeteer unlocks runtime understanding for developers. By probing live variables and simulating traffic on the fly, it removes backend blockers and accelerates frontend development with AI."
+  },
+  {
+   "title": "CuHacking 6 - (1) Best Use of Gemini API, (2) Best Marketing Challenge",
+   "org": "CuHacking 6",
+   "dates": "Mar 2025",
+   "meta": [],
+   "description": "Winning Best Use of Gemini API and Marketing Challenge, FocusBuddy is an AI-powered platform that generates personalized short-form videos to enhance focus. Using the Gemini API for content creation and OpenCV for attention tracking, it detects when users lose focus and nudges them back with visual and audio cues. Built with React, Flask, and TailwindCSS, it blends entertainment and productivity."
+  },
+  {
+   "title": "Hack Western 11 - 1st Place in Best Use of Starknet, $4200 CAD",
+   "org": "Hack Western 11",
+   "dates": "Dec 2024",
+   "meta": [],
+   "description": "PacRoyale introduced real-time, on-chain gameplay with cryptocurrency staking in a Pac-Man-inspired environment. Built with Cairo and React, it featured decentralized transaction validation, dynamic multiplayer logic, and seamless blockchain integration. Despite challenges with Cairo and outdated tools, the team delivered a technically robust solution, showcasing the potential of blockchain for in"
+  },
+  {
+   "title": "GenAI Genesis - Best AI in Education Hack",
+   "org": "GenAI Genesis",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": "Our team triumphed at the Best AI in Education Hack, pioneering the innovative Walk in the Park app. This groundbreaking project seamlessly integrates cutting-edge technologies to foster cultural understanding and community engagement. Combining the prowess of Android Studio, React Native, Flask, and Node.js, we engineered a cross-platform mobile application that utilizes Geoapify and Google Maps"
+  },
+  {
+   "title": "uOttaHack 6 - Category Win",
+   "org": "uOttaHack",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": "\"I Wear It Better\" is a React Native app that gamifies fashion exploration, inspired by platforms like Tinder and TikTok. Developed with Android Studio, it fosters sustainable fashion by encouraging users to trade and explore new clothing items rather than discard them. Despite initial challenges as first-time React Native users, our team successfully created a fully functional app, promoting eco-"
+  },
+  {
+   "title": "QHacks - 3rd Place Overall",
+   "org": "QHacks (Queen's University)",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Leading the creation of TRACY (Tennis Realtime Analysis Coaching) at QHacks in February 2024, our team secured an impressive 3rd-place victory. Integrating cutting-edge technologies like computer vision and machine learning, TRACY automates tennis training analysis through artificial intelligence and ChatGPT. Leveraging React.js for dynamic visuals, TRACY provides comprehensive insights into playe"
+  },
+  {
+   "title": "Delivery Confusion - 3rd Place in CENG-C Programming Competition 2023",
+   "org": "Carleton Student Engineering Society",
+   "dates": "Nov 2023",
+   "meta": [],
+   "description": "Achieved third place in the CENG-C Programming Competition 2023 hosted by Carleton Student Engineering Society. Orchestrated a collaborative effort to conceptualize and present a strategic solution targeting intricate routing challenges faced by delivery bots. Employing strategic optimization approaches, discussing the implementation of Dijkstra's algorithm, and strategizing the utilization of Pyt"
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Student Volunteer",
+   "org": "Humanity First Canada",
+   "dates": "Aug 2021 - Nov 2021 4 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Databricks Fundamentals",
+   "org": "Databricks",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "CRUD Operations in MongoDB",
+   "org": "MongoDB",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "From Relational Model (SQL) to MongoDB's Document Model",
+   "org": "MongoDB",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "FocusBuddy",
+   "org": "Mar 2025 - Mar 2025",
+   "dates": "Mar 2025 - Mar 2025",
+   "meta": [],
+   "description": "FocusBuddy was developed at CuHacking 6. Winning Best Use of Gemini API and Marketing Challenge, FocusBuddy is an AI-powered platform that generates personalized short-form videos to enhance focus. Using the Gemini API for content creation and OpenCV for attention tracking, it detects when users lose focus and nudges them back with visual and audio cues. Built with React, Flask, and TailwindCSS, i"
+  },
+  {
+   "title": "PacRoyale",
+   "org": "Nov 2024 - Dec 2024",
+   "dates": "Nov 2024 - Dec 2024",
+   "meta": [],
+   "description": "PacRoyale, developed at Hack Western 11, reimagines the classic Pac-Man game with a blockchain twist. This real-time, on-chain gambling game allows players to stake cryptocurrency to compete for a winner-takes-all prize pool. Built using Starknet, Cairo, and StarknetJS, the game features seamless, decentralized transactions and real-time multiplayer interactions. Players navigate a maze to collect"
+  },
+  {
+   "title": "VelocIT",
+   "org": "Sep 2024 - Sep 2024",
+   "dates": "Sep 2024 - Sep 2024",
+   "meta": [],
+   "description": "Developed at MHacks 2024, VelocIT revolutionizes the career fair experience by addressing the inefficiencies of traditional tools like Handshake. This mobile application streamlines networking through geolocation, helping users locate nearby recruiters and providing AI-generated opening lines to break the ice. VelocIT leverages Groq AI to summarize users’ skills into personalized pitches and to lo"
+  },
+  {
+   "title": "Walk in the Park",
+   "org": "Mar 2024 - Apr 2024",
+   "dates": "Mar 2024 - Apr 2024",
+   "meta": [],
+   "description": "Created at GenAI Genesis 2024 associated with the University of Toronto, Walk in the Park was inspired by a profound interest in community equity, diversity, and inclusion. The Walk in the Park app aims to bridge cultural gaps through gamified exploration and curated educational content. Functioning as a map-based game, akin to Pokemon Go, users can visit various locations to discover curated song"
+  },
+  {
+   "title": "I Wear It Better",
+   "org": "Mar 2024 - Mar 2024",
+   "dates": "Mar 2024 - Mar 2024",
+   "meta": [],
+   "description": "Built at uOttaHack 6, \"I Wear It Better\" is a dynamic mobile app that gamifies fashion exploration, inspired by the addictive algorithms of Tinder and TikTok. Built with React Native and Android Studio, users engage in interactive experiences, connecting with a community of fashion enthusiasts to trade items and promote sustainability. With a focus on gamification, user retention, and extending th"
+  },
+  {
+   "title": "TRACY",
+   "org": "Feb 2024 - Feb 2024",
+   "dates": "Feb 2024 - Feb 2024",
+   "meta": [],
+   "description": "Leading the creation of TRACY (Tennis Realtime Analysis Coaching) during QHacks in February 2024, the project emerged from a commitment to streamline post-game tennis analysis. Integrating cutting-edge technologies like computer vision algorithms, pre-trained neural networks, and machine learning object tracking, our team successfully developed an innovative AI-powered tennis analysis system. My r"
+  },
+  {
+   "title": "Graider",
+   "org": "Mar 2023 - Mar 2023",
+   "dates": "Mar 2023 - Mar 2023",
+   "meta": [],
+   "description": "In our lives, we have noticed that teachers and other educators may use a lot of their precious time meticulously grading each student's work for every single assignment with multiple classes. Both the stress and time could be alleviated with a tool that seeks to do part of the job. After seeing the endless possibilities of artificial intelligence in the real world, we considered how it could be u"
+  },
+  {
+   "title": "Budgie",
+   "org": "Feb 2023 - Feb 2023",
+   "dates": "Feb 2023 - Feb 2023",
+   "meta": [],
+   "description": "Budgie serves the sole purpose of allowing its users to track their finances and gain a better understanding of where their money is going. The simple user interface promotes itself towards the teenage audience by making it easier to track personal finances without the hassles of other complex interfaces. Event: uOttaHack 5"
+  },
+  {
+   "title": "HealthBase",
+   "org": "Dec 2022 - Dec 2022",
+   "dates": "Dec 2022 - Dec 2022",
+   "meta": [],
+   "description": "Our product HealthBase, allows medical professionals to have their own login and connect it to their organization. From there, the individual can either input new patient data or access existing patient data available in the database. Thus, allowing it to be easily transferred across medical teams as a replacement for the inefficient faxing system. Event: Steel City Hacks: Winter Hack"
+  },
+  {
+   "title": "Autonomous Mars Rover",
+   "org": "Sep 2022 - Sep 2022",
+   "dates": "Sep 2022 - Sep 2022",
+   "meta": [],
+   "description": "This product detects the distance from the car to the nearest potential collision. When the tracker determines the distance to be at risk of a collision or bump, it will bring the vehicle to a stop. From there, the vehicle will be able to manipulate its direction in order to continue in a safe path. Event: Hack the North"
+  },
+  {
+   "title": "WeatherWear",
+   "org": "Aug 2022 - Aug 2022",
+   "dates": "Aug 2022 - Aug 2022",
+   "meta": [],
+   "description": "WeatherWear is a weather forecast application that helps the user to \"Get Inspired!\" on outfit ideas based on the current day's forecast. As a team, we learned how to intergrate the OpenWeather API to collect data about current and future forecasts at the user’s location. Event: Hack the 6ix"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-04-29",
+   "text": "Happy to be heading back to RBC this summer as a Software Developer Co-op, joining the Wealth Management Technology team! Big thanks to Daisy Asare-Akoto for making the process smooth, and to Priyanka Paliwal, CSM®, CSPO® for her support early on. Excited to dive back in and keep building!",
+   "url": "https://www.linkedin.com/posts/edwin-ngui_happy-to-be-heading-back-to-rbc-this-summer-activity-7455247058577432576-5gry",
+   "likes": 289
+  },
+  {
+   "date": "2026-01-22",
+   "text": "From Hacker to Co-Director: Building Ottawa’s Largest Hackathon This past weekend, uOttaHack 8 truly came alive. Having first participated in uOttaHack three years ago, it has been a meaningful part of my early university years, connecting me to people and the hackathon community across the country. This year, I had the honour of serving as Co-Director of uOttaHack 8. After months of planning, finally seeing hundreds of hackers building, learning, and collaborating in the same space was incredib",
+   "url": "https://www.linkedin.com/posts/edwin-ngui_from-hacker-to-co-director-building-ottawa-activity-7420110508428689408-NiIK",
+   "likes": 308
+  },
+  {
+   "date": "2025-12-22",
+   "text": "🚀 Propelling Ideas to Impact: Building the platform behind Canadian innovation Over the past four months, I contributed to NRC IRAP’s digital platform that enables Canadian startups and SMEs to access funding, advisory services, and innovation support. I’m very grateful to KW Goldwyn-Pearson and my co-op peer, Mohammed Abdulla, for their guidance and support throughout the term. Beyond my co-op role, the fall term included a few other highlights: 🏆 Hack the North Finalist + Best Developer Tool (",
+   "url": "https://www.linkedin.com/posts/edwin-ngui_propelling-ideas-to-impact-building-the-activity-7408884135466913792-00Wz",
+   "likes": 118
+  },
+  {
+   "date": "2025-11-27",
+   "text": "💜 From hacker to mentor at Hack Western. One year, full circle. Last year, I was a hacker at this exhilarating event, walking away with memories to last. This weekend I got to come back as a mentor. I helped teams bounce around ideas, turn early visions into real projects, and perfect their pitches. Watching hackers unblock tough problems and ship meaningful work in 36 hours was truly inspiring. Shoutout to the mentors: Mouiz Majid, Jimmy Liu, Jasleen Bakshi, Oscar Yu, Hugo N., Isabelle Gan, HAM",
+   "url": "https://www.linkedin.com/posts/edwin-ngui_from-hacker-to-mentor-at-hack-western-activity-7399809437625901056-hFfo",
+   "likes": 154
+  },
+  {
+   "date": "2025-09-16",
+   "text": "🏆 𝐖𝐨𝐧 Hack the North + 𝐁𝐞𝐬𝐭 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐨𝐨𝐥 𝐚𝐰𝐚𝐫𝐝 𝐟𝐫𝐨𝐦 Warp! 🚀 Tools like Cursor stop when you hit run. What if we had a tool that understands at runtime? 🎭 Orchestrate the show with 𝐏𝐮𝐩𝐩𝐞𝐭𝐞𝐞𝐫. Puppeteer gives developers a new lens into the runtime 👀 . It can see everything as your app runs, probing variables, tweaking data on the fly, and even orchestrating across multiple LLMs (with text + image generation in the mix). Making it a powerful way to debug, test, and steer your application in real",
+   "url": "https://www.linkedin.com/posts/edwin-ngui_%F0%9D%90%96%F0%9D%90%A8%F0%9D%90%A7-hack-the-north-%F0%9D%90%81%F0%9D%90%9E%F0%9D%90%AC%F0%9D%90%AD-%F0%9D%90%83%F0%9D%90%9E%F0%9D%90%AF%F0%9D%90%9E%F0%9D%90%A5%F0%9D%90%A8%F0%9D%90%A9%F0%9D%90%9E%F0%9D%90%AB-activity-7373713533915648000-Yyon",
+   "likes": 291
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [],
+ "page_title": "Edwin Ngui - RBC | LinkedIn",
+ "name": "Edwin Ngui"
+}

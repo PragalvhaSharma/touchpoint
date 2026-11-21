@@ -1,0 +1,145 @@
+{
+ "url": "https://ca.linkedin.com/in/hadiy",
+ "about": "I am a Software Engineering and Business student at Western University and the Ivey…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Scotiabank",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Ivey Business School at Western University",
+   "org": "",
+   "dates": "2025 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Machine Learning Engineer",
+   "org": "Western AI",
+   "dates": "Oct 2025 - May 2026 8 months",
+   "meta": [],
+   "description": "Building a portfolio optimization bot 💰"
+  },
+  {
+   "title": "HBA Year Representative",
+   "org": "Western UES",
+   "dates": "Oct 2025 - Present 1 year 2 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Quantitative Developer",
+   "org": "Mustang Capital",
+   "dates": "Oct 2025 - May 2026 8 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Associate VP Academic",
+   "org": "Western UES",
+   "dates": "Apr 2025 - Present 1 year 8 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Back End Developer",
+   "org": "Tech for Social Impact",
+   "dates": "Oct 2024 - May 2025 8 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Peer Tutor",
+   "org": "Western University",
+   "dates": "Sep 2024 - Apr 2025 8 months",
+   "meta": [],
+   "description": "Tutor students weekly in the PAL centre on various engineering courses"
+  },
+  {
+   "title": "Second Year Software Representative",
+   "org": "Western UES",
+   "dates": "Sep 2024 - Apr 2025 8 months",
+   "meta": [],
+   "description": "- Represent 170 Software engineering students to the faculty - Represent the second year software engineering students to the undergraduate engineering society - Act as a point of communication between faculty, UES, and students"
+  },
+  {
+   "title": "Donation Fund Chair",
+   "org": "Western UES",
+   "dates": "Sep 2024 - Dec 2024 4 months",
+   "meta": [],
+   "description": "Chair of the donation fund committee, which is in charge of distributing funds to engineering clubs and accepting requests for money"
+  },
+  {
+   "title": "President",
+   "org": "UWO Tech",
+   "dates": "Oct 2023 - Present 3 years 2 months",
+   "meta": [],
+   "description": "Leading and founding Western TECH, I have managed and handled an executive team which created educational workshops introducing students to some basic concepts such as UI/UX design, Frontend development, and more"
+  },
+  {
+   "title": "Strategic Planning Representative",
+   "org": "Western UES",
+   "dates": "Oct 2023 - May 2024 8 months",
+   "meta": [],
+   "description": "I was elected to represent over 3000 engineering students to the strategic planning committee"
+  },
+  {
+   "title": "First Year Representative",
+   "org": "Western UES",
+   "dates": "Oct 2023 - May 2024 8 months",
+   "meta": [],
+   "description": "Represented over 900 first year engineering students to the engineering faculty and the Undergraduate Engineering Society"
+  },
+  {
+   "title": "Leadership Ambassador",
+   "org": "Global Student Leadership Summit",
+   "dates": "May 2023 - May 2023 1 month",
+   "meta": [],
+   "description": "I led a group of 40 students coming from all over Canada, America, and Poland in entertaining yet educative activities during the Global Student Leadership Summit 2023"
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Dynamic-Based Scoring Corrective RAG",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Optimized Corrective RAG on multiple benchmarks, doubling the score on some benchmarks"
+  },
+  {
+   "title": "Opti-Task",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "A task manager which allows a user to sign in, and create tasks, sorting them based on priority (high, medium, low) and date (most immediate due date is shown at the top), update tasks, and delete tasks. It also allows the user to export their tasks to their Google Calendar."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2025-06-30",
+   "text": "While I'm pretty late to this, I'm still proud to share that our paper, “SCMRAG: Self-Corrective Multihop Retrieval Augmented Generation System for LLM Agents”, has been published and presented at AAMAS 2025 — the 24th International Conference on Autonomous Agents and Multiagent Systems, held in Detroit 🥳 In this work, we propose SCMRAG, a novel Retrieval-Augmented Generation (RAG) system that: → Builds a dynamic, LLM-assisted knowledge graph, → Incorporates a self-corrective agent that autonomo",
+   "url": "https://www.linkedin.com/posts/hadiy_scmrag-self-corrective-multihop-retrieval-activity-7345591369572241408-kHbR",
+   "likes": 65
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "London, Ontario, Canada",
+ "languages": [],
+ "page_title": "Hadi Youssef - Scotiabank | LinkedIn",
+ "name": "Hadi Youssef"
+}

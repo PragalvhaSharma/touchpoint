@@ -1,0 +1,122 @@
+{
+ "url": "https://www.linkedin.com/in/bw7599",
+ "about": "background: software engineering student @ uWaterloo. previously interned on the zero…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Cloudflare",
+   "dates": "",
+   "meta": [
+    "Austin, TX"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "2022 - 2027",
+   "meta": [],
+   "description": "Academic Rep • Varsity Athlete"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Certificate of Distinction - Fermat Math Contest",
+   "org": "University of Waterloo",
+   "dates": "Apr 2021",
+   "meta": [],
+   "description": "Ranked top 25% of the Fermat Contest."
+  },
+  {
+   "title": "Certificate of Appreciation",
+   "org": "Hargun Kaur Rekhi, Harvi Karatha",
+   "dates": "2021",
+   "meta": [],
+   "description": "For winning 2nd place at the case competition for the 1st CEDO Foundation Technology Conference"
+  },
+  {
+   "title": "National Finalist",
+   "org": "Cara Yu",
+   "dates": "2021",
+   "meta": [],
+   "description": "For placing Top 10 in the Coding and Programming event at the 2021 Canadian National Leadership Conference."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Social Media Ambassador",
+   "org": "Centre for Immigrant and Community Services",
+   "dates": "Nov 2020 - Feb 2022 1 year 4 months",
+   "meta": [],
+   "description": "Responsible for creating weekly posts promoting mental health"
+  },
+  {
+   "title": "Social Media Ambassador",
+   "org": "Food Forest South Markham",
+   "dates": "Mar 2021 - Apr 2021 2 months",
+   "meta": [],
+   "description": "Promoted the benefits of food forests and spread awareness of problems arising in the Markham community."
+  },
+  {
+   "title": "Child And Youth Worker",
+   "org": "The Village",
+   "dates": "Jul 2017 - Aug 2019 2 years 2 months",
+   "meta": [],
+   "description": "Volunteered for the summers of 2017-2019. Responsible for the assistance of tending children and developing their motor and creative skills."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "blog",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "i like to write stuff sometimes"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://billwang.dev",
+  "https://blog.billwang.dev",
+  "https://github.com/billwang7599"
+ ],
+ "posts": [
+  {
+   "date": "2025-10-21",
+   "text": "What powers a massive multiplayer game like Minecraft or League of Legends? While the simple answer is \"networks,\" my current network protocols course at CUHK is showing me just how much more there is to it. Learning about the underlying infrastructure and protocols that power the internet has been fascinating. Also in class, one of my assignments was to create a simple simulation of a CDN with a custom load balancer. Load balancer checks for either nearest geographic location (yay Dijkstra) or",
+   "url": "https://www.linkedin.com/posts/bw7599_networking-softwareengineering-golang-activity-7386400949906538497-Lfty",
+   "likes": 26
+  },
+  {
+   "date": "2025-10-09",
+   "text": "Hey guys, I'm back! 👋 My friends and I are developing a new platform designed to help share your music tastes and provide personal insights (think BeReal and Spotify Wrapped). To make sure we're building something truly valuable, we need your input! We've created a short survey (< 1 min) to gather some insights. Your feedback is incredibly important and will directly shape the development of our project. Thanks 😊 - bill wang https://lnkd.in/ek7QQG3x #CapstoneProject #MusicTech #MusicDiscovery #U",
+   "url": "https://www.linkedin.com/posts/bw7599_melodi-user-research-survey-activity-7382096845373714433-lVAB",
+   "likes": 19
+  },
+  {
+   "date": "2025-08-21",
+   "text": "The first step is always the hardest. One proverb that keeps coming back to me is \"The best time to plant a tree was 20 years ago. The second best time is now\". 🌲 I've taken a week off dev work just to take a break, and can definitely feel that first step fatigue. After forcing myself to get back to it, the joy of making things is slowly coming back. Stay tuned for more Bill Wang updates. 🙋 P.S. Shout-out to Joshua Li Andrew Lu Edmond Yang for playing basketball with me (and getting cooked).",
+   "url": "https://www.linkedin.com/posts/bw7599_the-first-step-is-always-the-hardest-one-activity-7364370169000853504-IL8S",
+   "likes": 18
+  },
+  {
+   "date": "2025-08-12",
+   "text": "I’ve had a handful of coffee chats with senior engineers, managers, and recruiters—and one of the biggest takeaways has been this: 📲 Show up on LinkedIn. No one knows who you are unless you put yourself out there. Start posting, connecting, and messaging people. That doesn’t mean immediately asking for referrals. It’s more about reaching out to folks with similar interests and building genuine relationships. And it doesn’t have to stop at LinkedIn—some of the best connections come from friends o",
+   "url": "https://www.linkedin.com/posts/bw7599_ive-had-a-handful-of-coffee-chats-with-senior-activity-7361033762811404291-jfdf",
+   "likes": 54
+  },
+  {
+   "date": "2025-08-07",
+   "text": "🚀 Wrapping Up My Internship at Rocket Mortgage 🚀 As my internship at Rocket Mortgage comes to a close, I want to thank everyone that I've met. Over the past 4 months, I’ve had the opportunity to learn, grow, and contribute in ways I never imagined. Some key takeaways I've had: 🧨 Launch and Learn Perfection is the enemy of progress. Waiting for the “perfect” time often means waiting forever. Take action, iterate, and grow along the way. The real learning starts when you begin. 🧠 Always Be Curious",
+   "url": "https://www.linkedin.com/posts/bw7599_internship-grateful-growth-activity-7359221902919274500-dMwf",
+   "likes": 146
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Bill Wang - Toronto, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Bill Wang"
+}

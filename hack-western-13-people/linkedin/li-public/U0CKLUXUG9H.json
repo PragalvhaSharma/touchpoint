@@ -1,0 +1,77 @@
+{
+ "url": "https://linkedin.com/in/yousef-al-wahami",
+ "about": "Student and Software Developer with experience in building scalable APIs, improving…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Shopify",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Windsor",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "Relevant Coursework: Data Structures & Algorithms, Operating Systems, Computer Architecture."
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Software Team Lead",
+   "org": "UWindsor Rover Team",
+   "dates": "Jan 2024 - Aug 2026 2 years 8 months",
+   "meta": [],
+   "description": "Leading the Software team for the Mars Rover team that placed 1st in Ontario, 3rd in Canada, and 6th internationally."
+  },
+  {
+   "title": "Hackathon Organizer | Workshop Host & Mentor",
+   "org": "WinHacks",
+   "dates": "Feb 2024 - Feb 2025 1 year 1 month",
+   "meta": [],
+   "description": "- Enhanced and maintained WinHack's (hackathon) website with Bootstrap, improving UX and stability for 180+ users while delivering features on tight deadlines with organizers. - Hosted a workshop on how to present projects and make LinkedIn posts."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Semestris",
+   "org": "Mar 2026 - Present",
+   "dates": "Mar 2026 - Present",
+   "meta": [],
+   "description": "AI-powered smart course planner that helps students plan their semesters, track deadlines, and get personalized academic recommendations."
+  },
+  {
+   "title": "HomeWorthAI (Hackathon winner)",
+   "org": "Jan 2025 - Jan 2025",
+   "dates": "Jan 2025 - Jan 2025",
+   "meta": [],
+   "description": "An insurance assistance web app that uses AI vision models and retrieval-augmented generation (RAG) to help users recognize and document lost belongings from wildfire damage photos"
+  },
+  {
+   "title": "HazardNet",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Smart real-time hazard detection using V2V and V2X to alert autonomous vehicles, enhancing safety on the road with an AI-powered FSD system voice assistant"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [],
+ "page_title": "Yousef Al-Wahami - Shopify | LinkedIn",
+ "name": "Yousef Al-Wahami"
+}

@@ -1,0 +1,82 @@
+{
+ "url": "https://ca.linkedin.com/in/hadytoman",
+ "about": "",
+ "experience": [],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Top 10",
+   "org": "Major League Hacking",
+   "dates": "Dec 2021",
+   "meta": [],
+   "description": "• Designed a versatile web scraping tool with multiple applications, including aiding financial institutions, government agencies, and investors in tracking money laundering and illegal activities. • Utilized for marketing insights by analyzing consumer behavior changes over time and across cultures. • Gained hands-on experience in API utilization, particularly in making GET requests. Acquired pro"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "C++ AI Project",
+   "org": "Mar 2024 - Apr 2024",
+   "dates": "Mar 2024 - Apr 2024",
+   "meta": [],
+   "description": "Developed a multi-user, multi-transaction server system as part of SE 3313A – Operating Systems project, showcasing proficiency in Unix environments and threading techniques. Implemented robust thread synchronization mechanisms like semaphores and blocks, ensuring smooth parallel processing and transaction management within the server. Designed and deployed server infrastructure on Amazon Web Serv"
+  },
+  {
+   "title": "OliHub Project",
+   "org": "Jan 2024 - Apr 2024",
+   "dates": "Jan 2024 - Apr 2024",
+   "meta": [],
+   "description": "-Engaged in the final phase of a database project, tasked with developing a web interface to complement the outlined database application. -Demonstrated proficiency in designing and implementing core functionalities aligned with the project requirements. -Implemented at least five alternative options for user interaction, ensuring each function relies on robust database queries. -Ensured user-frie"
+  },
+  {
+   "title": "Database Management Systems Project",
+   "org": "Sep 2023 - Dec 2023",
+   "dates": "Sep 2023 - Dec 2023",
+   "meta": [],
+   "description": "-Developed a dynamic and functional web interface as the final phase of the SE 3309 Database Management Systems project. -Built a web application to interact with the database application proposed in Assignment 1, ensuring alignment with core functionality. -Implemented at least five alternative options for users, each validated through the web app, with prompt input value requests and database qu"
+  },
+  {
+   "title": "iFinance Project",
+   "org": "Jan 2023 - Apr 2023",
+   "dates": "Jan 2023 - Apr 2023",
+   "meta": [],
+   "description": "-Developed a dynamic analysis model for iFinance project during school assignment, focusing on user's perspective -Utlized Java, JavaFX to complete this and tabulated report in comprehensive Microsoft Word document-Developed a dynamic analysis model for iFinance project during school assignment, focusing on user's perspective -Utlized Java, JavaFX to complete this and tabulated report in comprehen"
+  },
+  {
+   "title": "One Student Resource",
+   "org": "Mar 2019 - Dec 2021",
+   "dates": "Mar 2019 - Dec 2021",
+   "meta": [],
+   "description": "-Worked on creating CMS, that allows students to check out programs, check there courses, and send messages to each other -Utilized Bootstrap, React, Linux, Apache, MySQL, PHP -Conducted code reviews and implemented best practices to ensure a high level code quality and maintainability across multiple projects"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2025-08-07",
+   "text": "Hello im looking for parking pass from sept to dec 2025, plz DM me if you have it. Or msg on socials @hady_toman",
+   "url": "https://www.linkedin.com/posts/hadytoman_hello-im-looking-for-parking-pass-from-sept-activity-7359185341058019328-C1e8",
+   "likes": 1
+  },
+  {
+   "date": "2023-02-11",
+   "text": "Congratulations Maria!",
+   "url": "https://www.linkedin.com/posts/hadytoman_congratulations-maria-activity-7030008899743191040-RypK",
+   "likes": 2
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Mohamed Toman - Canada | Professional Profile | LinkedIn",
+ "name": "Mohamed Toman"
+}

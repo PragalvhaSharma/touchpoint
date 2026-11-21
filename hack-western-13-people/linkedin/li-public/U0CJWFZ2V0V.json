@@ -1,0 +1,224 @@
+{
+ "url": "https://www.linkedin.com/in/muralishruthi",
+ "about": "Hi! I’m Shruthi, Year 4 studying Computer Science and Business Administration at NUS. I’m…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Terminal (YC S23)",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "National University of Singapore",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "a community association Excellence Award",
+   "org": "a community development association",
+   "dates": "Sep 2023",
+   "meta": [],
+   "description": "Recipient of the award for academic performance in the International Baccalaureate Examinations, a community academic award achieving excellence in respective academic fields."
+  },
+  {
+   "title": "ACS(I) award",
+   "org": "Anglo-Chinese School (Independent)",
+   "dates": "Mar 2023",
+   "meta": [],
+   "description": "Recipient of the ACS(I) award for achieving a perfect score in the International Baccalaureate Examination (2022)"
+  },
+  {
+   "title": "a community association Excellence Award",
+   "org": "a community development association",
+   "dates": "Sep 2021",
+   "meta": [],
+   "description": "Recipient of the award for academic performance in the O Level Examinations, a community academic award achieving excellence in respective academic fields."
+  },
+  {
+   "title": "MOE Edusave Awards",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Volunteer",
+   "org": "Movement for the Intellectually Disabled of Singapore",
+   "dates": "Jun 2021 - Jun 2021 1 month",
+   "meta": [],
+   "description": "Served a class of 25 autistic children for 6 sessions over 3 weeks by imparting knowledge about music and, speech as well as reading and planning fun activities."
+  },
+  {
+   "title": "Volunteer",
+   "org": "NUS Bizad Charity Run 2024",
+   "dates": "Jan 2024 - Jan 2024 1 month",
+   "meta": [],
+   "description": "I had the privilege of serving as a marshal for the annual Bizad Charity Run (BCR), a collaborative initiative between the NUS Business School Alumni Association and NUS Student’s Business Club. My role involved motivating participants during their 5km run, fostering a sense of community spirit and determination. Witnessing diverse groups, including individuals with disabilities, participate in th"
+  },
+  {
+   "title": "Organising Committee",
+   "org": "Project Nexus",
+   "dates": "May 2021 - Jan 2022 9 months",
+   "meta": [],
+   "description": "Collaborated with my team of 13 students in providing assistance to underprivileged communities facing challenging living conditions across Singapore. Successfully coordinated fundraising efforts, resulting in donations totaling $3121 allocated towards improving living conditions and supporting rehabilitation programs."
+  },
+  {
+   "title": "Volunteer",
+   "org": "Mental Health Initiative",
+   "dates": "Sep 2021 - Sep 2021 1 month",
+   "meta": [],
+   "description": "As a dedicated member of a team comprised of approximately 70 students, I contributed to a compelling campaign aimed at emphasizing the significance of mental health. My role involved actively reaching out to individuals to raise awareness and advocate for mental health initiatives, fostering understanding and support within our community. This experience deeply enriched my own understanding of th"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Orbital (Apollo 11 - advanced)",
+   "org": "National University of Singapore",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "BrainHack DSTA Finalist",
+   "org": "DSTA",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Certificate and Badge for Level 4: Excel Black Belt",
+   "org": "McGraw Hill",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Certificate and Badge for Level 4: PowerPoint Black Belt",
+   "org": "McGraw Hill",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Advance Personal Survival & Swimming Skill Proficiency (Gold)",
+   "org": "SwimSafer",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "SDG Open Hack | Calmi",
+   "org": "Sep 2024",
+   "dates": "Sep 2024",
+   "meta": [],
+   "description": "Mission: Destigmatizing mental health issues & improving access to mental health resources for university students Current Progress: Product development, integrating gamification strategies & AI-driven engagement tools - Top 6 out of 51 teams at SDG OpenHack NUS Hackathon | Recipient of $1000 project grant - Ideated & currently developing Calmi, a gamified mental health app under NUS Social Impact"
+  },
+  {
+   "title": "EasyA x Ripple XRP Hackathon | SpotLight",
+   "org": "Jun 2025 - Jun 2025",
+   "dates": "Jun 2025 - Jun 2025",
+   "meta": [],
+   "description": "Spotlight – XRP-Powered Charity Donation Platform Ideated and built the mvp over 36 hours Worked on end-to-end ideation, technical planning, and business model design for Spotlight, a platform that enables low-cost, cross-border donations to grassroots charities in Southeast Asia using the XRP Ledger. Key highlights: - Designed and validated the business model focused on social impact and sustaina"
+  },
+  {
+   "title": "NUS-KCL Global MedTech Innovation Challenge | Amica (Winner)",
+   "org": "Feb 2025 - Mar 2025",
+   "dates": "Feb 2025 - Mar 2025",
+   "meta": [],
+   "description": "AMICA – AI-Powered Smart Companion for Chronic Patients - Designed AMICA, a voice-based AI assistant to improve medication adherence among chronic disease patients. AMICA is: * Purely voice-driven, ensuring accessibility for non-tech-savvy users * Emotionally intelligent, detecting mood and adapting conversations * Multi-stakeholder friendly, offering insights for caregivers and hospitals * Person"
+  },
+  {
+   "title": "NUS Future Interaction for Smart Glasses Bootcamp | Project Aurora",
+   "org": "Jan 2025 - Jan 2025",
+   "dates": "Jan 2025 - Jan 2025",
+   "meta": [],
+   "description": "💡 AI-Powered Assistive Technology for Autistic Children - Led a team of four in designing an AI-driven assistive solution using Microsoft HoloLens to help autistic children recognize social cues and improve conversational skills - Collaborated closely with developers to integrate: YOLOv8 for object detection DeepFace for emotion recognition OpenAI for conversational AI - Gained hands-on experience"
+  },
+  {
+   "title": "Coruscant",
+   "org": "Jun 2024 - Sep 2024",
+   "dates": "Jun 2024 - Sep 2024",
+   "meta": [],
+   "description": "As a Software Development Team Member for the Coruscant app at Passionate heARTS, I contributed to the development of an art therapy app, along with 7 other developers, designed to provide emotional support for underprivileged children across countries like Indonesia and Africa. Using Flutter, I enhanced the app's interactive features and improved the overall user experience, enabling children to"
+  },
+  {
+   "title": "CP2106: Independent Software Development Project (Apollo 11 - Advanced)",
+   "org": "Mar 2024 - Aug 2024",
+   "dates": "Mar 2024 - Aug 2024",
+   "meta": [],
+   "description": "As a member of a two-person team in Orbital, I collaborated on the development of a dining application using React Native and PostgreSQL. Our project aimed to simplify dining experiences for individuals with strict dietary restrictions by providing accessible restaurant options and offering in-depth analysis of eating habits. Through this course, I gained hands-on experience in software developmen"
+  },
+  {
+   "title": "Freshman Orientation Programme",
+   "org": "Dec 2023 - Aug 2024",
+   "dates": "Dec 2023 - Aug 2024",
+   "meta": [],
+   "description": "As the Secretary of the FOP committee, I played a key role in managing the recruitment and communication processes that impacted over 200 incoming students. I led the coordination of interview processes for recruiting a team of 50 Orientation Leaders, evaluating candidates to ensure we brought on board the best talent. My work included creating and managing timelines, handling administrative tasks"
+  },
+  {
+   "title": "Advisory mentorship programme",
+   "org": "Jun 2022 - Jan 2023",
+   "dates": "Jun 2022 - Jan 2023",
+   "meta": [],
+   "description": "The programme facilitated the pairing of students with over 800 working professionals across 48 diverse industries on a 1-on-1 basis. This initiative significantly contributed to my development of confidence, communication, leadership skills, and understanding of the IKIGAI model. Personally, I had the privilege of being mentored by the remarkable Madam Joyce Cuff, Country Manager (SG) and Career"
+  },
+  {
+   "title": "International Baccalaureate Diploma Extended Essay (EE)",
+   "org": "Apr 2021 - Aug 2022",
+   "dates": "Apr 2021 - Aug 2022",
+   "meta": [],
+   "description": "During my International Baccalaureate Diploma, I conducted comprehensive research in Biology focusing on the impact of acid rain and the efficacy of fertilizers in promoting plant growth. This culminated in a 4000-word extended essay, which involved rigorous experimentation, thorough research, and statistical analysis."
+  },
+  {
+   "title": "Jim Kouzes and Barry Posner's Leadership Challenge Model",
+   "org": "Jan 2022 - Apr 2022",
+   "dates": "Jan 2022 - Apr 2022",
+   "meta": [],
+   "description": "Participated in a 6-week training program based on the renowned Leadership Challenge Model developed by Jim Kouzes and Barry Posner, esteemed leadership experts. Developed essential leadership skills, such as 'modeling the way,' and acquired strategies to drive effective leadership within teams and organizations."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-02-12",
+   "text": "Excited to be joining Terminal this year! Grateful for the opportunity and looking forward to building and learning alongside such an incredible team 🤝",
+   "url": "https://www.linkedin.com/posts/muralishruthi_excited-to-be-joining-terminal-this-year-activity-7427544873915858945-5qTx",
+   "likes": 54
+  },
+  {
+   "date": "2025-12-31",
+   "text": "With just a few hours left before the year ends, I wanted to take a moment to reflect on one of the most meaningful experiences of my year. Hackathons were what first sparked my interest in entrepreneurship, so being able to give back to the student community by organising NUS Entrepreneurship Society's CatalystX as Deputy Head felt very full-circle. I really hoped this event could spark that same interest in others, and seeing students build and pitch ideas they truly believed in was incredibly",
+   "url": "https://www.linkedin.com/posts/muralishruthi_with-just-a-few-hours-left-before-the-year-activity-7412136075458064385-y_6A",
+   "likes": 142
+  },
+  {
+   "date": "2025-02-28",
+   "text": "🚀 We are thrilled to have emerged as the 𝗡𝗨𝗦 𝘄𝗶𝗻𝗻𝗲𝗿𝘀 of 𝘁𝗵𝗲 𝗡𝗨𝗦-𝗞𝗖𝗟 𝗚𝗹𝗼𝗯𝗮𝗹 𝗠𝗲𝗱𝗧𝗲𝗰𝗵 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲! 🏆 This hackathon, jointly organized by NUS HealthX & King’s Entrepreneurs (KCL), brought together innovators to tackle real-world healthcare challenges. Competing against NUS and KCL teams, we are honored to have won, alongside one winning team from KCL! 🎉 💡 𝗧𝗮𝗰𝗸𝗹𝗶𝗻𝗴 𝗣𝗮𝘁𝗶𝗲𝗻𝘁 𝗔𝗱𝗵𝗲𝗿𝗲𝗻𝗰𝗲 𝗜𝘀𝘀𝘂𝗲𝘀 𝗶𝗻 𝗛𝗲𝗮𝗹𝘁𝗵𝗰𝗮𝗿𝗲 Chronic disease patients often struggle to 𝗮𝗱𝗵𝗲𝗿𝗲 𝘁𝗼 𝗹𝗼𝗻𝗴-𝘁𝗲𝗿𝗺 𝘁𝗿𝗲𝗮𝘁𝗺𝗲𝗻𝘁 𝗽𝗹𝗮𝗻𝘀, leading",
+   "url": "https://www.linkedin.com/posts/muralishruthi_we-are-thrilled-to-have-emerged-as-the-activity-7301120615829139457--q9b",
+   "likes": 49
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Singapore, Singapore",
+ "languages": [
+  "English"
+ ],
+ "page_title": "Shruthi Murali - Terminal (YC S23) | LinkedIn",
+ "name": "Murali Shruthi"
+}

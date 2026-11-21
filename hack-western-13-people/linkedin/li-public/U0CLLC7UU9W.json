@@ -1,0 +1,154 @@
+{
+ "url": "https://ca.linkedin.com/in/reichkiambati",
+ "about": "Honours Computer Science student at Western University. I build high-power rockets and…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western Engineering Rocketry Team",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": "Related courses: Calculus 1000, 1301, 2402 Applied Math 2402 CompSci 1026, 1027, 1020, 2210, 2211, 2214 Linear Algebra 1600 Physics 1502"
+  }
+ ],
+ "awards": [
+  {
+   "title": "World Scholars Debate Cup Global Round Top 100",
+   "org": "The World Scholars Cup",
+   "dates": "Jun 2019",
+   "meta": [],
+   "description": "My team of 3 placed top 100 at the World Scholars Cup global round in Beijing, China from June 21st - 26th 2019"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "High Power Rocketry Level 1",
+   "org": "Canadian Association of Rocketry / Association Canadienne de Fuséonautique",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "HPR Level 2",
+   "org": "Canadian Association of Rocketry / Association Canadienne de Fuséonautique",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Oracle Certified Associate, Java SE 8 Programmer",
+   "org": "Oracle",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Intermediate Java Course",
+   "org": "Codecademy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Learn Advanced Java Course",
+   "org": "Codecademy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Learn Python 3 Course",
+   "org": "Codecademy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Java Course",
+   "org": "Codecademy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "IB Diploma",
+   "org": "International Baccalaureate (IB)",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Farm Management Software with Java Swing",
+   "org": "Oct 2023 - Apr 2024",
+   "dates": "Oct 2023 - Apr 2024",
+   "meta": [],
+   "description": "Multipurpose farm management software built with Java to give farm managers a detailed preview of production, sales and profitability by product. Features Login by username and restrictions by role"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-08-29",
+   "text": "I just put together a short video on ORCA III and some of the work that went into getting it flight-ready. Give it a watch! https://lnkd.in/ggnR5MbU",
+   "url": "https://www.linkedin.com/posts/reichkiambati_orca-iii-custom-rocket-flight-computer-activity-7499307178558636032-VDUQ",
+   "likes": 17
+  },
+  {
+   "date": "2026-08-23",
+   "text": "The ORCA computer went supersonic! From the 14th-22nd of August, I had the pleasure of attending and competing at the annual Launch Canada competition with the Western Engineering Rocketry Team. During this event, my flight computer ORCA had the honor of flying in the payload bay of the team's rocket, Perihelion, as an experimental payload to test ORCA's critical systems in an aggressive flight profile. Perihelion launched on Monday, August 17th, soared to an altitude of approximately 16,400 ft,",
+   "url": "https://www.linkedin.com/posts/reichkiambati_the-orca-computer-went-supersonic-from-activity-7497106414730129408-4Wln",
+   "likes": 42
+  },
+  {
+   "date": "2026-06-01",
+   "text": "Last weekend marked a major milestone for both Ares and ORCA. Ares IV flew twice in the same day on the same motor and flight profile, reaching approximately the same apogee both times. I ultimately decided to keep Ares IVS as a backup and try push Ares IV to its limits. The first flight was focused on validating ORCA III in flight, and the second marked a successful flight 1 of 2 toward my electronics endorsement. Across both flights, ORCA III successfully recovered the rocket, autonomously han",
+   "url": "https://www.linkedin.com/posts/reichkiambati_last-weekend-marked-a-major-milestone-for-activity-7467019743821111296-HT11",
+   "likes": 57
+  },
+  {
+   "date": "2026-05-15",
+   "text": "On May 22nd, I’ll be heading out to Quebec City to launch Ares IV and Ares IVS(4.5) My newest rockets, following the same design methodology as their predecessor, Ares II, my best performing rocket to date. The fin cans, bulkheads, and nosecones are printed in PLA-Pro, with the rest of the airframe made from spiral wrapped phenolic tubing. Each vehicle weighs in at ~3kg, reach approximately 1,600ft, and hit a top speed of 432 km/h Ares IVS also includes a few structural modifications that I’ll b",
+   "url": "https://www.linkedin.com/posts/reichkiambati_on-may-22nd-ill-be-heading-out-to-quebec-activity-7460872535736487936-tVtE",
+   "likes": 60
+  },
+  {
+   "date": "2026-02-22",
+   "text": "Excited to share that I’ll be stepping into the role of Avionics Co-Lead with the Western Engineering Rocketry Team. Looking forward to working alongside a talented group of engineers and contributing to some exciting projects ahead.",
+   "url": "https://www.linkedin.com/posts/reichkiambati_excited-to-share-that-ill-be-stepping-into-activity-7431383846396481536-fNsn",
+   "likes": 56
+  },
+  {
+   "date": "2026-01-25",
+   "text": "Meet ORCA III. For the past 9 months, I’ve been building my own rocket flight computer, and this is one of my biggest steps towards actually knowing how my rocket performs every second of flight. Hardware stack: • Core: Heltec WiFi LoRa 32 V3 (ESP32 + LoRa) • IMU: Bosch BMI270 • Barometer: Bosch BMP390 • Data logging: 1 Gbit onboard flash for full post-flight analysis Precision (ground-tested): • Acceleration precision: 0.1 m/s² • Altitude accuracy: ±1 m • Vertical velocity accuracy: < 1 m/s Tel",
+   "url": "https://www.linkedin.com/posts/reichkiambati_meet-orca-iii-for-the-past-9-months-i-activity-7420986140507295744-IptC",
+   "likes": 97
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Toronto, Ontario, Canada",
+ "languages": [
+  "English",
+  "Swahili",
+  "Spanish"
+ ],
+ "page_title": "Reich Kiambati - Western Engineering Rocketry Team | LinkedIn",
+ "name": "Reich Kiambati"
+}

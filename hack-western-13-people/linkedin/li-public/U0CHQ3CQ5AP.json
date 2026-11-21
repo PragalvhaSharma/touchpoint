@@ -1,0 +1,225 @@
+{
+ "url": "https://www.linkedin.com/in/techraj",
+ "about": "Hi! I'm Karthikraj and I am a third-year Computer Science student at the National…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Trax",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "National University of Singapore",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "Minor in Psychology"
+  }
+ ],
+ "awards": [
+  {
+   "title": "LifeHack 2024",
+   "org": "NUS School of Computing",
+   "dates": "Jun 2024",
+   "meta": [],
+   "description": "Built a webapp that identifies crime hotspots with ML and optimise patrol routes to maximise police resources"
+  },
+  {
+   "title": "Ideasjam 2024",
+   "org": "NTU Garage@EEE",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Developed an app that teaches children and teens about financial management in a gamified way"
+  },
+  {
+   "title": "NUS Health Hack 2024 | Semi-finalist",
+   "org": "Yong Loo Lin School of Medicine",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Developed an app and monitoring device to streamline the clinic triage process to reduce clinic waiting times"
+  },
+  {
+   "title": "SATU SMART 5.0",
+   "org": "SATU President’s forum",
+   "dates": "Oct 2023",
+   "meta": [],
+   "description": "Built an app to grade food sustainability in production/distribution, informing consumers about eco impact."
+  },
+  {
+   "title": "iNTUition v9.0 - Participant",
+   "org": "NTU IEEE Club",
+   "dates": "Mar 2023",
+   "meta": [],
+   "description": "Developed a mobile application that aids users with how to best use their credit cards to maximise their rewards and cashback."
+  },
+  {
+   "title": "Curtin Singapore X ComSSA Hackathon 2022 - Participant",
+   "org": "Curtin Singapore",
+   "dates": "Aug 2022",
+   "meta": [],
+   "description": "I participated in the Curtin Singapore X ComSSA Hackathon 2022 with a few of my friends. We were tasked with finding the most ideal solution to mitigate and tackle the spread of a hypothetical fungus infestation - a mycological mayhem. Our team proposed the use of Artificial Intelligence to predict future areas of spread using various factors, such as weather conditions and wind patterns, and use"
+  },
+  {
+   "title": "MICRON NUS-ISE Business Analytics Case Competition 2022 - Participant",
+   "org": "NUS ISE",
+   "dates": "Feb 2022",
+   "meta": [],
+   "description": "Took part in a Business Analytics competition, where we were to make use of mathematics, statistics and data analytics skills to assist a Business in predicting and preparing a business for future growth, in terms of its processes and strategy, in order to yield the most out of the growth by spending as little as possible. Gained a new experience by achieving insight into how businesses work from"
+  },
+  {
+   "title": "iNTUition v8.0 2022 - Participant",
+   "org": "NTU IEEE Club",
+   "dates": "Feb 2022",
+   "meta": [],
+   "description": "Participated in a Hackathon run by NTU IEEE club. Made a Telegram bot that collects information from voluntary donors such as name, blood type, weight, contact details and eligibility. Stores this data in a JSON database. When someone pings the bot to request for blood, it will ask for the required blood type and their location. Donors with the blood type will be pinged by the bot with the locatio"
+  },
+  {
+   "title": "Global IE University Challenge - The Money Heist Challenge - Participant",
+   "org": "IE University",
+   "dates": "Feb 2021",
+   "meta": [],
+   "description": "Took part in a mathematics competition, where my analytical and critical thinking skills were tested to unique scenarios to develop unique solutions to real-life problems. I was given a test of 3 such questions to solve within a span of 1 hour, which I managed to successfully complete. Enjoyed the process and interacting with people from different walks of life and learning new things. Found it ex"
+  },
+  {
+   "title": "Certificate of Merit in a technology-integrated course for college readiness skills (Level 3 of 3)",
+   "org": "Brown University",
+   "dates": "Oct 2020",
+   "meta": [],
+   "description": "Ranked within the top 50th percentile globally"
+  },
+  {
+   "title": "Young Technopreneurs for a Sustainable 2030 competition 2019 - Participant",
+   "org": "Science Centre Singapore",
+   "dates": "Jun 2019",
+   "meta": [],
+   "description": "We made a leg strap that converts energy from walking into electricity that can charge a battery, which can be used to power bulbs or fans in rural areas. This competition really gave me the opportunity to utilize the skills I learnt from both my school and skills I learnt from the workshops conducted prior such as in entrepreneurship and the use of tools and technology to do something good for th"
+  },
+  {
+   "title": "National Coding Championships Finalist",
+   "org": "NUS ALSET",
+   "dates": "Mar 2018",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Ace of Coders Finalist",
+   "org": "NUS ALSET",
+   "dates": "Nov 2017",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "National Coding Championships Finalist",
+   "org": "NUS ALSET",
+   "dates": "Apr 2017",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Ace of Coders Finalist",
+   "org": "NUS ALSET",
+   "dates": "Mar 2016",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Young Engineer Award",
+   "org": "Singapore Polytechnic",
+   "dates": "2016",
+   "meta": [],
+   "description": "Certificate ID: YEA201610894S"
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Student Volunteer",
+   "org": "BRDB Rotary Children’s Residence",
+   "dates": "May 2019 - May 2019 1 month",
+   "meta": [],
+   "description": "Spent 3 days at a Children's home in Malaysia to teach students skills such as maths and arts and crafts. Also spent meaningful time engaging with the children by playing and organising games and fun activities. Truly enjoyed playing with, teaching and learning many things from these children."
+  },
+  {
+   "title": "Student Volunteer",
+   "org": "Redhill Moral Seniors Activity Centre",
+   "dates": "Jun 2017 - Jun 2017 1 month",
+   "meta": [],
+   "description": "We went to an old folk’s home and lightened up the resident’s moods through various activities, such as bingo, origami and karaoke. We also took the time to get to know them and chat with them. This social interaction made them happy and made me learn the importance of the contributions of elderly to society, their wise advice and the importance of taking care of our parents when they age. I also"
+  },
+  {
+   "title": "Mentor",
+   "org": "Feiyue",
+   "dates": "Apr 2016 - Jun 2016 3 months",
+   "meta": [],
+   "description": "I created an infographic and taught a senior who visited my school how to use social media applications such as Facebook and Instagram on his smartphone. This gave me an understanding and appreciation of how seniors think and understand the technology which young people like me are quite used to."
+  },
+  {
+   "title": "Student Volunteer",
+   "org": "PAP Community Foundation",
+   "dates": "May 2016 - May 2016 1 month",
+   "meta": [],
+   "description": "I went to a kindergarten to volunteer in taking care of and entertaining the kids. We put up a skit that taught the children important life skills and played games with them. This experience was a good throw-back to my childhood days and made me understand kids better and learnt more about how to handle them, in both the planning and activity process."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "The Bits and Bytes of Computer Networking",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Neural Networks and Deep Learning",
+   "org": "DeepLearning.AI",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Extended Essay on \"How to recognise a Tamil character using Neural Networks\"",
+   "org": "Oct 2019 - May 2020",
+   "dates": "Oct 2019 - May 2020",
+   "meta": [],
+   "description": "Achieved Grade A, paper displayed in the school library. Overall, through this research, not only did I find out how neural networks can be used to classify Tamil characters, but I also found out the amazing potential this beautiful application of mathematics has on our daily lives. The functions of the human brain can be recreated through the use of neural networks and make computers learn like u"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-09-24",
+   "text": "I just got my first ever hackathon podium, and it happened at Hack the North, Canada’s largest hackathon! We won 2nd place in the GPTZero sponsor track with Snitch! Still trying to soak it in. I signed up for Hack the North to get back into hackathons, build something fun, meet interesting people, and experience more of the North American tech scene. And I definitely wasn’t disappointed. It was exciting to see how quickly people were building, especially with tools like Claude Code and Codex bec",
+   "url": "https://www.linkedin.com/posts/techraj_hackthenorth-hackathon-softwareengineering-activity-7509028990406422528-IRki",
+   "likes": 54
+  },
+  {
+   "date": "2026-01-17",
+   "text": "I’ve lived in Singapore all my life, a place I’ve always loved and felt very comfortable in. But growth doesn’t happen in comfort zones. That’s why I’ll be spending the next year in Toronto, Canada as part of the NUS Overseas Colleges programme, where I’ll be working as a Software Engineer Intern at trax.co 🇨🇦. So far, Toronto has been great: welcoming people, beautiful walks, and a refreshing change of pace. Excited to learn, build, and see what the year ahead holds! #NewBeginnings #Toronto #So",
+   "url": "https://www.linkedin.com/posts/techraj_newbeginnings-toronto-softwareengineering-activity-7418351041898799105-qeDP",
+   "likes": 100
+  },
+  {
+   "date": "2025-12-25",
+   "text": "Just last month, I finished my first internship at Perfingo, and it was an eye-opening, humbling, and genuinely exciting experience. It came with a lot of firsts: - Writing code that actually made it to production, not just localhost - Building real features used by real users - Working with AWS for authentication and databases - Developing a production iOS app with Flutter - And most importantly, working on something not graded, but shipped Of course, it wasn’t smooth sailing. Setting up enviro",
+   "url": "https://www.linkedin.com/posts/techraj_internship-softwareengineering-startuplife-activity-7409998861202710528-6yeW",
+   "likes": 78
+  },
+  {
+   "date": "2025-09-13",
+   "text": "One fun part about working at a startup is that you end up wearing many hats. For me, as a usually-introverted SWE intern, that meant stepping out of my comfort zone. A couple of weeks ago, I helped represent Perfingo at the SOC Startup Recruitment Fair and the Block71 SEC Startup Shuffle, pitching our company to prospective interns and people curious about the startup scene. It was a really cool experience seeing the other side of startup life while sharing what we’re building. Big thanks to Sa",
+   "url": "https://www.linkedin.com/posts/techraj_one-fun-part-about-working-at-a-startup-is-activity-7372599115244843008-bHaI",
+   "likes": 39
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Karthikraj Sivakumar - Trax | LinkedIn",
+ "name": "Karthikraj Sivakumar"
+}

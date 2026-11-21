@@ -1,0 +1,144 @@
+{
+ "url": "https://ca.linkedin.com/in/radmehrv",
+ "about": "𝐑𝐚𝐝𝐦𝐞𝐡𝐫 / (𝒓𝒂𝒅-𝒎𝒆𝒉𝒓) / ㅤㅤㅤ1) Software Engineer ㅤㅤㅤ2) Computer…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Empire Life",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Queen's University",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": "Relevant Coursework: Professional Internship (12-month), Operating Systems, Database Management Systems, Data Structures and Algorithms, Computer Architecture, Software Architecture, Artificial Intelligence, Computer Networks"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Assets, Threats, and Vulnerabilities",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Automate Cybersecurity Tasks with Python",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Connect and Protect: Networks and Network Security",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Foundations of Cybersecurity",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Google Cybersecurity",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Play It Safe: Manage Security Risks",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Sound the Alarm: Detection and Response",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Tools of the Trade: Linux and SQL",
+   "org": "Google",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "RadCrypt",
+   "org": "Dec 2025 - Jan 2026",
+   "dates": "Dec 2025 - Jan 2026",
+   "meta": [],
+   "description": "Developed a secure local vault application leveraging the Fernet specification (AES-128 in CBC mode) to ensure symmetric encryption with HMAC integrity verification. Hardened system security by implementing Argon2 key derivation functions (KDF), ensuring high resistance against GPU-based password cracking attempts. Architected a separation-of-concerns model where cryptographic salts and user metad"
+  },
+  {
+   "title": "Play & Showcase: A 3D Arcade Portfolio",
+   "org": "Mar 2024 - Sep 2025",
+   "dates": "Mar 2024 - Sep 2025",
+   "meta": [],
+   "description": "Enter a fully functional 3D arcade where a 2D webpage becomes a playable game. This immersive portfolio, which combines creativity and functionality in a distinctive, gamified experience, highlights my abilities in interactive design and web development. Discover dynamic settings, participate in projects, and navigate my work in a genuinely inventive manner. 3D Arcade Environment: https://github.c"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-22",
+   "text": "This past weekend, I had the opportunity to attend Hack the North 2026, and it was one of the most memorable hackathons I’ve taken part in. Our team started the weekend with an ambitious robotics idea, and after a lot of experimenting, debugging, and a major pivot, we ended up building our own real-life Baymax 🤖. A big part of the weekend was learning how quickly you sometimes have to change direction. What we originally planned wasn’t coming together the way we wanted, so we reworked the idea,",
+   "url": "https://www.linkedin.com/posts/radmehrv_this-past-weekend-i-had-the-opportunity-activity-7508244747740790784-5Rjh",
+   "likes": 33
+  },
+  {
+   "date": "2026-04-15",
+   "text": "Excited to share the latest merch drop from Queen's COMPSA! As the Merch Director this year, I got to be involved in everything from design selection, coordinating our photoshoot, re-imagining our website and ensuring proper delivery of orders. Huge shoutout to the entire Merch team; my designers, coordinators and intern. From brainstorming designs to seeing them come to life, it's been a genuinely rewarding experience in teamwork, logistics, and getting things across the finish line. If you are",
+   "url": "https://www.linkedin.com/posts/radmehrv_excited-to-share-the-latest-merch-drop-from-activity-7450196310877601792-YSi-",
+   "likes": 24
+  },
+  {
+   "date": "2026-01-20",
+   "text": "We are the prophets 👏-👏--👏👏👏 So you can profit Last weekend I had an amazing time at UofTHacks 13, building Prophet a Python-based autonomous commerce engine that turns real-time prediction market data from Polymarket into live Shopify products. This was my first time diving into Multi-Agent Systems and LangGraph, and I’m incredibly proud of what Om Patel, Saahil Gupta, and I were able to create in such a short time. Check it out: https://lnkd.in/eVgWan3r Although we didn’t win any official cate",
+   "url": "https://www.linkedin.com/posts/radmehrv_hackathon-uofthacks13-mlh-activity-7419451100350619648-Jrrm",
+   "likes": 46
+  },
+  {
+   "date": "2026-01-14",
+   "text": "Windows puts a $200 price tag on privacy. I wasn't a fan of that, so I built RadCrypt. Microsoft locks full-featured file encryption (BitLocker) behind their Pro and Enterprise paywalls. Privacy matters, and no one should have to pay a premium to protect their own data. It’s local, it’s secure and it's open-source: https://lnkd.in/epdaFyge",
+   "url": "https://www.linkedin.com/posts/radmehrv_windows-puts-a-200-price-tag-on-privacy-activity-7417222737124810752-1qom",
+   "likes": 21
+  },
+  {
+   "date": "2025-10-14",
+   "text": "Hello everyone! I am super excited to share with you a project that has been close to my heart for a year now. Introducing my personal portfolio project! Instead of creating a traditional website, I wanted to push my creativity further. I designed a 3D arcade environment built with React Three Fiber and Three.js, where the arcade machine itself displays my portfolio as an interactive showcase game. ✨ Some highlights: - Immersive 3D arcade machine with a live embedded iframe of my portfolio - Cus",
+   "url": "https://www.linkedin.com/posts/radmehrv_hello-everyone-i-am-super-excited-to-share-activity-7383879347394412545-Lvir",
+   "likes": 30
+  },
+  {
+   "date": "2025-10-07",
+   "text": "This past summer, I got into the creative side of coding. I really like music so I decided to create an Interactive Audio Visualizer. This project was both challenging and rewarding, giving me hands-on experience with: 🎶 Real-time audio analysis (FFT, amplitude, spectral centroid) 🎨 Color mapping & interactive 3D particle systems 💻 Modern web development tools like Next.js, React.js, and TypeScript 🌐 3D graphics with Three.js and the Web Audio API 🎹 MIDI/MP3 file handling with drag & drop suppor",
+   "url": "https://www.linkedin.com/posts/radmehrv_this-past-summer-i-got-into-the-creative-activity-7381342623686635520-JcsD",
+   "likes": 12
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Radmehr V. - Empire Life | LinkedIn",
+ "name": "Radmehr Vafadar"
+}

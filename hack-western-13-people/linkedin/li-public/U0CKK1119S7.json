@@ -1,0 +1,156 @@
+{
+ "url": "https://linkedin.com/in/tristanpinzari",
+ "about": "The job market for software engineers becomes grimmer by the day. However, even the most…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western Developers Society",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2025 - 2029",
+   "meta": [],
+   "description": "Pursuing a major in computer science and a minor in software engineering."
+  }
+ ],
+ "awards": [
+  {
+   "title": "Best Demo Award",
+   "org": "Headstarter",
+   "dates": "Apr 2023",
+   "meta": [],
+   "description": "In 2023, The East Coast of the US was engulfed in smoke as a result of Canadian wildfires, triggering health alerts. Our project is a weather aggregator, whose purpose is to monitor weather in any given city to promote safety and awareness. Made with: HTML, CSS, JavaScript, OpenWeather, NewsAPI"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Notify (Production)",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "After a successful MVP, Notify is now coming into production! Notify is a collaborative study tool built for university classes. Students pool their learning materials — lecture notes, PDFs, recordings, YouTube videos, articles — and Notify automatically extracts the text from each one and compiles everything into a single master document per topic. The idea is that a whole class studying together"
+  },
+  {
+   "title": "Zen Review",
+   "org": "Mar 2026 - Mar 2026",
+   "dates": "Mar 2026 - Mar 2026",
+   "meta": [],
+   "description": "This is a desktop application for managing pull requests built on the GitHub API, designed to help senior engineers triage and work through large volumes of PRs efficiently. I built two core parts of the application: the settings module, which handles GitHub PAT authentication and user configuration, and the review management system, which lets users assign custom statuses, priorities, and notes t"
+  },
+  {
+   "title": "ChatterBox",
+   "org": "Feb 2026 - Feb 2026",
+   "dates": "Feb 2026 - Feb 2026",
+   "meta": [],
+   "description": "This is a Twitter clone built with the Phoenix Framework, Elixir, and Tailwind CSS. It includes all of Twitter's main features. The application has an industry-standard authentication process, which is secure for account activation and password reset. To make it production-ready, it uses PostgreSQL for relational database management, Mailjet for transactional email services, and AWS S3 for cloud m"
+  },
+  {
+   "title": "TypeRacer",
+   "org": "Jan 2026 - Jan 2026",
+   "dates": "Jan 2026 - Jan 2026",
+   "meta": [],
+   "description": "As a computer science student, I periodically play Typeracer to improve my typing speed and for fun. However, instead of just playing it, I decided to build my own replica of the popular website to better understand its underlying architecture. The result is a web application that captures all of Typeracer's main mechanics, including global races, self-practice, and private lobbies. While maintain"
+  },
+  {
+   "title": "My personal website",
+   "org": "Dec 2025 - Dec 2025",
+   "dates": "Dec 2025 - Dec 2025",
+   "meta": [],
+   "description": "This project is my personal website and portfolio, serving as a central place to showcase my technical journey. It provides a deeper look into my background, past experiences, and details behind my projects that my resume might not include. The site is a practical demonstration of my ability to build clean, interactive, and responsive web applications. I focused on modern styling and intuitive des"
+  },
+  {
+   "title": "Notify (MVP)",
+   "org": "Oct 2025",
+   "dates": "Oct 2025",
+   "meta": [],
+   "description": "Notify was born out of a specific frustration: history lectures where information flies by and materials aren't posted online, leaving students stranded if they miss a single point. Built with React, Node.js, and Firebase, the app is designed to bridge these gaps without assuming students have access to expensive textbooks or external resources. Its core strength is localization; using a simple co"
+  },
+  {
+   "title": "Resume Parser",
+   "org": "Apr 2023 - Apr 2023",
+   "dates": "Apr 2023 - Apr 2023",
+   "meta": [],
+   "description": "Projected Assigned by HeadStarter and Mofizur Rahman, Developer Relations Engineer at Google. Created by Tristan Pinzari and Kenny Frias. Inspriation / Problem We Are Solving: The hiring process for large companies is often a lengthy and costly process. Every year some FAANG companies recieve upward of 10M applications. What is Resume Parser: Resume Parser allows applicants to upload their resume"
+  },
+  {
+   "title": "WeatherWatch",
+   "org": "Apr 2023 - Apr 2023",
+   "dates": "Apr 2023 - Apr 2023",
+   "meta": [],
+   "description": "In 2023, The East Coast of the US was engulfed in smoke as a result of Canadian wildfires, triggering health alerts. Our project is a weather aggregator, whose purpose is to monitor weather in any given city to promote safety and awareness. Made with: HTML, CSS, JavaScript, OpenWeather, NewsAPI https://github.com/TristanPinzari/WeatherWatch"
+  },
+  {
+   "title": "Notify (Production)",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Notify is a collaborative study tool built for university classes. Students pool their learning materials — lecture notes, PDFs, recordings, YouTube videos, articles — and Notify automatically extracts the text from each one and compiles everything into a single master document per topic. The idea is that a whole class studying together produces better study material than any one person alone. Uni"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-11-21",
+   "text": "Jarvis, turn on shadowplay #hackwestern #mlh",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_hackwestern-mlh-activity-7529731822050803712-l8TE",
+   "likes": 6
+  },
+  {
+   "date": "2026-09-23",
+   "text": "I reported an API error to Mistral. In person. Today I had the pleasure of attending Nrth, where I got to network with a bunch of like-minded people. But someone I didn't expect to meet was Avinash Sooriyarachchi, one of Mistral’s researchers, who flew in from San Francisco to speak at the event. After introducing myself, I mentioned that my platform Notify uses one of Mistral's AI models. Then Avinash asked for feedback, as any caring company should. So naturally, I told him about the API error",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_ai-startups-mistral-activity-7508640620740096000-u5oI",
+   "likes": 19
+  },
+  {
+   "date": "2026-09-16",
+   "text": "Notify just got its first real users! It's been a week since my last post, and I'm excited to share that Notify has gained 3 real users since then, and by \"real users,\" I mean people I don't know at all, who found and signed up for Notify on their own, and are actively using it to help them study. Right now, we're just taking it slow, but we're gaining momentum. If you're taking some note-heavy or tough courses with your friends this semester, give Notify a try: notifyy.ca",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_notify-just-got-its-first-real-users-its-activity-7506002102087815168-gIKb",
+   "likes": 10
+  },
+  {
+   "date": "2026-09-10",
+   "text": "I was sitting in class when I got a text from a friend: “Yo, are you notifying this?” School just started, and Notify is already getting its first users. So far, all of them have been personal friends, which is honestly still pretty exciting to see. But mark my words: it won’t be long before students I’ve never met start adopting it too. This is just the beginning.",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_i-was-sitting-in-class-when-i-got-a-text-activity-7503899061125529602-o-z5",
+   "likes": 8
+  },
+  {
+   "date": "2026-08-04",
+   "text": "Why do we still gatekeep notes? Every class has someone with the \"good notes.\" Everyone asks them for the Google Doc a day before the exam. But the best notes should come from the whole class. So I built Notify, a platform where everyone in a class uploads their notes, and they get merged into one comprehensive set that everyone can learn from. I built the first version earlier this year and had students try it at the Canadian Tech Summit 2026. The response was better than I expected. Students g",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_why-do-we-still-gatekeep-notes-every-class-activity-7490493492314390528-otBM",
+   "likes": 9
+  },
+  {
+   "date": "2026-06-19",
+   "text": "Hey guys, Just sharing what I have been up to recently. During March, I presented my app Notify at the 2026 Canadian Tech Summit, and the MVP got several positive testimonies from students. As a matter of fact, I used it to study for my final exams. Recently, after a bit of consultation from some seniors, I have begun the development of the production version of Notify, which will be bigger and better than the MVP. Very excited for every school to start using Notify someday, starting with my sch",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_hey-guys-just-sharing-what-i-have-been-activity-7473573875411386368-YQC9",
+   "likes": 12
+  },
+  {
+   "date": "2026-05-26",
+   "text": "Hey guys, Just sharing that I recently completed my contract work at FlipPilot as a software engineer! FlipPilot is a really awesome startup that automates the time-consuming deal-searching process on marketplaces and retail stores. It can periodically scan multiple marketplaces and countless stores automatically and uses AI to find the best deals for you. If FlipPilot sounds useful to you, you can sign up right now with 500 tokens, which is a good amount of free scans. Check it out! https://www",
+   "url": "https://www.linkedin.com/posts/tristanpinzari_hey-guys-just-sharing-that-i-recently-completed-activity-7465066256463712256-hkI0",
+   "likes": 8
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Canada",
+ "languages": [
+  "Mandarin",
+  "English"
+ ],
+ "page_title": "Tristan Pinzari - Western Developers Society | LinkedIn",
+ "name": "Tristan Pinzari"
+}

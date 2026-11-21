@@ -1,0 +1,206 @@
+{
+ "url": "https://ca.linkedin.com/in/aarush-modi",
+ "about": "I'm a third-year Software Engineering student at Western University specializing in AI…",
+ "experience": [
+  {
+   "title": "",
+   "org": "AALED",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": "Dean's Honours List"
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dean's Honours List 2024-2025",
+   "org": "Faculty of Engineering",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Received for fulfilling the requirements for the dean's honors list for the 2024 - 2025 academic year."
+  },
+  {
+   "title": "App Development with Swift Showcase",
+   "org": "Career Education Council",
+   "dates": "Jan 2024",
+   "meta": [],
+   "description": "Awarded for outstanding work this semester in applying your creativity, coding and presentation skills."
+  },
+  {
+   "title": "ETDM Regionals Finalist",
+   "org": "Ontario DECA",
+   "dates": "Nov 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "SHSM Red Seal in Business",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Peer Tutor",
+   "org": "Milliken Mills High School",
+   "dates": "Mar 2023 - Jun 2023 4 months",
+   "meta": [],
+   "description": "- Provided academic support to fellow students in Biology - I conducted one-on-one tutoring sessions addressing individual learning needs - Collaborated with faculty to develop study materials and resources - Tracked and documented progress, demonstrating improved grades and comprehension among peers"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Enterprise Design Thinking Practitioner",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Make Agentic AI Work for You",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction to Drawings",
+   "org": "Onshape by PTC",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction to Assembly Design",
+   "org": "Onshape, a PTC Technology",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction to Microsoft Excel",
+   "org": "Coursera",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Introduction to Part Design",
+   "org": "Onshape, a PTC Technology",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Using Basic Formulas and Functions in Microsoft Excel",
+   "org": "Coursera",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "App Development with Swift Associate",
+   "org": "Apple",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "First Aid & CPR C",
+   "org": "Canadian Red Cross",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "ML Stock Portfolio Analysis",
+   "org": "May 2025",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Developed a Python-based system that automates equity data acquisition, storage, and predictive modeling for short-term price forecasting. Designed with reproducibility and extensibility in mind, the tool uses real-time market data from Yahoo Finance, stores it in an SQL-based backend, and applies linear regression to model and forecast daily close prices. - Engineered a modular ETL pipeline using"
+  },
+  {
+   "title": "Momentum Backtesting Engine",
+   "org": "May 2025",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Momentum Strategy Backtester A fully functional backtesting engine built in Python that: - Fetches stock data - Generates momentum-based trading signals - Simulates portfolio returns - Calculates risk-adjusted performance metrics - Visualizes results Python, pandas, SQLite, Matplotlib, and yfinance."
+  },
+  {
+   "title": "Monte Carlo European Option Pricing Tool",
+   "org": "May 2025",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Developed a basic Monte Carlo option model for European-style options. Computes 1,000,000 simulations using numpy to find the European call price for an option. The computed call price is approximately the Black-Scholes formula (± 0.01). Graphically displays Payoffs vs. Frequency using a histogram, which opens in a new tab."
+  },
+  {
+   "title": "NeuroNova",
+   "org": "Oct 2023 - Jan 2024",
+   "dates": "Oct 2023 - Jan 2024",
+   "meta": [],
+   "description": "I led the creation NeuroNova, an app designed to enhance cognative function through engaging games and activities. I made a wirefrae for the app and developed a pitch, delivering it to potential investors."
+  }
+ ],
+ "publications": [],
+ "organizations": [
+  {
+   "title": "Essex Residence Council",
+   "org": "6th Floor Representative",
+   "dates": "Oct 2024 - May 2025",
+   "meta": [],
+   "description": "As a Floor Representative for the 6th floor of my dorm building, I was honored to be voted in by my peers to advocate for our community. In this role, I initiated several programs aimed at enhancing dorm life, fostering connections among residents, and creating a supportive environment. Through regular feedback sessions and collaborative planning, I implemented activities that promote engagement a"
+  }
+ ],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-10-14",
+   "text": "I’ve been building a multi-agent system on the side, where several specialized agents feed their work to an orchestrator that pulls it all together. Something felt off with the outputs, but I couldn’t pin down where. I tried Inferock Bench, a free tool that sits between your app and your AI provider and records every API call. Setup took a few minutes: run one command, then change two lines in your code to point your client at it. It showed me the problem right away. One of my agents was returni",
+   "url": "https://www.linkedin.com/posts/aarush-modi_github-inferockinferock-bench-local-llm-activity-7516283276626399232-7-gn",
+   "likes": 12
+  },
+  {
+   "date": "2025-04-01",
+   "text": "Thrilled to have presented today at the ES1050 Design Showcase! My team and I have been working since January to develop and prototype a solution for determining the kinetic energy of hail for our client, the Northern Hail Project. It was an incredible experience seeing our hard work and innovation come to life as we demonstrated our design. Grateful for the opportunity to collaborate with my talented teammates and for all the support from our instructors and the Northern Hail Project. Looking f",
+   "url": "https://www.linkedin.com/posts/aarush-modi_es1050-uwoeng-showcase-activity-7312949114458001410-_hgl",
+   "likes": 40
+  },
+  {
+   "date": "2024-12-02",
+   "text": "Engineers be like: \"I can't talk right now I have a rocket due tonight.\" But in all seriousness I am thrilled to have had the priveledge to participate in the Western Engineering Competition this year. This years theme of space exploration provided unique oppurtunities for my group and I to think creatively and resourcefully. After designing our model using CAD software, we began building our model which preformed above all of our expectations. I am so glad to have been able to have this expiere",
+   "url": "https://www.linkedin.com/posts/aarush-modi_engineers-be-like-i-cant-talk-right-now-activity-7269425201203838976-yEZD",
+   "likes": 25
+  },
+  {
+   "date": "2024-09-09",
+   "text": "This past weekend, I had the privilege of volunteering at OSERVES, an event organized by Western Charity. As someone who recently moved to London to pursue my undergraduate studies, I quickly realized that giving back to my new community is not just an opportunity, but a responsibility I now bear. OSERVES gave me the chance to connect with others, contribute to meaningful causes, and help build a sense of belonging in my new home. From engaging in fun activities to lending a hand to support loca",
+   "url": "https://www.linkedin.com/posts/aarush-modi_communityservice-westernu-volunteer-activity-7238856919401058304-2tR4",
+   "likes": 4
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [
+  "English",
+  "Gujarati",
+  "French",
+  "Hindi"
+ ],
+ "page_title": "Aarush Modi - Greater Toronto Area, Canada | Professional Profile | LinkedIn",
+ "name": "Aarush Modi"
+}

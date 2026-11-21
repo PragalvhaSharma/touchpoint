@@ -1,0 +1,51 @@
+{
+ "url": "https://ca.linkedin.com/in/lblommesteyn",
+ "about": "Hello! I'm Luke, a software engineer at Lyft and former national-team skier. I'm…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Lyft",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-04-07",
+   "text": "We won the Stathletes’ Big Data Cup 2026! 🏒 Our project: treating retrieval denial as a lane-removal problem instead of a system label. We wanted to capture something coaches already feel intuitively, that a good forecheck compresses the clock on every option, not just the first one. Our framework tracks pressure at the carrier, costs the available exit corridors, identifies the cheapest escape route at any given frame, and measures how fast that option closes over the next 3 seconds. Lane closu",
+   "url": "https://www.linkedin.com/posts/lblommesteyn_we-won-the-stathletes-big-data-cup-2026-activity-7447124058770632705-6xNN",
+   "likes": 155
+  },
+  {
+   "date": "2026-03-09",
+   "text": "Super excited to share that our paper, “B.A.I.L.I.F.F.: Bias Analysis in Interactive Legal Intelligence & Fairness Framework”, won Best Paper at the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI) 🏆 Most AI evaluation work focuses on how well a model performs a task. Our research asks something different: in legal AI settings, is that enough if the process that produced the answer is unfair? To study this, we built a multi-agent courtroom framework with judge, prosecution, a",
+   "url": "https://www.linkedin.com/posts/lblommesteyn_super-excited-to-share-that-our-paper-bailiff-activity-7436863920461623297-mkG0",
+   "likes": 214
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [],
+ "page_title": "Luke Blommesteyn - Lyft | LinkedIn",
+ "name": "Luke Blommesteyn"
+}

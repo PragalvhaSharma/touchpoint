@@ -1,0 +1,325 @@
+{
+ "url": "https://ca.linkedin.com/in/jamie-seoh",
+ "about": "Hi! I'm a 2nd-year SWE student at UWaterloo. I love building projects to solve problems…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Attention Inc.",
+   "dates": "",
+   "meta": [
+    "Palo Alto, California, United States"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "4.00/4.00",
+   "dates": "2025 - 2030",
+   "meta": [],
+   "description": "Awards: President's Scholarship of Distinction & Software Engineering Entrance Scholarship & President's Research Award Relevant Course Work: CS137 (Programming Principles), CS138 (Data Abstraction), MATH115 (Linear Algebra), ECE124 (Digital Circuits), SE101 (Software Engineering Principles), ECE140 (Linear Circuits), ECE222 (Digital Computers)"
+  }
+ ],
+ "awards": [
+  {
+   "title": "First Place Overall",
+   "org": "DeltaHacks",
+   "dates": "Jan 2026",
+   "meta": [],
+   "description": "1st place out of 144 teams!! My team and I built Quota: the first linter for your budget; a real-time cost intelligence for your IDE and a predictive sandbox for different architectures. Devpost: https://lnkd.in/ew_75Mx7 GitHub: https://lnkd.in/eFvZiPfM (⭐ us!)"
+  },
+  {
+   "title": "G Melbourne Evans (Music) Award - Scholarship",
+   "org": "Halton District School Board",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Rewarded to one senior music student in HDSB for their proficiency in music study and performance."
+  },
+  {
+   "title": "Halton Proficiency Award - Scholarship",
+   "org": "Halton District School Board",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Rewarded a small selection of graduating students who have demonstrated excellence and academic proficiency throughout their high school careers."
+  },
+  {
+   "title": "Euclid Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Top 7.6%"
+  },
+  {
+   "title": "Best Pitch Award",
+   "org": "EurekaHacks",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "UTSC/OBA Small Ensemble Festival Gold Award",
+   "org": "University of Toronto Scarborough & Ontario Band Association",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Big Data Challenge Eastern Finalist",
+   "org": "STEM Fellowship",
+   "dates": "Feb 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Canadian Senior Mathematics Contest Distinction",
+   "org": "University of Waterloo",
+   "dates": "Jan 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Euclid Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Top 9.2%"
+  },
+  {
+   "title": "Hypatia Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "May 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Fermat Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "Apr 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Candian Computing Competiton Senior Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Canadian Senior Mathematics Contest Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "Dec 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "COMC Performance with Distinction",
+   "org": "Canadian Mathematical Society",
+   "dates": "Nov 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Small Ensemble Festival Silver Plus",
+   "org": "UTSC/OBA",
+   "dates": "Apr 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "COMC Performance with Honours",
+   "org": "Canadian Mathematical Society",
+   "dates": "Jan 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Cayley Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Galois Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "CIMC Honor Roll / Certificate of Distinction",
+   "org": "University of Waterloo",
+   "dates": "2022",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "ABRSM Clarinet Level 5 Certificate of Distinction",
+   "org": "ABRSM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Software Engineer",
+   "org": "The Association of Korean-Canadian Scientists & Engineers",
+   "dates": "Sep 2026 - Present 3 months",
+   "meta": [],
+   "description": "Revamping akcseuw.ca, the website for Waterloo's chapter of the largest Korean-Canadian tech community. - Consolidated hosting, storage, and serverless compute on Cloudflare Pages, R2, and Workers to simplify infrastructure management across previously separate services. - Migrated MongoDB to PostgreSQL to model relationships between application entities, refactoring backend services for the relat"
+  },
+  {
+   "title": "Sponsorship Director",
+   "org": "Ignition Hacks",
+   "dates": "Dec 2024 - Mar 2026 1 year 4 months",
+   "meta": [],
+   "description": "Responsible for all sponsorships, maintaining professional relationships with sponsors, managing finance, and directing the subteam. Two years as sponsorship director. https://www.ignitionhacks.org/"
+  },
+  {
+   "title": "Student Conductor",
+   "org": "Mississauga Symphony Youth Orchestra",
+   "dates": "Feb 2025 - Apr 2025 3 months",
+   "meta": [],
+   "description": "Conducted and led ensemble rehearsals, guiding musicians to achieve musical cohesion, balance, and unified interpretation. Provided musical direction, set rehearsal goals, and ensured effective coordination and collaboration across sections. Additionally, I was the principal clarinetist from 2022 to 2025."
+  },
+  {
+   "title": "Event Coordinator",
+   "org": "a cultural student association",
+   "dates": "Sep 2025 - May 2026 9 months",
+   "meta": [],
+   "description": "Planned and executed events that celebrate and preserve cultural heritage while fostering a sense of community among students. Coordinated activities that promote cultural unity, encourage engagement, and provide opportunities for members to connect with their heritage."
+  },
+  {
+   "title": "Funding Council Member",
+   "org": "University of Waterloo Mathematics Endowment Fund (MEF)",
+   "dates": "Nov 2025 - Apr 2026 6 months",
+   "meta": [],
+   "description": "Reviewed and evaluated funding proposals for student-led projects, making informed financial decisions to allocate resources effectively. Collaborated with fellow council members to support initiatives that enhance the Math community and promote academic and extracurricular growth."
+  },
+  {
+   "title": "President",
+   "org": "HackTheRidge",
+   "dates": "Jul 2024 - May 2025 11 months",
+   "meta": [],
+   "description": "Hack the Ridge is IRHS' proud annual hackathon. As the president this year, I was responsible for all operations, communications, delegating and supervising progress from the team. As a result, we hosted 166 attendees at our school with $7920 of funding from reputable sponsors like Siemens, University of Waterloo, Hatch, and Deloitte. I also gathered speakers such as Dr. Quevedo from Ontario Tech"
+  },
+  {
+   "title": "Leader & Clarinetist",
+   "org": "Ridge WooWoo Chamber Ensemble",
+   "dates": "Aug 2023 - May 2025 1 year 10 months",
+   "meta": [],
+   "description": "A group of 6 with the purpose of sharing an enriched musical experience to the community. We have performed at Gr8 Parent Night, WInter Wonderland, Sounds of the Season, Holiday Assembly, Senior Visit with INTERACT, Virtual Concert, Graduation Commencement (IRHS)"
+  },
+  {
+   "title": "National Chapter Development Director",
+   "org": "Project Apollo Association",
+   "dates": "Jan 2025 - Aug 2025 8 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Executive Roles",
+   "org": "Iroquois Ridge High School",
+   "dates": "Sep 2021 - May 2025 3 years 9 months",
+   "meta": [],
+   "description": "- a cultural student association Founder / Co-Chair a cultural student association explores various aspects of cultural heritage, including dance, food, language, and K-content, hands-on. My role is handling all operations and supervising weekly club sessions. - Concert Band Section Leader & Conductor: Concert band is a year-long club/program with two concerts. It allows high school students to explore their interest in music by performi"
+  },
+  {
+   "title": "Web Developer",
+   "org": "Marketyze",
+   "dates": "May 2024 - Aug 2024 4 months",
+   "meta": [],
+   "description": "Contributed to the Marketyze website, programmed with React.js"
+  },
+  {
+   "title": "Director of Programs (MSP)",
+   "org": "Marketyze",
+   "dates": "Jan 2024 - May 2024 5 months",
+   "meta": [],
+   "description": "Led the design and execution of Marketyze’s startup program, coordinating workshops, mentorship sessions, and events to support early-stage entrepreneurs. Oversaw program operations, ensuring participants received guidance and resources to develop their business ideas and grow their ventures."
+  },
+  {
+   "title": "President",
+   "org": "IRHS Puzzle Club",
+   "dates": "Sep 2022 - Apr 2025 2 years 8 months",
+   "meta": [],
+   "description": "2022-2023: - Club Founded - Leading lectures on a variety of puzzles - Hosting events amongst the community 2023-2024: - Hosting fundraisers for good purposes (e.g., HMC refugee fund) - raised $394 - Continuing on with weekly lectures - Organizing a seasonal contest, with reputable sponsorships (Maki Puzzle Contest) - Publishing bi-weekly newsletters with different puzzles 2024-2025: - Stepped dow"
+  },
+  {
+   "title": "Social Media Manager // Global Affairs Department Contributor",
+   "org": "PTERYX Foundation",
+   "dates": "Feb 2023 - Aug 2024 1 year 7 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Delegate",
+   "org": "Ontario Student Leadership Conference",
+   "dates": "Aug 2023 - Apr 2024 9 months",
+   "meta": [],
+   "description": "The Ontario Student Leadership Conference has been the marquee event for youth in the province. OSLC is the largest and longest multi-day Leadership Conference in Canada. A group of youth leaders come together to connect and bring back the learnings from aspiring speakers."
+  }
+ ],
+ "certifications": [
+  {
+   "title": "HIGH FIVE ®",
+   "org": "HIGH FIVE Canada",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "LSS Swim Instructor",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "National Lifeguard - Pool",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Standard First Aid with CPR-C",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-11-19",
+   "text": "Attention! I'm joining Attention Inc. as a Software Engineer intern this winter! Attention is a venture-backed, early-stage startup in Palo Alto, California, building AI products that observe how knowledge workers and teams actually work and turn those workflows into reliable automations. Aidan Guo & Julian Windeck - thank you for the smooth process and looking forward to working with you all soon! If you're in Palo Alto this winter, feel free to reach out!",
+   "url": "https://www.linkedin.com/posts/jamie-seoh_attention-im-joining-attention-inc-as-activity-7528983949122052096-Vuw2",
+   "likes": 284
+  },
+  {
+   "date": "2026-07-26",
+   "text": "Calling all students: apply to Hack the North! This year, I'm organizing logistics for HTN, and if there's one thing I learned, it's to try new things and just do it. I know most of you are passionate builders; HTN is truly the place to pour your lifetime of craftsmanship into a weekend of excitement, learning, and empowerment. Think you don't have a place at the event? Don't worry, that's what 90% of hackers think when they apply; chances are, you are underestimating yourself. Press that apply",
+   "url": "https://www.linkedin.com/posts/jamie-seoh_calling-all-students-apply-to-hack-the-north-activity-7487152174716698624-tGsR",
+   "likes": 111
+  },
+  {
+   "date": "2026-01-13",
+   "text": "Building under pressure pays off... literally! Our team won 🥇1ST PLACE OVERALL WINNER at DeltaHacks !! Today, developers increasingly rely on AI to build products at speed. Only problem is, AI agents and API costs are often ignored. You only realize the mistake once you check your bank account. That's why we build Quota: the first linter for your budget; a real-time cost intelligence for your IDE and a predictive sandbox for YOUR architecture. We: ➜ Engineered a VS Code extension that parses you",
+   "url": "https://www.linkedin.com/posts/jamie-seoh_hackathon-deltahacks-swe-activity-7416694546174124032-UC7e",
+   "likes": 230
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Jamie Seoh - Attention Inc. | LinkedIn",
+ "name": "Jamie Dongwan Seoh"
+}

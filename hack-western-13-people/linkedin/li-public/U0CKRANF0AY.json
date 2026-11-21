@@ -1,0 +1,64 @@
+{
+ "url": "https://ca.linkedin.com/in/ryan-peters-14691a375",
+ "about": "Always happy to connect! [email omitted]",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": "> Dean's Honour List (2024-2025) > Dean's Honour List (2025-2026)"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Request Supervisor App - Kaizen Project",
+   "org": "Jul 2025 - Aug 2025",
+   "dates": "Jul 2025 - Aug 2025",
+   "meta": [],
+   "description": "Developed desktop-to-mobile notification system in Python replacing visual supervisor calls with automated digital requests, reducing response times from 7-12 minutes to under 2 minutes and significantly boosting plant efficiency. Technical achievements: -Integrated Pushover API for cross-platform mobile notifications -Implemented CSV-based performance tracking and analytics -Successfully deployed"
+  }
+ ],
+ "publications": [
+  {
+   "title": "AICC White Paper: Artificial Intelligence – A Guideline for Ethical and Safe Use",
+   "org": "AICC, The Independent Packaging Association November 13, 2025",
+   "dates": "November 13, 2025",
+   "meta": [],
+   "description": "Provided input on practical AI deployment and ethical use in manufacturing operations, supporting AICC's white paper series Authored by Mohamed Azzouz (Continuous Improvement Manager, Royal Containers). Note: the full white paper is company/association material and isn't publicly available, so the link above leads to the public press coverage instead."
+  }
+ ],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-03-08",
+   "text": "15 minutes to submission. We shipped it. Meet Dr. Maple, an AI voice health triage assistant built for Canadians. Made for Hack Canada. Here's the problem: Ontario ERs average 4+ hours. Walk-in clinics fill up by 9 AM. Over 6 million Canadians don't have a family doctor. Dr. Maple sits in the middle. Describe your symptoms by voice, it asks follow-up questions like a triage nurse, reads your Apple Watch vitals in real time, and gives you a personalized assessment. It classifies your situation, f",
+   "url": "https://www.linkedin.com/posts/ryan-peters-14691a375_hackcanada-hackathon-buildinpublic-activity-7436409328179363840-nMtd",
+   "likes": 18
+  },
+  {
+   "date": "2026-03-07",
+   "text": "It's 11 PM on a Friday night and I'm coding on the highway… This weekend I'm competing at Hack Canada at Waterloo with Miguel Mallet. Except we have to go back to Western for our Computer Organization & Architecture midterm on Saturday morning. Not exactly ideal timing. But that's kind of just what being a CS student looks like sometimes, you don't always get to pick when things overlap, you just figure it out. So the plan: build as much as I can tonight, write the exam tomorrow morning, and be",
+   "url": "https://www.linkedin.com/posts/ryan-peters-14691a375_hackcanada-hackathon-buildinpublic-activity-7435936731130036224-AHzU",
+   "likes": 35
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Ryan Peters - RBC | LinkedIn",
+ "name": "Ryan Peters"
+}

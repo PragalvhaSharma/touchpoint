@@ -1,0 +1,143 @@
+{
+ "url": "https://ca.linkedin.com/in/tejasskaushik",
+ "about": "I’m COO at Anticipation Labs, building across product, engineering and operations. I want…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Stealth AI Startup",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2026 - 2030",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "3rd Place – Youreka Canada Regional Research Competition",
+   "org": "Youreka Canada",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "-Secured 3rd place at the regional research symposium for presenting a data-driven study on adolescent fertility and pediatric ART access in Sub-Saharan Africa. -Recognized for outstanding teamwork, research methodology, and scientific insight, leading to qualification for the national round of Youreka Canada."
+  },
+  {
+   "title": "1st Place – Youreka Canada 3-Minute Thesis (3MT) Challenge",
+   "org": "Youreka Canada",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": "-Awarded first place nationally for delivering a clear, concise, and compelling 3-minute presentation on adolescent fertility and pediatric ART in Sub-Saharan Africa. -Recognized for excellence in scientific communication, research impact, and public speaking among top high school researchers across Canada."
+  },
+  {
+   "title": "National Finalist - Top 7",
+   "org": "Target Alpha Canada",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": "Recognized among the top seven participants nationally for excellence in personal finance strategy and presentation at one of Canada’s premier high school finance competitions, hosted by Target Alpha."
+  },
+  {
+   "title": "First Place – Chemistry and Hydroecology Odyssey",
+   "org": "University Of Guelph",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Demonstrated expertise in Chemistry (Chemical Conundrums) and Hydro Ecology(Hydroecology Odyssey) through problem-solving and application of scientific principles in a competitive environment. Collaborated with a team to design and execute solutions, earning first place among top-performing participants. Recognized for critical thinking, teamwork, and innovation in scientific research and analysis"
+  },
+  {
+   "title": "🥇 1st Place – Youreka Canada National Symposium 2025",
+   "org": "Youreka Canada",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Project Title: Exploring the Relationship Between Adolescent Fertility Rates and Pediatric Antiretroviral Treatment (ART) in Countries Across Sub-Saharan Africa Team Members: • Yixuan (YoYo) Wang – Student Investigator (SI) • Shikai Jin – Student Investigator (SI) • Tejas Kaushik – Student Investigator (SI) • Elijah Murtagh – Undergraduate Research Lead (URL) Our team was honored to place 1st nati"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "AI Creation: First Steps",
+   "org": "Higgsfield AI",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "S2 HUVTSP",
+   "org": "Harvard Undergraduate Ventures",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [
+  {
+   "title": "Exploring the Relationship Between Adolescent Fertility Rates and Pediatric Antiretroviral Treatment Coverage in Countries Across Sub-Saharan Africa",
+   "org": "Youreka Canada Journal June 1, 2026",
+   "dates": "June 1, 2026",
+   "meta": [],
+   "description": "Co-authored a public-health research paper examining the relationship between adolescent fertility rates and pediatric antiretroviral treatment coverage across 34 Sub-Saharan African countries. Our team analyzed international health data using linear regression, the Shapiro-Wilk test, a one-tailed two-sample t-test, Cohen’s d, and confounder analysis. The paper was published in the 2025 Youreka Ca"
+  }
+ ],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-10-21",
+   "text": "A button that wouldn’t stop glowing taught me something useful about AI video. I’ve just completed Higgsfield Academy’s “AI Creation: First Steps.” Certificate attached. 🧩 In one practice scene, an engineer presses a prototype’s button. The light is supposed to pulse once. Instead, it stays on. The character looks convincing. The camera move works. But that tiny continuity error changes what the viewer understands. That was my biggest takeaway: getting a beautiful image is only part of making a",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_higgsfield-aifilmmaking-creativedirection-activity-7518505609902678016-jsbi",
+   "likes": 3
+  },
+  {
+   "date": "2026-10-12",
+   "text": "In an AI demo, I’d show the manual step. Suppose a prototype turns a conversation into a useful task card. A person still has to copy that task into another app. That could be a worthwhile component. But “conversation to completed task” would be the wrong description of what the recording shows. I’d rather see the actual handoff: here’s what the software produced, here’s what the person did, and here’s the result. The same goes for a demo with prepared inputs. There’s nothing wrong with using a",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_in-an-ai-demo-id-show-the-manual-step-activity-7515426731059568642-kBKV",
+   "likes": 6
+  },
+  {
+   "date": "2026-10-06",
+   "text": "A voice agent can finish a call without finishing the job. That’s the problem Jose Cruz-Lopez and I are working through with June at Anticipation Labs during Stan Launchpad. Suppose the task is to move an appointment. The agent dials the right number, navigates the phone tree, and leaves a clear voicemail. The call succeeded. The appointment hasn’t moved. That distinction has to survive every step of the system, especially the update back to the caller. The work involves receptionists, dropped c",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_stanlaunchpad-activity-7513365119696003072-lkB3",
+   "likes": 5
+  },
+  {
+   "date": "2026-10-06",
+   "text": "We’re building an AI assistant you can reach from a landline. No app to download. No dashboard to learn. Her name is June. Jose C. and I are building her at Anticipation Labs during Stan Launchpad, for older adults who would rather talk on the phone than navigate another screen. Start with an ordinary request: “Could you call the clinic and ask about moving my appointment?” The person has explained what they need. The experience we’re working toward is for June to make the calls, verify what was",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_stanlaunchpad-activity-7513263917935095808-686Y",
+   "likes": 16
+  },
+  {
+   "date": "2026-10-05",
+   "text": "Jose wrote about the grandparents who raised him. That’s the part of this story I want people to remember. June starts with a belief I care about: you shouldn’t have to learn another app just to get help with everyday life. For older adults who would rather pick up the phone, we want that phone call to be enough. I’m in my first semester at Western. Now I’m spending two weeks at Stan Launchpad building alongside Jose, trying to turn that idea into something people can actually depend on. We’re e",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_stanlaunchpap-activity-7512971447271698432-9hd1",
+   "likes": 18
+  },
+  {
+   "date": "2026-10-04",
+   "text": "You can drive a yacht on my portfolio. Yes, this is still a website about my work. Meet Open Water. 🚤 I love the water, boats and yachts, and I wanted my personal website to actually feel personal. So I turned it into an ocean you can explore. Take the helm. Explore the islands. Head beneath the surface into reefs and caves. There’s even a dolphin called Dakota. I’m a first-year Computer Science student at Western with Ivey AEO, and I’m building Anticipy. The site brings together that work, my t",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_tejass-kaushik-open-water-activity-7512601325067735041-ea4i",
+   "likes": 10
+  },
+  {
+   "date": "2026-10-04",
+   "text": "Some of my week is spent building Anticipy. Some of it is spent calculating a parking bill in Python. I’m in first-year computer science at Western, and one of my assignments is a parking duration and cost calculator. It takes a licence plate, arrival and departure times, and a parking rate. Then it needs to turn that into a clear result. There isn’t a particularly glamorous way to describe it. But there’s plenty to understand: which values are text, which are numbers, how the calculation works,",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_some-of-my-week-is-spent-building-anticipy-activity-7512600267280814080-Ap3L",
+   "likes": 6
+  },
+  {
+   "date": "2026-10-02",
+   "text": "At Launchpad, I want to test Anticipy before I explain it. A pitch gives me a lot of control. I choose the example, explain the context, and steer around the parts that need work. A product test should give some of that control away. My goal is to put a prototype in front of someone with a task they actually need to complete, then watch before walking them through the solution. Where do they hesitate? What do they expect to happen next? Which step makes them reach for the app they already use? T",
+   "url": "https://www.linkedin.com/posts/tejasskaushik_stanlaunchpad-activity-7511803190036697088-uAEr",
+   "likes": 9
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Tejass Kaushik - Stealth AI Startup | LinkedIn",
+ "name": "Tejas Kaushik"
+}

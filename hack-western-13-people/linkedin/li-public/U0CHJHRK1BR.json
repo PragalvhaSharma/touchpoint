@@ -1,0 +1,51 @@
+{
+ "url": "https://www.linkedin.com/in/dhruvilpatel5",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "LobbyIQ",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "Relevant Coursework: Data Structures, Object-Oriented Programming, Operating Systems, Discrete Mathematics, Algorithm Design and Analysis, Databases, Software Engineering"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "HotSpots.ai",
+   "org": "Jun 2025 - Jul 2025",
+   "dates": "Jun 2025 - Jul 2025",
+   "meta": [],
+   "description": "HotSpots.ai is a city scale geospatial analytics platform that uses real time satellite and urban data to map urban heat vulnerability and inform climate resilience strategies."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-07-28",
+   "text": "Recently I took part in Hack the 6ix 🚀 Vrunda Shah, Jay Patel and I built Bopple, an AI coding agent you control entirely from Telegram. You text it a task, it clones your repo into an isolated cloud VM, runs an agent loop to write and test the code, commits, and opens a real PR. You get pinged with the link when it's ready to review. Tools like Cursor, Devin, and Jules solve a similar problem, but they all ask you to adopt their app or workflow. Bopple just needs a text message. Thanks to the o",
+   "url": "https://www.linkedin.com/posts/dhruvilpatel5_hackthe6ix-hackathon-ai-activity-7487974511506534400-lu6m",
+   "likes": 16
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Brampton, Ontario, Canada",
+ "languages": [],
+ "page_title": "Dhruvil Patel - LobbyIQ | LinkedIn",
+ "name": "Dhruvil Patel"
+}

@@ -1,0 +1,66 @@
+{
+ "url": "https://www.linkedin.com/in/yipadri/",
+ "about": "Hey! I'm Adrian, a 3rd year Computer Engineering student at UofT interested in graphics…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Dynamic Graphics Project (DGP) Lab",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Toronto Engineering",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "RATH - Vulkan Rendering Engine",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "A game engine I am currently building in C++ with Vulkan. So far, I have implemented the basics of Vulkan (swapchain, renderpasses, graphics/compute pipelines, and command buffer syncs). A glTF model loader, asset manager, free-fly camera, and diffuse lighting shaders have also been added. This is all controllable in run-time through an ImGui menu."
+  },
+  {
+   "title": "OpenGL Shader Renderer",
+   "org": "May 2026 - Aug 2026",
+   "dates": "May 2026 - Aug 2026",
+   "meta": [],
+   "description": "A multi-pass deferred C++/OpenGL renderer with three non-photorealistic GLSL shaders: cel shading (inspired by Guilty Gear Xrd), crosshatch/screentone, and isophote contours. Features two-tone cel lighting, rim lighting, screen-space outlines from normal and depth buffers, and a ping-pong Gaussian bloom pipeline with HDR tone mapping."
+  },
+  {
+   "title": "GANTerrainGen",
+   "org": "May 2026 - Jul 2026",
+   "dates": "May 2026 - Jul 2026",
+   "meta": [],
+   "description": "A DCGAN trained on satellite data (Copernicus elevation + ESA WorldCover) to procedurally generate 256x256 terrain maps, benchmarked against a Perlin fBm baseline. Created as my APS360 final project. Build a real-time C++/OpenGL visualizer to inspect training checkpoints live."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-22",
+   "text": "Computa graphics is cool. I forced Raymond Lin to come to Hack the North with me after I came across \"JALI: An Animator-Centric Viseme Model for Expressive Lip Synchronization\" (SIGGRAPH 2016) since knew I had to make something related to it... and somehow we made it into the top 30. We built LivingNPC, a project where you are in a 3D world with agentic NPCs that you can talk with through your mic, and they respond back with real voices, procedurally animated lips + eyes, and body language. I wr",
+   "url": "https://www.linkedin.com/posts/yipadri_larp-activity-7508022643317694465-WmXq",
+   "likes": 45
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Adrian Yip - Dynamic Graphics Project (DGP) Lab | LinkedIn",
+ "name": "Adrian Yip"
+}

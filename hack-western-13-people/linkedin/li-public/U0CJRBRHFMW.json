@@ -1,0 +1,98 @@
+{
+ "url": "https://www.linkedin.com/in/jonathanzhou07",
+ "about": "Hello!",
+ "experience": [
+  {
+   "title": "",
+   "org": "Figma",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2025 - 2030",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Sage - Steel City Hacks 2024: Winter Hackathon - Novice Winner",
+   "org": "Steel City Codes",
+   "dates": "Feb 2024",
+   "meta": [],
+   "description": "Steel City Hacks 2024: Winter Hackathon winner for Novice: Best Overall https://devpost.com/software/sage-67v1d2"
+  },
+  {
+   "title": "Academic Weapon - NightHacks hackathon winner",
+   "org": "NightHacks",
+   "dates": "Oct 2023",
+   "meta": [],
+   "description": "NightHacks hackathon 2023 winner for best beginner hack. https://devpost.com/software/academic-weapon-gmi5vl"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "ARCT Piano Performer",
+   "org": "The Royal Conservatory of Music",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "ARCT History and Theory",
+   "org": "The Royal Conservatory of Music",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-08",
+   "text": "unlocking a Mac is still surprisingly manual. you open your laptop, wait for the lock screen, type your password or use TouchID, and you're in. why can't it just recognize you? Your iPhone has done that for over 9 years. so i built Glance: > face unlock for your Mac using your webcam > on-device face recognition with ArcFace > protection against basic photo spoofing > support for multiple identities > your face is never uploaded or stored as a photo Glance is not as secure as Apple’s FaceID or T",
+   "url": "https://www.linkedin.com/posts/jonathanzhou07_unlocking-a-mac-is-still-surprisingly-manual-activity-7503150420802871296-Nq5V",
+   "likes": 718
+  },
+  {
+   "date": "2026-08-27",
+   "text": "Thrilled to share that I'll be joining Figma as a Campus Leader at Western University! Figma has been a part of nearly everything I’ve built over the past few years. From my portfolio to the apps I design and develop, so many of my ideas have started on a Figma canvas. I genuinely can’t imagine my design process without it. I’m excited to join the Figma EDU team and work alongside Isavella Barbosa to help bring Figma to more students at Western for the first time. Lots of exciting things ahead (",
+   "url": "https://www.linkedin.com/posts/jonathanzhou07_thrilled-to-share-that-ill-be-joining-figma-activity-7498569295204036609-zBvH",
+   "likes": 117
+  },
+  {
+   "date": "2026-07-23",
+   "text": "Working on bringing FaceID to the Mac 👀. Ever since Apple introduced the notch to MacBooks, I've always wondered why they still haven't brought Face ID to macOS. It feels like one of those features that just belongs there. So I decided to see if I could build it myself. One of the first things I wanted to get right was the unlock animation. I recreated both the successful unlock and failed recognition states using Figma Motion. From the scanning rings to the subtle shake animation when authentic",
+   "url": "https://www.linkedin.com/posts/jonathanzhou07_working-on-bringing-faceid-to-the-mac-activity-7486072786122104833-K7GV",
+   "likes": 176
+  },
+  {
+   "date": "2026-07-04",
+   "text": "Been playing around with the new Figma Motion since it launched, and it's honestly been a lot of fun. I used it to put together this launch video for my app Munch. Coming from mostly static UI design, it's cool being able to bring interfaces to life without leaving my Figma canvas. Still lots to learn (like the new shaders), but I'm excited to see what people build with it. Munch is now live on the app store! A social way to discover, share and save recipes. Proud to have built it alongside Samu",
+   "url": "https://www.linkedin.com/posts/jonathanzhou07_been-playing-around-with-the-new-figma-motion-activity-7479217469878849536-wv73",
+   "likes": 366
+  },
+  {
+   "date": "2026-06-13",
+   "text": "Hot take: edit profile pages are sloppy. They're often treated as an afterthought. But editing your profile is one of the few moments where users can actually express themselves, and they can play a BIG impact in how the user views the app. 🥗 For Munch, we wanted to embrace the playfulness of our other interactions and demonstrate our whimsy-ness. We didn't want to build another static edit profile page filled with text fields and input boxes. We spent a surprising amount of time on the tiny det",
+   "url": "https://www.linkedin.com/posts/jonathanzhou07_hot-take-edit-profile-pages-are-sloppy-activity-7471362166307192832-XXlj",
+   "likes": 36
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Jonathan Zhou - Figma | LinkedIn",
+ "name": "Jonathan Zhou"
+}

@@ -1,0 +1,92 @@
+{
+ "url": "https://ca.linkedin.com/in/tristanbeley",
+ "about": "Hey, I’m Tristan! I’m a builder and cloud/software engineer who, in my free time, happens…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Founderless",
+   "dates": "",
+   "meta": [
+    "New York City Metropolitan Area"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.7/4.0",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "HackWestern 12 - Sunlife Best Health Hack Winner",
+   "org": "HackWestern",
+   "dates": "Nov 2025",
+   "meta": [],
+   "description": "Selected as Sun Life’s Best Health Hack out of 58 competing teams at HackWestern 12 for building NutriScan AI, a tool that analyzes meals using on-device image processing and provides instant nutritional feedback."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Technical Lead, Web",
+   "org": "TEDxThirdWard",
+   "dates": "Dec 2025 - Jun 2026 7 months",
+   "meta": [],
+   "description": "Building the official website for TEDxThirdWard, working across the site’s design, development and deployment."
+  },
+  {
+   "title": "Researcher",
+   "org": "Western Investment Club",
+   "dates": "Jan 2025 - Apr 2026 1 year 4 months",
+   "meta": [],
+   "description": "Consumer Retail Group"
+  },
+  {
+   "title": "Organizer/Founder",
+   "org": "Home For The Holidays",
+   "dates": "Dec 2024 - Present 2 years",
+   "meta": [],
+   "description": "Assembled and distributed care packages to support less fortunate individuals during the holiday season"
+  },
+  {
+   "title": "Developer",
+   "org": "Independent Developer",
+   "dates": "Aug 2024 - Aug 2026 2 years 1 month",
+   "meta": [],
+   "description": "Design and build custom coding projects for peers and small groups, to help solve technical challenges."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "NutriScan AI",
+   "org": "Nov 2025",
+   "dates": "Nov 2025",
+   "meta": [],
+   "description": "NutriScan AI is an AI-powered nutrition assistant my team and I built in 36 hours at HackWestern 12. It lets users snap a photo of their meal or log items manually, then uses the Google Gemini API to estimate calories, macros, and key nutrients while giving simple, personalized guidance instead of raw numbers. The app combines an onboarding questionnaire with ongoing meal scans and daily check-ins"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2025-11-25",
+   "text": "Over this past weekend I had the opportunity to spend 36 hours at HackWestern 12 building NutriScan AI with Shayaan Tanvir, Mohammad Hammad, and Ziad Elnagar. On top of creating something meaningful, we walked away with: - Sun Life Best Health Hack - MLH Best Use of DigitalOcean Gradient AI The Problem: As students, it’s become far too easy to trade sleep and nutrition for deadlines. What’s wild is that early warning signs of poor health are often visible on our skin, eyes, and nail beds. The is",
+   "url": "https://www.linkedin.com/posts/tristanbeley_over-this-past-weekend-i-had-the-opportunity-activity-7398940780897153024-Ulwy",
+   "likes": 73
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ",",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [],
+ "page_title": "Tristan Beley - Founderless | LinkedIn",
+ "name": "Tristan Beley"
+}

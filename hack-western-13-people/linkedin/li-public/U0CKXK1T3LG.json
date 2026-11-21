@@ -1,0 +1,178 @@
+{
+ "url": "https://ca.linkedin.com/in/malekhammoud",
+ "about": "I don’t just write code. I build systems. I am a 18-year-old Systems Engineer and…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Playtoon It, Inc.",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "McMaster University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "TKS Global Explore Hackathon Winner",
+   "org": "",
+   "dates": "Dec 2024",
+   "meta": [],
+   "description": "Winner of the Global Explore Hackathon. We achieved top 4 out of approximately 200 teams. Our team created PosturePal, a device that sprays you if you have bad posture. It is designed to help improve your posture by providing instant feedback. I built it with João Pedro Santos."
+  },
+  {
+   "title": "CWSF Bronze Medalist",
+   "org": "Youth Science Canada",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "I achieved bronze at the Canada-Wide Science Fair for my project GreenGuardian."
+  },
+  {
+   "title": "Thames Valley Science & Engineering Fair: Gold Medal",
+   "org": "TVSEF",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": "Awarded to Top Science & Engineering Projects at the Fair"
+  },
+  {
+   "title": "Western Research Imagination Prize",
+   "org": "TVSEF",
+   "dates": "Mar 2024",
+   "meta": [],
+   "description": "Projects displaying the most imaginative work, both from the perspective of the concept and its implementation."
+  },
+  {
+   "title": "Engineers Choice Award",
+   "org": "TVSEF",
+   "dates": "Mar 2023",
+   "meta": [],
+   "description": "A project in any Category that demonstrates excellence in Engineering."
+  },
+  {
+   "title": "Thames Valley Science & Engineering Fair: Silver Medal",
+   "org": "TVSEF",
+   "dates": "Mar 2023",
+   "meta": [],
+   "description": "Awarded to Top Science & Engineering Projects at the Fair"
+  },
+  {
+   "title": "Award of Excellence",
+   "org": "London Central Secondary School",
+   "dates": "2023",
+   "meta": [],
+   "description": "Awarded to Students With a Average Above 90%"
+  },
+  {
+   "title": "CCC Junior Student Honour Roll",
+   "org": "CEMC",
+   "dates": "2023",
+   "meta": [],
+   "description": "Written by 5000 Students"
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Tech Tutor",
+   "org": "London Public Library",
+   "dates": "Mar 2023 - Aug 2023 6 months",
+   "meta": [],
+   "description": "As a Volunteer Tech Tutor at the London Public Library, I helped patrons with various technology questions. I worked closely with users, especially adults and seniors, to boost their confidence with computers and personal devices. I enjoyed the interactions and received positive feedback for being patient and clear in my explanations."
+  },
+  {
+   "title": "Technology Manager",
+   "org": "Uni'D",
+   "dates": "Nov 2024 - Jun 2025 8 months",
+   "meta": [],
+   "description": "Led end-to-end creation and management of the organization’s website. Collaborated with leadership to define requirements, designed its structure, built its frontend and backend, and ensured smooth deployment and updates. Website: unid-admissions.org"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "C++ Essential Training",
+   "org": "LinkedIn",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "GreenGuardian: Automated Weed Detection and Elimination",
+   "org": "Nov 2023 - May 2024",
+   "dates": "Nov 2023 - May 2024",
+   "meta": [],
+   "description": "Garden, lawn, and farm owners all struggle with weeds; they solve this issue by spraying herbicides, which are harmful chemicals when used excessively. In this project, I aimed to automate weed elimination while reducing the amount of sprayed herbicide. I achieved this by creating a prototype of an autonomous robot capable of covering an area, detecting weeds, and then spraying them individually a"
+  },
+  {
+   "title": "Maze Solving Robot",
+   "org": "Oct 2022 - Mar 2023",
+   "dates": "Oct 2022 - Mar 2023",
+   "meta": [],
+   "description": "The Maze-Solving Robot Car is a 2023 award-winning TVSEF project that autonomously navigates a maze. It uses pathfinding and obstacle avoidance to reach its destination."
+  },
+  {
+   "title": "Central Website",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "It is currently being hosted on my Raspberry Pi 4 in Ubuntu and Apache. Created the backend and some front end of a website for my school. It was coded in PHP, MySQL and React"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-09-22",
+   "text": "We won the Dominion Dynamics top prize at Hack the North! 🏆 We built Shadow Stalker: a fleet-wide autonomous search system where a fixed-wing glider, a quadcopter, and two pan/tilt towers coordinate in real time using computer vision and pixel-to-GPS geolocation to find a moving vessel in an Arctic strait. Full technical breakdown here: https://lnkd.in/g6RA9-Gp Most teams try to build as much as possible for as many sponsor tracks as possible. We did the opposite: we went all-in on one challenge",
+   "url": "https://www.linkedin.com/posts/malekhammoud_we-won-the-dominion-dynamics-top-prize-at-activity-7508214470372986880-WXyd",
+   "likes": 74
+  },
+  {
+   "date": "2026-07-31",
+   "text": "I’m mentoring at this one. Should be fun.",
+   "url": "https://www.linkedin.com/posts/malekhammoud_im-mentoring-at-this-one-should-be-fun-activity-7489087682523066368-C6Cq",
+   "likes": 5
+  },
+  {
+   "date": "2025-09-16",
+   "text": "A robot that learns new skills instantly — no datasets, no pre-training. Just describe the move, and it happens. That’s \"Monkey See Monkey Do\", the project we built at Hack the North this weekend. We typed “learn the one-inch punch” → our system searched, reasoned, and executed that punch on a custom robot in real time. Out of 250+ projects, we made it to Round 2 (Top 32). I built the 6DOF robot and programmed the ESP32 control code. Biggest headache? Wrestling with JSON parsing in C 🥹 (nothing",
+   "url": "https://www.linkedin.com/posts/malekhammoud_hackthenorth-robotics-ai-activity-7373506759174344704-ylI4",
+   "likes": 61
+  },
+  {
+   "date": "2025-08-08",
+   "text": "🌧️ Climate change is flooding our cities. What if our roads could fight back? With Nymara, me, Ved Sunkari, Anand Ajith, Bhavishyaa Vignesh and Laasya Goriparti are exploring hyper-porous, nano-treated roads that absorb water and reduce storm impacts in urban areas. It's a bold idea for building more climate-resilient cities. We're currently competing in the Moonshot Pirates Challenge and need your support to get our message in front of more people. If this vision resonates with you, we’d love y",
+   "url": "https://www.linkedin.com/posts/malekhammoud_laasya-goriparti-on-instagram-we-cant-activity-7359407187166703616-2D9U",
+   "likes": 12
+  },
+  {
+   "date": "2025-08-06",
+   "text": "If you have the drive but aren’t sure where to begin, TKS is a great place to start.",
+   "url": "https://www.linkedin.com/posts/malekhammoud_if-you-have-the-drive-but-arent-sure-where-activity-7358979506583359488-5jCK",
+   "likes": 2
+  },
+  {
+   "date": "2025-07-21",
+   "text": "🏆 We won Deloitte’s “Best Use of AI for Green” at Hack the 6ix 2025! 🏆 This weekend, our team built FridgeMind — an AI-powered retrofit that turns any fridge into a smart assistant. It tracks groceries, predicts expiry, and generates personalized recipes. At my second hackathon, I worked hands-on with QNX on a Raspberry Pi, configuring low-level networking, integrating real-time video streaming, and navigating the complexities of embedded systems. Powered by: - YOLOv5 (custom-trained CV model) -",
+   "url": "https://www.linkedin.com/posts/malekhammoud_hackthe6ix-hackathonwinner-aiforgood-activity-7353180466776064001-xwZF",
+   "likes": 104
+  },
+  {
+   "date": "2025-07-01",
+   "text": "If you're waiting for the perfect moment to try something new, don’t. Just jump in. This was my first hackathon, first solo trip, and first all-nighter. Way out of my comfort zone, but one of the most rewarding experiences I’ve had. I got to build something meaningful, spend the weekend with amazing people, and truly experience what hackathons are all about. Big thanks to Sahil Gupta, Ngoc Anh Thu Nguyen, and Sarah Halime. I couldn’t have asked for a better team. You guys made this experience th",
+   "url": "https://www.linkedin.com/posts/malekhammoud_if-youre-waiting-for-the-perfect-moment-activity-7345844697707200514-n33n",
+   "likes": 7
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Malek Hammoud - London, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Malek Hammoud"
+}

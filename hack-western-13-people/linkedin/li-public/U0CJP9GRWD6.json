@@ -1,0 +1,91 @@
+{
+ "url": "https://ca.linkedin.com/in/ghala-basaad",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western University",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "PointClickCare Women in Computer Science Award",
+   "org": "PointClickCare",
+   "dates": "Nov 2025",
+   "meta": [],
+   "description": "Selected as one of five recipients of a $10,000 award recognizing outstanding academic achievement among third-year Computer Science students."
+  },
+  {
+   "title": "Public Anthropology Award for Excellence in Writing",
+   "org": "Center for a Public Anthropology",
+   "dates": "Jul 2025",
+   "meta": [],
+   "description": "Recognized among hundreds of submissions from universities across North America, earning one of 10 top awards for excellence in writing on public issues."
+  },
+  {
+   "title": "Dean's Honour List (2024,2025,2026)",
+   "org": "Faculty of Science",
+   "dates": "May 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Marion Elizabeth MacLeod Memorial Award",
+   "org": "",
+   "dates": "2024",
+   "meta": [],
+   "description": "Awarded to a full-time undergraduate student in recognition of academic achievement and active participation in community initiatives."
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Volunteer",
+   "org": "Science Rendezvous",
+   "dates": "May 2026 - May 2026 1 month",
+   "meta": [],
+   "description": "Assisted with a WiFi sensing demonstration involving microcontrollers and motion detection technology. Translated technical concepts into engaging learning experiences for younger audiences."
+  },
+  {
+   "title": "Notetaker",
+   "org": "Western University",
+   "dates": "Jan 2024 - Apr 2025 1 year 4 months",
+   "meta": [],
+   "description": "Prepared and uploaded lecture notes for MATH 1600, COMPSCI 2214, and STAT 2244 through Western University's Accessible Education office to support students requiring academic accommodations."
+  },
+  {
+   "title": "Volunteer",
+   "org": "Science Rendezvous",
+   "dates": "May 2025 - May 2025 1 month",
+   "meta": [],
+   "description": "Guided groups of Grade 8 students through STEM exhibits and activities."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2025-11-22",
+   "text": "What if your to-do list stopped trying the moment you did? For my latest \"stupid hackathon\" project, I built MoodToDO, a task manager that embraces your mood. Using real-time facial recognition, it \"helps\" by deleting your entire task list if you look sad or stressed. Consider it productivity through emotional sabotage! While the premise is intentionally silly, the technical challenges were very real: - Integrating real-time facial expression analysis - Managing state for a dynamic, mood-based U",
+   "url": "https://www.linkedin.com/posts/ghala-basaad_stupidhackathon-webdevelopment-facerecognition-activity-7398080497559642112-hycs",
+   "likes": 19
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Ghala Basaad - Western University | LinkedIn",
+ "name": "Ghala"
+}

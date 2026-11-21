@@ -1,0 +1,59 @@
+{
+ "url": "https://ca.linkedin.com/in/samdeitz",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "trACT Software Inc.",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-05-21",
+   "text": "Coding UIs with Java Swing sucks Every time you make a change, you have to rerun the program just to see the update I first ran into this in high school while building class projects, and then again this year during my CS2212 final project Back then I remember thinking: “Why can’t this just update automatically?” So I built SwingSync, a hot reloader for Java Swing designed to be simple enough that even a high school student could set it up in minutes It watches your build folder for changed .cla",
+   "url": "https://www.linkedin.com/posts/samdeitz_github-samdeitzswingsync-java-swing-hot-activity-7463287517652451329-ZfDg",
+   "likes": 19
+  },
+  {
+   "date": "2026-03-30",
+   "text": "Last weekend, I had the pleasure of attending the Western Founders Network Product Design Sprint! 🚀 Our prompt was to design a digital experience using Framer to recapture the distinct feeling of 2016. My teammates Arielle Tetelbaum, sam ahn, and I focused on the theme of community. What feels more like 2016 than the people you experienced it with? We created ThrowBack: a platform to reconnect with people you’ve lost touch with over the years. By simply inputting your school history, you’re inst",
+   "url": "https://www.linkedin.com/posts/samdeitz_landing-activity-7444184764112109568-xTJs",
+   "likes": 6
+  },
+  {
+   "date": "2025-10-15",
+   "text": "Who knew a summer could teach you more about yourself than a class ever could? 😅 Over the summer, I dove into web development with Figma, Svelte, ReactJS, and TailwindCSS, and discovered a passion I didn’t know I had. Through Meta's \"Advanced React\" course on Coursera, I learned how to build dynamic interfaces, manage state, and think in components, skills that helped me bring my portfolio website to life. It’s been incredibly rewarding to keep learning outside the classroom, check out my websit",
+   "url": "https://www.linkedin.com/posts/samdeitz_who-knew-a-summer-could-teach-you-more-about-activity-7384211522178170880-Z1d2",
+   "likes": 5
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": ", ,",
+ "location": "London, Ontario, Canada",
+ "languages": [],
+ "page_title": "Sam Deitz - trACT Software Inc. | LinkedIn",
+ "name": "sdeitz"
+}

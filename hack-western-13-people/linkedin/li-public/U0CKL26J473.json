@@ -1,0 +1,112 @@
+{
+ "url": "https://linkedin.com/in/henrique-leite-3251a4209/",
+ "about": "https://www.henriquealcleite.com/",
+ "experience": [
+  {
+   "title": "",
+   "org": "RBC Capital Markets",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.7/4.0",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": "8.5K+ CAD in Prizes 2026 MLH Fellow 2026 CSAS Data Challenge Finalist 2nd - Overall & Best Use of Backboard.io - UWaterloo Data Science Hackathon 2026 2nd - Hack the North 2025 (AWS Track) 1st - Toronto Tech Expo 2025 RBC Design Thinking Fellow 2025 Dean’s List PBSN Catalyze 2024 PBSN Catalyze 2023"
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Science Faculty Orientation Leader 2025-2026",
+   "org": "University Students'​ Council at Western University",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Consulting Analyst",
+   "org": "Ivey Fintech",
+   "dates": "Oct 2024 - Apr 2025 7 months",
+   "meta": [],
+   "description": "Conducting market sizing research for Venn (Previously Vault) to help identify expansion opportunities and competitive positioning. By analyzing demographic data, benchmarking competitors, and performing customer analysis"
+  },
+  {
+   "title": "Developer and Researcher",
+   "org": "Western Quantum Club",
+   "dates": "Oct 2024 - Apr 2025 7 months",
+   "meta": [],
+   "description": "Collaborating on leveraging quantum computing for portfolio optimization, focusing on QUBO formulation and data processing. Utilized Yahoo Finance API and Pandas library to fetch and clean historical stock data, enabling analysis for quantum and classical models."
+  },
+  {
+   "title": "Alternative Data Developer",
+   "org": "Western Algorithmic Trading Club",
+   "dates": "Dec 2023 - Apr 2024 5 months",
+   "meta": [],
+   "description": "Contributed to developing a Commodity Sentiment Analysis Algorithm, which predicts market trends by analyzing social media sentiment. Utilizing Python, Reddit API, and language models."
+  },
+  {
+   "title": "Researcher",
+   "org": "Western Investment Club",
+   "dates": "Sep 2023 - Apr 2024 8 months",
+   "meta": [],
+   "description": "TMT and IND"
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-03-13",
+   "text": "Had an incredible time attending Canadian Undergraduate Conference on Artificial Intelligence (CUCAI), Canada’s largest undergraduate AI conference, last weekend! I had the opportunity to present a paper that my team had been building over the last couple of months with Western AI: \"Dynamic Graph Attention for Regime-Conditional Convex Portfolio Allocation\". Most financial models work perfectly, right up until the exact moment you need them. When market regimes shift, like during the 2020 COVID",
+   "url": "https://www.linkedin.com/posts/henrique-leite-3251a4209_had-an-incredible-time-attending-canadian-activity-7438275215966568448-v1Um",
+   "likes": 119
+  },
+  {
+   "date": "2026-02-19",
+   "text": "We went to a hackathon to fix my terrible sports betting track record. We left with $1,000, 2nd Place Overall, and a full 6-7 hours of sleep each night. Huge shoutout to the Waterloo Data Science Club for hosting the CXC 2026 AI Hackathon, where my team won 2nd place and the Best Use of Backboard.io award! Prediction markets are powerful, but a 62% probability often hides whether the movement is driven by expert conviction or herd mentality. Applying some quantitative strategies to the problem,",
+   "url": "https://www.linkedin.com/posts/henrique-leite-3251a4209_we-went-to-a-hackathon-to-fix-my-terrible-activity-7430325097627811840-E_ei",
+   "likes": 125
+  },
+  {
+   "date": "2026-01-28",
+   "text": "I’m grateful to announce that I’ll be joining RBC Amplify this summer as a Software Developer! After my experience participating in the RBC Design Thinking Program last fall, I was inspired by the company's focus on innovation and solving real-world problems. I couldn't be happier to return this summer to take on new challenges with the Amplify program. This wouldn't be possible without my friends and mentors along the way. Special thank you to Sarah Balaban and Amber Carroll for making this opp",
+   "url": "https://www.linkedin.com/posts/henrique-leite-3251a4209_rbcamplify-activity-7422342432580763649-2laK",
+   "likes": 235
+  },
+  {
+   "date": "2025-12-27",
+   "text": "Do you smell that? In Canada, it’s not just smoke. It’s a growing risk to people’s homes, communities, and financial security. Over the past few months, I had the privilege to take part in the RBC Design Thinking Program at Western, where our team tackled a problem that’s getting harder to ignore: wildfires are increasing, property damage is rising, and insurance coverage/pricing in high-risk areas is becoming less accessible and less accurate. Our team built EmberShield, an affordable, first-li",
+   "url": "https://www.linkedin.com/posts/henrique-leite-3251a4209_do-you-smell-that-in-canada-its-not-just-activity-7410711066495713280-ZyXM",
+   "likes": 142
+  },
+  {
+   "date": "2025-09-22",
+   "text": "Investing can be daunting, but it doesn't have to be. Last weekend at Hack the North, my team and I tackled this challenge head-on by building a project that makes financial literacy accessible and engaging. We were shocked to learn that over 90% of retail investors fail to beat the index fund. That's why we created TradeOff: a stock market simulation game for the RBC InvestEase challenge to help students build the skills to beat those odds. After an intense weekend of coding, we're proud to hav",
+   "url": "https://www.linkedin.com/posts/henrique-leite-3251a4209_investing-can-be-daunting-but-it-doesnt-activity-7375946798101848064--z3r",
+   "likes": 93
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Canada",
+ "languages": [
+  "Portuguese",
+  "Spanish",
+  "English",
+  "French"
+ ],
+ "page_title": "Henrique Leite - RBC Capital Markets | LinkedIn",
+ "name": "Henrique Alcantara Leite"
+}

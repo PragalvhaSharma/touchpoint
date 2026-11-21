@@ -1,0 +1,66 @@
+{
+ "url": "https://ca.linkedin.com/in/suryasure",
+ "about": "suryasure.com",
+ "experience": [
+  {
+   "title": "",
+   "org": "NVIDIA",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Personal Website"
+ ],
+ "posts": [
+  {
+   "date": "2026-01-16",
+   "text": "Excited to be joining NVIDIA as a Distributed Systems Intern! Very grateful to have been able to work with my amazing friends Evan Lin, Xander Chin, Kenny Guo and manager Omar Kilani over the past few months at Groq and excited to continue going lightspeed with them at NVIDIA 🫡",
+   "url": "https://www.linkedin.com/posts/suryasure_excited-to-be-joining-nvidia-as-a-distributed-activity-7417741744718528512-jz0g",
+   "likes": 398
+  },
+  {
+   "date": "2025-09-22",
+   "text": "Excited to be joining Groq as a distributed systems intern to help build the world's best inference engine! Huge thanks to Jonathan Ross, Gavin Sherry, Omar Kilani, and Joanna J. for giving me absolutely insane opportunity!",
+   "url": "https://www.linkedin.com/posts/suryasure_excited-to-be-joining-groq-as-a-distributed-activity-7375982228939448320-IQAu",
+   "likes": 145
+  },
+  {
+   "date": "2025-08-18",
+   "text": "I spent my summer building TinyTPU : An open source ML inference and training chip and an attempt at reinventing Google's TPU. It can do end to end inference + training ENTIRELY on chip. I worked on this with Evan Lin, Kenny Guo, and Xander Chin — incredibly smart people! Check our how our article on how our TPU works and our thought process while building it: https://tinytpu.com You can find our code and play around with it for yourself here: https://lnkd.in/efzPZfsd",
+   "url": "https://www.linkedin.com/posts/suryasure_i-spent-my-summer-building-tinytpu-an-open-activity-7363288814389264386-MRil",
+   "likes": 118
+  },
+  {
+   "date": "2025-05-03",
+   "text": "I built a hardware accelerator to compute softmax more efficiently. Used a pipelined approach to create a high throughput module which entire performs the softmax computation in silicon. Softmax is difficult to build in hardware because exponentiation and division are non-native in SystemVerilog. Other operations like summation and finding the max require the data to be buffered, since they need to see all inputs before having an output. First, I decomposed the softmax equation into 4 steps: 1.",
+   "url": "https://www.linkedin.com/posts/suryasure_i-built-a-hardware-accelerator-to-compute-activity-7324434390942445568-3lqq",
+   "likes": 117
+  },
+  {
+   "date": "2025-03-08",
+   "text": "Over the past week, I implemented the systolic array architecture, used in Google's TPU and many other chips to accelerate matrix multiplication, with no prior experience in Verilog. I wanted to challenge my urge to take a course before I started, so I decided to just figure it out and learn Verilog as I go. To my surprise, this was much more efficient than taking a course and I learned a lot more by racking my brain over simple mistakes. I also found that there are relatively limited resources",
+   "url": "https://www.linkedin.com/posts/suryasure_decomposing-systolic-arrays-activity-7304204271296630784-8mVz",
+   "likes": 63
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Surya Sure - Canada | Professional Profile | LinkedIn",
+ "name": "Surya Sure"
+}

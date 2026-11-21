@@ -1,0 +1,100 @@
+{
+ "url": "https://www.linkedin.com/in/nathan-espejo",
+ "about": "I'm a third-year Software Engineering co-op student at Western, looking for a co-op term…",
+ "experience": [
+  {
+   "title": "",
+   "org": "WE MARS",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dean's Honour List",
+   "org": "",
+   "dates": "May 2025",
+   "meta": [],
+   "description": "Maintained an average of over 80% across 11 courses in Western University's 1st year Engineering program."
+  },
+  {
+   "title": "Ontario Scholar",
+   "org": "",
+   "dates": "Jun 2024",
+   "meta": [],
+   "description": "Acheive a mark of at least 80% in six Grade 12 courses"
+  },
+  {
+   "title": "Proficiency Award In Math: Calculus & Vectors",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://github.com/HasNate618",
+  "nathanespejo.com"
+ ],
+ "posts": [
+  {
+   "date": "2026-07-24",
+   "text": "First solo hack across 20+ hackathons. Here's what happened. I built A.W.A.R.E (Autonomous Witness And Response Engine) for the Qualcomm Arduino UNO Q track at Hack the 6ix. It watches a camera, listens for sounds, and reads physical sensors so you can automate and understand your physical space without cloud services or internet. You teach it in plain English, it builds the automation, and acts through a Bluetooth speaker, Telegram notifications, LEDs. Four AI models running on-device on an $80",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_first-solo-hack-across-20-hackathons-heres-activity-7486393515057491968-kuMT",
+   "likes": 20
+  },
+  {
+   "date": "2026-04-06",
+   "text": "Over the past week, I went deep down the LLM + local AI rabbit hole and ended up building a fully local, modular AI system from scratch. It started as a simple experiment: I wanted to run models locally to avoid cloud costs and privacy concerns. But quickly, I realized that just running a model isn't enough. To make it useful, I needed a robust infrastructure. That’s when I shifted focus from \"just running code\" to \"building a platform.\" I spent the last few days architecting a fully dockerized",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_over-the-past-week-i-went-deep-down-the-activity-7446904789528907776-7jez",
+   "likes": 25
+  },
+  {
+   "date": "2026-03-24",
+   "text": "Just wrapped up an amazing weekend at the Western's Dataquest Hackathon with my teammates Liam Ma, Ethan Luo, Riley Wong! The challenge: build a machine learning model from scratch (no pre-trained models allowed) to tackle problems in healthcare & wellbeing. None of us had prior experience in machine learning going in - so we learned everything on the fly. We started by spending 8 hours learning & building a Cardiovascular Risk Detector, an end-to-end ML system that: - Predicts cardiovascular di",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_just-wrapped-up-an-amazing-weekend-at-the-activity-7442316736051216384-9ARv",
+   "likes": 14
+  },
+  {
+   "date": "2026-02-24",
+   "text": "💘 Built a Valentine’s hack. Won Best Useless Hack. 🏆 Last weekend at York University's CTRL+HACK+DEL 2.0, me and my team Matthew Xia, Mike Zhang, and one anonymous teammate decided to ask the important question: What if you could go on a date with... literally any object? So we built the Object Love Interface (OLI). You place an object in front of the device. OLI scans it. And suddenly… your bowl of ramen has a personality, a voice, opinions, and emotional availability. Yes, this won Best Useles",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_built-a-valentines-hack-won-best-useless-activity-7431855289521410048-_VZm",
+   "likes": 18
+  },
+  {
+   "date": "2025-11-25",
+   "text": "Such an awesome team effort this weekend! Really proud of what we built together and excited we took home Best AI Application Built with Cloudflare! Learned a ton working with everyone on Auralis.",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_such-an-awesome-team-effort-this-weekend-activity-7399121139324862465-UQ9z",
+   "likes": 11
+  },
+  {
+   "date": "2025-08-11",
+   "text": "Grateful to have been part of this winning team!",
+   "url": "https://www.linkedin.com/posts/nathan-espejo_grateful-to-have-been-part-of-this-winning-activity-7360670822098743299-ubMz",
+   "likes": 7
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Brampton, Ontario, Canada",
+ "languages": [],
+ "page_title": "Nathan Espejo - WE MARS | LinkedIn",
+ "name": "Nathan Espejo"
+}

@@ -1,0 +1,82 @@
+{
+ "url": "https://www.linkedin.com/in/noah-daniel-levy",
+ "about": "Hello, my name is Noah Levy. I'm from Windsor, Ontario and have interests in computer…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Workerbee",
+   "dates": "",
+   "meta": [
+    "Las Vegas, Nevada, United States"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Hack The North 2024 FINALIST",
+   "org": "University of Waterloo",
+   "dates": "Sep 2024",
+   "meta": [],
+   "description": "On September 15th, I won the finalist award at Hack The North. My team built a robotic arm that detects muscle signals using ECG sensors. When detected, servos on the arm band assist in bending your fingers. There are also games you can play to keep you entertained as you work through your recovery!"
+  },
+  {
+   "title": "University of Windsor SSPC WINNER - 2023",
+   "org": "University of Windsor",
+   "dates": "Dec 2023",
+   "meta": [],
+   "description": "On December 8th, 2023, my team of three won first place at the Secondary School Programming Competition hosted at the University of Windsor. Each of us received a $3000 scholarship for a program at the university, along with a monetary prize. I teamed up with Gurjas Dhillon and Dorothy Zheng, all of us from Vincent Massey Secondary School. This event was a time to remember, and I had a lot of fun"
+  },
+  {
+   "title": "University of Windsor SSPC WINNER - 2022",
+   "org": "University of Windsor",
+   "dates": "Dec 2022",
+   "meta": [],
+   "description": "On December 8th, 2022, my team of three won first place at the Secondary School Programming Competition hosted at the University of Windsor. Each of us received a $3000 scholarship for a program at the university, along with a monetary prize. I teamed up with Gurjas Dhillon and Legolas Zhang, all of us from Vincent Massey Secondary School. This event was a time to remember, and I had a lot of fun"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-01-20",
+   "text": "I'm thrilled to announce my win at NexHacks, where our team won the Deepest Researched Chain prize from Seda! 🔥 Our team created GenZNews 📰, a project that aims to solve two problems simultaneously: 1. News you see on reels is often biased and untrustworthy. 2. Articles and videos from more reputable news sources can still feel a bit dry to consume, and lack some modern humour. With two clicks, you can deep research a genre of your choice (sports, politics, etc.) and generate a 3D visualization",
+   "url": "https://www.linkedin.com/posts/noah-daniel-levy_im-thrilled-to-announce-my-win-at-nexhacks-activity-7419176999623008256-xp8W",
+   "likes": 60
+  },
+  {
+   "date": "2025-09-25",
+   "text": "Only two weeks late! 🔥 I'm proud to announce my win at Hack the North, Canada's Largest hackathon! 🍁 We won the Genesys prize from our project BeyondSight! BeyondSight is designed to help deafblind people with indoor navigation. It uses SLAM for localization, and YOLO to map out obstacles in 3D space. It also navigates you around obstacles with A*. The prototype worked before presenting, but unfortunately, since we were using older hardware we had to dockorize everything, leading to stability pr",
+   "url": "https://www.linkedin.com/posts/noah-daniel-levy_only-two-weeks-late-im-proud-to-announce-activity-7377078671272071168-XxiN",
+   "likes": 27
+  },
+  {
+   "date": "2024-10-12",
+   "text": "🚀Second Place at NASA Space Apps Windsor Event🚀 From October 5th-6th, I participated at the Space Apps event at the University of Windsor. I was teamed up with Kevin Dang, Dorothy Z., Ario Barin Ostovary and Divyam Banga. We created a website where you can create a global chat with other farmers. We also created a prototype car that can dispense seeds and take in humidity readings, as well as a simulation to practice driving the car. 🚗 We hope to make our project more reliable and useful when we",
+   "url": "https://www.linkedin.com/posts/noah-daniel-levy_spaceapps-nasa-webdev-activity-7250701523389661184-Vuks",
+   "likes": 18
+  },
+  {
+   "date": "2024-09-19",
+   "text": "🎉Pleased to announce winning the \"Finalist\" rank at Hack the North 2024!🎉 Over the weekend I had the privilege of taking part in Hack The North, the largest hackathon in Canada 🍁. I teamed up with Kevin Dang, Samir Sharma and Aadi Umrani! Our team created an arm piece that uses EMG sensors to detect when you try to move your fingers. It has strings to assist with movement. In addition, I created two games to help with recovery, one being a game about quick impulses and timing, while the other is",
+   "url": "https://www.linkedin.com/posts/noah-daniel-levy_hackthenorth-hackathon-ai-activity-7242683264413437952-VPD6",
+   "likes": 23
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Noah Levy - University of Waterloo - Windsor, Ontario, Canada | LinkedIn",
+ "name": "Noah"
+}

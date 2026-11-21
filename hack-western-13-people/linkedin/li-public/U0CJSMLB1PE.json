@@ -1,0 +1,121 @@
+{
+ "url": "https://ca.linkedin.com/in/lukasbozinov",
+ "about": "I am currently in my final year pursuing an Honours Specialization in Computer Science…",
+ "experience": [
+  {
+   "title": "",
+   "org": "AMD",
+   "dates": "",
+   "meta": [
+    "Markham, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "3.8 GPA",
+   "dates": "2022 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dean's Honours List for the 2024-2025 Academic Year",
+   "org": "Michael Domaratzki",
+   "dates": "Apr 2025",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Dean's Honours List for the 2023-2024 Academic Year",
+   "org": "Michael Domaratzki",
+   "dates": "Apr 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Dean's Honours List for the 2022-2023 Academic Year",
+   "org": "Michael Domaratzki (Computer Science Department Chair)",
+   "dates": "Apr 2023",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Computer Science Award of Excellence",
+   "org": "Nicholas Fernandes (Instructor)",
+   "dates": "Jun 2022",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "English Award of Excellence",
+   "org": "Elisa McGann (Instructor)",
+   "dates": "Jun 2022",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Honour Roll (2018-2022)",
+   "org": "Rose Li (Principal)",
+   "dates": "Jun 2022",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Computer Engineering Award of Excellence (2020)",
+   "org": "Arnel Cuyugan (Instructor)",
+   "dates": "Jun 2020",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "President",
+   "org": "Western Computer Science Undergraduate Society",
+   "dates": "May 2026 - Present 7 months",
+   "meta": [],
+   "description": "Lead a club of 250+ members, focusing on hosting workshops, events, and study sessions to better prepare Western University Computer Science students for the future. Vice President of Projects from Sept. 2025 - May 2026. Project Director from Sept. 2024 - May 2025."
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Nicheify",
+   "org": "Jan 2025 - Feb 2025",
+   "dates": "Jan 2025 - Feb 2025",
+   "meta": [],
+   "description": "A full-stack webapp deployed on Vercel. It will take your Spotify profile and output a statistical breakdown of your listening habits, and a NicheScore showing how niche (or not) your music taste is."
+  },
+  {
+   "title": "YouTube to MP3",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Developed a YouTube to MP3 converter using Python, CustomTkinter for the GUI, and Pytubefix for video downloading and conversion. Implemented key features like URL validation, progress tracking, and error handling to enhance user experience and reliability."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2025-07-15",
+   "text": "Hey everyone! Excited to share a new project I’ve been working on: 𝗥𝗲𝗲𝗹𝗕𝗼𝘁, a Python-based tool that automates the creation of short-form storytelling content. ReelBot takes long-form gameplay footage, adds text-to-speech audio narration, and overlays subtitle files to generate polished, mobile-friendly videos. It’s designed to save time and streamline the editing process for creators looking to publish on platforms like TikTok, Instagram/Facebook Reels, and YouTube Shorts. You can find a link t",
+   "url": "https://www.linkedin.com/posts/lukasbozinov_hey-everyone-excited-to-share-a-new-project-activity-7350695734540685312-imVT",
+   "likes": 14
+  },
+  {
+   "date": "2025-05-13",
+   "text": "Excited to officially kick off my journey with J.D. Power today! It’s an incredible feeling to be joining a company that’s built such a strong reputation for delivering trusted insights and driving meaningful impact across industries. As someone passionate about the growing impact of AI in transforming customer experience and decision-making, I’m eager to dive into this next chapter, learn from an amazing team, and contribute to projects at the intersection of data, technology, and strategy. It",
+   "url": "https://www.linkedin.com/posts/lukasbozinov_firstday-newchapter-jdpower-activity-7327856219879100416-5hKy",
+   "likes": 51
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Lukas Bozinov - Markham, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Lukas Bozinov"
+}

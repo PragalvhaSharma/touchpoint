@@ -1,0 +1,81 @@
+{
+ "url": "https://www.linkedin.com/in/oladele-magbadelo",
+ "about": "https://www.magbadelojr.com/",
+ "experience": [
+  {
+   "title": "",
+   "org": "Grand Theatre",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2024 - 2028",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Western Carmeta Thelma Hodges Scholarship Award",
+   "org": "Western University",
+   "dates": "Aug 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Victor Ludorum (Athlete of the Year) Award",
+   "org": "Gems American Academy Qatar",
+   "dates": "May 2024",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Western Admission Scholarship of Distinction",
+   "org": "Western University",
+   "dates": "Apr 2024",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Vice President of Projects",
+   "org": "Western Founders Network",
+   "dates": "May 2026 - Present 7 months",
+   "meta": [],
+   "description": "2025-2026: Projects Director"
+  },
+  {
+   "title": "Marketing Director",
+   "org": "WE AutoPilot Club",
+   "dates": "Oct 2025 - Apr 2026 7 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-01",
+   "text": "Enjoyed my time working as an intern at PurelyBiome. Over the last few months, I worked on a CNN based transfer learning model using an EfficientNetB3 backbone that classifies visible acne severity from user submitted photos. Working with real world, user generated images and image datasets in general brings variability from things like lighting, angles, and camera quality, but after several iterations, the final model achieved a 95.56% validation accuracy. More importantly, it hit 100% accuracy",
+   "url": "https://www.linkedin.com/posts/oladele-magbadelo_enjoyed-my-time-working-as-an-intern-at-purelybiome-activity-7500608677410791425-uEMa",
+   "likes": 49
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Oladele Magbadelo - Grand Theatre | LinkedIn",
+ "name": "Oladele Magbadelo"
+}

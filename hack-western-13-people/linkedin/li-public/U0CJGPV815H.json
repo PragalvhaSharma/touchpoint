@@ -1,0 +1,104 @@
+{
+ "url": "https://ca.linkedin.com/in/am-uwo",
+ "about": "Third-year Electrical Engineering student at Western University, interested in space and…",
+ "experience": [
+  {
+   "title": "",
+   "org": "FRESHCO, LTD.",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2028",
+   "meta": [],
+   "description": "Telecommunications, software, PCB design, mechatronic systems, CAD"
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Introduction to 2D Drawings",
+   "org": "Onshape by PTC",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Engineering Advanced Machine Shop Training Course",
+   "org": "Western University",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Diminished Reality on iPhone: Making Real Objects Diappear",
+   "org": "2026 - Present",
+   "dates": "2026 - Present",
+   "meta": [],
+   "description": "Tap an object in the live camera view and the app removes it, fills in what was behind it, and keeps it gone as you walk around. It runs fully offline on an iPhone 13, which has 4 GB of RAM and no LiDAR depth sensor. Built wit AI coding agents. I led the design, on-device testing, model selection and licensing decisions."
+  },
+  {
+   "title": "Fruit Ninja 3D",
+   "org": "Dec 2021 - Jan 2022",
+   "dates": "Dec 2021 - Jan 2022",
+   "meta": [],
+   "description": "Fruit-slicing ninja game, using only your physical body and a webcam. The entire game is enabled by computer vision, thanks to today's AI advances in pose estimation. Inspired by the original Fruit Ninja mobile game."
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2025-08-29",
+   "text": "My team hopes to launch our camera on the stratospheric balloon today, weather permitting. Read the CBC news article:https://lnkd.in/gURZXYaw Listen to me on CBC radio the Morning North:https://lnkd.in/gPq9utp5",
+   "url": "https://www.linkedin.com/posts/am-uwo_western-university-prof-students-in-northern-activity-7367226593506680832-gcDF",
+   "likes": 15
+  },
+  {
+   "date": "2025-05-15",
+   "text": "I’m happy to announce that this week I joined Dr. Stanimir Metchev’s research team as an engineering student researcher for the POET space mission. I will be travelling to Timmins at the end of the summer to launch the first phase of a satelitte mission on a stratospheric balloon. This summer we will be testing commercial infrared cameras to see if they’re suitable for space missions compared to conventional, more expensive astronomy instruments. This satellite will later be used to search for s",
+   "url": "https://www.linkedin.com/posts/am-uwo_im-happy-to-announce-that-this-week-i-joined-activity-7328904882390794242-D6zc",
+   "likes": 43
+  },
+  {
+   "date": "2025-04-26",
+   "text": "🥈2nd place overall at the Western Engineering ES1050 design course showcase!🥈 🥇1st place in our transportation category 🥇 Our app Hero connects members in each community together, to help them find the aid they need to keep local transportation running, and safely evacuate a disaster. Congratulations to all the really cool projects at the showcase! Check out our app here: https://lnkd.in/grQrnhMT",
+   "url": "https://www.linkedin.com/posts/am-uwo_2nd-place-overall-at-the-western-engineering-activity-7321704556566876160-NsFL",
+   "likes": 33
+  },
+  {
+   "date": "2025-04-04",
+   "text": "This week I attended the engineering design course showcase at Western University. My team’s engineering problem was how to keep transportation running in a flood or forest fire. 🌊🔥 Myself, Darius Koczij, Matteo Drobac, Lawson Sherk and Evan Bodenmann came up with a community emergency response app called Hero. Community volunteers can respond to requests to remove certain obstacles like fallen trees or help pick people up who don’t have rides, to evacuate as many people as quickly as possible.",
+   "url": "https://www.linkedin.com/posts/am-uwo_this-week-i-attended-the-engineering-design-activity-7313943374900670464-_iAA",
+   "likes": 35
+  },
+  {
+   "date": "2024-01-29",
+   "text": "Today, I completed my first hackathon at #UofTHacks11. It was a mentally demanding experience, but incredible rewarding. Our project nearly reached its full potential, had the competition not been over so soon. The theme was nostalgia. We came up with a nostalgic mirror idea that would show whoever walked in front of the mirror, old photos of their past based using album. Heavy use of the DeepVision and OpenCV library in Python was used for face recognition on the mirror’s webcam feed. Users wou",
+   "url": "https://www.linkedin.com/posts/am-uwo_uofthacks11-activity-7157553079494569985-a-xR",
+   "likes": 52
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "London, Ontario, Canada",
+ "languages": [
+  "French",
+  "English",
+  "Arabic",
+  "Chinese"
+ ],
+ "page_title": "Ali M. - London, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "Ali Mohammed-Ali"
+}

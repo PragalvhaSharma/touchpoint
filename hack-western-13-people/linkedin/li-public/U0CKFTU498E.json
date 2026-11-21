@@ -1,0 +1,78 @@
+{
+ "url": "https://ca.linkedin.com/in/ethanbobrik",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Western AI",
+   "dates": "",
+   "meta": [
+    "London, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": "- Honours Data Science, 3.90 GPA - Applied Financial Modelling Minor - Dean's Honours List"
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Community Development Volunteer",
+   "org": "Maon Noam Khakhan Centre",
+   "dates": "Jan 2022 - Mar 2023 1 year 3 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [
+  {
+   "title": "IBM Data Science",
+   "org": "IBM",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Business Analysis Fundamentals",
+   "org": "Microsoft",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-03-25",
+   "text": "In the last couple of weeks, I had the opportunity to attend the Canadian Tech Summit and the Canadian Undergraduate Conference on Artificial Intelligence (CUCAI) and present TruthLens, a project my team and I have been working on in the area of explainable AI and misinformation detection. TruthLens is an explainable AI framework designed to detect misinformation while also providing interpretable, evidence-grounded explanations for its predictions. By combining transformer-based models, domain-",
+   "url": "https://www.linkedin.com/posts/ethanbobrik_canadiantechsummit-cucai-ai-activity-7442571001269407744-YRSS",
+   "likes": 44
+  },
+  {
+   "date": "2026-02-20",
+   "text": "I’m excited to share that I’ll be joining Manulife this summer as a Business Analyst Intern/Co-op (Treasury Operations – Bank Operations Management)! In this role, I’ll be supporting the team as we drive operational improvements and digital transformation across treasury operations. I’m looking forward to learning the workflows and systems, working alongside stakeholders, and contributing to projects that help make processes more efficient and reliable. I’m incredibly grateful to Yuliya Dukhno a",
+   "url": "https://www.linkedin.com/posts/ethanbobrik_im-excited-to-share-that-ill-be-joining-activity-7430445094723526657-Bkqq",
+   "likes": 38
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Greater Toronto Area, Canada",
+ "languages": [
+  "English",
+  "Hebrew",
+  "Russian"
+ ],
+ "page_title": "Ethan Bobrik - Western AI | LinkedIn",
+ "name": "Ethan Bobrik"
+}

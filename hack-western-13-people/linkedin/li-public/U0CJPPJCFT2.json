@@ -1,0 +1,49 @@
+{
+ "url": "https://ca.linkedin.com/in/anshiwang",
+ "about": "hi, i'm anshi. i like to build projects and code. i like backend development and i'm…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Kumon Canada, Inc.",
+   "dates": "",
+   "meta": [
+    "Richmond Hill, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "McMaster University",
+   "org": "",
+   "dates": "2026 - 2031",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Itinerary - https://itinerary-six.vercel.app/",
+   "org": "Jun 2026 - Present",
+   "dates": "Jun 2026 - Present",
+   "meta": [],
+   "description": "Itinerary is a hyperlocal AI day-planner that turns a free-text prompt into a fully scheduled, walkable itinerary, currently focused on Toronto's Ossington/West Queen West neighborhood. Co-founded and co-built with Richard Lan. The system runs a full pipeline: it parses natural-language requests with an LLM (Groq Llama 3.3 70B), pulls live weather and venue data from Google Places, filters candida"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "anshiwang.com",
+  "https://github.com/anshiwang8"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Richmond Hill, Ontario, Canada",
+ "languages": [],
+ "page_title": "An Shi Wang - Kumon Canada, Inc. | LinkedIn",
+ "name": "An Shi Wang"
+}

@@ -1,0 +1,77 @@
+{
+ "url": "https://linkedin.com/in/michelle-dominic",
+ "about": "I’m a Computer Engineering student at the University of Waterloo interested in building…",
+ "experience": [
+  {
+   "title": "",
+   "org": "UWASIC",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "Honors",
+   "dates": "2024 - 2029",
+   "meta": [],
+   "description": "Fall 2026: Woman in Engineering Representative Relevant Coursework: Digital Computers, Digital Circuits, Linear Circuits, Fundamentals of Programming"
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Research Assistant",
+   "org": "Free Appropriate Sustainability Technology (FAST) Research Group",
+   "dates": "May 2023 - Mar 2024 11 months",
+   "meta": [],
+   "description": "- Developed Python algorithms to detect and correct FDM 3D-printing infill defects, combining image processing, geometry reconstruction and corrective toolpath generation. - Detected defect regions in binary scans with OpenCV thresholding and contour detection, and reconstructed geometry with Delaunay triangulation. - Generated corrective G-code with FullControl and PrusaSlicer and validated the c"
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "INT4 GEMV Accelerator for LLM Inference",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "- Developed a SystemVerilog GEMV accelerator targeting SmolLM2-135M’s 1,536 × 576 feed-forward projection, using INT4 weights and INT8 activations. - Implemented a four-PE output-stationary datapath with 21-bit accumulators, layer-control logic, and fixed-point requantization with rounding and saturation. - Built Python golden models and cocotb testbenches; verified bit-exact full-layer outputs on"
+  },
+  {
+   "title": "MeshGit",
+   "org": "Jul 2026 - Present",
+   "dates": "Jul 2026 - Present",
+   "meta": [],
+   "description": "- Building a full-stack web application for versioning STL models, helping designers and engineers organize design iterations through commit history and interactive 3D previews. - Developing a React and Three.js interface for uploading, rendering, and inspecting meshes, browsing previous revisions, and viewing model statistics. - Implementing Node.js and Express APIs with PostgreSQL to manage proj"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [
+  {
+   "date": "2026-08-29",
+   "text": "As my second term as a Product Management Intern at SAP comes to an end, I’ve been reflecting on the experience and the people who made these past two terms so memorable. Over my two terms, I had the opportunity to work across a range of problems within SAP HANA Cloud, from product strategy and customer feedback to AI, rapid prototyping, and developer-facing content. This summer especially gave me the chance to explore the agentic AI landscape, collaborate with engineering and UX on MVPs and pro",
+   "url": "https://www.linkedin.com/posts/michelle-dominic_as-my-second-term-as-a-product-management-activity-7499283506045509632-upZ8",
+   "likes": 83
+  },
+  {
+   "date": "2026-07-24",
+   "text": "I've always loved a good hardware build, but this weekend was the first time I got to build something like this from the ground up. At Hack the 6ix, my teammates Jasmehar Kaur, Srija Chitturi, and I built hand.shake; a wearable assistive glove designed to help people with reduced grip strength hold and carry everyday objects. The system combined embedded systems, computer vision, and AI: - A Raspberry Pi 5 running QNX captured images with an onboard camera. - A vision model identified the object",
+   "url": "https://www.linkedin.com/posts/michelle-dominic_ive-always-loved-a-good-hardware-build-activity-7486287638887530496-jVK1",
+   "likes": 75
+  },
+  {
+   "date": "2025-08-01",
+   "text": "I'm thrilled to announce that I’ll be joining SAP this fall as a Product Manager Intern through the SAP iXp program! Excited to learn, build, and help shape product experiences that make a difference at the SAP HANA team. 🚀 Big thanks to Renejane Niña Villanueva, Jose Ramos, and Dan van Leeuwen for the support throughout the process! If you’re also joining SAP this term, let’s connect – I would love to meet some fellow interns! :)🌟 #SAPiXp #LifeAtSAP",
+   "url": "https://www.linkedin.com/posts/michelle-dominic_sapixp-lifeatsap-activity-7356903088194035713-NeMS",
+   "likes": 62
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Michelle Dominic - UWASIC | LinkedIn",
+ "name": "Bong"
+}

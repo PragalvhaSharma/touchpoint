@@ -1,0 +1,42 @@
+{
+ "url": "https://ca.linkedin.com/in/jayden-plytas-0520bb369",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Cyntry",
+   "dates": "",
+   "meta": [
+    "Mississauga, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2025 - 2029",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [],
+ "certifications": [],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-08-20",
+   "text": "One thing Michael Ogg and I wanted to explore was how software and hardware actually come together in something real. So we built a face-tracking turret using Python, OpenCV, and Arduino. The setup uses a camera to detect and track faces in real time, then sends pan and tilt commands to a servo turret over serial so it can follow a target. Tech Stack: - Python - OpenCV - Arduino - PySerial What I learned most from this project was how much embedded systems work happens at the intersection of cod",
+   "url": "https://www.linkedin.com/posts/jayden-plytas-0520bb369_python-opencv-arduino-activity-7496008605314252801-E-yG",
+   "likes": 23
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Jayden Plytas - Cyntry | LinkedIn",
+ "name": "jplytas"
+}

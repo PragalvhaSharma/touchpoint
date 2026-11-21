@@ -1,0 +1,94 @@
+{
+ "url": "https://ca.linkedin.com/in/fionalaygo4015",
+ "about": "Hi, I’m Fiona! I’m a software engineer and startup founder studying Computer Science at…",
+ "experience": [
+  {
+   "title": "",
+   "org": "TD",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Trent University",
+   "org": "91.73",
+   "dates": "2023 - 2027",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Dean's Honor Roll",
+   "org": "Trent University",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "CGPA: 91.73"
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Front End Development Libraries",
+   "org": "freeCodeCamp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "JavaScript Algorithms and Data Structures",
+   "org": "freeCodeCamp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Responsive Web Design",
+   "org": "freeCodeCamp",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "http://www.fionalaygo.com/",
+  "https://github.com/laygofiona",
+  "https://play.google.com/store/apps/details?id=com.FionaLaygo.HighAndLo…"
+ ],
+ "posts": [
+  {
+   "date": "2026-09-04",
+   "text": "Who knew I’d be spending my summer building AI-powered security tools at a bank? 😄 This summer, I had the opportunity to intern at TD, where I worked on Python automation, AI agents, Java modernization, and deploying applications to Linux servers. One of my biggest projects was building an AI-powered AppSec remediation solution to help reduce software vulnerabilities. I also had the opportunity to present the project at two AI showcases and help developers get it running for their teams. Seeing",
+   "url": "https://www.linkedin.com/posts/fionalaygo4015_who-knew-id-be-spending-my-summer-building-activity-7501725668745981952-ImdO",
+   "likes": 84
+  },
+  {
+   "date": "2025-08-03",
+   "text": "Just finished writing about my experience in the Meta x MLH Fellowship (Production Engineering track)! This summer has been such a wild learning curve from launching my own VPS to understanding systems, bash scripting, and working with Linux (which I used to only hear about from people saying “I use Arch btw”). Most importantly, I learned how to think like a production engineer: troubleshooting without assumptions, solving problems with a blank slate, and building things that scale and don’t cra",
+   "url": "https://www.linkedin.com/posts/fionalaygo4015_my-summer-with-the-meta-x-mlh-fellowship-activity-7357603634584453120-92-4",
+   "likes": 46
+  },
+  {
+   "date": "2025-05-09",
+   "text": "I’m grateful to have attended the Luminary Awards, a powerful celebration of female leadership in Peterborough and the Kawarthas. Huge thanks to Ann-Majella McKelvie, Parastoo Shafiei, and the Innovation Cluster Peterborough and the Kawarthas for inviting me, Batool Kazmi, and Chérie AI. Hearing Emily Whetung MacInnes speech and connecting with many inspiring women reminded me how strong, ambitious, and uplifting this community truly is. Events like this are so important for championing women in",
+   "url": "https://www.linkedin.com/posts/fionalaygo4015_im-grateful-to-have-attended-the-luminary-activity-7326674040524345344-VbJ1",
+   "likes": 51
+  }
+ ],
+ "fetched": "2026-11-21",
+ "headline": "",
+ "location": "Peterborough, Ontario, Canada",
+ "languages": [
+  "Tagalog",
+  "English"
+ ],
+ "page_title": "Fiona Isobelle Laygo - Peterborough, Ontario, Canada | Professional Profile | LinkedIn",
+ "name": "laygo.fiona"
+}

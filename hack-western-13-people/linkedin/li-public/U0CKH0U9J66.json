@@ -1,0 +1,75 @@
+{
+ "url": "https://ca.linkedin.com/in/sharibmasum",
+ "about": "",
+ "experience": [
+  {
+   "title": "",
+   "org": "Goodself",
+   "dates": "",
+   "meta": [
+    "Toronto, Ontario, Canada"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [],
+ "volunteering": [
+  {
+   "title": "Engineering Project Manager",
+   "org": "Western Cyber Society",
+   "dates": "Sep 2026 - Present 3 months",
+   "meta": [],
+   "description": "Leading 3 student projects in Quantum Computing and IBM Z mainframe development"
+  }
+ ],
+ "certifications": [
+  {
+   "title": "QUAN11000: Quantum Computing",
+   "org": "University of Chicago",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Naive CUDA to cuBLAS-Level SGEMM",
+   "org": "Oct 2026 - Oct 2026",
+   "dates": "Oct 2026 - Oct 2026",
+   "meta": [],
+   "description": "Built a GPU matrix multiplication (SGEMM) library from scratch in C++/CUDA, implementing eight progressively optimized kernels that go from a naive baseline to matching cuBLAS's measured throughput on an NVIDIA Tesla T4, each kernel isolating one specific GPU optimization and benchmarked directly against cuBLAS. What's implemented: - Naive baseline kernel (one thread per output element, full K-len"
+  },
+  {
+   "title": "Boosting Meta’s SAM2 Model (Computer Vision Model) by 17% Using NVIDIA Research.",
+   "org": "Feb 2026 - Feb 2026",
+   "dates": "Feb 2026 - Feb 2026",
+   "meta": [],
+   "description": "Reimplemented core ideas from NVIDIA Research's 3AM paper (arXiv:2601.08831) independently, days after its release before any official code was public. Built a custom 2.1M-parameter attention-based fusion module (FeatureMerger) that sits between two frozen pretrained models: Meta's SAM2 (224M params) and MUSt3R (48M params), combining RGB appearance features with 3D geometric priors for more robus"
+  },
+  {
+   "title": "Voxel Engine: Built from Scratch in C++ & OpenGL",
+   "org": "Jul 2025 - Jan 2026",
+   "dates": "Jul 2025 - Jan 2026",
+   "meta": [],
+   "description": "Built a 3D voxel game engine inspired by Minecraft from scratch using C++ and modern OpenGL 3.3 Core Profile, no game engine. What’s implemented: - Procedural terrain generation combining layered Perlin/FBm noise with ridged-fractal noise (FastNoiseLite) to produce rolling hills and distinct mountain ranges - Dynamic chunk streaming: chunks load/unload in real time around the camera with a runtime"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "Portfolio"
+ ],
+ "posts": [],
+ "fetched": "2026-11-21",
+ "page_title": "Sharib Masum - Western University - Greater Toronto Area, Canada | LinkedIn",
+ "name": "Sharib Masum"
+}

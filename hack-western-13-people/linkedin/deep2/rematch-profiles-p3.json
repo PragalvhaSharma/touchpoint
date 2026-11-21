@@ -1,0 +1,723 @@
+[
+ {
+  "id": "U0CJLN8A4Q2",
+  "status": "done",
+  "name": "Justin Fang",
+  "devpost": {
+   "url": "https://devpost.com/justinfang2007",
+   "evidence": "Username equals Slack email handle; name Justin Fang, Ottawa."
+  },
+  "confidence_notes": "Devpost tied by email handle (high). GitHub justinfangg tied via the repo link on his own Devpost project plus matching name (high). School from his GitHub profile README ('Computer Science @ uWaterloo'); Devpost location says Ottawa. Slack display name is 'Moses Justin'; his teammate on both Devpost projects is Moses Liang. Whether the Slack account is shared or just named after both is UNVERIFIED. Portfolio site portfolio-justin-d983.vercel.app is behind Vercel login, so it was not used. LinkedIn stays low (several student Justin Fangs). Deepening pass: removed duplicate project entries; added his live Hack Western 13 repo (Swift). A Youth STEMming Change page lists an ex-VP Operations 'Justin Fang, Waterloo '29' and a separate Waterloo first-year EE Justin Fang (justinfanguw, Edmonton, Toyota Innovation Challenge) exists, so neither was attributed. Pass 3: GitHub (justinfangg) adds Electrium Mobility, a Waterloo design team whose electriumap README lists 'Justin Fang, @justinfangg' with his commits in fall 2025, and an AI Lifeguard repo (Jul 2026) built on QNX. LinkedIn justinfangjf (DevOps at Ciena, Waterloo CS, Ottawa) surfaced in search but nothing ties it to this GitHub, so it was not used. Pass 3 re-match (agent E): LinkedIn justinfangjf accepted at medium (user decision). GitHub justinfangg's social accounts list linkedin.com/in/justinfangjf, so the Waterloo CS + Ciena + Ottawa facts are now attributed. The Ciena role title (DevOps) comes from search snippets, not the fetched page.",
+  "github": {
+   "url": "https://github.com/justinfangg",
+   "evidence": "His Devpost project Third Guard links github.com/justinfangg/Lifeguard; the repo owner's commits are authored as 'Justin Fang' and the profile name is Justin Fang (the only Justin on that team). The account also has a 'hackwestern-13-project' repo pushed 2026-11-21."
+  },
+  "school_program": "University of Waterloo, Computer Science (GitHub profile README)",
+  "current_role": "CS student, University of Waterloo; at Ciena, Ottawa (LinkedIn; DevOps per search snippet)",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/justinfangjf",
+    "evidence": "Devpost justinfang2007 (exact Slack email handle) is in Ottawa; justinfangjf's public page shows University of Waterloo, current Ciena, Ottawa; GitHub justinfangg (linked from his Devpost project) lists this LinkedIn. The other candidate justinfanguw is at CareHawk Safety Communications."
+   }
+  ],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Third Guard (cuHacking7)",
+    "summary": "AI pool-safety monitor on a Raspberry Pi running QNX: swimmer detection, multi-object tracking and MoveNet pose estimation score drowning-distress patterns for lifeguards (C++17, TensorFlow Lite, OpenCV). A teammate's lifeguarding experience inspired it.",
+    "url": "https://devpost.com/software/third-guard"
+   },
+   {
+    "name": "Guardian (Hack the Valley 11)",
+    "summary": "Concert safety check-in using AirPods head tracking: falls or long stillness trigger a check-in, and silence escalates by SMS to chosen contacts, nearby opted-in responders, then venue staff (Swift, React Native, Express, Twilio).",
+    "url": "https://devpost.com/software/guardian-jbwg9q"
+   },
+   {
+    "name": "NHL Rules Explainer",
+    "summary": "RAG over the 2026-27 NHL rulebook: FastAPI, Postgres + pgvector, two Claude calls per question, verified citations and an eval harness.",
+    "url": "https://github.com/justinfangg/nhl-rules-explainer"
+   },
+   {
+    "name": "Move the money",
+    "summary": "Postgres-backed CLI ledger that moves CAD correctly under concurrency, retries and failure, proven with Vitest and fast-check property tests.",
+    "url": "https://github.com/justinfangg/move-the-money"
+   },
+   {
+    "name": "hackwestern-13-project",
+    "summary": "His Hack Western 13 repo (Swift), pushed during the event on Nov 21, 2026.",
+    "url": "https://github.com/justinfangg/hackwestern-13-project"
+   },
+   {
+    "name": "art",
+    "summary": "Web art project deployed on Vercel.",
+    "url": "https://art-ebon-ten.vercel.app"
+   },
+   "electriumap (Electrium Mobility): crowdsourced map of charging spots for e-bikes and scooters",
+   "AI Lifeguard (Jul 2026): Raspberry Pi 5 camera + TensorFlow Lite swimmer tracking and MoveNet pose estimation on QNX to flag possible drowning"
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Contributor, Electrium Mobility (University of Waterloo student design team): listed in the electriumap README, commits Oct-Nov 2025 on the crowdsourced micromobility charging map"
+  ],
+  "skills_interests": [
+   "Python",
+   "TypeScript / Node",
+   "C++",
+   "Postgres / pgvector",
+   "RAG and LLM evals",
+   "Computer vision on embedded (QNX, Raspberry Pi)",
+   "iOS / React Native",
+   "Safety-focused products"
+  ],
+  "talking_points": [
+   "Ask how Third Guard tells a struggling swimmer from a playing one, and what running it on QNX changed",
+   "Ask how Guardian decides when silence means trouble without false alarms",
+   "He built an NHL rules explainer with an eval harness: ask how he measures whether the cited rule is right",
+   "His move-the-money ledger uses property tests to prove correctness under retries: ask what bug the tests caught",
+   "His Hack Western 13 repo is in Swift, like Guardian's AirPods head-tracking: ask if he's building on Apple sensors again."
+  ],
+  "sources": [
+   "https://devpost.com/justinfang2007",
+   "https://devpost.com/justinfang2007/challenges",
+   "https://devpost.com/software/third-guard",
+   "https://devpost.com/software/guardian-jbwg9q",
+   "https://github.com/justinfangg",
+   "https://github.com/justinfangg/Lifeguard",
+   "https://github.com/justinfangg/justinfangg",
+   "https://github.com/justinfangg/nhl-rules-explainer",
+   "https://github.com/justinfangg/move-the-money",
+   "https://github.com/justinfangg/hackwestern-13-project",
+   "https://github.com/Electrium-Mobility/electriumap",
+   "https://www.linkedin.com/in/justinfangjf"
+  ],
+  "personal_site": "",
+  "grad_year": "",
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn justinfangjf (medium): Waterloo CS, Ciena, Ottawa",
+   "GitHub justinfangg links the LinkedIn"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/justinfangjf",
+   "confidence": "medium",
+   "evidence": "Devpost justinfang2007 (exact Slack email handle) is in Ottawa; justinfangjf's public page shows University of Waterloo, current Ciena, Ottawa; GitHub justinfangg (linked from his Devpost project) lists this LinkedIn. The other candidate justinfanguw is at CareHawk Safety Communications."
+  }
+ },
+ {
+  "id": "U0CK65L2TNG",
+  "status": "done",
+  "name": "Sarah Gao",
+  "github": {
+   "url": "https://github.com/sarahmlgao-sketch",
+   "evidence": "Commit-email search for the Slack email returns commits authored by this account."
+  },
+  "confidence_notes": "GitHub tied by commit email (high); lingobunns details read from the deployed app's bundle text. No school or other links on the account. LinkedIn candidate sarah-gao-175a79297 (CS @ Western) not used (unlinked). Deep pass 2: LinkedIn sarah-gao-175a79297 is now tied: her portfolio sarahgao.ca links it and lists LingoBunns, the project on her email-tied GitHub. LinkedIn headline says CS while its education entry says BMOS 2025-2029; program left as both. sarahgao.com and linkedin hellosarahgao belong to a different Sarah Gao (US biologist/designer); not used. Pass 3 re-match (agent E): LinkedIn raised to high via the chain Slack email -> GitHub/Devpost sarahmlgao-sketch -> sarahgao.ca projects -> LinkedIn link.",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/sarah-gao-175a79297",
+    "evidence": "Commit-email search on the Slack email leads to GitHub sarahmlgao-sketch; Devpost sarahmlgao-sketch (linked to it) lists LingoBunns, TheDaily. and Bat Hat; her portfolio sarahgao.ca lists LingoBunns and TheDaily. and links this LinkedIn on every page."
+   }
+  ],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "LingoBunns (SheHacks+ 10 winner)",
+    "summary": "Language-learning app that helps families pass a heritage language to kids through conversation, stories and play (React, Firebase, Gemini, ElevenLabs, Arduino); won Second Place Overall and MLH Best Use of ElevenLabs. Live app: https://first-project-55c61.web.app/",
+    "url": "https://devpost.com/software/lingobunns"
+   },
+   {
+    "name": "BatHat (Hack the 6ix 2026)",
+    "summary": "Wearable for visually impaired users that turns surroundings into a live audio map, inspired by echolocation (C++, QNX).",
+    "url": "https://devpost.com/software/bat-hat"
+   },
+   {
+    "name": "TheDaily. (Product Design Sprint)",
+    "summary": "Concept feature for BeReal: after the daily photo, a short creative prompt guides what you share (Figma, Framer); Best Novice Design per her portfolio.",
+    "url": "https://devpost.com/software/thedaily"
+   }
+  ],
+  "hackathon_wins": [
+   "SheHacks+ 10 (Jan 2026): Second Place Overall and [MLH] Best Use of ElevenLabs, LingoBunns",
+   "Product Design Sprint (Mar 2026): Best Novice Design, TheDaily. (per her portfolio)"
+  ],
+  "awards": [
+   "3rd Place, Innovation Sprint Case Competition (Nov 2025, per her portfolio)"
+  ],
+  "clubs_leadership": [
+   "Director of Communications, Ivey Product Society (Oct 2025-Apr 2026); IPS Fellowship 2025-26",
+   "Director of Marketing, W5 Western Entrepreneurship Association (Sep 2025-Apr 2026)",
+   "Graphics Director (earlier Graphics Executive, from Sep 2025), a cultural student association, Western"
+  ],
+  "skills_interests": [
+   "JavaScript / React",
+   "Firebase hosting",
+   "Language learning / edtech for kids",
+   "Product and UX design (Figma, Framer)",
+   "Animation and graphics",
+   "Hardware hacks (Arduino, QNX)",
+   "Heritage-language learning"
+  ],
+  "talking_points": [
+   "Ask about lingobunns: how it measures a child's vocabulary growth from conversation",
+   "Ask which languages she built lingobunns for and whether she speaks them",
+   "Ask whether she wants to build edtech again this weekend",
+   "LingoBunns won 2nd overall and Best Use of ElevenLabs at SheHacks+ 10: ask how they used ElevenLabs voices to keep kids talking in a heritage language",
+   "She built BatHat on QNX at Hack the 6ix: ask what it was like getting real-time audio mapping on an embedded OS",
+   "She pitched a BeReal feature (TheDaily.) at a product design sprint and runs comms for Ivey Product Society: ask what she thinks makes a good product prompt"
+  ],
+  "sources": [
+   "https://github.com/sarahmlgao-sketch",
+   "https://github.com/sarahmlgao-sketch/lingobunns",
+   "https://first-project-55c61.web.app/",
+   "https://api.github.com/search/commits?q=author-email:[email omitted]",
+   "https://devpost.com/sarahmlgao-sketch",
+   "https://devpost.com/software/lingobunns",
+   "https://devpost.com/software/bat-hat",
+   "https://devpost.com/software/thedaily",
+   "https://sarahgao.ca",
+   "https://sarahgao.ca/my-work",
+   "https://shehacks-10.devpost.com/project-gallery",
+   "https://ca.linkedin.com/in/sarah-gao-175a79297",
+   "https://www.linkedin.com/in/sarah-gao-175a79297"
+  ],
+  "personal_site": {
+   "url": "https://sarahgao.ca",
+   "evidence": "Lists LingoBunns and TheDaily., the projects on her email-tied GitHub/Devpost, and links her LinkedIn."
+  },
+  "devpost": {
+   "url": "https://devpost.com/sarahmlgao-sketch",
+   "evidence": "Same username as the GitHub account the Slack email commits to; London, Ontario."
+  },
+  "school_program": "Western University: LinkedIn headline 'CS @ Western'; education section lists Bachelor of Management and Organizational Studies (BMOS), 2025-2029. Previously IB Diploma, Bayview Secondary School (2021-2025).",
+  "grad_year": "2029 (LinkedIn education 2025-2029)",
+  "current_role": "First/second-year student at Western (CS / BMOS); designer and animator; Graphics Director, a cultural student association",
+  "merged_from": [
+   "thread2-combined-results.json",
+   "thread2-deepen-1.json"
+  ],
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn sarah-gao-175a79297 confirmed high via sarahgao.ca",
+   "Devpost sarahmlgao-sketch (London, Ontario)",
+   "Personal site sarahgao.ca"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/sarah-gao-175a79297",
+   "confidence": "high",
+   "evidence": "Commit-email search on the Slack email leads to GitHub sarahmlgao-sketch; Devpost sarahmlgao-sketch (linked to it) lists LingoBunns, TheDaily. and Bat Hat; her portfolio sarahgao.ca lists LingoBunns and TheDaily. and links this LinkedIn on every page."
+  }
+ },
+ {
+  "id": "U0CKJ2JPQ11",
+  "status": "done",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/ColinWang001",
+    "evidence": "His site colinwang.dev shows the exact Slack email [email omitted] and links linkedin.com/in/ColinWang001 and GitHub passman300."
+   }
+  ],
+  "past_roles": [
+   {
+    "title": "Software Engineer Intern",
+    "org": "Ford Motor Company",
+    "dates": "Jan-Apr 2026",
+    "summary": "Ottawa; CAN bus reliability fixes, exponential-backoff retry module, parallel OTA flashing of up to 14 ECUs (80% faster), 240+ case GoogleTest suite"
+   },
+   {
+    "title": "Firmware and Software Developer",
+    "org": "Electrium Mobility (Waterloo design team)",
+    "dates": "May-Aug 2025",
+    "summary": "FreeRTOS BLDC motor controller with field-oriented control; ESP32/Raspberry Pi go-kart dashboard over CAN"
+   },
+   {
+    "title": "Embedded and Autonomy Lead",
+    "org": "Waterloo Aerial Robotics Group (WARG)",
+    "dates": "Oct 2024-Dec 2025",
+    "summary": "STM32 firmware, PID altitude manager, PineCAN CAN drivers; 100% test coverage on flight software"
+   }
+  ],
+  "projects": [
+   {
+    "name": "Pilot",
+    "summary": "Real-time AI assistant for CS:GO with a sub-500 ms voice path (Python, Gemini, Whisper)",
+    "url": "https://colinwang.dev"
+   },
+   {
+    "name": "QtExplorer",
+    "summary": "File explorer that indexes 1M+ files in under 5 s by parsing the NTFS Master File Table (C++, Qt)",
+    "url": "https://colinwang.dev"
+   },
+   {
+    "name": "Table tennis scoreboard",
+    "summary": "STM32 firmware with UART score sync and vibration-sensor point detection (C, FreeRTOS, VHDL)",
+    "url": "https://colinwang.dev"
+   },
+   {
+    "name": "Just-wash.ai",
+    "summary": "Handwashing trainer classifying technique with MobileNetV2 on a Raspberry Pi",
+    "url": "https://colinwang.dev"
+   },
+   {
+    "name": "Pixel Paint",
+    "summary": "Pixel art editor with tiled canvas buffers (C#, MonoGame)",
+    "url": "https://colinwang.dev"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Embedded and Autonomy Lead, Waterloo Aerial Robotics Group (Oct 2024-Dec 2025)",
+   "Firmware/Software Developer, Electrium Mobility (2025)"
+  ],
+  "skills_interests": [
+   "Embedded C/C++",
+   "FreeRTOS",
+   "STM32 / ESP32",
+   "BLE, NFMI, CAN",
+   "Motor control (FOC)",
+   "Python, OpenCV",
+   "GoogleTest / pytest CI"
+  ],
+  "talking_points": [
+   "He fixed a CAN startup race at Ford and parallelized OTA updates across 14 ECUs: ask what made that hard to debug",
+   "Ask how BLE and NFMI firmware differs from the drone and go-kart work he did on WARG and Electrium",
+   "Pilot gets a voice loop under 500 ms: ask what he is building at Hack Western"
+  ],
+  "sources": [
+   "https://colinwang.dev",
+   "https://github.com/passman300",
+   "https://www.linkedin.com/in/ColinWang001"
+  ],
+  "personal_site": {
+   "url": "https://colinwang.dev",
+   "evidence": "Shows the exact Slack email [email omitted]."
+  },
+  "github": {
+   "url": "https://github.com/passman300",
+   "evidence": "Linked from colinwang.dev."
+  },
+  "devpost": "",
+  "school_program": "Computer Engineering, University of Waterloo",
+  "grad_year": "",
+  "current_role": "Wireless Firmware Intern, onsemi (Waterloo, Sep-Dec 2026): BLE, NFMI and audio DSP firmware",
+  "publications": [],
+  "news": [],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/ColinWang001",
+   "confidence": "high",
+   "evidence": "His site colinwang.dev shows the exact Slack email [email omitted] and links linkedin.com/in/ColinWang001 and GitHub passman300."
+  },
+  "confidence_notes": "Pass 3 re-match (agent E): New record. All facts from colinwang.dev, which carries the exact Slack email. Probably the same person as Slack member U0CJYM2CJJZ ([email omitted]), but that link is unconfirmed.",
+  "links_confidence": "high",
+  "added_this_pass": [
+   "LinkedIn ColinWang001 (high) via colinwang.dev with exact Slack email",
+   "Experience and projects from colinwang.dev"
+  ],
+  "name": "Colin Wang"
+ },
+ {
+  "id": "U0CJ09U2BAM",
+  "status": "done",
+  "name": "Ibrahim Qayyum",
+  "devpost": {
+   "url": "https://devpost.com/ibrahimaqayyum",
+   "evidence": "Username equals Slack email handle."
+  },
+  "confidence_notes": "Full surname Qayyum from Devpost; Devpost ibrahimaqayyum matches the Slack email handle. This pass: his Devpost projects are from EurekaHacks 2026 (a high school hackathon) and TerraHacks 2025, with the same teammates (jacobjohn1917, adam-hjouj, adityacodes5) each time, so he was in high school until 2026. The email handle reads 'Ibrahim A. Qayyum', which fits the low LinkedIn candidate ibrahim-asif-qayyum (Mississauga, IB at St. Francis Xavier SS, DECA, TEDxMcFarren Boulevard Youth organizer). DECA/ISACA/TEDx facts below are attributed on that basis: name + middle initial + GTA + matching age, but no source links the Devpost to the LinkedIn, so treat them as probable, UNVERIFIED. A data-broker result was ignored. Other same-name people (Imperial College MEng site engineer, Nigerian AWS developer, UK cases) excluded. Pass 3: new tie between the Devpost and the LinkedIn candidate: TED.com's TEDxMcFarren Boulevard Youth page lists the organizing team as Nathan Yan, Adam Hjouj and Asif Qayyum (Mississauga). Adam Hjouj is his teammate on NoDoxx (EurekaHacks 2026) and Sea Scanner (TerraHacks 2025) on the email-tied Devpost, and Nathan Yan is the DECA teammate named in the DECA facts, while LinkedIn ibrahim-asif-qayyum lists himself as TEDx event lead organizer. Two independent ties (email handle 'ibrahimaqayyum' = Ibrahim A. Qayyum, and the shared TEDx/hackathon circle) now connect the Devpost to the LinkedIn, so the DECA/ISACA/TEDx facts are raised from UNVERIFIED to probable (medium). LinkedIn snippet (search result, not re-fetched) adds Western BESc Electrical + Ivey and a May-Sep 2026 cybersecurity role at Intelligenes; his NoDoxx OSINT project fits that. Suggest the LinkedIn CSV match for him be reviewed for an upgrade from Unsure to medium. Pass 3 re-match (agent E): TED.com organizer list verified this pass (Nathan Yan, Adam Hjouj, Asif Qayyum); Adam Hjouj confirmed on NoDoxx, Sea Scanner and FoodWise. The DECA/ISACA/TEDx facts below are now attributed at medium (probable), no longer UNVERIFIED. LinkedIn headline: 'cybersec @ intelligenes | engineering + ivey @ uwo', Greater Toronto Area.",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/ibrahim-asif-qayyum",
+    "evidence": "Email handle ibrahimaqayyum = Ibrahim A. Qayyum; Devpost teammate Adam Hjouj (all three projects) co-organized TEDxMcfarren Boulevard Youth with Asif Qayyum per TED.com, and this LinkedIn lists himself as that event's lead organizer."
+   }
+  ],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "NoDoxx",
+    "summary": "EurekaHacks 2026: OSINT tool that cross-references an Instagram username across ~400 sites, geolocates public posts and maps your digital footprint so you can clean it up (Python, web scraping).",
+    "url": "https://devpost.com/software/nodoxx"
+   },
+   {
+    "name": "FoodWise",
+    "summary": "TerraHacks 2025: SwiftUI app that scans barcodes or nutrition labels and uses Gemini to judge food against a user's health profile (Firebase).",
+    "url": "https://devpost.com/software/foodwise-xme3gc"
+   },
+   {
+    "name": "Sea Scanner",
+    "summary": "Arduino device with gas, moisture and temperature sensors plus a mobile app that flags ocean pollution with GPS readings (C++, Python).",
+    "url": "https://devpost.com/software/sea-scanner"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "DECA ICDC 2024, 3rd place in the Knowledge Matters Virtual Business Challenge Hotel event with Nathan Yan and Toby Zeng, St. Francis Xavier SS (Dufferin-Peel)",
+   "DECA ICDC 2025, 1st in the world with Nathan Yan and Alden Wang (per a Xavier DECA chapter member's LinkedIn post)"
+  ],
+  "clubs_leadership": [
+   "ISACA Toronto Annual Summer Conference 2025 student panelist ('How is our Future Generation coping with AI'), then an 11th-grade IB student",
+   "lead organizer, TEDxMcFarren Boulevard Youth (Mississauga)"
+  ],
+  "skills_interests": [
+   "Python",
+   "Swift/SwiftUI",
+   "Arduino/C++",
+   "OSINT and privacy tooling",
+   "Gemini API",
+   "Firebase"
+  ],
+  "talking_points": [
+   "NoDoxx maps your public footprint from just an Instagram handle: ask what surprised his team most about what they could find, and how they handled the ethics.",
+   "He spent the summer in cybersecurity at Intelligenes before starting Western Engineering + Ivey: ask what that security work involved.",
+   "He has hacked with the same crew (Adam Hjouj, Jacob John) at TerraHacks and EurekaHacks and co-ran TEDxMcFarren Boulevard Youth: ask whether the team came to Hack Western together."
+  ],
+  "sources": [
+   "https://devpost.com/ibrahimaqayyum",
+   "https://devpost.com/software/nodoxx",
+   "https://devpost.com/software/foodwise-xme3gc",
+   "https://devpost.com/software/sea-scanner",
+   "https://eurekahacks.devpost.com/project-gallery?page=2",
+   "https://terrahacks-2025.devpost.com/project-gallery?page=3",
+   "https://higherlogicdownload.s3.amazonaws.com/ISACA/35d1bd8a-b6d2-4c9a-9008-1d492e58f6d0/UploadedImages/ISACA_2025_Annual_Conf_Brochure_FINAL_FINAL.pdf",
+   "https://www.knowledgematters.com/high-school/competitions/deca/gallery-2024/",
+   "https://www.linkedin.com/posts/caitwdc_decaicdc-betheone-activity-7325348163832180737-P3Pg",
+   "https://ca.linkedin.com/in/ibrahim-asif-qayyum",
+   "https://www.ted.com/tedx/events/61702",
+   "https://devpost.com/adam-hjouj",
+   "https://www.linkedin.com/in/ibrahim-asif-qayyum"
+  ],
+  "personal_site": "",
+  "github": "",
+  "school_program": "Western University, Engineering (BESc Electrical and Electronics Engineering) + Ivey, first year in fall 2026; IB diploma at St. Francis Xavier SS, Mississauga 2022-2026 (LinkedIn ibrahim-asif-qayyum, via search snippet; probable, see notes)",
+  "grad_year": "",
+  "current_role": "First-year Western Engineering + Ivey student; Cyber Security Engineer at Intelligenes, Toronto (May-Sep 2026) per LinkedIn headline and experience snippet (probable)",
+  "independent": true,
+  "links_confidence": "medium",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn ibrahim-asif-qayyum raised to medium (TEDx organizer tie via Devpost teammate Adam Hjouj)",
+   "Western Engineering + Ivey; cybersecurity at Intelligenes"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/ibrahim-asif-qayyum",
+   "confidence": "medium",
+   "evidence": "Email handle ibrahimaqayyum = Ibrahim A. Qayyum; Devpost teammate Adam Hjouj (all three projects) co-organized TEDxMcfarren Boulevard Youth with Asif Qayyum per TED.com, and this LinkedIn lists himself as that event's lead organizer."
+  }
+ },
+ {
+  "id": "U0CK0K5GDM4",
+  "status": "done",
+  "name": "Samuel Shi",
+  "github": {
+   "url": "https://github.com/sokosam",
+   "evidence": "Commit-email search for the Slack email returns commits authored by this account (author Samuel Shi)."
+  },
+  "devpost": {
+   "url": "https://devpost.com/samuelshiwork",
+   "evidence": "Username equals Slack email handle; links the GitHub."
+  },
+  "school_program": "Software Engineering, McMaster University (Level 2 per Devpost and teammates' project pages)",
+  "confidence_notes": "LinkedIn confidence unchanged (low); school now known (McMaster) for whoever verifies the LinkedIn. Deep2: Corrected project name 'Continuum' to its Devpost spelling 'Continiuum'; added two MLH prize wins shown on his Devpost. Pass3: Unverified lead, not written to fields: search snippets for a LinkedIn profile (slug likely samuel-shi-910651293, seen via the Unifers aggregator) show SWE internships at AMD (ROCm, Winter 2026), RBC (Cloud Security, Fall 2025) and Alectra (Summer 2025) plus McMaster Software Engineering; the McMaster tie appears only on aggregator/broker pages, so left out. GitHub sokosam is listed on the GDSC McMaster Ocular Disease Identifier repo. Pass 3 re-match (agent E): LinkedIn samuel-shi accepted at medium on name + McMaster. It adds: Software Engineering Intern at Stripe (Dashboard team; announced in his own post). Aggregator-only internships (AMD, RBC, Alectra) still left out.",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/samuel-shi",
+    "evidence": "GitHub sokosam (commits from the Slack email) is Samuel Shi at McMaster University; Devpost samuelshiwork says Software Engineering 2 @ McMaster; LinkedIn samuel-shi is Samuel Shi, McMaster 2023-2028."
+   }
+  ],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Rain Maker (uOttaHack 8)",
+    "summary": "Infrastructure-as-code tool (Terraform, DigitalOcean, Next.js) with teammate Andy Pak; won MLH Best Use of DigitalOcean",
+    "url": "https://devpost.com/software/rain-maker"
+   },
+   {
+    "name": "Continiuum (Hack Western 12)",
+    "summary": "AI-powered incident monitoring ('know the moment things break') with dashboards, Twilio/ElevenLabs alerts and Docker; won MLH Best .Tech Domain",
+    "url": "https://devpost.com/software/continuum-inta1o"
+   },
+   {
+    "name": "National Bidders of Canada (QHacks 2025)",
+    "summary": "Live auction platform for buyers and sellers (Next.js, Supabase, OpenAI)",
+    "url": "https://devpost.com/software/national-bidders-of-canada"
+   },
+   {
+    "name": "EZEV (Easy EV) (DeltaHacks XI)",
+    "summary": "EV charging platform with real-time station capacity, cost and CO2 saved, plus host tools (Next.js, Supabase, PostgreSQL)",
+    "url": "https://devpost.com/software/ezev-easy-ev"
+   },
+   {
+    "name": "Ocular Disease Identifier (GDSC McMaster)",
+    "summary": "CNN that flags ocular diseases from fundus images, served through a React/Flask web app; he is listed as Full-Stack Developer",
+    "url": "https://github.com/DSC-McMaster-U/Ocular-Disease-Identifier"
+   }
+  ],
+  "hackathon_wins": [
+   "uOttaHack 8 (Jan 2026): [MLH] Best Use of DigitalOcean, for Rain Maker",
+   "Hack Western 12 (Nov 2025): [MLH] Best .Tech Domain Name, for Continiuum"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "Full-Stack Developer, Ocular Disease Identifier (Google Developer Student Club McMaster project; listed in the repo's contributor table)"
+  ],
+  "skills_interests": [
+   "Python",
+   "Java",
+   "JavaScript",
+   "Node.js",
+   "Next.js / TypeScript",
+   "Terraform / IaC",
+   "DigitalOcean",
+   "Supabase / PostgreSQL",
+   "Docker",
+   "LeetCode"
+  ],
+  "talking_points": [
+   "He has won two MLH prizes in a row: Best Use of DigitalOcean at uOttaHack 8 and Best .Tech Domain at Hack Western 12. Ask whether he's going for a three-peat this weekend.",
+   "Rain Maker does infrastructure as code: ask what Terraform setup they demoed.",
+   "He built the full stack for GDSC McMaster's Ocular Disease Identifier: ask how they validated the fundus-image model.",
+   "Ask what he learned building EZEV, the EV-charging platform, at DeltaHacks XI."
+  ],
+  "sources": [
+   "https://github.com/sokosam",
+   "https://devpost.com/samuelshiwork",
+   "https://devpost.com/software/rain-maker",
+   "https://devpost.com/software/continuum-inta1o",
+   "https://devpost.com/software/national-bidders-of-canada",
+   "https://devpost.com/software/ezev-easy-ev",
+   "https://github.com/sokosam/HW12",
+   "https://github.com/DSC-McMaster-U/Ocular-Disease-Identifier",
+   "https://www.linkedin.com/in/samuel-shi"
+  ],
+  "personal_site": "",
+  "grad_year": "",
+  "current_role": "Software Engineering student, McMaster University; Software Engineering Intern at Stripe (per LinkedIn post)",
+  "merged_from": [
+   "thread2-combined-results.json"
+  ],
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn samuel-shi (medium)",
+   "Stripe SWE intern (Dashboard team)"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/samuel-shi",
+   "confidence": "medium",
+   "evidence": "GitHub sokosam (commits from the Slack email) is Samuel Shi at McMaster University; Devpost samuelshiwork says Software Engineering 2 @ McMaster; LinkedIn samuel-shi is Samuel Shi, McMaster 2023-2028."
+  }
+ },
+ {
+  "id": "U0CKS6CFJM8",
+  "status": "done",
+  "name": "Brian Huang",
+  "github": {
+   "url": "https://github.com/speedweeweeman",
+   "evidence": "Commit-email search for the Slack email returns 92 commits by this account."
+  },
+  "devpost": {
+   "url": "https://devpost.com/bhuan84497",
+   "evidence": "Username equals Slack email handle; name Brian Huang, London, Ontario."
+  },
+  "confidence_notes": "GitHub tied by commit email; Devpost tied by email handle (both high). Devpost location London, ON; Devpost challenges list Hack Western 13 only (no submitted projects). School not stated anywhere linked. LinkedIn stays low per prior pass (common name). Deepening pass: GitHub public events are empty for recent months; name searches surface only unrelated Brian Huangs (Vanta engineer brianhuang822, UW-Madison/Apple researcher, a York Region high-school science-fair winner), none tied to him. Pass 3 re-match (agent E): LinkedIn accepted at medium on name + Western/London. It adds Western Ivey AEO (2026-2030), Merivale High School (Ottawa) and work at Odyssey Products Canada. Reposted hackathon posts on that page are other people's and were not attributed to him.",
+  "other_professional_links": [
+   {
+    "url": "https://www.linkedin.com/in/brian-huang-2b581a35a",
+    "evidence": "Devpost bhuan84497 (email handle) is Brian Huang in London, Ontario; LinkedIn brian-huang-2b581a35a is Brian Huang at Western University (Ivey AEO, 2026-2030), from Ottawa."
+   }
+  ],
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Hairline OS",
+    "summary": "Cross-platform app for standardized hairline scans: a FastAPI service uses MediaPipe face landmarks and OpenCV to align scans and measure temple recession and symmetry, classifies change, and builds care plans and habit tracking. Expo/React Native, Supabase, RevenueCat subscriptions and Replicate image projections.",
+    "url": "https://github.com/speedweeweeman/hairlineapp"
+   },
+   {
+    "name": "team_vibecode",
+    "summary": "App built in 2 hours for a Shopify pitch (vinext/Cloudflare starter).",
+    "url": "https://github.com/PartiGi8/team_vibecode"
+   },
+   {
+    "name": "trivia-project",
+    "summary": "React trivia game inspired by the Scrimba React course solo project.",
+    "url": "https://github.com/speedweeweeman/trivia-project"
+   },
+   {
+    "name": "JavaScript learning projects",
+    "summary": "Calculator, etch-a-sketch, rock-paper-scissors, shopping cart, digital business card (The Odin Project-style exercises, summer 2026).",
+    "url": "https://github.com/speedweeweeman"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "JavaScript",
+   "React / React Native (Expo)",
+   "Python (FastAPI)",
+   "Computer vision (MediaPipe, OpenCV)",
+   "Supabase",
+   "HTML/CSS",
+   "Cybersecurity, DevOps, fintech (Devpost interests)"
+  ],
+  "talking_points": [
+   "Ask how Hairline OS normalizes phone photos so scans from different days are comparable",
+   "He went from JavaScript exercises in June to a full computer vision app with subscriptions by August: ask how he learned that fast",
+   "Ask about the two-hour Shopify pitch build"
+  ],
+  "sources": [
+   "https://github.com/speedweeweeman",
+   "https://github.com/speedweeweeman/hairlineapp",
+   "https://github.com/PartiGi8/team_vibecode",
+   "https://devpost.com/bhuan84497",
+   "https://devpost.com/bhuan84497/challenges",
+   "https://api.github.com/search/commits?q=author-email:[email omitted]",
+   "https://www.linkedin.com/in/brian-huang-2b581a35a"
+  ],
+  "personal_site": "",
+  "school_program": "Western University (Ivey AEO, 2026-2030), per LinkedIn",
+  "grad_year": "2030",
+  "current_role": "First-year student, Western University (Ivey AEO)",
+  "independent": true,
+  "links_confidence": "high",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn brian-huang-2b581a35a (medium)",
+   "Western University, Ivey AEO 2026-2030; Merivale HS; Odyssey Products Canada"
+  ],
+  "linkedin": {
+   "url": "https://www.linkedin.com/in/brian-huang-2b581a35a",
+   "confidence": "medium",
+   "evidence": "Devpost bhuan84497 (email handle) is Brian Huang in London, Ontario; LinkedIn brian-huang-2b581a35a is Brian Huang at Western University (Ivey AEO, 2026-2030), from Ottawa."
+  }
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "status": "done",
+  "name": "Yifan Gao",
+  "devpost": {
+   "url": "https://devpost.com/yifan-gao-ca",
+   "evidence": "Username equals Slack email handle with dots as hyphens; name matches."
+  },
+  "school_program": "University of Waterloo (2026-2031; likely Biomedical Engineering per LinkedIn slug)",
+  "confidence_notes": "Devpost tied by email handle (medium; common name). It has no projects or hackathons listed; interests and skills come from the Devpost profile and team-finder card. No GitHub commits for the Slack email. Instagram/Discord on the card deliberately not used. Pronoun assumption from the earlier pass removed. Deepening pass: many same-name academics (NLP researcher Yifan-Gao on GitHub, Meta, OPPO, Sichuan, Cedars-Sinai) are different people; nothing new could be tied to this Yifan. Pass 3 re-match (agent E): LinkedIn accepted at medium on name + Waterloo + first-year cohort; common name, so treat with care. Adds Waterloo 2026-2031 and Ottawa hometown; the slug suggests Biomedical Engineering (not stated on the page).",
+  "current_role": "Student, University of Waterloo",
+  "other_professional_links": [
+   {
+    "url": "https://ca.linkedin.com/in/yifan-gao-bme",
+    "evidence": "Team-finder card for this Slack ID says University of Waterloo and first hackathon; LinkedIn yifan-gao-bme is Yifan Gao, University of Waterloo 2026-2031, Ottawa."
+   }
+  ],
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Python",
+   "C++",
+   "Machine learning",
+   "Design",
+   "Hardware",
+   "Backend",
+   "AR/VR, gaming, health, music/art, robotic process automation (Devpost interests)"
+  ],
+  "talking_points": [
+   "Hack Western is Yifan's first hackathon: ask what they most want to learn this weekend",
+   "Yifan's Devpost interests include AR/VR, games and music/art: ask which of those would make a good first project",
+   "Yifan listed design, hardware and backend on the team-finder card: ask which role they want on the team"
+  ],
+  "sources": [
+   "https://devpost.com/yifan-gao-ca",
+   "https://devpost.com/yifan-gao-ca/challenges",
+   "Hack Western team-finder card (hackwestern-site/by-slack-id.json)",
+   "https://ca.linkedin.com/in/yifan-gao-bme"
+  ],
+  "personal_site": "",
+  "github": "",
+  "grad_year": "2031",
+  "independent": true,
+  "links_confidence": "medium",
+  "publications": [],
+  "news": [],
+  "added_this_pass": [
+   "LinkedIn yifan-gao-bme (medium): Waterloo 2026-2031, Ottawa"
+  ],
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/yifan-gao-bme",
+   "confidence": "medium",
+   "evidence": "Team-finder card for this Slack ID says University of Waterloo and first hackathon; LinkedIn yifan-gao-bme is Yifan Gao, University of Waterloo 2026-2031, Ottawa."
+  }
+ },
+ {
+  "id": "U0CKSB0SZ1P",
+  "status": "done",
+  "other_professional_links": [
+   {
+    "url": "https://ca.linkedin.com/in/shouryaw",
+    "evidence": "gives surname Walia, initial S and Western; LinkedIn shouryaw is Shourya Walia, Western University 2025-2029."
+   }
+  ],
+  "past_roles": [
+   {
+    "title": "",
+    "org": "Quebec Association for Behavior Analysis (QcABA)",
+    "dates": "",
+    "summary": "Listed under experience on LinkedIn (title not public)"
+   }
+  ],
+  "projects": [
+   {
+    "name": "CramMap",
+    "summary": "React Native app showing how busy campus study spots are in real time; live at Western, Waterloo, McMaster and Laurier (per his LinkedIn post); App Store listing under Shouryajeet Walia",
+    "url": "https://ca.linkedin.com/in/shouryaw"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "React Native",
+   "Campus tech / student products",
+   "Building in public"
+  ],
+  "talking_points": [
+   "Ask how CramMap measures how busy a study spot is in real time",
+   "Ask which campus has used CramMap most and what he would add next"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/shouryaw"
+  ],
+  "personal_site": "",
+  "github": "",
+  "devpost": "",
+  "school_program": "Western University (2025-2029)",
+  "grad_year": "2029",
+  "current_role": "Student, Western University; founder of CramMap",
+  "publications": [],
+  "news": [],
+  "linkedin": {
+   "url": "https://ca.linkedin.com/in/shouryaw",
+   "confidence": "medium",
+   "evidence": "gives surname Walia, initial S and Western; LinkedIn shouryaw is Shourya Walia, Western University 2025-2029."
+  },
+  "confidence_notes": "Pass 3 re-match (agent E): New record. Facts from LinkedIn shouryaw (public page) and the CramMap App Store listing; no GitHub, Devpost or commits found for the Slack email.",
+  "links_confidence": "medium",
+  "added_this_pass": [
+   "LinkedIn shouryaw (medium)",
+   "CramMap app"
+  ],
+  "name": "Shourya Walia"
+ }
+]

@@ -1,0 +1,191 @@
+{
+ "url": "https://www.linkedin.com/in/yangjam",
+ "about": "Mathematics student at the University of Waterloo (double degree with a Wilfrid Laurier…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Brevitas",
+   "dates": "",
+   "meta": [
+    "San Francisco Bay Area"
+   ],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "2026 - 2031",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "Finalist, Hack the North 2026",
+   "org": "Hack the North",
+   "dates": "Sep 2026",
+   "meta": [],
+   "description": "Finalist at Canada's largest hackathon with Bricked, which turns a plain-English idea into a buildable Lego design."
+  },
+  {
+   "title": "Best Use of Solana, Hack Canada 2026",
+   "org": "Hack Canada",
+   "dates": "Mar 2026",
+   "meta": [],
+   "description": "Won the Solana prize with Slicefund: index funds for prediction markets, with AI agents finding arbitrage across Polymarket, Kalshi and Manifold."
+  },
+  {
+   "title": "1st Overall, Hack the Ridge 2025",
+   "org": "Hack the Ridge",
+   "dates": "Dec 2025",
+   "meta": [],
+   "description": "Won first place overall with Ferdinand, an AI agent that lets people control their entire desktop by voice to complete multi-step tasks."
+  },
+  {
+   "title": "Best Use of AI, PennApps XXVI",
+   "org": "PennApps (University of Pennsylvania)",
+   "dates": "Sep 2025",
+   "meta": [],
+   "description": "Won Best Use of AI with SimTeach, which lets teachers practise on realistic AI student models and get instant feedback."
+  },
+  {
+   "title": "Spur Accelerator Acceptance",
+   "org": "SPUR",
+   "dates": "Jun 2025",
+   "meta": [],
+   "description": "Accepted into Spur's pre-seed accelerator with BioBuddyAI, a wearable lidar camera that detects wilderness threats in real-time and delivers hands-free voice alerts via on-device computer vision on Raspberry Pi."
+  },
+  {
+   "title": "Microsoft for Startups Grant",
+   "org": "Microsoft",
+   "dates": "Oct 2023",
+   "meta": [],
+   "description": "Accepted to Microsoft for Startups Founders Hub with Factful: up to $150,000 in Azure credits and $2,500 in OpenAI API credits."
+  }
+ ],
+ "volunteering": [],
+ "certifications": [
+  {
+   "title": "Emergency First Aid Instructor / Lifesaving Instructor / Swim Instructor",
+   "org": "Lifesaving Society Canada",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "American Red Cross Lifeguard Certificate",
+   "org": "Lifesaving Society Ontario",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Splice — KV-cache editing for long-context LLMs",
+   "org": "Aug 2026 - Present",
+   "dates": "Aug 2026 - Present",
+   "meta": [],
+   "description": "When an AI agent's context is trimmed, Splice edits the model's KV cache in place instead of re-processing everything after the edit. Built at Brevitas. • 3.1x lower wall-clock per edit at 72B on 2x H100 (1.65x including one-time setup), with output quality held within a KL budget of a fresh re-ingest • Built as an SGLang radix-cache backend: 2.75x faster than SGLang re-prefill with 25% of a 16k c"
+  },
+  {
+   "title": "Bricked — Finalist, Hack the North 2026",
+   "org": "Sep 2026 - Sep 2026",
+   "dates": "Sep 2026 - Sep 2026",
+   "meta": [],
+   "description": "Finalist at Hack the North 2026. Describe anything in plain English and Bricked designs it in Lego, then generates step-by-step build instructions and a link to buy the parts. • LLMs can't place 3D parts reliably, so GPT generates concept art, Claude turns it into shapes and proportions, and a Python solver converts that geometry into real LDraw parts • A critic model refines each build using 3D r"
+  },
+  {
+   "title": "Open source — LMCache and MemOS contributions",
+   "org": "Aug 2026 - Sep 2026",
+   "dates": "Aug 2026 - Sep 2026",
+   "meta": [],
+   "description": "Bug fixes to two ~11k-star LLM infrastructure projects, each with a regression test that fails before the fix and passes after. • LMCache (KV-cache library used by vLLM, SGLang and NVIDIA Dynamo), PR #4599, merged: one timed-out benchmark round crashed the results summary or understated throughput by 20%. Timed-out rounds now get their own counter, plus the module's first unit tests • MemOS (memor"
+  },
+  {
+   "title": "OpenDrone — McGill AeroHacks 2026",
+   "org": "Mar 2026 - Mar 2026",
+   "dates": "Mar 2026 - Mar 2026",
+   "meta": [],
+   "description": "Indoor navigation for drones, built at McGill University's drone hackathon. Indoor spaces have no GPS, so OpenDrone maps a building with a drone, reconstructs it in 3D with Gaussian splatting, and lets you navigate or query the space by voice in natural language (27 languages)."
+  },
+  {
+   "title": "Slicefund — Best Use of Solana, Hack Canada 2026",
+   "org": "Feb 2026 - Feb 2026",
+   "dates": "Feb 2026 - Feb 2026",
+   "meta": [],
+   "description": "Best Use of Solana at Hack Canada 2026. Index funds for prediction markets, spanning 7,000+ markets on Polymarket, Kalshi and Manifold. • 4 AI agents find combinatorial arbitrage across the three platforms, using embedding matching to spot the same market listed in different places • Tiered caching keeps cross-platform spread detection live; fund shares are minted as Solana SPL tokens"
+  },
+  {
+   "title": "BioBuddy AI — Spur Accelerator, University of Waterloo",
+   "org": "Jun 2025 - Jan 2026",
+   "dates": "Jun 2025 - Jan 2026",
+   "meta": [],
+   "description": "On-device wildlife and threat detection, built through the Spur Accelerator at the University of Waterloo. • Trained a ResNet-18 from scratch on 2,500 images across 8 classes to 90%+ accuracy • Cut inference from 800 ms to 200 ms with TorchScript, running 30 fps camera capture, LiDAR and offline voice recognition on the same Raspberry Pi 4"
+  },
+  {
+   "title": "Ferdinand — 1st Overall, Hack the Ridge 2025",
+   "org": "Dec 2025 - Dec 2025",
+   "dates": "Dec 2025 - Dec 2025",
+   "meta": [],
+   "description": "1st Overall at Hack the Ridge 2025. A voice-controlled AI agent that turns speech into multi-step computer actions, built for people with physical disabilities who struggle to use a mouse and keyboard. • Claude reads the screen to find what to click, GPT-4o breaks each request into steps, and PyAutoGUI carries them out • Completed 92% of 50 test tasks"
+  },
+  {
+   "title": "SimTeach — Best Use of AI, PennApps XXVI",
+   "org": "Sep 2025 - Sep 2025",
+   "dates": "Sep 2025 - Sep 2025",
+   "meta": [],
+   "description": "Best Use of AI at PennApps XXVI (University of Pennsylvania). Trains teachers with realistic, AI-generated classroom scenarios and gives instant feedback on how they handled them, so they can practise without real students at stake."
+  },
+  {
+   "title": "Seizure Seeker — EEG seizure detection research",
+   "org": "Jun 2025 - Aug 2025",
+   "dates": "Jun 2025 - Aug 2025",
+   "meta": [],
+   "description": "Research at the Science Mentorship Institute with a Harvard PhD mentor. A model that flags intractable epileptic seizures from EEG recordings. • 1-second windows at 50% overlap, RMS features, and z-score thresholding (RMS > median + z·MAD) • A merge/filter pass cuts false positives • Presented at the Sci-Mi Symposium to 500+ attendees"
+  }
+ ],
+ "publications": [],
+ "organizations": [
+  {
+   "title": "Anchor Basketball Team",
+   "org": "",
+   "dates": "Sep 2023 - Present",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Factful",
+   "org": "Finace and Marketing intern",
+   "dates": "Sep 2023 - Present",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-09-21",
+   "text": "Team bricked",
+   "url": "https://www.linkedin.com/posts/yangjam_team-bricked-activity-7507833602433265664-s4IF",
+   "likes": 32
+  },
+  {
+   "date": "2026-07-03",
+   "text": "How did two high school students end up in the newspaper at the biggest AI engineering fair? Wild week. Anish Paleja and I volunteered with Major League Hacking, with Mike Swift, at the AI Engineer World's Fair. We met some of the coolest people and attended the coolest events. We planned to hand out newspapers on the show floor and meet people. Ended up being one of the best decisions we made this summer. Between shifts, we got to see everything the expo had to offer: OpenAI boba (yes, really),",
+   "url": "https://www.linkedin.com/posts/yangjam_how-did-two-high-school-students-end-up-in-activity-7478687153208602625-EQX8",
+   "likes": 75
+  },
+  {
+   "date": "2026-06-18",
+   "text": "Anish Paleja and I just got into Founders, Inc. Off Season II 🚀 Two high schoolers from Toronto, moving to San Francisco this summer to build out of the world's biggest founder campus at Fort Mason. A year ago, if you'd told me this is how we'd be spending our summer, I genuinely wouldn't have believed you. It's wild how fast things change when you bet on yourself and chase the things that scare you a little. We'll be in SF from June 24th to August 7th and we're down to meet anyone. Whether you'",
+   "url": "https://www.linkedin.com/posts/yangjam_anish-paleja-and-i-just-got-into-founders-activity-7473431622265225217-ookC",
+   "likes": 75
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "James Yang - Brevitas | LinkedIn",
+ "name": "yjames1103"
+}

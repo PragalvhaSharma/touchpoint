@@ -1,0 +1,193 @@
+{
+ "url": "https://ca.linkedin.com/in/hanjaemin",
+ "about": "Passionate about leveraging data to drive insights and innovation. Currently pursuing a…",
+ "experience": [
+  {
+   "title": "",
+   "org": "Mackenzie Investments",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "University of Waterloo",
+   "org": "",
+   "dates": "2020 - 2025",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "awards": [
+  {
+   "title": "nwHacks 2021 - Deloitte Best Pitch & Honorable Mention",
+   "org": "nwHacks",
+   "dates": "Jan 2021",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Podcast Host",
+   "org": "Waterloo Data Science Club",
+   "dates": "Sep 2022 - Present 4 years 3 months",
+   "meta": [],
+   "description": "Conducted in-depth interviews with a wide range of guests, including industry experts, thought leaders, and notable personalities Demonstrated strong verbal communication skills, including the ability to ask thought-provoking questions and guide conversations in a natural and engaging way"
+  },
+  {
+   "title": "Finance Manager",
+   "org": "a cultural student association",
+   "dates": "Jul 2020 - Feb 2021 8 months",
+   "meta": [],
+   "description": "Performed Outreach for Event Sponsorships Assisted with Event Planning & Marketing for youth-focused online events"
+  },
+  {
+   "title": "Head Tutor",
+   "org": "UW Culture and Language Exchange Club",
+   "dates": "Sep 2022 - Dec 2022 4 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Event Coordinator",
+   "org": "Fashion for Change",
+   "dates": "Sep 2022 - Dec 2022 4 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [
+  {
+   "title": "Deep Learning: Convolutional Neural Networks in Python",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Data Science: Modern Deep Learning",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Tableau A-Z: Hands-On Tableau Training for Data Science",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Diplôme d'études en langue française DELF B2",
+   "org": "France Éducation international",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Cluster Analysis and Unsupervised Machine Learning in Python",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Ensemble Machine Learning in Python",
+   "org": "Udemy",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "li_projects": [
+  {
+   "title": "Global Life Expectancy Analysis",
+   "org": "May 2024 - Aug 2024",
+   "dates": "May 2024 - Aug 2024",
+   "meta": [],
+   "description": "Conducted comprehensive statistical analysis on WHO Life Expectancy dataset using techniques including linear regression, LASSO, Ridge regression, and Random Forest models Performed EDA to identify key factors influencing life expectancy, creating insightful visualizations such as heatmaps and regional comparisons"
+  },
+  {
+   "title": "Codecracker - AI Powered Codenames Solver",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Developed an intelligent system to generate optimal word suggestions for the game Codenames using advanced NLP techniques, utilizing cosine similarity and custom heuristics to rank and suggest the most relevant words."
+  },
+  {
+   "title": "Jigsaw Toxic Comment Classification",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Developed a high-performance toxic comment classifier achieving >95% accuracy using an ensemble of classical ML (Random Forest, XGBoost) and deep learning models (LSTM, BERT)"
+  },
+  {
+   "title": "Uber Ridership Visualization",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "Conducted comprehensive visual analysis of Uber ridership data in New York City, creating heatmaps and charts to identify high-demand areas and temporal patterns, revealing key insights such as a 100k rider increase from April to May Analyzed ridership trends across different bases, months, and times of day, uncovering peak usage periods and factors influencing demand fluctuations including weathe"
+  }
+ ],
+ "publications": [],
+ "organizations": [
+  {
+   "title": "University of Waterloo Data Science Club",
+   "org": "Podcast Host",
+   "dates": "Sep 2022 - Present",
+   "meta": [],
+   "description": "Conducted in-depth interviews with a wide range of guests, including industry experts, thought leaders, and notable personalities Demonstrated strong verbal communication skills, including the ability to ask thought-provoking questions and guide conversations in a natural and engaging way"
+  }
+ ],
+ "websites": [],
+ "posts": [
+  {
+   "date": "2026-08-21",
+   "text": "I have a new article on making an LLM benchmark w/ Minecraft @ Towards Data Science! https://lnkd.in/gX3fNsYZ",
+   "url": "https://www.linkedin.com/posts/hanjaemin_i-have-a-new-article-on-making-an-llm-benchmark-activity-7496648658394722304-zdIR",
+   "likes": 14
+  },
+  {
+   "date": "2026-04-01",
+   "text": "I have a new article (about p-hacking and ai sycophancy) on TDS! https://lnkd.in/e8Zgzkqs + thumbnail they didn't let me use 😔",
+   "url": "https://www.linkedin.com/posts/hanjaemin_i-have-a-new-article-about-p-hacking-and-activity-7445165500638126082-mC5w",
+   "likes": 6
+  },
+  {
+   "date": "2025-02-25",
+   "text": "I had a chance a few weeks ago to attend a Lecture & Bootcamp hosted by NVIDIA's Christopher Parisien & Griffin Lacey, where I learned a lot about LLM Security (input/output monitoring, anti-jailbreaking...) using NVIDIA's open source libraries NeMo Guardrails & garak. (+NIMs!) LLM security is becoming increasingly important with the widespread adoption of LLMs, especially if they're client facing! (you don't want your customer service chatbot to go off the rails and start giving you super illeg",
+   "url": "https://www.linkedin.com/posts/hanjaemin_i-had-a-chance-a-few-weeks-ago-to-attend-activity-7300051390167433216-2nCh",
+   "likes": 3
+  },
+  {
+   "date": "2025-02-08",
+   "text": "In my ongoing mission to optimize my personal performance in escape rooms through ethically questionable means, I needed to find out which LLMs would had my back when the stakes were high (and it was time to blatantly cheat). So... I made an LLM benchmark to test their physical reasoning capabilities, and also answer some questions along the way - What is a LLM benchmark? What makes a good LLM benchmark? What good ones exist already? Can Haiku-3.5 help me get a ping pong ball out of a narrow tub",
+   "url": "https://www.linkedin.com/posts/hanjaemin_ai-llm-benchmarks-activity-7293791855912050688-XmL5",
+   "likes": 5
+  },
+  {
+   "date": "2025-01-22",
+   "text": "Just put my first article on TDS, hopefully more to come! 🤠",
+   "url": "https://www.linkedin.com/posts/hanjaemin_why-llms-suck-at-ascii-art-activity-7287645838166638592-w8Hl",
+   "likes": 3
+  },
+  {
+   "date": "2025-01-17",
+   "text": "/\\ _ / \\ /\\ / \\ / \\ / /\\ \\/ \\ /__/__\\________\\ | _ _ ___ | |/ \\ / \\ | | | |\\_/ \\_/ |_| | \\_/ \\__/ If you can guess what above ^ is supposed to be on the first try, then I owe you 10 bucks (it is (supposedly) a wolf!). I just lost an hour trying to get GPT-4 to draw me various ASCII art, and that is an hour of my life I will never get back. And it turns out this might have some surprisingly serious implications - a paper demonstrates how ASCII art can be used to bypass AI safety measures with up",
+   "url": "https://www.linkedin.com/posts/hanjaemin_activity-7286130163891724289-fiPO",
+   "likes": 5
+  },
+  {
+   "date": "2024-10-16",
+   "text": "I recently had the chance to play some Codenames, and was unfortunately thoroughly destroyed by my \"friends\". This defeat/humiliation is completely unacceptable, so I did the only natural thing - make a website that uses word embeddings to generate clues so I can efficiently cheat at Codenames. Learn about word embeddings and destroy your friends at Codenames @ my new blog post & website! 🗞️ Blog: https://lnkd.in/etBiaHcV 🍳 Codecracker: https://lnkd.in/ehTd82PG",
+   "url": "https://www.linkedin.com/posts/hanjaemin_i-recently-had-the-chance-to-play-some-codenames-activity-7252439328130232321-YuVy",
+   "likes": 9
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Jaemin Han - Greater Kitchener-Cambridge-Waterloo Metropolitan Area | Professional Profile | LinkedIn",
+ "name": "Jaemin Han"
+}

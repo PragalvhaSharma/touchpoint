@@ -1,0 +1,205 @@
+{
+ "url": "https://ca.linkedin.com/in/xanderchinxyz",
+ "about": "Interested in applied research and development at the intersection of AI and hardware. I…",
+ "experience": [
+  {
+   "title": "",
+   "org": "NVIDIA",
+   "dates": "",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "education": [
+  {
+   "title": "Western University",
+   "org": "",
+   "dates": "2022 - 2027",
+   "meta": [],
+   "description": "3.7/4.0 GPA 2022 - Schulich Leader Scholarship ($100,000) 2023 - Dean's Honor List 2024 - Dean's Honor List"
+  }
+ ],
+ "awards": [
+  {
+   "title": "1517 Fund Medici Grant",
+   "org": "1517 Fund",
+   "dates": "Sep 2024",
+   "meta": [],
+   "description": "Received $1000 USD from Danielle Strachman, co-founder of 1517 Fund, to build an aesthetic and interactive pepper's ghost display"
+  },
+  {
+   "title": "Natural Sciences and Engineering Research Council (NSERC)",
+   "org": "Natural Sciences and Engineering Research Council of Canada",
+   "dates": "May 2024",
+   "meta": [],
+   "description": "Received $7500 to conduct undergraduate student research based on academic average and a resume."
+  },
+  {
+   "title": "Hackathons and Competitions",
+   "org": "",
+   "dates": "Nov 2023",
+   "meta": [],
+   "description": "• 2025 - Top 3 out of 40 Teams for the Bracket Bot Hackathon • 2024 - Top 5 out of 120 Teams for the UWO President's Challenge • 2023 - 1st Place in DataQuest by WesternAI - https://devpost.com/software/the-best-solution • 2023 - 1st Place in the Medical Category @ Western Engineering Design Competition • 2023 - 2nd Place @ Hack Western 10 (Placed 2nd out of 70 teams) - https://devpost.com/softwar"
+  },
+  {
+   "title": "USRI Award Recipient",
+   "org": "Western Univeristy",
+   "dates": "Apr 2023",
+   "meta": [],
+   "description": "Received a Western Undergraduate Summer Research Internship (USRI) Award, valued at $8680."
+  },
+  {
+   "title": "Schulich Leader Scholarship",
+   "org": "Schulich Leader Scholarship Foundation",
+   "dates": "Sep 2022",
+   "meta": [],
+   "description": "Schulich Leader Scholarships are Canada’s most prestigious undergraduate STEM scholarships. One hundred are awarded to entrepreneurial-minded high school graduates enrolling in a Science, Technology, Engineering or Math program at 20 partner universities across Canada. Valued at $100,000."
+  },
+  {
+   "title": "AP Scholar with Distinction Award",
+   "org": "Advanced Placement College Board",
+   "dates": "Jul 2022",
+   "meta": [],
+   "description": "Granted to students who receive an average score of at least 3.5 on all AP Exams taken, and scores of 3 or higher on five or more of these exams."
+  },
+  {
+   "title": "ACES Engineering Scholarship",
+   "org": "Royal St George’s College",
+   "dates": "Jun 2022",
+   "meta": [],
+   "description": "The ACES (Advanced Computer Engineering School) Engineering Scholarship is awarded upon graduation \"from our 3-year ACES program to a unique student who, through his aptitude and dedication to design and/or engineering, has left a legacy for which other students that follow may benefit from. In doing so, the recipient embodies the broadest scope of ACES ideals\"."
+  },
+  {
+   "title": "National Crystal Growing Competition - 🥇Best Quality Crystal",
+   "org": "Chemical Institute of Canada",
+   "dates": "Nov 2021",
+   "meta": [],
+   "description": "Nurtured and grew an aluminum potassium sulfate crystal over a period of 4 weeks requiring continual and attentive care. Learned about crystal structures, how to make a seed crystal and the best strategies in quality growth. Won the national title of best quality crystal along with a $250 prize. https://www.cheminst.ca/discover/national-crystal-growing-competition/"
+  },
+  {
+   "title": "Headmasters Honor Roll - 2019, 2020, 2021",
+   "org": "Royal St. George's College",
+   "dates": "Jun 2021",
+   "meta": [],
+   "description": "Headmasters Honor Roll recipient for Grades 9-11. Recognition of the final overall average in the top 10 of the class"
+  },
+  {
+   "title": "The Duke of Edinburgh Bronze Award",
+   "org": "The Duke of Edinburgh's International Award Foundation",
+   "dates": "Aug 2019",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "volunteering": [
+  {
+   "title": "Vice President of Projects",
+   "org": "Western AI",
+   "dates": "Jul 2024 - Present 2 years 5 months",
+   "meta": [],
+   "description": ""
+  },
+  {
+   "title": "Director of Projects",
+   "org": "Western Founders Network",
+   "dates": "Sep 2022 - Apr 2023 8 months",
+   "meta": [],
+   "description": "- Worked with a team of 4 under Western Software Engineering to build and implement a full-stack zoom application with hand tracking, and drag and drop picture features."
+  },
+  {
+   "title": "Computer Engineering Technical Advisor",
+   "org": "Royal St. George's College",
+   "dates": "Sep 2021 - Jun 2022 10 months",
+   "meta": [],
+   "description": "- Mentored 30+ younger students on basic electronic circuits, Arduino programs, and technical writing - Maintained and supervised workspace"
+  },
+  {
+   "title": "Volunteer",
+   "org": "GlobalMedic (David McAntony Gibson Foundation)",
+   "dates": "Jun 2021 - Aug 2022 1 year 3 months",
+   "meta": [],
+   "description": ""
+  }
+ ],
+ "certifications": [],
+ "li_projects": [
+  {
+   "title": "Optimizing the RGBW LED Wall",
+   "org": "Apr 2022 - May 2022",
+   "dates": "Apr 2022 - May 2022",
+   "meta": [],
+   "description": "- Optimized the LED wall to allow camera output, screen sharing and drawing modes using assembly language - Taught myself assembly for ATMEL MCUs to simultaneously receive serial communication data and output it to the LEDs - Coded Processing programs in Java to send pixel data via serial communication from the computer camera, screen and painting grid to the MCU - Designed 3D printed enclosures f"
+  },
+  {
+   "title": "Building a Large Modular RGBW LED wall",
+   "org": "Dec 2021 - Feb 2022",
+   "dates": "Dec 2021 - Feb 2022",
+   "meta": [],
+   "description": "- Designed a modular, light and cost-effective 24 by 32 RGBW Neopixel LED wall along with smaller versions. Used in R&D prototype applications - Optimized the PCBs to be light-weight, modular and cost-effective - Dramatically increased efficiency through 8-bit parallel data streaming using low level port manipulation of the ATmega328P - Required creative PCB design, detailed knowledge of various A"
+  },
+  {
+   "title": "EEG + EMG Recording Device",
+   "org": "Sep 2021 - Nov 2021",
+   "dates": "Sep 2021 - Nov 2021",
+   "meta": [],
+   "description": "- A dual channel electroencephalogram (EEG) and electromyography (EMG) recording device that detects brain activity and various muscle movements. Potential use in Brain Computer Interfaces - Taught myself Fourier Transforms to program an FFT algorithm that processed bioelectrical waves into spectral frequencies - Prototyped and implemented various stages of op-amp filter circuits with successful a"
+  },
+  {
+   "title": "Infrared Nixie Tube Clock",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "- A 4-digit nixie tube clock with alarm, timer, date, and temperature features controlled with an infrared remote. Programmed in C++ on an ATmega328 IC - Worked with 170VDC high voltage - Designed a custom PCB in EAGLE and laser-cut acrylic in Adobe Illustrator - This project was done in my Grade 11 year (Apr to May 2021)"
+  },
+  {
+   "title": "LiDAR Mapping and Measurement Device",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "- A device that measures distance and models the surrounding room using LiDAR, servo motors, and an ESP32 programmed in C++ - Coded a Processing program in Java to display a 3D point cloud, perform measurements, and control the ESP32 with Bluetooth - Taught myself about vectors to derive and apply an equation relating pitch and yaw angles to angles between any 2 points in 3D space - Designed and m"
+  },
+  {
+   "title": "The CHUMP (Cheap Homebrew Understandable Minimal Processor) - A Custom 4-Bit Breadboard Computer",
+   "org": "",
+   "dates": "",
+   "meta": [],
+   "description": "- A custom 4-bit computer build from 1980's era TTL Integrated Circuits, coded in specific machine language - Executes 16 lines of code, capable of loading, adding, subtracting, storing, and reading memory (RAM) and constant values, as well as a go-to command and conditional if zero commands. - Required advanced understanding and implementation of digital logic, computer architecture, planning, de"
+  }
+ ],
+ "publications": [],
+ "organizations": [],
+ "websites": [
+  "https://github.com/xanderchinxyz",
+  "https://www.youtube.com/channel/UCKbEWb4snkK3Z53wHCCa4Ug",
+  "https://xanderchin.xyz"
+ ],
+ "posts": [
+  {
+   "date": "2026-01-16",
+   "text": "Very excited to be joining NVIDIA as a Distributed Systems Intern! From starting tinytpu.com with Evan Lin, Surya Sure, and Kenny Guo, to joining Groq and now NVIDIA, it's been such an incredible journey. Special thanks to Omar Kilani and Gavin Sherry for their continual support and for making this transition possible. Super hyped to keep building with them!",
+   "url": "https://www.linkedin.com/posts/xanderchinxyz_very-excited-to-be-joining-nvidia-as-a-distributed-activity-7417801619972628480-Pl70",
+   "likes": 432
+  },
+  {
+   "date": "2025-08-22",
+   "text": "I spent the last 3 months building TinyTPU, a minimal AI accelerator that runs both batched inference and training fully on-chip. Huge thanks to my teammates Evan Lin, Surya Sure, and Kenny Guo. Check out how we built it @ tinytpu.com All of our code can be found in our GitHub repo: https://lnkd.in/eEV6V2ND Twitter thread: https://lnkd.in/eEQZe-k4 I'd be happy to answer any questions, DMs are open!",
+   "url": "https://www.linkedin.com/posts/xanderchinxyz_i-spent-the-last-3-months-building-tinytpu-activity-7364712210457055234-f-8U",
+   "likes": 91
+  },
+  {
+   "date": "2024-11-14",
+   "text": "I'm excited to share that my first-ever peer-reviewed paper as lead author has been published in The Designs Journal! We developed a novel tiling algorithm for designing and coating real-life novelty architecture buildings and objects with solar PV modules, and an augmented Python version of the System Advisor Model (SAM) to simulate the performance of the resultant irregularly shaped PV systems. Link: https://lnkd.in/e_GpneBU DOI: 10.3390/designs8060118 A special thank you to Professor Joshua P",
+   "url": "https://www.linkedin.com/posts/xanderchinxyz_open-source-software-for-building-integrated-activity-7262841800954990594-HiJO",
+   "likes": 83
+  },
+  {
+   "date": "2023-12-04",
+   "text": "So glad to have done this with you guys!",
+   "url": "https://www.linkedin.com/posts/xanderchinxyz_so-glad-to-have-done-this-with-you-guys-activity-7137461681772773377--09s",
+   "likes": 12
+  }
+ ],
+ "fetched": "2026-11-21",
+ "page_title": "Xander Chin - NVIDIA | LinkedIn",
+ "name": "Xander Chin"
+}

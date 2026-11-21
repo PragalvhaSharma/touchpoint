@@ -1,0 +1,733 @@
+[
+ {
+  "id": "U0CFF77FQCR",
+  "slack_name": "Brittney Chong",
+  "real_name_guess": "Brittney Chong",
+  "email": "brittneyrachellechong@gmail.com",
+  "org_school": "",
+  "role": "Organizer",
+  "title": "Co-Director",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Confirmed Hack Western Co-Director (hackwestern.com) with Devpost brittneyrachellechong (email handle; project Align), but no LinkedIn found; prior candidate brittney-ch is a Dalhousie freelancer and is rejected. (was low)",
+  "candidates": [
+   "https://ca.linkedin.com/in/brittney-ch"
+  ],
+  "independent_links": {
+   "devpost": {
+    "url": "https://devpost.com/brittneyrachellechong",
+    "evidence": "Username equals Slack email handle; name matches."
+   }
+  }
+ },
+ {
+  "id": "U0CJNQWPZQS",
+  "slack_name": "Aiden Alaei",
+  "real_name_guess": "Aiden Alaei",
+  "email": "maplearman.ca@gmail.com",
+  "org_school": "",
+  "role": "Mentor",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Western's CS graduate-student directory lists an Arman Alaei, which fits a Hack Western mentor, but the only ML-focused LinkedIn found (arman-alaei-a29897181) shows Iran University of Science and Technology and University of the People with no Western or Canada link. (was none)",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJ3B9PBBM",
+  "slack_name": "Anna Li",
+  "real_name_guess": "Anna Li",
+  "email": "annaliyunjie@gmail.com",
+  "org_school": "",
+  "role": "Volunteer",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Multiple Western University students named Anna Li; no handle match to annaliyunjie.",
+  "candidates": [
+   "https://ca.linkedin.com/in/anna-li-42a3771b7",
+   "https://ca.linkedin.com/in/anna-li-215234358"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJBDPBNRF",
+  "slack_name": "Benson Yu",
+  "real_name_guess": "Benson Yu",
+  "email": "yubenson1122@gmail.com",
+  "org_school": "",
+  "role": "Volunteer",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Benson Yu profiles found are Waterloo (WATurbine) with a University of Western Ontario mention; two slugs, no handle match to yubenson1122.",
+  "candidates": [
+   "https://ca.linkedin.com/in/benson-m-yu",
+   "https://ca.linkedin.com/in/benson-yu07"
+  ],
+  "independent_links": {
+   "devpost": {
+    "url": "https://devpost.com/yubenson1122",
+    "evidence": "Username equals Slack email handle; display name Benson Yu."
+   }
+  }
+ },
+ {
+  "id": "U0CKS6CFJM8",
+  "slack_name": "Brian Huang",
+  "real_name_guess": "Brian Huang",
+  "email": "bhuan84497@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Common name; several Ontario Brian Huangs (Ivey-linked Amazon, UofT, Waterloo); no handle match to bhuan84497.",
+  "candidates": [
+   "https://ca.linkedin.com/in/brian-huang-01647a179",
+   "https://ca.linkedin.com/in/brian-huang-2b581a35a",
+   "https://ca.linkedin.com/in/brian-yc-huang"
+  ],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/speedweeweeman",
+    "evidence": "Commit-email search for the Slack email returns 92 commits by this account."
+   },
+   "devpost": {
+    "url": "https://devpost.com/bhuan84497",
+    "evidence": "Username equals Slack email handle; name Brian Huang, London, Ontario."
+   }
+  }
+ },
+ {
+  "id": "U0CJYM2CJJZ",
+  "slack_name": "Colin Wang",
+  "real_name_guess": "Colin Wang",
+  "email": "colin.wang1@uwaterloo.ca",
+  "org_school": "University of Waterloo",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Several University of Waterloo Colin Wangs; none tied to the email handle colin.wang1.",
+  "candidates": [
+   "https://ca.linkedin.com/in/colinwang001",
+   "https://www.linkedin.com/in/colinwng"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKWCQ9LF2",
+  "slack_name": "Jodie Chen",
+  "real_name_guess": "Jodie Chen",
+  "email": "jodie.chen.j@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "No profile tied to a Canadian university student or the email; only weak candidates.",
+  "candidates": [
+   "https://ca.linkedin.com/in/jodie-chen-17273a165"
+  ],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/jodie-chen-create",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account (profile name 'Jodie')."
+   },
+   "devpost": {
+    "url": "https://devpost.com/jodie-chen-create",
+    "evidence": "Devpost profile 'Jodie Chen (jodie-chen-create)' links GitHub jodie-chen-create, which is tied to her Slack email by commit search."
+   }
+  }
+ },
+ {
+  "id": "U0CHZ7GNSJY",
+  "slack_name": "Layan Al-Hamarneh",
+  "real_name_guess": "Layan Al-Hamarneh",
+  "email": "mydy.420@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "Red Hat",
+  "current_confidence": "low",
+  "current_url": "https://www.linkedin.com/in/layan-al-hamarneh-550a12298",
+  "evidence_so_far": "Only profile found is in Edmonton with no Red Hat link.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CHRSN0C3V",
+  "slack_name": "Ryuk Jones",
+  "real_name_guess": "Ryuk Jones",
+  "email": "ryukjones07@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "No public LinkedIn profile could be verified from the name, handle, and Canadian university context.",
+  "candidates": [],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/heyshonen",
+    "evidence": "Only account with commits authored by the Slack email; linked from his Devpost."
+   },
+   "devpost": {
+    "url": "https://devpost.com/ryukjones07",
+    "evidence": "Username equals Slack email handle; name Ryuk Jones; links github.com/heyshonen."
+   }
+  }
+ },
+ {
+  "id": "U0CKLJ67CJW",
+  "slack_name": "Satvik g",
+  "real_name_guess": "Satvik g",
+  "email": "sg8gar@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Public search returned plausible profiles, but the available text did not uniquely match the Slack participant.",
+  "candidates": [
+   "https://ca.linkedin.com/in/gargsatvik",
+   "https://ca.linkedin.com/in/satvikgarg15"
+  ],
+  "independent_links": {
+   "devpost": {
+    "url": "https://devpost.com/sg8gar",
+    "evidence": "Username equals Slack email handle; display name 'Satvik g'."
+   }
+  }
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "slack_name": "Yifan Gao",
+  "real_name_guess": "Yifan Gao",
+  "email": "yifan.gao.ca@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Very common name; no Yifan Gao profile ties to University of Waterloo undergraduate study, and the card has no GitHub or LinkedIn to cross-check. (was low)",
+  "candidates": [
+   "https://ca.linkedin.com/in/yifan-gao-bme",
+   "https://ca.linkedin.com/in/yifangao"
+  ],
+  "independent_links": {
+   "devpost": {
+    "url": "https://devpost.com/yifan-gao-ca",
+    "evidence": "Username equals Slack email handle with dots as hyphens; name matches."
+   },
+   "school_program": "University of Waterloo (Hack Western team-finder card)"
+  }
+ },
+ {
+  "id": "U0CK0K5GDM4",
+  "slack_name": "Samuel",
+  "real_name_guess": "Samuel",
+  "email": "samuelshiwork@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://www.linkedin.com/in/samuel-shi",
+  "evidence_so_far": "Email commits go to GitHub sokosam (Samuel Shi, McMaster University; Hack Western 12, DeltaHacks 2025, uOttaHack 8 repos) and Devpost samuelshiwork links it, but no LinkedIn was found. (was low)",
+  "candidates": [],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/sokosam",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account (author Samuel Shi)."
+   },
+   "devpost": {
+    "url": "https://devpost.com/samuelshiwork",
+    "evidence": "Username equals Slack email handle; links the GitHub."
+   },
+   "school_program": "Software Engineering, McMaster University (Level 2 per Devpost and teammates' project pages)"
+  }
+ },
+ {
+  "id": "U0CJJ23C5EZ",
+  "slack_name": "Tracy Su",
+  "real_name_guess": "Tracy Su",
+  "email": "sutracy1@gmail.com",
+  "org_school": "",
+  "role": "Volunteer",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Several Tracy Su profiles in Ontario (one with an ElleHacks 2026 team mention), but none ties to Western or Hack Western, and the email handle gives no second signal.",
+  "candidates": [
+   "https://ca.linkedin.com/in/tracysu6",
+   "https://ca.linkedin.com/in/tracy-su"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJWQ32D0D",
+  "slack_name": "Austin Salter",
+  "real_name_guess": "Austin Salter",
+  "email": "aussalter92@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Two plausible profiles (Richmond Hill ON at Canlan Sports; Austin TX in ML/marketing); nothing ties either to the Slack account.",
+  "candidates": [
+   "https://ca.linkedin.com/in/austincsalter",
+   "https://www.linkedin.com/in/austin-salter"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJ2HPUEBW",
+  "slack_name": "Lily Song",
+  "real_name_guess": "Lily Song",
+  "email": "lily.jsong@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://ca.linkedin.com/in/s-lily",
+  "evidence_so_far": "Lily Song of sillly.ca (Waterloo CS, SummerHacks Co-Director) self-links linkedin.com/in/s-lily, but nothing ties her to lily.jsong@gmail.com. (was low)",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CK65L2TNG",
+  "slack_name": "Sarah Gao",
+  "real_name_guess": "Sarah Gao",
+  "email": "sarahmlgao@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://ca.linkedin.com/in/sarah-gao-175a79297",
+  "evidence_so_far": "Email commits go to GitHub sarahmlgao-sketch (one repo, no profile); sarah-gao-175a79297 (CS @ Western) is plausible but unlinked. (was low)",
+  "candidates": [],
+  "independent_links": {
+   "personal_site": {
+    "url": "https://sarahgao.ca",
+    "evidence": "Portfolio 'hi, i'm sarah gao, designer' lists LINGOBUNNS - SheHacks+ 10 (the same project as her email-tied GitHub) and links LinkedIn sarah-gao-175a79297."
+   },
+   "github": {
+    "url": "https://github.com/sarahmlgao-sketch",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account."
+   },
+   "devpost": {
+    "url": "https://devpost.com/sarahmlgao-sketch",
+    "evidence": "Devpost 'Sarah Gao (sarahmlgao-sketch)', London ON, links GitHub sarahmlgao-sketch (tied by Slack-email commits) and lists LingoBunns."
+   },
+   "school_program": "Western University: LinkedIn headline 'CS @ Western'; education section lists Bachelor of Management and Organizational Studies (BMOS), 2025-2029. Previously IB Diploma, Bayview Secondary School (2021-2025)."
+  }
+ },
+ {
+  "id": "U0CHYU0NBS9",
+  "slack_name": "Brayden Leung",
+  "real_name_guess": "Brayden Leung",
+  "email": "brayden.leung@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Email commits go to GitHub braydenleung-Git (Western Engineering: SE3351 and WE FIRST repos; Devpost braydenleung-Git), but no LinkedIn found; candidate brayden-leung-748b3a101 is an Ivey grad in Hong Kong and is rejected. (was low)",
+  "candidates": [
+   "https://hk.linkedin.com/in/brayden-leung-748b3a101"
+  ],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/braydenleung-Git",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account; profile README names Brayden Leung."
+   },
+   "devpost": {
+    "url": "https://devpost.com/braydenleung-git",
+    "evidence": "Devpost links the GitHub."
+   },
+   "school_program": "Western University, Engineering (Western course repos such as SE3351 and WE FIRST club work; program not stated explicitly)"
+  }
+ },
+ {
+  "id": "U0CJLN8A4Q2",
+  "slack_name": "Moses Justin",
+  "real_name_guess": "Moses Justin",
+  "email": "justinfang2007@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Slack name 'Moses Justin' does not match the email handle (Justin Fang, likely born 2007); several student Justin Fangs exist (Waterloo CS, Waterloo EE, UofT Engineering) with nothing tying one to this account.",
+  "candidates": [
+   "https://ca.linkedin.com/in/justinfanguw",
+   "https://ca.linkedin.com/in/justinfangjf"
+  ],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/justinfangg",
+    "evidence": "His Devpost project Third Guard links github.com/justinfangg/Lifeguard; the repo owner's commits are authored as 'Justin Fang' and the profile name is Justin Fang (the only Justin on that team). The account also has a 'hackwestern-13-project' repo pushed 2026-11-21."
+   },
+   "devpost": {
+    "url": "https://devpost.com/justinfang2007",
+    "evidence": "Username equals Slack email handle; name Justin Fang, Ottawa."
+   },
+   "school_program": "University of Waterloo, Computer Science (GitHub profile README)"
+  }
+ },
+ {
+  "id": "U0CKF2FEZPW",
+  "slack_name": "Thomas Hao",
+  "real_name_guess": "Thomas Hao",
+  "email": "thomas.hao@mail.utoronto.ca",
+  "org_school": "University of Toronto",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "A UofT-educated Thomas Hao in Oakville exists but his UofT dates end in 2022 while this participant has an active UofT email; another Toronto Thomas Hao is a high-school IB student, so neither is confirmed.",
+  "candidates": [
+   "https://ca.linkedin.com/in/thomas-hao-3b8014122"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKALQP8RY",
+  "slack_name": "Jon Rohan",
+  "real_name_guess": "Jon Rohan",
+  "email": "jonathan.rohan@canadalife.com",
+  "org_school": "Canada Life",
+  "role": "Sponsor rep",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "TheOrg's Canada Life org chart and a Cyber Hive YXU speaker post name Jonathan Rohan as Sr Platform Engineering Lead at Canada Life, matching his canadalife.com email, but no LinkedIn profile URL surfaced across three search backends.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CHU64DWDD",
+  "slack_name": "Eric Zhang",
+  "real_name_guess": "Eric Zhang",
+  "email": "zhanger6417@gmail.com",
+  "org_school": "",
+  "role": "Volunteer",
+  "title": "Volunteer",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Common name; a Western business student profile exists but nothing ties it to the gmail handle or the volunteer role.",
+  "candidates": [
+   "https://linkedin.com/in/ericzhang0105"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CHD5Q66MV",
+  "slack_name": "Amy",
+  "real_name_guess": "Amy Wang",
+  "email": "amyswangsa208@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Devpost under her handle is 'amy wang' with no projects or links; the name is too common to match without a school or employer signal.",
+  "candidates": [],
+  "independent_links": {
+   "personal_site": {
+    "url": "",
+    "evidence": ""
+   },
+   "github": {
+    "url": "https://github.com/soapghetti",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account."
+   },
+   "devpost": {
+    "url": "https://devpost.com/amyswangsa208",
+    "evidence": "Username equals Slack email handle; name amy wang."
+   }
+  }
+ },
+ {
+  "id": "U0CJRA7HBME",
+  "slack_name": "asma001",
+  "real_name_guess": "asma001",
+  "email": "asma001@my.yorku.ca",
+  "org_school": "York University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CHNC9DWP5",
+  "slack_name": "ayeung97",
+  "real_name_guess": "ayeung97",
+  "email": "ayeung97@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKJ2JPQ11",
+  "slack_name": "Colin",
+  "real_name_guess": "Colin Wang",
+  "email": "c783wang@uwaterloo.ca",
+  "org_school": "University of Waterloo",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Waterloo handle c783wang and Slack name Colin fit Colin Wang at Waterloo (possibly the same person as the existing Colin Wang member), but several Waterloo Colin Wangs exist and none is tied to the handle.",
+  "candidates": [
+   "https://ca.linkedin.com/in/colinwang001",
+   "https://www.linkedin.com/in/colinwng"
+  ],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJVB28287",
+  "slack_name": "dantehhawken",
+  "real_name_guess": "dantehhawken",
+  "email": "dantehhawken@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJY5EBFTJ",
+  "slack_name": "ehuan",
+  "real_name_guess": "ehuan",
+  "email": "ehuan@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "No usable surname or second signal in the Slack name or email handle; not searched further.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJU42FT2R",
+  "slack_name": "etema",
+  "real_name_guess": "etema",
+  "email": "etema@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Western handle etema gives no reliable surname (GitHub 'etema' is an empty, unrelated 2016 account); nothing found.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CHNA712F5",
+  "slack_name": "frankanchengli",
+  "real_name_guess": "Frank (Ancheng) Li",
+  "email": "frankanchengli@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Handle suggests Frank Ancheng Li; 'Frank Li' is very common and 'Ancheng Li' results (a Devpost user at HackNC, researchers) do not tie to this person.",
+  "candidates": [],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/foolanke",
+    "evidence": "Commits authored 'Frank Li' with the Slack email; linked from Devpost foolanke."
+   },
+   "devpost": {
+    "url": "https://devpost.com/foolanke",
+    "evidence": "Same handle; Devpost profile links github.com/foolanke."
+   }
+  }
+ },
+ {
+  "id": "U0CK7RWB943",
+  "slack_name": "hubertc2013",
+  "real_name_guess": "hubertc2013",
+  "email": "hubertc2013@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://linkedin.com/in/hubert-chan-uwo",
+  "evidence_so_far": "Verifier downgrade: GitHub Alienator135 is confidently his (commit from hubertc2013@gmail.com, Hack-Western-13 repo), but the LinkedIn tie is a common name plus \"uwo\" and is not cross-linked or indexed. LinkedIn UNVERIFIED. (was medium)",
+  "candidates": [],
+  "independent_links": {
+   "personal_site": {
+    "url": "https://alienator135.github.io",
+    "evidence": "GitHub Pages site of the same account."
+   },
+   "github": {
+    "url": "https://github.com/Alienator135",
+    "evidence": "Commit-email search for the Slack email returns commits authored by this account (author Hubert Chan)."
+   },
+   "devpost": {
+    "url": "https://devpost.com/alienator135",
+    "evidence": "Devpost links the GitHub."
+   }
+  }
+ },
+ {
+  "id": "U0CJ09U2BAM",
+  "slack_name": "Ibrahim",
+  "real_name_guess": "Ibrahim Qayyum",
+  "email": "ibrahimaqayyum@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://linkedin.com/in/ibrahim-asif-qayyum",
+  "evidence_so_far": "Verifier downgrade: first-name-only Slack name with one signal (Devpost ibrahimaqayyum matches the email handle only; no commits for the email; reading the \"a\" as Asif is a guess). LinkedIn is UNVERIFIED. Devpost ibrahimaqayyum is a probable link, UNVERIFIED. (was medium)",
+  "candidates": [],
+  "independent_links": {
+   "devpost": {
+    "url": "https://devpost.com/ibrahimaqayyum",
+    "evidence": "Username equals Slack email handle."
+   },
+   "school_program": "Likely first-year university student in fall 2026 (school not public); probably an IB graduate of St. Francis Xavier Secondary School, Mississauga (UNVERIFIED tie, see notes)"
+  }
+ },
+ {
+  "id": "U0CK796322G",
+  "slack_name": "Joy",
+  "real_name_guess": "Joy",
+  "email": "jokoye@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "uwo.ca handle suggests Joy Okoye at Western, but no Joy Okoye profile with a Western or London tie surfaced (visible ones are in Nigeria, Winnipeg and Regina).",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKLRH0S5T",
+  "slack_name": "Juliano",
+  "real_name_guess": "Juliano",
+  "email": "julianokfng@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "First name only; the email handle gives no clear surname and searches found nothing tied to it.",
+  "candidates": [],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/JulianoNg-eng",
+    "evidence": "Commits authored with his Slack email; profile name Juliano Ng."
+   }
+  }
+ },
+ {
+  "id": "U0CLB3Q9R32",
+  "slack_name": "michael.dakt",
+  "real_name_guess": "michael.dakt",
+  "email": "michael.dakt@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "The email handle gives an unusual surname with no matching student profile in search.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKT07URU4",
+  "slack_name": "Mithra",
+  "real_name_guess": "Mithra",
+  "email": "mithu.fn26@gmail.com",
+  "org_school": "",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "First name only (Mithra) and the handle has no surname.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CJDLY4333",
+  "slack_name": "oahmed58",
+  "real_name_guess": "oahmed58",
+  "email": "oahmed58@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "none",
+  "current_url": "",
+  "evidence_so_far": "Handle implies an O. Ahmed at Western; the surname is too common to match on two signals.",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CKSB0SZ1P",
+  "slack_name": "swalia55",
+  "real_name_guess": "swalia55",
+  "email": "swalia55@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://ca.linkedin.com/in/shouryaw",
+  "evidence_so_far": "No public commits for swalia55@uwo.ca; shouryaw (Shourya Walia, CS @ Western) fits the handle but there is no second signal. (was low)",
+  "candidates": [],
+  "independent_links": {}
+ },
+ {
+  "id": "U0CK00Q5E4W",
+  "slack_name": "yluo553",
+  "real_name_guess": "yluo553",
+  "email": "yluo553@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "https://linkedin.com/in/yanglluo",
+  "evidence_so_far": "Western handle yluo553 fits Yang Luo; candidate is a current Western CS student in the expected cohort with matching GitHub. (was none) Handle gives only an initial plus Luo; first name Yang is a guess. (verifier: was medium)",
+  "candidates": [],
+  "independent_links": {
+   "github": {
+    "url": "https://github.com/yanglluo",
+    "evidence": "Same name and Western identity."
+   },
+   "school_program": "Computer Science, Western University"
+  }
+ },
+ {
+  "id": "U0CKM620NF6",
+  "slack_name": "zsong348",
+  "real_name_guess": "zsong348",
+  "email": "zsong348@uwo.ca",
+  "org_school": "Western University",
+  "role": "Participant",
+  "title": "",
+  "current_confidence": "low",
+  "current_url": "",
+  "evidence_so_far": "Western candidate fits zsong, but exact numeric handle is absent. (was none)",
+  "candidates": [],
+  "independent_links": {}
+ }
+]
