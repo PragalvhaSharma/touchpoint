@@ -1,0 +1,2284 @@
+[
+ {
+  "id": "U0CKL41A0P5",
+  "slack_name": "Ayush Parekh",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "d4k627n4zt",
+  "email_domain": "privaterelay.appleid.com",
+  "linkedin_url": "https://ca.linkedin.com/in/ayush-parekh-314b932b8",
+  "confidence": "medium",
+  "evidence": "Profile is Ayush Parekh, 'CS @ UWO' at Western University (Mississauga, ON), consistent with a Hack Western participant; the Apple relay email gives no handle to cross-check.",
+  "candidates": [
+   "https://ca.linkedin.com/in/ayush-parekh"
+  ],
+  "headline": "CS @ UWO",
+  "education": "Western University, Computer Science",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKL41A0P5",
+   "name": "Ayush Parekh",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science",
+   "grad_year": "",
+   "current_role": "Student",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [],
+   "talking_points": [
+    "Fellow Western CS: ask what year he is in and what he is building this weekend"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/ayush-parekh-314b932b8"
+   ],
+   "confidence_notes": "GitHub and Devpost accounts named Ayush Parekh belong to other people (Surat .NET developer, Windsor Shopify freelancer), so none were attributed. Only the LinkedIn headline was available.",
+   "status": "nothing_found"
+  }
+ },
+ {
+  "id": "U0CHRTLP2BF",
+  "slack_name": "Parum Patel",
+  "role": "Participant",
+  "org_or_school": "Ivey Business School (Western)",
+  "slack_title": "",
+  "email_handle": "ppatel.hba2027",
+  "email_domain": "ivey.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/parum-p-1b498a1b1",
+  "confidence": "high",
+  "evidence": "Profile 'Parum P.' competed in Ivey Product Society's ProdX case competition, matching his Ivey HBA email domain.",
+  "candidates": [],
+  "headline": "",
+  "education": "Ivey Business School, Western University",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CHRTLP2BF",
+   "name": "Parum Patel",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Ivey Business School (HBA), Western University",
+   "grad_year": "2027 (Ivey HBA 2027)",
+   "current_role": "OpenAI ChatGPT Lab campus program at Western (listed as OpenAI on LinkedIn)",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "SpendSights (ProdX)",
+     "summary": "Spotify Wrapped-style AI spending recaps to make TD MySpend engaging for Gen Z; Ivey Product Society ProdX case with Notion and Ivey Fintech",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "OpenAI ChatGPT Lab at Western: hosted a ChatGPT event with Western AI",
+    "Product Manager, Ivey Product Society ProdX case competition"
+   ],
+   "skills_interests": [
+    "Product management",
+    "AI adoption",
+    "Fintech"
+   ],
+   "talking_points": [
+    "Fellow Ivey HBA 2027: ask about his ProdX pitch for TD MySpend",
+    "Ask how the ChatGPT Lab event with Western AI went",
+    "Ask what he is building at Hack Western as an Ivey student"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/parum-p-1b498a1b1",
+    "https://www.linkedin.com/posts/parum-p-1b498a1b1_over-the-past-few-weeks-as-part-of-openai-activity-7457111816327049216-xhyB"
+   ],
+   "confidence_notes": "'OpenAI' on his profile refers to the ChatGPT Lab student program, not employment.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKH1FQSAE",
+  "slack_name": "Shane Marcelo",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "shanegabriel",
+  "email_domain": "hotmail.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/shanemarcelo",
+  "confidence": "high",
+  "evidence": "Profile name Shane Gabriel Marcelo matches both the name and the 'shanegabriel' email handle; Computer Science at York University, Maple ON.",
+  "candidates": [],
+  "headline": "Studying Computer Science @ York University",
+  "education": "York University, Computer Science",
+  "team_finder": {
+   "name": "Shane M.",
+   "school": "York University, 3rd year",
+   "skills": [
+    "Design",
+    "Frontend",
+    "Backend"
+   ],
+   "looking_for": "Needs a chill team, while everyone explores their own limits.",
+   "github": "https://github.com/Polarralop",
+   "linkedin": "https://www.linkedin.com/in/shanemarcelo"
+  },
+  "existing_profile": {
+   "id": "U0CKH1FQSAE",
+   "name": "Shane Marcelo",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://devpost.com/software/slab-schedule",
+     "label": "Devpost project: Appointify",
+     "evidence": "Shane Gabriel Marcelo listed on the team"
+    }
+   ],
+   "school_program": "York University, Computer Science",
+   "grad_year": "",
+   "current_role": "Student; part-time at Chipotle Mexican Grill",
+   "past_roles": [
+    "Crew Trainer, McDonald's (from Jun 2021)",
+    "Atlantic Packaging Products Ltd. (listed on LinkedIn)"
+   ],
+   "projects": [
+    {
+     "name": "Appointify",
+     "summary": "Scheduling app (Devpost)",
+     "url": "https://devpost.com/software/slab-schedule"
+    },
+    {
+     "name": "AI deadline manager for student gamers",
+     "summary": "Hack the Valley 11 project",
+     "url": "https://hack-the-valley-11.devpost.com/project-gallery?page=2"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask about his Hack the Valley project, an AI deadline manager for student gamers",
+    "York CS: ask what year he is in and what he wants to build"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/shanemarcelo",
+    "https://devpost.com/software/slab-schedule"
+   ],
+   "confidence_notes": "No GitHub found under his name or handle. The Hack the Valley project name was not captured.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKR957XUJ",
+  "slack_name": "Dave Ticknor",
+  "role": "Sponsor rep",
+  "org_or_school": "Canada Life",
+  "slack_title": "",
+  "email_handle": "david.ticknor",
+  "email_domain": "canadalife.com",
+  "linkedin_url": "https://ca.linkedin.com/in/dticknor1",
+  "confidence": "high",
+  "evidence": "LinkedIn result 'David Ticknor - Canada Life', London, Ontario, matches canadalife.com email; The Org lists him as Senior IT Automation/DevOps Engineering Specialist and he was a Hack Western 2024 mentor from Canada Life.",
+  "candidates": [],
+  "headline": "Canada Life (Senior IT Automation/DevOps Engineering Specialist)",
+  "education": "",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://2024.hackwestern.com/live?tab=mentors",
+     "label": "Hack Western 2024 mentor listing",
+     "evidence": "Dave Ticknor, Senior IT Automation @ Canada Life; mentoring DevOps & Cloud, Back-End, Hardware"
+    }
+   ],
+   "school_program": "Fanshawe College (per LinkedIn directory)",
+   "grad_year": "",
+   "current_role": "Senior IT Automation/DevOps Engineering Specialist, Canada Life (since Mar 2023)",
+   "past_roles": [
+    "Infrastructure Engineering Specialist, Canada Life",
+    "Principal Consultant, Ticknor Consulting (per The Org summary)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "Tufin Certified Security Expert - Automation 19.3 (2020)"
+   ],
+   "clubs_leadership": [
+    "Hack Western 2024 mentor (Canada Life)"
+   ],
+   "skills_interests": [
+    "IT infrastructure automation",
+    "DevOps and cloud",
+    "Network security policy automation (Tufin)",
+    "Hardware"
+   ],
+   "talking_points": [
+    "He mentored at Hack Western 2024 too: ask what made the best Canada Life challenge submissions stand out",
+    "Ask what IT automation looks like inside a large insurer like Canada Life",
+    "Ask how Canada Life's London tech teams hire students or co-ops"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/dticknor1",
+    "https://2024.hackwestern.com/live?tab=mentors"
+   ],
+   "confidence_notes": "Employer, city and Hack Western mentor history all line up. No GitHub, personal site or Devpost found.",
+   "status": "done",
+   "id": "U0CKR957XUJ",
+   "name": "Dave Ticknor"
+  }
+ },
+ {
+  "id": "U0CKAU59802",
+  "slack_name": "Jenny Jarvis",
+  "role": "Sponsor rep",
+  "org_or_school": "Canada Life",
+  "slack_title": "",
+  "email_handle": "jenny.jarvis",
+  "email_domain": "canadalife.com",
+  "linkedin_url": "https://ca.linkedin.com/in/jenny-jarvis-61a29722",
+  "confidence": "high",
+  "evidence": "LinkedIn headline 'Sr IT Business Systems Analyst at Canada Life, ITILv4', London, Ontario, matches canadalife.com email and Canada Life org.",
+  "candidates": [],
+  "headline": "Sr IT Business Systems Analyst at Canada Life, ITILv4",
+  "education": "",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "Sr IT Business Systems Analyst, Canada Life (supports ITSM processes and practices)",
+   "past_roles": [
+    "Imaging & Workflow second-level support (Hyland OnBase) through the London Life / Great-West Life / Canada Life merger into one Canada Life brand (2020-2023)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "ITIL v4 certified"
+   ],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "IT service management (ITSM)",
+    "Business systems analysis",
+    "Change management",
+    "People development"
+   ],
+   "talking_points": [
+    "Ask how her team decides which IT service processes to automate at Canada Life",
+    "She worked through the London Life / Great-West Life / Canada Life merger: ask what changed for IT",
+    "She calls herself a change agent: ask what she looks for in student hackers' projects"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/jenny-jarvis-61a29722"
+   ],
+   "confidence_notes": "Only LinkedIn snippets available. A UK life coach named Jenny Jarvis (jennyjarvis.co.uk) is a different person and was excluded.",
+   "status": "done",
+   "id": "U0CKAU59802",
+   "name": "Jenny Jarvis"
+  }
+ },
+ {
+  "id": "U0CKGMZ20KS",
+  "slack_name": "Baraka Waweru",
+  "role": "Volunteer",
+  "org_or_school": "Western University",
+  "slack_title": "",
+  "email_handle": "bwaweru2",
+  "email_domain": "uwo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/baraka-waweru",
+  "confidence": "high",
+  "evidence": "LinkedIn headline 'CS & Applied Mathematics @ Western University', London ON, and the profile's About lists the same uwo.ca handle as the Slack email.",
+  "candidates": [],
+  "headline": "CS & Applied Mathematics @ Western University",
+  "education": "Western University, Computer Science and Applied Mathematics",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/barakaw-a",
+    "evidence": "GitHub name Baraka Waweru, bio 'CS & Applied Math @ Western University', London"
+   },
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science and Applied Mathematics",
+   "grad_year": "",
+   "current_role": "Student Tutor, TutorMatch",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "BlessingQTs",
+     "summary": "Python quantitative backtesting engine with a performance-metrics dashboard and a local SQL store of historical stock data",
+     "url": "https://github.com/barakaw-a/BlessingQTs"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Quantitative finance / backtesting",
+    "Python",
+    "SQL",
+    "Applied mathematics"
+   ],
+   "talking_points": [
+    "Ask about his BlessingQTs backtesting engine and which strategies he's testing",
+    "Ask how he combines CS and Applied Math at Western",
+    "Ask what he tutors through TutorMatch"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/baraka-waweru",
+    "https://github.com/barakaw-a"
+   ],
+   "confidence_notes": "GitHub bio matches LinkedIn headline exactly. No personal site or Devpost found.",
+   "status": "done",
+   "id": "U0CKGMZ20KS",
+   "name": "Baraka Waweru"
+  }
+ },
+ {
+  "id": "U0CJ7J1P338",
+  "slack_name": "Khushi Lad",
+  "role": "Volunteer",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "khushilad27",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/khushi-lad-datascience-uwo",
+  "confidence": "medium",
+  "evidence": "Only Khushi Lad profile tied to Western University (Data Science, 2024-2029), consistent with volunteering at Western's hackathon; Slack has no school field, so the Western link is inferred from the volunteer role.",
+  "candidates": [
+   "https://linkedin.com/in/khushi-lad"
+  ],
+  "headline": "Data Science Student @ Western University | Python & SQL | Aspiring Data Scientist | Seeking 2027 Internships",
+  "education": "Western University, BSc Honours Specialization in Data Science (2024-2029)",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, BSc Honours Specialization in Data Science",
+   "grad_year": "2029 (LinkedIn: 2024-2029)",
+   "current_role": "Data Science student; seeking 2027 internships",
+   "past_roles": [
+    "Melanie Lyne, London ON (retail, per LinkedIn)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "Western scholarship (LinkedIn lists a Western Scholarship)"
+   ],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Python",
+    "SQL",
+    "Data analysis"
+   ],
+   "talking_points": [
+    "Ask what kind of data science internship she's targeting for 2027",
+    "Ask what she's helping run as a Hack Western volunteer",
+    "Ask which Python/SQL projects she's working on"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/khushi-lad-datascience-uwo"
+   ],
+   "confidence_notes": "Medium match. GitHub/Devpost accounts named Khushi Lad (khushilad, mangoinatree) belong to a University of Alberta grad in Edmonton, a different person, and were excluded.",
+   "status": "done",
+   "id": "U0CJ7J1P338",
+   "name": "Khushi Lad"
+  }
+ },
+ {
+  "id": "U0CJNUJTBB2",
+  "slack_name": "Eric F.",
+  "role": "Participant",
+  "org_or_school": "McMaster University",
+  "slack_title": "",
+  "email_handle": "fue9",
+  "email_domain": "mcmaster.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/eric-fu-3020112a5",
+  "confidence": "high",
+  "evidence": "The handle fue9 is a McMaster MacID; LinkedIn 'Eric Fu - iGEM McMaster' (McMaster University) lists that same McMaster address in its About section.",
+  "candidates": [],
+  "headline": "iGEM McMaster",
+  "education": "McMaster University",
+  "team_finder": {
+   "name": "Eric F.",
+   "school": "McMaster University",
+   "skills": [
+    "Frontend",
+    "Design",
+    "Hardware"
+   ],
+   "looking_for": "Wants fun people with hackathon experience- got that dog in them",
+   "github": "",
+   "linkedin": ""
+  },
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://mstri.ca/team-1",
+     "label": "MSTRI (McMaster CubeSat) team page",
+     "evidence": "Lists Eric Fu, Payload Hardware Specialist, Health Sciences, member since January 2026"
+    }
+   ],
+   "school_program": "McMaster University",
+   "grad_year": "",
+   "current_role": "iGEM McMaster member; Payload Hardware Specialist, McMaster Space Team / MSTRI CubeSat",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "iGEM McMaster"
+   ],
+   "skills_interests": [
+    "Biology and engineering",
+    "Space hardware / CubeSats"
+   ],
+   "talking_points": [
+    "Ask what his iGEM McMaster team is engineering this year",
+    "Ask what payload the McMaster CubeSat team is building",
+    "Ask how a Health Sciences student ended up doing payload hardware"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/eric-fu-3020112a5",
+    "https://mstri.ca/team-1"
+   ],
+   "confidence_notes": "LinkedIn is tied by the McMaster handle in its About. The MSTRI entry is same name + McMaster + engineering/biology interest; Eric Fu is common, so treat it as likely rather than certain. Location on LinkedIn is Vancouver (likely hometown).",
+   "status": "done",
+   "id": "U0CJNUJTBB2",
+   "name": "Eric F."
+  }
+ },
+ {
+  "id": "U0CJY5N932L",
+  "slack_name": "Gloria T. Huang",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "gloria.t.huang",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/gloriathuang",
+  "confidence": "high",
+  "evidence": "LinkedIn slug 'gloriathuang' matches the full name with middle initial T used in the Slack email handle, and the profile lists the Chinese Students' Association at Western University.",
+  "candidates": [
+   "https://ca.linkedin.com/in/jiahui-gloria"
+  ],
+  "headline": "CIBC",
+  "education": "Western University (Chinese Students' Association listed)",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Ivey Business School at Western University",
+   "grad_year": "",
+   "current_role": "CIBC (per LinkedIn); VP of Future View, Western Founders Network",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "Western scholarship recipient (listed as Gloria Huang, W.S., on Western's national scholarship list)",
+    "Rotary Student Leadership Award"
+   ],
+   "clubs_leadership": [
+    "VP of Future View, Western Founders Network (runs tech/business conferences and pitch competitions)",
+    "Chinese Students' Association (Western)"
+   ],
+   "skills_interests": [
+    "Capital markets",
+    "Tech entrepreneurship events"
+   ],
+   "talking_points": [
+    "Ask how Future View is shaping up this year at Western Founders Network",
+    "Ask what she did at CIBC (her LinkedIn shows CIBC Capital Markets activity)",
+    "Ask what pulled an Ivey student into a hackathon"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/gloriathuang",
+    "https://www.president.uwo.ca/honour_roll/students/national.html"
+   ],
+   "confidence_notes": "WFN role tied by name + Western + Markham. The Western scholarship list entry is name-only, so treat it as likely. No GitHub or Devpost confirmed (GitHub users named Gloria Huang have no identifying details).",
+   "status": "done",
+   "id": "U0CJY5N932L",
+   "name": "Gloria T. Huang"
+  }
+ },
+ {
+  "id": "U0CKDQRDKFG",
+  "slack_name": "Kelcie Li",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "kelciel0801",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/kelcie-li-283a58313",
+  "confidence": "medium",
+  "evidence": "Uncommon name; the profile 'Software Engineering & Ivey HBA @ Western University' matches the host school of the hackathon, but Slack lists no school to confirm it.",
+  "candidates": [],
+  "headline": "Software Engineering & Ivey HBA @ Western University",
+  "education": "Western University, Software Engineering; Ivey Business School HBA",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Software Engineering + Ivey HBA (dual degree)",
+   "grad_year": "",
+   "current_role": "Student; part-time at Cashew & Clive (per LinkedIn)",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Software engineering",
+    "Business (Ivey HBA)"
+   ],
+   "talking_points": [
+    "She's doing Software Engineering with Ivey HBA: compare notes on balancing the two (Prag is CS + Ivey)",
+    "Ask what she wants to build this weekend",
+    "Ask whether she leans toward engineering or product roles"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/kelcie-li-283a58313"
+   ],
+   "confidence_notes": "Medium match from LinkedIn snippet only; no GitHub, Devpost or site found.",
+   "status": "done",
+   "id": "U0CKDQRDKFG",
+   "name": "Kelcie Li"
+  }
+ },
+ {
+  "id": "U0CHRQ0UY59",
+  "slack_name": "Zlata Honchar",
+  "role": "Participant",
+  "org_or_school": "Western University",
+  "slack_title": "",
+  "email_handle": "zhonchar",
+  "email_domain": "uwo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/zlata-honchar-a26625275",
+  "confidence": "high",
+  "evidence": "Unique name; LinkedIn shows Western AI (Project Manager) in London, Ontario, and she hosts Western's Women In Tech Society events, matching the uwo.ca email and Western org.",
+  "candidates": [],
+  "headline": "Project Manager at Western AI",
+  "education": "Western University",
+  "team_finder": {
+   "name": "Zlata H.",
+   "school": "Western University, 2nd year",
+   "skills": [
+    "ML / AI",
+    "Pitching",
+    "Backend"
+   ],
+   "looking_for": "Wants creative problem solvers, knows how to plan things, communicators, balance locking in + being silly",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/zlata-honchar-a26625275"
+  },
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://magazine.brilliantlabs.ca/building-confidence-through-hands-on-learning-zlata-honchars-brilliant-blue-journey/",
+     "label": "Brilliant Labs Magazine feature",
+     "evidence": "Profile of Zlata Honchar's award-winning coding and marine-conservation project"
+    },
+    {
+     "url": "https://podcasts.apple.com/au/podcast/tid-bits-with-wits/id1481499919",
+     "label": "TidBits with WITS+ podcast episode",
+     "evidence": "Episode 'Navigating first year in STEM w/ Zlata Honchar' about first-year science at Western"
+    }
+   ],
+   "school_program": "Western University (Science)",
+   "grad_year": "",
+   "current_role": "Project Manager, Western AI; leads Western's Women In Tech Society events",
+   "past_roles": [
+    "KKC Classroom fellowship / first-year internship teaching technology to students in Nova Scotia",
+    "Brilliant Labs / Labos Cr\u00e9atifs student initiatives (Atlantic Canada)"
+   ],
+   "projects": [
+    {
+     "name": "Starfish-shaped invention (Brilliant Blue)",
+     "summary": "Award-winning marine-conservation coding project featured by Brilliant Labs",
+     "url": "https://magazine.brilliantlabs.ca/building-confidence-through-hands-on-learning-zlata-honchars-brilliant-blue-journey/"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "Donna Dodsworth Community Service Award (2025)",
+    "Schulich Leader nominee"
+   ],
+   "clubs_leadership": [
+    "Project Manager, Western AI",
+    "Women In Tech Society (hosted the AGM)",
+    "Presenter at Western AI x OpenAI ChatGPT Lab event"
+   ],
+   "skills_interests": [
+    "AI",
+    "Marine conservation tech",
+    "STEM outreach for students"
+   ],
+   "talking_points": [
+    "You both presented at the Western AI x OpenAI ChatGPT Lab event: a natural opener",
+    "Ask about her starfish-shaped marine-conservation project from Brilliant Labs",
+    "Ask what her internship teaching tech in Nova Scotia was like"
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/zlata-honchar-a26625275",
+    "https://magazine.brilliantlabs.ca/building-confidence-through-hands-on-learning-zlata-honchars-brilliant-blue-journey/",
+    "https://luma.com/zic3tbx8",
+    "https://www.linkedin.com/posts/parum-p-1b498a1b1_over-the-past-few-weeks-as-part-of-openai-activity-7457111816327049216-xhyB",
+    "https://podcasts.apple.com/au/podcast/tid-bits-with-wits/id1481499919"
+   ],
+   "confidence_notes": "Unique name; all sources tie to Western or her LinkedIn. No GitHub or Devpost found.",
+   "status": "done",
+   "id": "U0CHRQ0UY59",
+   "name": "Zlata Honchar"
+  }
+ },
+ {
+  "id": "U0CFADPAPLN",
+  "slack_name": "Natalie Wang",
+  "role": "Organizer",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "nataliewang1211",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/wang-natalie",
+  "confidence": "high",
+  "evidence": "LinkedIn lists Web Developer at Hack Western (Apr 2026-present, hackwestern.com) and CS & Business at Western, matching her Slack Organizer role.",
+  "candidates": [],
+  "headline": "CS & Business @ Western University | Prev @ Lyft",
+  "education": "Western University (CS & Business, Ivey HBA 2028)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CFADPAPLN",
+   "name": "Natalie Wang",
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/WangNatalie",
+    "evidence": "Name Natalie Wang, bio 'cs and business @ western university' with the same HBA 2028 class as her LinkedIn"
+   },
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://hackwestern.com",
+     "label": "Hack Western (Web Developer on organizing team)",
+     "evidence": "LinkedIn lists Web Developer at Hack Western, Apr 2026-present"
+    }
+   ],
+   "school_program": "Western University, Computer Science + Ivey HBA",
+   "grad_year": "2028 (Ivey HBA class of 2028 per LinkedIn/GitHub)",
+   "current_role": "Hack Western organizer (web developer); Software Engineer Intern at Datadog (New York, listed from Oct 2026)",
+   "past_roles": [
+    "Software Engineer Intern, Lyft",
+    "Research involving RNA-sequencing data (per LinkedIn snippet)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Hack Western, Web Developer (organizing team)"
+   ],
+   "skills_interests": [
+    "Web development",
+    "Software engineering",
+    "Bioinformatics / RNA-seq data (research)",
+    "Business (Ivey HBA)"
+   ],
+   "talking_points": [
+    "Thank her for building the Hack Western 13 site and ask what the web team shipped this year.",
+    "Ask how her Lyft SWE internship compared with what she expects at Datadog in New York.",
+    "Compare notes on doing CS alongside Ivey HBA, since you're in the same dual program."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/wang-natalie",
+    "https://github.com/WangNatalie"
+   ],
+   "confidence_notes": "A Natalie Wang is listed as Co-VP Design on westernuai.ca and one is named on joinignition.ca, but neither page ties to this profile, so both are left out. Datadog role dates come from a search snippet and may be an incoming internship.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CL67M748G",
+  "slack_name": "Amira Antoun",
+  "role": "Sponsor rep",
+  "org_or_school": "StarTech.com",
+  "slack_title": "",
+  "email_handle": "amira.antoun",
+  "email_domain": "startech.com",
+  "linkedin_url": "https://ca.linkedin.com/in/amira-antoun",
+  "confidence": "high",
+  "evidence": "Profile headline is Talent Acquisition Lead @ StarTech.com, matching her startech.com email domain and sponsor org.",
+  "candidates": [],
+  "headline": "Talent Acquisition Lead @ StarTech.com",
+  "education": "Fanshawe College",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CL67M748G",
+   "name": "Amira Antoun",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Fanshawe College",
+   "grad_year": "",
+   "current_role": "Talent Acquisition Lead, StarTech.com (London, Ontario)",
+   "past_roles": [
+    "12+ years of progressive HR and talent acquisition experience (LinkedIn About)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Talent acquisition",
+    "Recruiting strategy",
+    "HR operations"
+   ],
+   "talking_points": [
+    "Ask what StarTech.com looks for in student and new-grad hires, and whether they run co-op or summer intern roles.",
+    "StarTech is a London, Ontario company. Ask which teams (software, e-commerce, digital merchandising) hire Western students.",
+    "Ask what makes a hackathon participant stand out to her recruiting team."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/amira-antoun"
+   ],
+   "confidence_notes": "Only LinkedIn snippets and StarTech job posts that cite her as the recruiter were used. Data-broker results were ignored.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKCP0MG3T",
+  "slack_name": "Rob Craig",
+  "role": "Sponsor rep",
+  "org_or_school": "Canada Life",
+  "slack_title": "",
+  "email_handle": "robert.craig",
+  "email_domain": "canadalife.com",
+  "linkedin_url": "https://ca.linkedin.com/in/robert-craig",
+  "confidence": "high",
+  "evidence": "Profile shows Canada Life (emerging talent recruiting) and Western University, matching his canadalife.com email; a Skillsoft article names Robert Craig as Canada Life's Manager for Emerging Talent.",
+  "candidates": [],
+  "headline": "Helping build the next generation of talent at one of Canada's leading financial services companies",
+  "education": "The University of Western Ontario",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKCP0MG3T",
+   "name": "Rob Craig",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://skillsoft.com/blog/canada-life-enlists-skillsoft-to-develop-new-leaders",
+     "label": "Skillsoft case study quoting him",
+     "evidence": "Quotes Canada Life's Manager for Emerging Talent, Robert Craig"
+    }
+   ],
+   "school_program": "The University of Western Ontario (alumnus)",
+   "grad_year": "",
+   "current_role": "Canada Life, emerging talent and campus recruiting (Manager for Emerging Talent per Skillsoft)",
+   "past_roles": [
+    "Started at Canada Life through a co-op placement (LinkedIn About)"
+   ],
+   "projects": [
+    {
+     "name": "Canada Life Emerging Leaders Program",
+     "summary": "Leadership development program; he posted about welcoming its 5th cohort in Winnipeg",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Campus recruiting",
+    "Co-op and early-talent programs",
+    "Leadership development"
+   ],
+   "talking_points": [
+    "He started at Canada Life as a co-op student. Ask what that path looks like for Western students today.",
+    "Ask which Canada Life tech teams hire co-op and summer students, and when applications open.",
+    "Mention you're Western CS + Ivey and ask how the Emerging Leaders Program fits new grads."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/robert-craig",
+    "https://skillsoft.com/blog/canada-life-enlists-skillsoft-to-develop-new-leaders"
+   ],
+   "confidence_notes": "Role title comes from the Skillsoft article; it may have changed since then.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKGMWD1FA",
+  "slack_name": "Skyler Laxman",
+  "role": "Volunteer",
+  "org_or_school": "University of Waterloo",
+  "slack_title": "",
+  "email_handle": "slaxman",
+  "email_domain": "uwaterloo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/skyler-laxman-1154333a6",
+  "confidence": "high",
+  "evidence": "Rare name and the profile is Global Business and Digital Arts @ UWaterloo, matching her uwaterloo.ca email and org.",
+  "candidates": [],
+  "headline": "Global Business and Digital Arts @ UWaterloo",
+  "education": "University of Waterloo, Global Business and Digital Arts",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKGMWD1FA",
+   "name": "Skyler Laxman",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://futurelaunch.riipen.com/users/rV0QBErO",
+     "label": "Riipen FutureLaunch profile (2 experiential projects completed)",
+     "evidence": "Same rare name, Waterloo, Ontario location"
+    }
+   ],
+   "school_program": "University of Waterloo, Global Business and Digital Arts (GBDA)",
+   "grad_year": "",
+   "current_role": "Student; HEAL (listed on LinkedIn)",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "HEAL (University of Waterloo)"
+   ],
+   "skills_interests": [
+    "Digital arts",
+    "Global business",
+    "Design"
+   ],
+   "talking_points": [
+    "Ask what GBDA at Waterloo covers and how it blends design with business.",
+    "Ask what she worked on through her Riipen experiential-learning projects.",
+    "Ask what brought her from Waterloo to volunteer at Hack Western."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/skyler-laxman-1154333a6",
+    "https://futurelaunch.riipen.com/users/rV0QBErO"
+   ],
+   "confidence_notes": "Very little public info. A WRDSB student-trustee post mentions only a 'Skyler' and was not attributed. HEAL's exact nature was not confirmed.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKZ7ABCNL",
+  "slack_name": "Anna deRoos",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "ag.deroos",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://linkedin.com/in/anna-deroos-2607653b2",
+  "confidence": "medium",
+  "evidence": "Rare name with the same 'deRoos' capitalization, and the profile is a CS student at Western University, the host school.",
+  "candidates": [],
+  "headline": "CS Student at Western University",
+  "education": "Western University, Computer Science",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKZ7ABCNL",
+   "name": "Anna deRoos",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science",
+   "grad_year": "",
+   "current_role": "CS student; Lived Experience Advisor, The Hospital for Sick Children (SickKids)",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Computer science",
+    "Healthcare / patient advisory work"
+   ],
+   "talking_points": [
+    "Ask about her role as a Lived Experience Advisor at SickKids and how it shapes the tech she wants to build.",
+    "Ask what she's hoping to build at Hack Western and whether healthcare is the angle."
+   ],
+   "sources": [
+    "https://linkedin.com/in/anna-deroos-2607653b2"
+   ],
+   "confidence_notes": "A GitHub account 'annaderoos' (exact name, 0 repos, created Aug 2026) is probably hers but has only one signal, so it was left out. The US Oakland educator Anna DeRoos is a different person.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CJVM77UQK",
+  "slack_name": "Daniel M",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "mangupli.dan",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/daniel-manguply-baa81b242",
+  "confidence": "high",
+  "evidence": "Email handle mangupli.dan matches Devpost mangupli-dan (Daniel Manguply), whose challenges list Hack Western 13; the LinkedIn for Daniel Manguply is a Waterloo Computer Engineering student based in London, Ontario.",
+  "candidates": [],
+  "headline": "First Year Computer Engineering @ UWaterloo",
+  "education": "University of Waterloo, Computer Engineering",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CJVM77UQK",
+   "name": "Daniel M (Daniel Manguply)",
+   "personal_site": null,
+   "github": null,
+   "devpost": {
+    "url": "https://devpost.com/mangupli-dan",
+    "evidence": "Handle matches his Slack email handle; name Daniel Manguply; challenges include Hack Western 13"
+   },
+   "other_professional_links": [],
+   "school_program": "University of Waterloo, Computer Engineering (first year)",
+   "grad_year": "",
+   "current_role": "Student; Waterloo Aerial Robotics Group (WARG) member working on LTE board drivers",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "A+ Agenda",
+     "summary": "Study-planning app that spreads test prep out so students don't cram the night before",
+     "url": "https://devpost.com/mangupli-dan"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "COMC 2022 award winner (London Central Secondary School)"
+   ],
+   "clubs_leadership": [
+    "Waterloo Aerial Robotics Group (WARG)"
+   ],
+   "skills_interests": [
+    "Java",
+    "Python",
+    "C++",
+    "Embedded / drone systems",
+    "Math competitions"
+   ],
+   "talking_points": [
+    "Ask what he's doing on WARG's LTE board drivers and how the drone team splits firmware work.",
+    "He's from London, Ontario; ask what it's like coming back to a hometown hackathon from Waterloo.",
+    "Ask how first-year Computer Engineering at Waterloo compares with his math-contest background."
+   ],
+   "sources": [
+    "https://devpost.com/mangupli-dan",
+    "https://ca.linkedin.com/in/daniel-manguply-baa81b242",
+    "https://cms.math.ca/competitions/comc/comc2022/award-winners/"
+   ],
+   "confidence_notes": "Slack shows only 'Daniel M'; the surname comes from the Devpost account matching his email handle. The COMC listing matches name and London, Ontario. Cubing results exist but were not recorded as professional info.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKBE3PG23",
+  "slack_name": "Scarlett Ho",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "sswho88",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/scarlett-ho-a44632397",
+  "confidence": "medium",
+  "evidence": "Profile is a first-year CS student at Western in London, Ontario, the host school; no direct tie to the gmail handle.",
+  "candidates": [],
+  "headline": "CS @ western",
+  "education": "Western University, Computer Science (first year)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKBE3PG23",
+   "name": "Scarlett Ho",
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/scarlettho",
+    "evidence": "Name Scarlett Anne Si Wing Ho, bio 'CS @ Western', matching the LinkedIn match"
+   },
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science (first year)",
+   "grad_year": "",
+   "current_role": "Student; Ivey Research (Ivey Business School)",
+   "past_roles": [
+    "Lead Publicity Chair, Pierre Elliott Trudeau High School Music Council (2023-2025)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Music Council publicity lead (high school)"
+   ],
+   "skills_interests": [
+    "Computer science",
+    "Research"
+   ],
+   "talking_points": [
+    "Ask what she's doing with Ivey Research as a first-year CS student.",
+    "Ask if this is her first hackathon and what she wants to build."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/scarlett-ho-a44632397",
+    "https://github.com/scarlettho"
+   ],
+   "confidence_notes": "The LinkedIn match is medium (name + Western only). A Medium author 'Scarlett Ho' and other Scarlett Hos (Mount Sinai, Stanford DigiChina, YPFP) were not attributed.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKS1TDGLA",
+  "slack_name": "Stefan Ilas",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "stefan.think",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/stefan-ilas1",
+  "confidence": "medium",
+  "evidence": "Rare name and the profile is SWE @ Western University (Asterra, prev Honda); GitHub StefanIlas1 matches the slug, but nothing ties it to the gmail handle.",
+  "candidates": [],
+  "headline": "SWE @ Western University | prev. SWE @ Honda | Salesforce Certified",
+  "education": "Western University, Software Engineering",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKS1TDGLA",
+   "name": "Stefan Ilas",
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/StefanIlas1",
+    "evidence": "Bounty-Box README lists Stefan Ilas as @StefanIlas1; slug matches LinkedIn stefan-ilas1"
+   },
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://linkedin.com/company/asterraai",
+     "label": "Asterra (company page lists him)",
+     "evidence": "Asterra page links linkedin.com/in/stefan-ilas1"
+    }
+   ],
+   "school_program": "Western University, Software Engineering",
+   "grad_year": "",
+   "current_role": "Co-founder, Asterra",
+   "past_roles": [
+    "Integration Software Developer, Honda (Canada)"
+   ],
+   "projects": [
+    {
+     "name": "Bounty-Box",
+     "summary": "Set a bounty and monthly budget for an app; built in one day at 'Build Agents That Run Code' with Mohsen Sarrafan",
+     "url": "https://github.com/StefanIlas1/Bounty-Box"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "Salesforce Certified"
+   ],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Integration / Salesforce",
+    "AI agents",
+    "Startups"
+   ],
+   "talking_points": [
+    "Ask what Asterra does and how he balances co-founding it with Software Engineering at Western.",
+    "Ask what integration work at Honda involved and how Salesforce fit in.",
+    "Ask about Bounty-Box and the agents event where they built it."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/stefan-ilas1",
+    "https://github.com/StefanIlas1/Bounty-Box",
+    "https://linkedin.com/company/asterraai"
+   ],
+   "confidence_notes": "LinkedIn match is medium (rare name + Western). The co-founder title comes from a LinkedIn search snippet. A data-broker result appeared in search and was ignored.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKQGHQHLZ",
+  "slack_name": "Katherine",
+  "role": "Sponsor rep",
+  "org_or_school": "CSE (Communications Security Establishment)",
+  "slack_title": "",
+  "email_handle": "katherine.argall",
+  "email_domain": "cse-cst.gc.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/katherine-argall-0126761a1",
+  "confidence": "high",
+  "evidence": "Rare full name from her email handle and Slack username; LinkedIn shows a front-end web developer at the Government of Canada in London, Ontario, which fits her CSE (cse-cst.gc.ca) sponsor-rep email domain.",
+  "candidates": [],
+  "headline": "Web Developer",
+  "education": "Northumbria University",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Northumbria University (per LinkedIn education)",
+   "grad_year": "",
+   "current_role": "Frontend Web Developer, Government of Canada (since Jan 2021); at Hack Western 13 as a CSE sponsor rep",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Development of Web-Integrated Extended Reality Applications in Medical Care",
+     "summary": "Western University report listing a Katherine Argall as contributing to the web app front end; likely her (same rare name, London, Ontario, front-end work) but not confirmed",
+     "url": "https://uwo.scholaris.ca/bitstreams/a1ac69ad-198a-4ba2-8b72-25bb83d4c85b/download"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Front-end web development",
+    "Government digital services"
+   ],
+   "talking_points": [
+    "She is a front-end web developer in government; ask what CSE looks for in student developers and its co-op or new-grad routes.",
+    "Ask which CSE challenge or recruiting track she is representing at Hack Western 13 and what a strong submission looks like."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/katherine-argall-0126761a1",
+    "https://uwo.scholaris.ca/bitstreams/a1ac69ad-198a-4ba2-8b72-25bb83d4c85b/download"
+   ],
+   "confidence_notes": "LinkedIn says Government of Canada rather than naming CSE; the CSE link comes from her email domain and Slack org. The Western XR report is attributed on name plus city plus front-end role only. No GitHub, Devpost or personal site found. Unrelated genealogy and community-bulletin results were ignored.",
+   "status": "done",
+   "id": "U0CKQGHQHLZ",
+   "name": "Katherine Argall"
+  }
+ },
+ {
+  "id": "U0CKVJBTV4L",
+  "slack_name": "besmaserrai11",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "besmaserrai11",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/besma-serrai-4b9313266",
+  "confidence": "high",
+  "evidence": "Self-listed on the Hack Western team finder card \"Besma S.\" (Western University).",
+  "candidates": [],
+  "headline": "",
+  "education": "Western University (Engineering), 2022-2027",
+  "team_finder": {
+   "name": "Besma S.",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Pitching"
+   ],
+   "looking_for": "Wants a team that is looking to do something innovative, sophisticated and novel.",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/besma-serrai-4b9313266"
+  },
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University (Engineering), 2022-2027",
+   "grad_year": "2027",
+   "current_role": "Engineering student at Western; VP of Events, Smart Steps Western",
+   "past_roles": [
+    "Software Engineering Intern, TD (Wealth team), summer 2026: raised Angular unit-test coverage from ~10% to 80%+, added SonarQube"
+   ],
+   "projects": [
+    {
+     "name": "VendorVanguard",
+     "summary": "Hack Western 12 project using AI to normalize vendor contract terms across departments",
+     "url": "https://devpost.com/software/vendorvanguard"
+    },
+    {
+     "name": "Toronto Neighborhood Affordability Prediction",
+     "summary": "Western AI ML research presented at CUCAI 2026",
+     "url": "https://www.linkedin.com/posts/besma-serrai-4b9313266_last-weekend-my-team-and-i-had-the-privilege-activity-7439418850632228865-XQq7"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "Presented research at CUCAI 2026 (Canadian Undergraduate Conference on AI) with Western AI"
+   ],
+   "clubs_leadership": [
+    "Smart Steps Western, VP of Events",
+    "USC Professional Development Committee, board member",
+    "Off-Campus Engineering Soph",
+    "Women in Engineering, Big Sister",
+    "Western Formula Racing, team member",
+    "Western AI"
+   ],
+   "skills_interests": [
+    "Testing and code quality (Angular, SonarQube)",
+    "Machine learning",
+    "Engineering outreach"
+   ],
+   "talking_points": [
+    "She took TD Wealth's Angular test coverage from about 10% to over 80% this summer; ask how she approached it.",
+    "Ask about her Western AI affordability-prediction research presented at CUCAI 2026.",
+    "She built VendorVanguard at Hack Western 12; ask what she's trying differently this year."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/besma-serrai-4b9313266",
+    "https://devpost.com/software/vendorvanguard",
+    "https://www.linkedin.com/posts/besma-serrai-4b9313266_last-weekend-my-team-and-i-had-the-privilege-activity-7439418850632228865-XQq7",
+    "https://www.linkedin.com/posts/loic-wedji_td-softwareengineering-proudtobetd-activity-7485007014331523072-lVyg"
+   ],
+   "confidence_notes": "Rare name in London, Ontario with a single student profile. The Slack match is medium (name from handle plus host school). Community and faith-related activity and news coverage were excluded under the scope rules. An AI medical-imaging site listing her name was not verified and left out.",
+   "status": "done",
+   "id": "U0CKVJBTV4L",
+   "name": "Besma Serrai"
+  }
+ },
+ {
+  "id": "U0CHQ8U798X",
+  "slack_name": "collinsobo3",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "collinsobo3",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/collinsbwle",
+  "confidence": "high",
+  "evidence": "Devpost profile under his exact email handle (collinsobo3, 'Collin S') links linkedin.com/in/collinsbwle, which is Collin Sobowale, CS & Ivey HBA at Western.",
+  "candidates": [],
+  "headline": "CS and Ivey HBA",
+  "education": "Ivey Business School / Western University (CS)",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": {
+    "url": "https://devpost.com/collinsobo3",
+    "evidence": "Same as his email handle; links linkedin.com/in/collinsbwle"
+   },
+   "other_professional_links": [
+    {
+     "url": "https://joinignition.ca/",
+     "label": "Ignition at Western (team member)",
+     "evidence": "Site names Collin Sobowale on the Ignition at Western team"
+    },
+    {
+     "url": "https://iveyproductsociety.com/",
+     "label": "Ivey Product Society (Director, Fellowship)",
+     "evidence": "Site lists Collin Sobowale, Director Fellowship"
+    }
+   ],
+   "school_program": "Western University Computer Science + Ivey Business School HBA",
+   "grad_year": "",
+   "current_role": "CS & Ivey HBA student",
+   "past_roles": [
+    "Technical Product Manager, Autumn (2024)",
+    "Bond Brand Loyalty (per LinkedIn)"
+   ],
+   "projects": [
+    {
+     "name": "snippets",
+     "summary": "Adobe Express hackathon project",
+     "url": "https://devpost.com/collinsobo3"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Ignition at Western, team member",
+    "Ivey Product Society, Director of Fellowship",
+    "Ivey HBAA student leader (listed on iveyhbaa.com)"
+   ],
+   "skills_interests": [
+    "Product management",
+    "AI software"
+   ],
+   "talking_points": [
+    "Fellow CS + Ivey student: ask about Ivey Product Society's fellowship he directs.",
+    "He was a Technical PM at Autumn; ask what PM work looked like at an early-stage startup.",
+    "Ask how Ignition at Western is going and what it does for students."
+   ],
+   "sources": [
+    "https://devpost.com/collinsobo3",
+    "https://ca.linkedin.com/in/collinsbwle",
+    "https://joinignition.ca/",
+    "https://iveyproductsociety.com/",
+    "https://iveyhbaa.com/about/student-leaders/"
+   ],
+   "confidence_notes": "Strong: Devpost under his email handle links the LinkedIn. A data-broker page surfaced in search and was ignored.",
+   "status": "done",
+   "id": "U0CHQ8U798X",
+   "name": "Collin Sobowale"
+  }
+ },
+ {
+  "id": "U0CHYBPEGCU",
+  "slack_name": "Daniel",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "CS @ University of Toronto (St. George)",
+  "email_handle": "mjwang005",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/myeongjin-wang-8034ab259",
+  "confidence": "high",
+  "evidence": "Devpost mjwang005 (his email handle) is Myeongjin Wang; the LinkedIn 'CS @ UofToronto' lists the same handle in its About section and matches his Slack title 'CS @ University of Toronto (St. George)'.",
+  "candidates": [],
+  "headline": "CS @ UofToronto",
+  "education": "University of Toronto",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": {
+    "url": "https://devpost.com/mjwang005",
+    "evidence": "Same as his email handle; name Myeongjin Wang; entered Hack The Student Life 2026 (UofT)"
+   },
+   "other_professional_links": [
+    {
+     "url": "https://uoftwebring.com/",
+     "label": "UofT Webring member",
+     "evidence": "Lists Myeongjin (Daniel) Wang: full-stack and data systems, coaches students in CS and STEM"
+    }
+   ],
+   "school_program": "University of Toronto (St. George), Computer Science",
+   "grad_year": "",
+   "current_role": "CS undergrad at UofT; UofT AI",
+   "past_roles": [
+    "Undergraduate research assistant, University of Toronto",
+    "Tech developer, Computer Science Student Union (UofT)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "UofT AI",
+    "Computer Science Student Union (UofT)"
+   ],
+   "skills_interests": [
+    "Full-stack and data systems",
+    "CS and STEM tutoring"
+   ],
+   "talking_points": [
+    "Ask what he does with UofT AI and the CS Student Union's tech team.",
+    "He recently finished an undergraduate research assistantship at UofT; ask what the research was on.",
+    "He coaches students in CS and STEM; ask what he teaches."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/myeongjin-wang-8034ab259",
+    "https://devpost.com/mjwang005",
+    "https://uoftwebring.com/"
+   ],
+   "confidence_notes": "Strong match (LinkedIn shows the same handle). No GitHub found (searched by name and handle). His webring site URL could not be read from the JS-rendered page. A data-broker result was ignored.",
+   "status": "done",
+   "id": "U0CHYBPEGCU",
+   "name": "Myeongjin (Daniel) Wang"
+  }
+ },
+ {
+  "id": "U0CKFFE3YHX",
+  "slack_name": "hanjinglin8",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "hanjinglin8",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/hanjing-lin-790252113",
+  "confidence": "medium",
+  "evidence": "Email handle hanjinglin8 gives the full, uncommon name; the only matching student profile is Software Engineering @ Western University (the host school), but nothing cross-links the handle.",
+  "candidates": [],
+  "headline": "Software Engineering @ Western University",
+  "education": "Western University, Software Engineering",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Software Engineering",
+   "grad_year": "",
+   "current_role": "Software Engineering student at Western",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "Competed in Ivey Business Foundations Case Competition (with Mark Hanna, Mats Leis, Roger Wang, Sahil Sharma, Shaan Wrench)"
+   ],
+   "clubs_leadership": [
+    "Sunstang Solar Car Project (Western)",
+    "3DW Makerspaces (Morrissette Entrepreneurship)",
+    "Canadian Tech Summit (posted for the organization)"
+   ],
+   "skills_interests": [
+    "Solar car engineering",
+    "Makerspaces and prototyping"
+   ],
+   "talking_points": [
+    "Ask what he works on for Western's Sunstang solar car team.",
+    "He is involved with 3DW Makerspaces through Morrissette Entrepreneurship; ask what people build there.",
+    "He posted 'we locked in and it actually worked' in 2026; ask about that project."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/hanjing-lin-790252113",
+    "https://www.linkedin.com/company/western-sunstang-solar-car-project",
+    "https://ca.linkedin.com/company/3dwmakerspaces",
+    "https://ca.linkedin.com/in/sahil-sharma-902212349"
+   ],
+   "confidence_notes": "Slack match is medium (name from handle plus host school). Facts are tied to the Western Hanjing Lin profile. No GitHub, Devpost or personal site found under hanjinglin8.",
+   "status": "done",
+   "id": "U0CKFFE3YHX",
+   "name": "Hanjing Lin"
+  }
+ },
+ {
+  "id": "U0CJY4QQJ1K",
+  "slack_name": "hossanetang",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "hossanetang",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://linkedin.com/in/hossane-tang",
+  "confidence": "medium",
+  "evidence": "Email handle hossanetang gives a rare full name with a single LinkedIn match, a third-year Western CS student (host school); no direct cross-link to the handle.",
+  "candidates": [],
+  "headline": "Computer Science @ Western University (defensive cybersecurity)",
+  "education": "Western University, Computer Science (3rd year)",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science (3rd year)",
+   "grad_year": "",
+   "current_role": "CS student focused on defensive cybersecurity",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Western Cyber Society"
+   ],
+   "skills_interests": [
+    "Defensive cybersecurity",
+    "Anomaly detection (telling normal from malicious activity)"
+   ],
+   "talking_points": [
+    "He is focused on defensive security; ask what detection problems he finds most interesting.",
+    "Ask what Western Cyber Society is running this year."
+   ],
+   "sources": [
+    "https://linkedin.com/in/hossane-tang",
+    "https://ca.linkedin.com/in/hossane-tang"
+   ],
+   "confidence_notes": "Rare name with a single match. The Slack match is medium (name from handle plus host school). No GitHub or Devpost found under hossanetang.",
+   "status": "done",
+   "id": "U0CJY4QQJ1K",
+   "name": "Hossane Tang"
+  }
+ },
+ {
+  "id": "U0CJGEY2RFD",
+  "slack_name": "jaclyn.guo12",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "jaclyn.guo12",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/jaclynguo",
+  "confidence": "medium",
+  "evidence": "Email handle jaclyn.guo12 gives the full name; the matching student profile (slug jaclynguo) is Computer Science @ Western University, the host school, but nothing cross-links the handle.",
+  "candidates": [],
+  "headline": "Computer Science @ Western University",
+  "education": "Western University, Computer Science",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science",
+   "grad_year": "",
+   "current_role": "CS student at Western",
+   "past_roles": [
+    "Ontario Government (role not shown in snippet)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Science Students' Council, Western University"
+   ],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask about her work with the Ontario Government and whether it was tech-focused.",
+    "Ask what the Science Students' Council does for CS students."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/jaclynguo"
+   ],
+   "confidence_notes": "Slack match is medium (name from handle plus host school). Thin public footprint: no GitHub or Devpost under jaclyn.guo12/jaclynguo found; a translator 'Jaclyn Guo' at an education site was not attributed.",
+   "status": "done",
+   "id": "U0CJGEY2RFD",
+   "name": "Jaclyn Guo"
+  }
+ },
+ {
+  "id": "U0CK1MGMZH8",
+  "slack_name": "jehan.khxn",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "jehan.khxn",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/jehan-khan-06b641209",
+  "confidence": "medium",
+  "evidence": "Email handle jehan.khxn reads as Jehan Khan; the only student match is a Computer Science & Economics student at Western (the host school) who is active in Western tech clubs, but nothing cross-links the handle.",
+  "candidates": [],
+  "headline": "Computer Science and Economics Student @ Western University",
+  "education": "Western University, Computer Science and Economics",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science and Economics",
+   "grad_year": "",
+   "current_role": "VP Marketing, Canadian Tech Summit; Vice President of Flagship, Western Cyber Society",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Western Cyber Society, Vice President of Flagship",
+    "Canadian Tech Summit, VP Marketing (organizing team for the March 21, 2026 summit at Western)",
+    "Women+ in Technology Society (listed on its LinkedIn page)"
+   ],
+   "skills_interests": [
+    "Cybersecurity community",
+    "Tech events and marketing"
+   ],
+   "talking_points": [
+    "He helped organize the Canadian Tech Summit at Western in March 2026; ask how the next one is shaping up.",
+    "Ask what Western Cyber Society's flagship event is this year.",
+    "Ask how he combines CS with Economics."
+   ],
+   "sources": [
+    "https://ca.linkedin.com/in/jehan-khan-06b641209",
+    "https://canadiantechsummit.ca",
+    "https://www.linkedin.com/posts/geoffreyeaston_canadiantechsummit-westernuniversity-myteamiscracked-activity-7442610081923313664-EAlV"
+   ],
+   "confidence_notes": "Slack match is medium (handle reads as Jehan Khan plus host school). A data-broker result was ignored. No GitHub or Devpost found.",
+   "status": "done",
+   "id": "U0CK1MGMZH8",
+   "name": "Jehan Khan"
+  }
+ },
+ {
+  "id": "U0CKVJ0LAPK",
+  "slack_name": "Jerry",
+  "role": "Participant",
+  "org_or_school": "Unrepped",
+  "slack_title": "",
+  "email_handle": "jerry",
+  "email_domain": "unrepped.co",
+  "linkedin_url": "https://linkedin.com/in/jerrymjiang",
+  "confidence": "high",
+  "evidence": "His email domain and Slack org are Unrepped (unrepped.co); Jerry Jiang is Unrepped's founder and CEO per LinkedIn, an AI Tinkerers profile and a Sep 2026 podcast interview.",
+  "candidates": [],
+  "headline": "CEO at Unrepped",
+  "education": "",
+  "team_finder": null,
+  "existing_profile": {
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [
+    {
+     "url": "https://unrepped.co",
+     "label": "Unrepped (his company)",
+     "evidence": "His email domain and Slack org"
+    },
+    {
+     "url": "https://aitinkerers.org/connect/client/client_2hvSRdq6G5Y",
+     "label": "AI Tinkerers member profile",
+     "evidence": "Jerry Jiang, CEO of Unrepped"
+    },
+    {
+     "url": "https://sites.libsyn.com/490457/ai-agents-for-internal-workflows-with-jerry-jiang-of-unrepped",
+     "label": "Podcast: AI Agents for Internal Workflows (Sep 2026)",
+     "evidence": "Episode title names Jerry Jiang of Unrepped"
+    }
+   ],
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "Founder & CEO, Unrepped (AI-powered home-buying guide), since Nov 2024",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Unrepped",
+     "summary": "AI-powered home-buying guide aimed at buyers without an agent",
+     "url": "https://unrepped.co"
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "Vercel AI Accelerator 2025 (Unrepped accepted)"
+   ],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "AI agents for internal workflows",
+    "Applied AI education",
+    "Real estate tech"
+   ],
+   "talking_points": [
+    "Ask what Unrepped is looking for at Hack Western 13: hires, users or a sponsor challenge.",
+    "Unrepped went through Vercel's AI Accelerator in 2025; ask what he got out of it.",
+    "He spoke on a podcast about AI agents for internal workflows; ask which agents his own team runs."
+   ],
+   "sources": [
+    "https://linkedin.com/in/jerrymjiang",
+    "https://www.linkedin.com/posts/jerrymjiang_hey-friends-super-excited-to-share-my-startup-activity-7335744290016358401-tJdE",
+    "https://aitinkerers.org/connect/client/client_2hvSRdq6G5Y",
+    "https://contra.com/jerry_jiang",
+    "https://sites.libsyn.com/490457/ai-agents-for-internal-workflows-with-jerry-jiang-of-unrepped"
+   ],
+   "confidence_notes": "Strong via company domain. Listed as a Slack 'Participant' but his org is Unrepped, so he may be attending as a founder or sponsor. LinkedIn location is New York. GitHub 'jerry' is a different person (Jerry Richardson) and was not attributed. A people-data site result was ignored.",
+   "status": "done",
+   "id": "U0CKVJ0LAPK",
+   "name": "Jerry Jiang"
+  }
+ },
+ {
+  "id": "U0CHV42HMV4",
+  "slack_name": "jplytas",
+  "role": "Participant",
+  "org_or_school": "Western University",
+  "slack_title": "",
+  "email_handle": "jplytas",
+  "email_domain": "uwo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/jayden-plytas-0520bb369",
+  "confidence": "high",
+  "evidence": "The uwo.ca email handle matches Jayden Plytas (rare surname), whose profile and site jaydenplytas.com say CS student at Western.",
+  "candidates": [],
+  "headline": "Developer at Cyntry | CS @ Western",
+  "education": "Western University, Computer Science (second year)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CHV42HMV4",
+   "name": "jplytas",
+   "personal_site": {
+    "url": "https://jaydenplytas.com",
+    "evidence": "Site for Jayden Plytas, second-year Western CS, matching the LinkedIn headline (Developer at Cyntry, CS @ Western)."
+   },
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science (second year)",
+   "grad_year": "",
+   "current_role": "Developer, Cyntry Solutions (AI workflows, cybersecurity)",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [
+    "Full-stack development",
+    "Machine learning",
+    "Cybersecurity"
+   ],
+   "talking_points": [
+    "Ask what AI workflow or security tooling he builds at Cyntry.",
+    "His site says he is into full-stack and ML: ask which side he wants to focus on.",
+    "Second-year Western CS: ask which courses he is in this term."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/jayden-plytas-0520bb369)",
+    "https://jaydenplytas.com"
+   ],
+   "confidence_notes": "Site and LinkedIn agree. GitHub search returned JP107-cmd, which is not tied to him, so it is not recorded.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CJFN0FJ8M",
+  "slack_name": "kimberleywang10",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "kimberleywang10",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/kimberleywang10",
+  "confidence": "high",
+  "evidence": "The LinkedIn slug is identical to her email handle, and the profile is an Ontario (Markham) Kimberley Wang.",
+  "candidates": [],
+  "headline": "",
+  "education": "",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CJFN0FJ8M",
+   "name": "kimberleywang10",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask what she is building at Hack Western 13 and which track she is aiming for.",
+    "Ask whether this is her first Hack Western and what drew her to it."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/kimberleywang10)"
+   ],
+   "confidence_notes": "LinkedIn match (Markham-based) only. No personal site, GitHub or Devpost could be tied to her with two signals, so nothing else is recorded.",
+   "status": "nothing_found"
+  }
+ },
+ {
+  "id": "U0CK6ATUN75",
+  "slack_name": "kkanjo",
+  "role": "Participant",
+  "org_or_school": "Western University",
+  "slack_title": "",
+  "email_handle": "kkanjo",
+  "email_domain": "uwo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/kassem-kanjo",
+  "confidence": "high",
+  "evidence": "Profile is an Ivey HBA 2027 student whose About section lists an Ivey address built on the same email handle as his uwo.ca email.",
+  "candidates": [],
+  "headline": "Ivey Business School at Western University",
+  "education": "Ivey Business School at Western University (HBA 2027)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CK6ATUN75",
+   "name": "kkanjo",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Ivey Business School at Western University, HBA",
+   "grad_year": "2027",
+   "current_role": "Ivey HBA student",
+   "past_roles": [
+    "HSBC, Hong Kong (per LinkedIn and TheOrg listing)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Ivey Business Review, Editorial Board (Spring 2025); editor credited on IBR articles such as 'TD: Floating an Opportunity' (Winter 2026)"
+   ],
+   "skills_interests": [
+    "Banking and finance",
+    "Business writing and editing"
+   ],
+   "talking_points": [
+    "He edited for the Ivey Business Review, including the 'TD: Floating an Opportunity' piece: ask what makes a good IBR article.",
+    "Ask what his time at HSBC in Hong Kong was like and how it compares with Canadian banking.",
+    "As a fellow Ivey HBA 2027, ask what brought a business student to Hack Western."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/kassem-kanjo)",
+    "Ivey Business Review editorial board and article credits (search results)",
+    "TheOrg listing for HSBC (search result)"
+   ],
+   "confidence_notes": "LinkedIn shows Ivey HBA 2027 and HSBC; IBR credits use the same full name with Ivey. TheOrg is an org-chart site and was used only to corroborate the HSBC employer, nothing personal.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CLB0FMJAC",
+  "slack_name": "Kristina",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "kristina",
+  "email_domain": "batrak.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/kristina-batrak",
+  "confidence": "high",
+  "evidence": "Her email is on the personal batrak.ca domain, and the only Canadian Kristina Batrak profile lists the Western Computer Science Undergraduate Society, matching the Western-hosted event.",
+  "candidates": [],
+  "headline": "",
+  "education": "Western University (Computer Science)",
+  "team_finder": {
+   "name": "Kristina B.",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Pitching",
+    "Backend"
+   ],
+   "looking_for": "Needs looking for fun teamates to learn & try new things with! I love CS, web dev & robotics : )",
+   "github": "https://github.com/KristinaBBBB",
+   "linkedin": "https://www.linkedin.com/in/kristina-batrak"
+  },
+  "existing_profile": {
+   "id": "U0CLB0FMJAC",
+   "name": "Kristina",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science",
+   "grad_year": "",
+   "current_role": "Director, Western Computer Science Undergraduate Society (CSUS), 2026/27",
+   "past_roles": [
+    "AccessWeb (listed on LinkedIn)"
+   ],
+   "projects": [
+    {
+     "name": "ElleHacks / Wealthsimple hackathon project",
+     "summary": "She posted on LinkedIn about building a project at an ElleHacks hackathon with a Wealthsimple challenge; the Devpost link could not be resolved.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Director, Western CSUS (2026/27)"
+   ],
+   "skills_interests": [
+    "Web accessibility",
+    "Hackathons"
+   ],
+   "talking_points": [
+    "She is a CSUS director this year: ask what events CSUS has planned for CS students this term.",
+    "Ask about her ElleHacks project and the Wealthsimple challenge.",
+    "Ask what she worked on at AccessWeb and whether accessibility is a focus for her."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/kristina-batrak)",
+    "Western CSUS executive listing (search result)",
+    "LinkedIn post about ElleHacks (search snippet)"
+   ],
+   "confidence_notes": "GitHub search returned KristinaBBBB, but nothing ties it to her, so it is not recorded. The ElleHacks project link was not resolved.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CK3KPFDED",
+  "slack_name": "liangray.li0",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "liangray.li0",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/liangray-li",
+  "confidence": "high",
+  "evidence": "Self-listed on the Hack Western team finder card \"Liangray L.\" (Western University).",
+  "candidates": [],
+  "headline": "CS + AEO @ Western",
+  "education": "Western University, Computer Science + Ivey AEO",
+  "team_finder": {
+   "name": "Liangray L.",
+   "school": "Western University",
+   "skills": [
+    "Frontend",
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Needs anyone, looking for one more",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/liangray-li"
+  },
+  "existing_profile": {
+   "id": "U0CK3KPFDED",
+   "name": "liangray.li0",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science + Ivey AEO",
+   "grad_year": "",
+   "current_role": "Researcher, Ivey Business Review",
+   "past_roles": [
+    "BrightSmart Technology"
+   ],
+   "projects": [
+    {
+     "name": "Ivey Business Review research",
+     "summary": "Research on articles about Supercell and FX risk.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [
+    "2024 Youth of Distinction Award (Advocacy)",
+    "2026 Youth of Distinction Award finalist"
+   ],
+   "clubs_leadership": [
+    "Co-founder, Ignite Youth Club",
+    "Researcher, Ivey Business Review"
+   ],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask about his IBR research on Supercell and FX risk.",
+    "He co-founded Ignite Youth Club: ask what it does.",
+    "He was quoted in the Western Gazette on recruiting: ask his take on the CS/Ivey recruiting cycle."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/liangray-li)",
+    "Ivey Business Review article credits (search results)",
+    "Youth of Distinction Awards listings (search results)",
+    "Western Gazette article quoting Liangray Li (search result)"
+   ],
+   "confidence_notes": "Distinctive name. A HackCanada Canopi project credit was unclear and is left out.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CJ04H4PNG",
+  "slack_name": "Lina",
+  "role": "Participant",
+  "org_or_school": "Western University",
+  "slack_title": "",
+  "email_handle": "lhout",
+  "email_domain": "uwo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/lina-hout-21479742b",
+  "confidence": "high",
+  "evidence": "The email handle matches Lina Hout, whose profile is Faculty of Science at Western (AWM UWO Chapter); Western lists her as a 2026 Schulich Leader.",
+  "candidates": [],
+  "headline": "Association for Women in Mathematics UWO Chapter",
+  "education": "Western University, Faculty of Science (Schulich Leader, 2026 entry)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CJ04H4PNG",
+   "name": "Lina",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Faculty of Science (Mathematics)",
+   "grad_year": "",
+   "current_role": "First-year math student at Western; Junior Representative, AWM UWO Chapter",
+   "past_roles": [],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [
+    "2026 Schulich Leader Scholarship ($100K), Westminster Secondary School, London ON"
+   ],
+   "clubs_leadership": [
+    "Junior Representative, Association for Women in Mathematics UWO Chapter",
+    "Math Club at Western (MaCAW)",
+    "FRC Team 4617, business/media (high school)"
+   ],
+   "skills_interests": [
+    "Mathematics",
+    "Robotics (FRC)"
+   ],
+   "talking_points": [
+    "She is a 2026 Schulich Leader studying math: ask what area of math she wants to go into.",
+    "Ask about her FRC Team 4617 business and media work and whether she still does robotics.",
+    "Ask what the AWM chapter at Western is running this year."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/lina-hout-21479742b)",
+    "Schulich Leader Scholarships 2026 announcement (search result)",
+    "AWM UWO chapter page (search result)"
+   ],
+   "confidence_notes": "Schulich listing names Lina Hout from Westminster SS in London going to Western; matches LinkedIn. No GitHub or Devpost found.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CJLNF9H9U",
+  "slack_name": "matthewzhu99",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "matthewzhu99",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/matthewzhu99",
+  "confidence": "high",
+  "evidence": "The LinkedIn slug is identical to his email handle; the profile shows Ciena and Hack the 6ix activity.",
+  "candidates": [],
+  "headline": "Ciena",
+  "education": "",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CJLNF9H9U",
+   "name": "matthewzhu99",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "",
+   "grad_year": "",
+   "current_role": "Ciena, Ottawa (per LinkedIn)",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "DogWatch",
+     "summary": "Project on his Devpost.",
+     "url": ""
+    },
+    {
+     "name": "CORTEX",
+     "summary": "Hack the 6ix 2026 project; a teammate's LinkedIn post credits Matthew Zhu.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Chess Federation of Canada (listed on LinkedIn)"
+   ],
+   "skills_interests": [
+    "Chess",
+    "Networking/telecom (Ciena)"
+   ],
+   "talking_points": [
+    "He is a rated chess player (Chess Federation of Canada): ask whether he still plays competitively.",
+    "Ask what he works on at Ciena in Ottawa.",
+    "Ask about the CORTEX project from Hack the 6ix."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/matthewzhu99)",
+    "https://devpost.com/chessdudeo7",
+    "https://github.com/chessdudeo7"
+   ],
+   "confidence_notes": "Matthew Zhu is a common name. The chessdudeo7 accounts are tied through the chess theme (matching the Chess Federation listing on LinkedIn), the name and a Hack the 6ix teammate post, but this link is weaker than the LinkedIn match itself.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKJ764M1S",
+  "slack_name": "obarta",
+  "role": "Participant",
+  "org_or_school": "University of Waterloo",
+  "slack_title": "",
+  "email_handle": "obarta",
+  "email_domain": "uwaterloo.ca",
+  "linkedin_url": "https://ca.linkedin.com/in/oliverbarta",
+  "confidence": "high",
+  "evidence": "The uwaterloo.ca email handle matches Oliver Barta, the only Barta profile at the University of Waterloo, based in Waterloo with a portfolio link.",
+  "candidates": [],
+  "headline": "SAP | University of Waterloo",
+  "education": "University of Waterloo",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKJ764M1S",
+   "name": "obarta",
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/oliverbarta",
+    "evidence": "Name Oliver Barta, Waterloo, consistent with LinkedIn (SAP, Waterloo)."
+   },
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "University of Waterloo",
+   "grad_year": "",
+   "current_role": "SAP",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "Hackathon project with Austin Jian, Thomas Lenh and Daniel Pu",
+     "summary": "Shared in a LinkedIn post; the Devpost link was not resolved.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask what he worked on at SAP.",
+    "Ask about the project he built with Austin Jian, Thomas Lenh and Daniel Pu."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/oliverbarta)",
+    "https://github.com/oliverbarta"
+   ],
+   "confidence_notes": "Distinctive name; GitHub and LinkedIn agree on Waterloo.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CKBJHGA01",
+  "slack_name": "sisodiasachi8",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "sisodiasachi8",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/sachi-sisodia",
+  "confidence": "medium",
+  "evidence": "Handle names Sachi Sisodia, a rare name; the profile is a Western computer science student in London, Ontario with hackathon posts, but nothing ties it to the gmail handle directly.",
+  "candidates": [],
+  "headline": "Computer science student at Western University",
+  "education": "Western University, Computer Science",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CKBJHGA01",
+   "name": "sisodiasachi8",
+   "personal_site": null,
+   "github": {
+    "url": "https://github.com/sachi-sisodia",
+    "evidence": "Name Sachi Sisodia, consistent with Western CS LinkedIn."
+   },
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Computer Science (third year)",
+   "grad_year": "",
+   "current_role": "Western CS student",
+   "past_roles": [
+    "Wealthsimple (intern; took part in the Hacksimple intern hackathon)",
+    "RBC"
+   ],
+   "projects": [
+    {
+     "name": "ThinkLink",
+     "summary": "App from the RBC Design Thinking Program at Western.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "TD SheHacks participant",
+    "RBC Design Thinking Program at Western"
+   ],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask what she built at Wealthsimple's Hacksimple intern hackathon.",
+    "Ask about ThinkLink from the RBC Design Thinking Program.",
+    "Third-year Western CS: compare notes on internships at Wealthsimple and RBC."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/sachi-sisodia)",
+    "https://github.com/sachi-sisodia"
+   ],
+   "confidence_notes": "Distinctive name; LinkedIn and program details agree.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CJDK0PJS1",
+  "slack_name": "stephanie.li802",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "stephanie.li802",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/stephanieli802",
+  "confidence": "high",
+  "evidence": "The LinkedIn slug matches her email handle (minus punctuation); the profile is an Ivey Business School at Western student.",
+  "candidates": [],
+  "headline": "Ivey Business School at Western University",
+  "education": "Ivey Business School at Western University",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CJDK0PJS1",
+   "name": "stephanie.li802",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Ivey Business School at Western University (possibly CS + Ivey)",
+   "grad_year": "",
+   "current_role": "Ivey student",
+   "past_roles": [
+    "RBC (listed on LinkedIn)"
+   ],
+   "projects": [],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [],
+   "skills_interests": [],
+   "talking_points": [
+    "Ask what she did at RBC and whether she is leaning toward tech or finance.",
+    "Ask whether she is doing a CS/Ivey combined degree and how she balances the two."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/stephanieli802)"
+   ],
+   "confidence_notes": "Stephanie Li is a common name. Only the LinkedIn profile (Ivey, RBC) is recorded; other Stephanie Lis with sites or GitHubs could not be tied to her and were left out.",
+   "status": "done"
+  }
+ },
+ {
+  "id": "U0CHFKE15DM",
+  "slack_name": "tallapaneni.surya",
+  "role": "Participant",
+  "org_or_school": "",
+  "slack_title": "",
+  "email_handle": "tallapaneni.surya",
+  "email_domain": "gmail.com",
+  "linkedin_url": "https://ca.linkedin.com/in/surya-tallapaneni",
+  "confidence": "medium",
+  "evidence": "Handle names Surya Tallapaneni, a rare name; the profile is a second-year Western ECE student on Western Formula Racing, but nothing ties it to the gmail handle.",
+  "candidates": [],
+  "headline": "Western Formula Racing",
+  "education": "Western University, Electrical and Computer Engineering (second year)",
+  "team_finder": null,
+  "existing_profile": {
+   "id": "U0CHFKE15DM",
+   "name": "tallapaneni.surya",
+   "personal_site": null,
+   "github": null,
+   "devpost": null,
+   "other_professional_links": [],
+   "school_program": "Western University, Electrical and Computer Engineering (second year)",
+   "grad_year": "",
+   "current_role": "Western Formula Racing",
+   "past_roles": [],
+   "projects": [
+    {
+     "name": "UofTHacks 13 project",
+     "summary": "Built with Derek Yu and Evan Yu.",
+     "url": ""
+    },
+    {
+     "name": "Hack Club project",
+     "summary": "Built with Alvik Maharjan, Sujay Golla and Parth Bhasin.",
+     "url": ""
+    }
+   ],
+   "hackathon_wins": [],
+   "awards": [],
+   "clubs_leadership": [
+    "Western Formula Racing"
+   ],
+   "skills_interests": [
+    "Electrical engineering",
+    "Motorsport"
+   ],
+   "talking_points": [
+    "Ask what subsystem he works on at Western Formula Racing.",
+    "Ask about his UofTHacks 13 build with Derek and Evan Yu.",
+    "He has worked with Alvik Maharjan: ask if they are on a team here."
+   ],
+   "sources": [
+    "LinkedIn search snippet (https://ca.linkedin.com/in/surya-tallapaneni)",
+    "UofTHacks 13 project listing (search result)",
+    "Hack Club project listing (search result)"
+   ],
+   "confidence_notes": "Medium LinkedIn match; the cross-link with Alvik Maharjan (another attendee) supports it.",
+   "status": "done"
+  }
+ }
+]

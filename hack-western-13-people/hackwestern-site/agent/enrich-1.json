@@ -1,0 +1,151 @@
+[
+ {
+  "id": "U0CJ41J2LLT",
+  "name": "Viraj Patel",
+  "role": "Mentor",
+  "email_handle": "viraj40316",
+  "linkedin_url": "https://ca.linkedin.com/in/virajpatell",
+  "match_evidence": "Hack Western live mentors page lists Viraj Patel with this LinkedIn and Slack ID U0CJ41J2LLT. (was low)",
+  "team_finder": null,
+  "mentor_page": {
+   "name": "Viraj Patel",
+   "slack_id": "U0CJ41J2LLT",
+   "linkedin": "https://www.linkedin.com/in/virajpatell/",
+   "photo": "https://www.hackwestern.com/landing/mentors/virajp.webp",
+   "tags": "Product management \u00b7 AI products \u00b7 Startups \u00b7 Pitching\n\nProduct Management\nAI",
+   "photo_file": "photos/mentors/viraj-patel.jpg"
+  }
+ },
+ {
+  "id": "U0CK39R9J86",
+  "name": "Angelina Elwazzan",
+  "role": "Participant",
+  "email_handle": "angelina.elwazzan",
+  "linkedin_url": "https://ca.linkedin.com/in/angelina-elwazzan",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Angelina E.\" (University of Waterloo, 2nd year).",
+  "team_finder": {
+   "name": "Angelina E.",
+   "school": "University of Waterloo, 2nd year",
+   "skills": [
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Wants i\u2019m looking for anyone interested in combining hardware and software (I\u2019m in mechatronics:)!",
+   "idea": "",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/angelina-elwazzan"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CJ01EL0FK",
+  "name": "Anikait Datta",
+  "role": "Participant",
+  "email_handle": "anikait.datta03",
+  "linkedin_url": "https://ca.linkedin.com/in/anikait-datta-b4b866365",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Anikait D.\" (Western University).",
+  "team_finder": {
+   "name": "Anikait D.",
+   "school": "Western University",
+   "skills": [
+    "ML / AI"
+   ],
+   "looking_for": "Needs someone who wants to win with something fun and creative",
+   "idea": "fun hardware project... down for whatever works best though",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/anikait-datta-b4b866365"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CJ0D81FG9",
+  "name": "David Olayinka",
+  "role": "Participant",
+  "email_handle": "oludavid.olayinka",
+  "linkedin_url": "https://ca.linkedin.com/in/david-olayinka-83456b373",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"David O.\" (University of Toronto).",
+  "team_finder": {
+   "name": "David O.",
+   "school": "University of Toronto",
+   "skills": [
+    "First hackathon",
+    "Design",
+    "Hardware",
+    "Pitching"
+   ],
+   "looking_for": "Needs to gain experience and build something crazy",
+   "idea": "",
+   "github": "https://github.com/dave-2-jpg",
+   "linkedin": "https://www.linkedin.com/in/david-olayinka-83456b373"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CHSJ8AEDT",
+  "name": "Eric Lu",
+  "role": "Participant",
+  "email_handle": "eric.lu.contact",
+  "linkedin_url": "https://ca.linkedin.com/in/eric-lu-uw",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Eric L.\" (University of Waterloo, 1st year).",
+  "team_finder": {
+   "name": "Eric L.",
+   "school": "University of Waterloo, 1st year",
+   "skills": [
+    "First hackathon",
+    "ML / AI",
+    "Hardware",
+    "Design"
+   ],
+   "looking_for": "Wants anyone who wants to learn new stuff and is dedicated.",
+   "idea": "",
+   "github": "https://github.com/crab-oxop",
+   "linkedin": "https://www.linkedin.com/in/eric-lu-uw"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CJP4EQ0NL",
+  "name": "Ola W",
+  "role": "Participant",
+  "email_handle": "hola66567",
+  "linkedin_url": "https://ca.linkedin.com/in/ola-waked",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Ola W.\" (Western University). Slack name \"Ola W\" matches the card name format; no other signal.",
+  "team_finder": {
+   "name": "Ola W.",
+   "school": "Western University",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Frontend"
+   ],
+   "looking_for": "Needs anyone who\u2019s dedicated to winning, wants to work with hardware, and loves learning new things :)",
+   "idea": "",
+   "github": "https://github.com/OlaWak",
+   "linkedin": "https://www.linkedin.com/in/ola-waked"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CK76MKLGL",
+  "name": "Ray Mohamed",
+  "role": "Participant",
+  "email_handle": "rayhan24k",
+  "linkedin_url": "https://ca.linkedin.com/in/rayhan-mohamed",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Rayhan M.\" (Western University, 3rd year).",
+  "team_finder": {
+   "name": "Rayhan M.",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "First hackathon",
+    "Pitching",
+    "Backend",
+    "Hardware"
+   ],
+   "looking_for": "Wants to try doing a hardware project, you can contact me by discord.",
+   "idea": "",
+   "github": "https://github.com/overrayted",
+   "linkedin": "https://www.linkedin.com/in/rayhan-mohamed"
+  },
+  "mentor_page": null
+ }
+]

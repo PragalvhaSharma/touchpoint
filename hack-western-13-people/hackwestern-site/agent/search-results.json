@@ -1,0 +1,391 @@
+[
+ {
+  "id": "U0CK5DBBD17",
+  "name": "Omar Soliman",
+  "linkedin_url": "https://www.linkedin.com/in/omar-soliman-662939283",
+  "confidence": "high",
+  "evidence": "The team-finder GitHub (github.com/Kingsolima) hosts his portfolio, which links linkedin.com/in/omar-soliman-662939283; the profile and his site omarsol.dev both say Computer Science at Western, matching the card and the omar.soliman030 email handle.",
+  "candidates": [
+   "https://www.linkedin.com/in/omar-soliman-662939283"
+  ],
+  "headline": "AI Engineer @ Gestalt Communications | Computer Science @ Western University",
+  "education": "Western University, B.Sc. Computer Science, 2024 to 2028 (expected)",
+  "location": "Greater Toronto Area, Canada (LinkedIn); London, Ontario (portfolio)",
+  "personal_site": {
+   "url": "https://www.omarsol.dev/",
+   "evidence": "Site says B.Sc. Computer Science, Western University, Class of 2028, and its socials page links github.com/KingSolima and linkedin.com/in/omar-soliman-662939283"
+  },
+  "github": {
+   "url": "https://github.com/Kingsolima",
+   "evidence": "Linked from his Hack Western 13 team-finder card; owns the Agent-Firewall and portfolio repos and a HackWestern-2026 repo; portfolio links back to the LinkedIn"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "Earlier portfolio (Vercel)",
+    "url": "https://portfolio-theta-ten-23.vercel.app"
+   },
+   {
+    "label": "Agent Firewall live demo",
+    "url": "https://agent-firewall-orcin.vercel.app/"
+   }
+  ],
+  "school_program": "Western University, B.Sc. Computer Science (Dean's Honour List)",
+  "grad_year": "2028 (expected)",
+  "current_role": "AI Engineer Intern, Gestalt Communications (Oakville, Jul 2026 to present); seeking Summer 2027 SWE internships",
+  "past_roles": [
+   "Software Engineer Intern, Swish Solar (Waterloo), Sep 2025 to May 2026: sole engineer on a Python tool turning solar-farm sensor and weather data into monthly performance PDF reports, with Isolation Forest fault detection"
+  ],
+  "projects": [
+   {
+    "name": "Agent Firewall",
+    "summary": "Security layer that checks each action an AI agent tries against what the user asked for, then allows, holds for a human, or blocks it; reports 87% of attacks caught at a 12% false-alarm rate vs 50% for a pattern-matching baseline, 504-case eval",
+    "url": "https://github.com/Kingsolima/Agent-Firewall"
+   },
+   {
+    "name": "Microbiome IBD Classifier",
+    "summary": "ML classifier separating Crohn's disease from ulcerative colitis using gut microbiome data; he corrected an inflated 0.91 ROC-AUC to an honest 0.64 after fixing study overlap across splits",
+    "url": "https://github.com/Kingsolima/microbiome-disease-predictor"
+   },
+   {
+    "name": "UN procurement pipeline (Gestalt)",
+    "summary": "Pipeline that collects UN procurement notices and flags fitting bids, backfilling 280k+ records through a lease-based PostgreSQL job queue, with OCR, Vertex AI embeddings in pgvector, deployed on GCP with Terraform",
+    "url": "https://www.omarsol.dev/experience/"
+   },
+   {
+    "name": "UrbanForge",
+    "summary": "NVIDIA hackathon project: place a proposed building on a 3D Toronto map and get AI impact analysis (environmental, traffic, economic, infrastructure, housing) from NVIDIA Nemotron running locally",
+    "url": "https://github.com/Kingsolima/Nvidia-Hackathon"
+   },
+   {
+    "name": "SMS/MMS Campaign Tool",
+    "summary": "Client CLI built during his Gestalt internship that sent 25k+ MMS outreach messages across six waves, tracking delivery and handling opt-outs",
+    "url": "https://www.omarsol.dev/projects/sms-campaign-tool/"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Dean's Honour List, Western University (self-reported on resume)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Python, SQL, Java, C++, JavaScript",
+   "FastAPI, React, Pydantic, Playwright",
+   "Claude API, Vertex AI embeddings, Google Document AI, scikit-learn, XGBoost",
+   "GCP, PostgreSQL/pgvector, Terraform, Docker, GitHub Actions",
+   "Data/AI pipelines that run unattended",
+   "AI agent security",
+   "VC/startup sourcing tools (YC API, Founder Sourcing Engine repos)"
+  ],
+  "talking_points": [
+   "Ask how Agent Firewall decides whether an agent action matches user intent, and how he built the 504-case attack eval behind the 87% catch rate",
+   "His portfolio leads with a number he made worse (0.91 to 0.64 ROC-AUC on the microbiome classifier): ask what tipped him off to the leakage",
+   "Ask about the lease-based job queue and checkpointing in his Gestalt UN procurement pipeline",
+   "He is seeking Summer 2027 SWE internships and enjoys the Mandalorian-themed side of his portfolio, an easy opener"
+  ],
+  "sources": [
+   "https://www.omarsol.dev/",
+   "https://www.omarsol.dev/experience/",
+   "https://www.omarsol.dev/resume/",
+   "https://www.omarsol.dev/projects/",
+   "https://www.omarsol.dev/socials/",
+   "https://github.com/Kingsolima",
+   "https://portfolio-theta-ten-23.vercel.app",
+   "https://ca.linkedin.com/in/omar-soliman-662939283"
+  ],
+  "confidence_notes": "Identity confirmed by cross-links: team-finder GitHub -> portfolio -> LinkedIn, and omarsol.dev socials -> same GitHub and LinkedIn; all name Western CS. Other Omar Solimans (UAE, Cairo, Maryland, CFA, a US author/speaker at omarsoliman.com) were excluded. Hobbies on his site were left out. No hackathon wins found.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ76B7WCE",
+  "name": "Taha El Ghadi",
+  "linkedin_url": "https://www.linkedin.com/in/taha-el-ghadi",
+  "confidence": "high",
+  "evidence": "His team-finder GitHub github.com/2talltooha is named Taha El Ghadi and its profile README links linkedin.com/in/Taha-El-Ghadi; the README handle matches his email handle tahaelghadi and describes pre-med plus coding and a health wearable, matching the Guelph health-sciences profile.",
+  "candidates": [
+   "https://www.linkedin.com/in/taha-el-ghadi",
+   "https://ca.linkedin.com/in/taha-el-ghadi-8a084936b"
+  ],
+  "headline": "Biological Science @ UofGuelph",
+  "education": "University of Guelph, Bachelor of Science (Health Sciences), 2025 to 2029",
+  "location": "Waterloo, Ontario, Canada",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/2talltooha",
+   "evidence": "Linked from his Hack Western 13 team-finder card; GitHub name Taha El Ghadi; README links linkedin.com/in/Taha-El-Ghadi; hosts Stillwave, built at Hack Western 13"
+  },
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "University of Guelph, B.Sc. (LinkedIn education lists Health Sciences; headline says Biological Science)",
+  "grad_year": "2029 (LinkedIn dates 2025 to 2029)",
+  "current_role": "Undergraduate student, University of Guelph",
+  "past_roles": [
+   "Camp counselor, June 2022 to August 2024 (Waterloo)"
+  ],
+  "projects": [
+   {
+    "name": "Stillwave",
+    "summary": "Contactless bedside breathing monitor built at Hack Western 13: an ESP32 with a 60 GHz mmWave radar tracks breathing from about a metre away with nothing worn and no camera, plus a live dashboard and night report",
+    "url": "https://github.com/2talltooha/stillwave"
+   },
+   {
+    "name": "LocalJobScout",
+    "summary": "CLI that scrapes 13 Waterloo-region job boards, scores postings against a resume with TF-IDF, sends desktop alerts and drafts tailored cover letters",
+    "url": "https://github.com/2talltooha/localjobscout-cli"
+   },
+   {
+    "name": "claude-resetter",
+    "summary": "Windows Task Scheduler queue dispatcher that keeps Claude sessions warm across concurrent workflows",
+    "url": "https://github.com/2talltooha/claude-resetter"
+   },
+   {
+    "name": "ESP32 wearable tremor sensor",
+    "summary": "In-progress wearable mentioned in his GitHub README",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Health tech and bioinformatics",
+   "RNA-seq analysis and computational biology (learning)",
+   "ESP32/Arduino hardware, PlatformIO",
+   "Python, C++, Rust, Swift, R, FastAPI, Twilio, SQLite",
+   "Pre-med plus coding"
+  ],
+  "talking_points": [
+   "He built Stillwave, a contactless mmWave breathing monitor, at this Hack Western: ask how the radar separates breathing from other movement",
+   "Ask about his ESP32 wearable tremor sensor and what he is aiming it at",
+   "His README asks for collaborators on health-tech and bioinformatics and for computational-biology research leads, a natural opener",
+   "Ask how he balances a Guelph health-sciences degree with building tools like LocalJobScout"
+  ],
+  "sources": [
+   "https://github.com/2talltooha",
+   "https://github.com/2talltooha/2talltooha",
+   "https://github.com/2talltooha/stillwave",
+   "https://github.com/2talltooha/localjobscout-cli",
+   "https://ca.linkedin.com/in/taha-el-ghadi-8a084936b"
+  ],
+  "confidence_notes": "Upgraded from low: the GitHub on his team-finder card (same handle as his email) links the LinkedIn by name. The README link is /in/Taha-El-Ghadi; search indexes the same person (Guelph, Waterloo) at /in/taha-el-ghadi-8a084936b, so both are listed. Instagram link and email on the README were excluded; the employer name for the camp role was left out. Taha El Ghazi (France) and other Ghadi profiles were excluded.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "name": "Rishi Bhaskara",
+  "linkedin_url": "https://www.linkedin.com/in/rishi-bhaskara",
+  "confidence": "high",
+  "evidence": "His Western email handle rbhaska2 fits Rishi Bhaskara and the card says Western; LinkedIn shows a Western B.Sc. Computer Science (2025 to 2029), and his site rishib.me links a LinkedIn and GitHub (RBKesh, named Rishi Bhaskara) with hardware and AI work matching the card's Frontend, ML/AI and Hardware skills.",
+  "candidates": [
+   "https://www.linkedin.com/in/rishi-bhaskara",
+   "https://www.linkedin.com/in/rishi-bhaskara-0683a4255/"
+  ],
+  "headline": "Prev. Engineering Assistant @ BIK Hydraulics Ltd.",
+  "education": "Western University, Bachelor of Science, Computer Science, Sep 2025 to May 2029; International Baccalaureate, Turner Fenton (2021 to 2025)",
+  "location": "",
+  "personal_site": {
+   "url": "https://rishib.me/",
+   "evidence": "Site of Rishi Bhaskara, a CS student; links github.com/RBKesh and a Rishi Bhaskara LinkedIn"
+  },
+  "github": {
+   "url": "https://github.com/RBKesh",
+   "evidence": "GitHub name Rishi Bhaskara; linked from rishib.me; hosts the rishib.me repo and Western ES1050 pelletizer code"
+  },
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University, B.Sc. Computer Science (site says he has a foundation in engineering; GitHub has Western ES1050 design-course code)",
+  "grad_year": "2029",
+  "current_role": "Computer Science student, Western University",
+  "past_roles": [
+   "Engineering Assistant, BIK Hydraulics Ltd."
+  ],
+  "projects": [
+   {
+    "name": "Open Source Recycled Plastic Pelletizer",
+    "summary": "Hardware project turning plastic waste into 3D-printing filament; Arduino code for the ES1050 pelletizer project",
+    "url": "https://github.com/RBKesh/Arduino-Pelletizer-Code"
+   },
+   {
+    "name": "Smart Mirror",
+    "summary": "Raspberry Pi IoT mirror showing time, weather, news and calendar via APIs",
+    "url": "https://rishib.me/"
+   },
+   {
+    "name": "DevOps Pipeline Monitor",
+    "summary": "Real-time dashboard for GitHub Actions pipelines with live WebSocket updates and system metrics (React, FastAPI, Docker)",
+    "url": "https://github.com/RBKesh/devops-pipeline-monitor"
+   },
+   {
+    "name": "Distributed Task Queue",
+    "summary": "FastAPI, Celery and Redis task queue with retrying workers, a monitoring dashboard and Docker Compose scaling",
+    "url": "https://github.com/RBKesh/distributed-task-queue"
+   },
+   {
+    "name": "AI Flashcard App",
+    "summary": "Paste notes, generate flashcards, study with spaced repetition",
+    "url": "https://github.com/RBKesh/ai-flashcard-app"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Western Computer Science Undergraduate Society (listed on the society's LinkedIn page; role not stated)"
+  ],
+  "skills_interests": [
+   "Embedded systems (Arduino, Raspberry Pi)",
+   "Full-stack web (React, Node.js, FastAPI)",
+   "Python and JavaScript",
+   "Algorithms and data structures",
+   "AI and robotics; mentions wanting to start a robotics startup"
+  ],
+  "talking_points": [
+   "Ask about the recycled-plastic pelletizer from his ES1050 design project and whether the filament was printable",
+   "His site notes say he is thinking about a robotics startup: ask what problem he would start with",
+   "Ask how he moved from an engineering start into CS and what he did as an engineering assistant at BIK Hydraulics",
+   "His card lists Frontend, ML/AI and Hardware, so ask what hardware he brought to this Hack Western"
+  ],
+  "sources": [
+   "https://rishib.me/",
+   "https://github.com/RBKesh",
+   "https://linkedin.com/in/rishi-bhaskara",
+   "https://linkedin.com/company/western-csus"
+  ],
+  "confidence_notes": "Matched on Western plus the uwo handle rbhaska2 (first initial + surname prefix) and consistent hardware/AI interests; site and GitHub cross-link. His site links /in/rishi-bhaskara-0683a4255 while search and the Western CSUS page use /in/rishi-bhaskara; likely the same profile after a vanity change, so both are listed. LinkedIn pages were bot-blocked on direct fetch; details come from search snippets. Rishi Bhaskar profiles (AWS, Chicago) were excluded.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ32PDV51",
+  "name": "Nathan Lin",
+  "linkedin_url": "https://ca.linkedin.com/in/nathan-lin-77906342a",
+  "confidence": "medium",
+  "evidence": "Exact name plus Queen's: the profile is a computer science student at Queen's University, matching the team-finder card and his GitHub nlin1027 (Nathan Lin, Computing Student at Queen's University), but nothing cross-links the GitHub and LinkedIn.",
+  "candidates": [
+   "https://ca.linkedin.com/in/nathan-lin-77906342a"
+  ],
+  "headline": "Computer Science | Software Engineering | Python, Java",
+  "education": "Queen's University (present)",
+  "location": "Richmond Hill, Ontario, Canada",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/nlin1027",
+   "evidence": "Linked from his Hack Western 13 team-finder card; name Nathan Lin; bio 'Computing Student at Queen's University'; has Queen's CISC 121 coursework repos"
+  },
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Queen's University, Computing / Computer Science",
+  "grad_year": "",
+  "current_role": "Computing student, Queen's University",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "api-distributed-loadtest",
+    "summary": "Distributed load tester built stage by stage as a system design exercise: controller and worker fleet, correct percentile math, Prometheus observability, capacity-based autoscaling",
+    "url": "https://github.com/nlin1027/api-distributed-loadtest"
+   },
+   {
+    "name": "Voice Assistant with Background Task Delegation",
+    "summary": "Voice agent that hands long-running work to a sandboxed coding agent mid-call without freezing the conversation or losing results if the caller hangs up",
+    "url": "https://github.com/nlin1027/voice-assistant"
+   },
+   {
+    "name": "agent-workflow",
+    "summary": "Multi-agent workflow experiment (iteration 2)",
+    "url": "https://github.com/nlin1027/agent-workflow"
+   },
+   {
+    "name": "DSA Visualization (CISC 121 final project)",
+    "summary": "PySide app that animates linear search",
+    "url": "https://github.com/nlin1027/DSA-Visualization-CISC121-Final-Project"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Python, Java, JavaScript",
+   "Distributed systems and load testing",
+   "Voice and multi-agent AI",
+   "AI and fast-moving systems (LinkedIn about)"
+  ],
+  "talking_points": [
+   "Hack Western 13 is his first hackathon per his card, so ask what he hopes to build and how the weekend is going",
+   "Ask how his voice assistant keeps a call going while a background coding agent works, and what happens if the caller hangs up",
+   "Ask what he learned autoscaling the load-test worker fleet on live capacity in api-distributed-loadtest"
+  ],
+  "sources": [
+   "https://github.com/nlin1027",
+   "https://ca.linkedin.com/in/nathan-lin-77906342a"
+  ],
+  "confidence_notes": "Medium: exact name plus Queen's computing on both the LinkedIn and the team-finder GitHub, with no direct cross-link. LinkedIn activity shown logged out was only posts he liked, so none of it was used. Other Nathan Lins (Georgia Tech, Uber/Samsara, Stanford educator, Queen's Computer Engineering 2018 to 2022) were excluded. The email handle gave no extra hits.",
+  "status": "done"
+ },
+ {
+  "id": "tf:alexander-s",
+  "name": "Alexander Stojanov",
+  "linkedin_url": "https://ca.linkedin.com/in/alexander-stojanov-12078935a",
+  "confidence": "medium",
+  "evidence": "The card gives Alexander S. at Western and a social handle suggesting the surname Stojanov; this profile is Alexander Stojanov, 'Student in science at western university', a rare full-name and school match with no further cross-link.",
+  "candidates": [
+   "https://ca.linkedin.com/in/alexander-stojanov-12078935a",
+   "https://linkedin.com/in/alexander-stojanov-8a022a290"
+  ],
+  "headline": "Student in science at western university",
+  "education": "Western University, Science (per headline); high school Sir Winston Churchill, Calgary (2023 to 2026 listed)",
+  "location": "Calgary, Alberta, Canada",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University, Science (first year, inferred from high-school dates)",
+  "grad_year": "",
+  "current_role": "Science student, Western University",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Design",
+   "Hardware",
+   "Pitching"
+  ],
+  "talking_points": [
+   "His team-finder card lists Design, Hardware and Pitching, so ask what he is pitching this weekend",
+   "He is a Western science student from Calgary, likely in first year; ask what pulled him into a hackathon from science"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/alexander-stojanov-12078935a",
+   "https://linkedin.com/in/alexander-stojanov-8a022a290"
+  ],
+  "confidence_notes": "Medium: the surname comes only from a social handle on his team-finder card (the handle itself is excluded here), and the LinkedIn is the only Alexander Stojanov tied to Western. A second profile (Sir Winston Churchill, Calgary, 2023 to 2028) looks like an older duplicate of the same person. Alexander Stojanovic (Western 2001 to 2005), a Bulgarian engineer and a former NHL player were excluded. Skills come from his card.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJNQWPZQS",
+  "name": "Aiden (Arman) Alaei",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Western's CS graduate-student directory lists an Arman Alaei, which fits a Hack Western mentor, but the only ML-focused LinkedIn found (arman-alaei-a29897181) shows Iran University of Science and Technology and University of the People with no Western or Canada link.",
+  "candidates": [
+   "https://linkedin.com/in/arman-alaei-a29897181",
+   "https://github.com/a-alaei",
+   "https://www.csd.uwo.ca/people/graduate_students.html"
+  ],
+  "headline": "Candidate: BSc. Computer Science Student | Data Science & AI Researcher",
+  "education": "Candidate: University of the People; Western CS directory lists an Arman Alaei as a graduate student",
+  "location": "",
+  "status": "not_found"
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "name": "Yifan Gao",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Very common name; no Yifan Gao profile ties to University of Waterloo undergraduate study, and the card has no GitHub or LinkedIn to cross-check.",
+  "candidates": [],
+  "headline": "",
+  "education": "",
+  "location": "",
+  "status": "not_found"
+ }
+]

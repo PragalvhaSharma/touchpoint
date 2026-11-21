@@ -1,0 +1,146 @@
+[
+ {
+  "name": "Edwin Ngui",
+  "slack_id": "U0CJHMNQ0RK",
+  "linkedin": "https://www.linkedin.com/in/edwin-ngui/",
+  "photo": "https://www.hackwestern.com/landing/mentors/edwin_ngui.webp",
+  "tags": "React \u00b7 TypeScript \u00b7 Generative AI \u00b7 AI agents \u00b7 Demos\n\nSoftware Engineering\nProduct Management\nDesign\nAI",
+  "photo_file": "photos/mentors/edwin-ngui.jpg"
+ },
+ {
+  "name": "Lecia Cheng",
+  "slack_id": "U0CJVAVFW3F",
+  "linkedin": "https://www.linkedin.com/in/lecia-cheng/",
+  "photo": "https://www.hackwestern.com/landing/mentors/lecia_cheng.webp",
+  "tags": "Front-End \u00b7 Cloud\n\nSoftware Engineering\nDesign",
+  "photo_file": "photos/mentors/lecia-cheng.jpg"
+ },
+ {
+  "name": "Aiden (Arman) Alaei",
+  "slack_id": "U0CJNQWPZQS",
+  "linkedin": "",
+  "photo": "https://www.hackwestern.com/landing/mentors/aidena.webp",
+  "tags": "Python \u00b7 Machine learning \u00b7 C# \u00b7 REST APIs\n\nSoftware Engineering\nProduct Management\nAI",
+  "photo_file": "photos/mentors/aiden-arman-alaei.jpg"
+ },
+ {
+  "name": "Shivansh Kushwaha",
+  "slack_id": "U0CJDU8AWEQ",
+  "linkedin": "https://www.linkedin.com/in/shivkushwaha/",
+  "photo": "https://www.hackwestern.com/landing/mentors/shivanshk.webp",
+  "tags": "Java \u00b7 TypeScript \u00b7 React \u00b7 Startups\n\nSoftware Engineering\nProduct Management\nDesign\nAI",
+  "photo_file": "photos/mentors/shivansh-kushwaha.jpg"
+ },
+ {
+  "name": "Mohamed Toman",
+  "slack_id": "U0CJQT97ATT",
+  "linkedin": "https://www.linkedin.com/in/hadytoman/",
+  "photo": "https://www.hackwestern.com/landing/mentors/mohamedt.webp",
+  "tags": "Full-stack \u00b7 React \u00b7 Python \u00b7 Cloud \u00b7 Databases\n\nSoftware Engineering",
+  "photo_file": "photos/mentors/mohamed-toman.jpg"
+ },
+ {
+  "name": "William Liu",
+  "slack_id": "U0CJSMGJ3EY",
+  "linkedin": "https://www.linkedin.com/in/liuwllm/",
+  "photo": "https://www.hackwestern.com/landing/mentors/williaml.webp",
+  "tags": "Project scoping \u00b7 Debugging \u00b7 Design \u00b7 Figma\n\nSoftware Engineering\nProduct Management\nDesign",
+  "photo_file": "photos/mentors/william-liu.jpg"
+ },
+ {
+  "name": "Jaemin Han",
+  "slack_id": "U0CHUSENRF1",
+  "linkedin": "https://www.linkedin.com/in/hanjaemin/",
+  "photo": "https://www.hackwestern.com/landing/mentors/jaeminh.webp",
+  "tags": "ML engineering \u00b7 Python \u00b7 PyTorch \u00b7 Pitching\n\nSoftware Engineering\nAI",
+  "photo_file": "photos/mentors/jaemin-han.jpg"
+ },
+ {
+  "name": "Rafay Kashif",
+  "slack_id": "U0CJE5UCQ6Q",
+  "linkedin": "https://www.linkedin.com/in/rafaykashif/",
+  "photo": "https://www.hackwestern.com/landing/mentors/rafayk.webp",
+  "tags": "C++ \u00b7 Linux & QNX \u00b7 Vulkan \u00b7 Rust\n\nSoftware Engineering\nEmbedded & Systems",
+  "photo_file": "photos/mentors/rafay-kashif.jpg"
+ },
+ {
+  "name": "David Liu",
+  "slack_id": "U0CKC7ZB22U",
+  "linkedin": "https://www.linkedin.com/in/davidmakesmoves/",
+  "photo": "https://www.hackwestern.com/landing/mentors/davidliu.webp",
+  "tags": "Next.js \u00b7 TypeScript \u00b7 Python \u00b7 AI & RAG \u00b7 ESP32\n\nSoftware Engineering\nDesign\nAI",
+  "photo_file": "photos/mentors/david-liu.jpg"
+ },
+ {
+  "name": "Ali Mohammed-Ali",
+  "slack_id": "U0CJGPV815H",
+  "linkedin": "https://www.linkedin.com/in/am-uwo/",
+  "photo": "https://www.hackwestern.com/landing/mentors/alim.webp",
+  "tags": "C++ \u00b7 Python \u00b7 Swift \u00b7 OpenCV \u00b7 Arduino\n\nSoftware Engineering\nDesign\nHardware\nAI",
+  "photo_file": "photos/mentors/ali-mohammed-ali.jpg"
+ },
+ {
+  "name": "Luke Blommesteyn",
+  "slack_id": "U0CKHGRGLP2",
+  "linkedin": "https://www.linkedin.com/in/lblommesteyn/",
+  "photo": "https://www.hackwestern.com/landing/mentors/lukeb.webp",
+  "tags": "Machine learning \u00b7 Computer vision \u00b7 LLMs \u00b7 Data\n\nSoftware Engineering\nAI",
+  "photo_file": "photos/mentors/luke-blommesteyn.jpg"
+ },
+ {
+  "name": "Lukas Bozinov",
+  "slack_id": "U0CJSMLB1PE",
+  "linkedin": "https://www.linkedin.com/in/lukasbozinov/",
+  "photo": "https://www.hackwestern.com/landing/mentors/lukasb.webp",
+  "tags": "AI agents \u00b7 Python \u00b7 CI/CD \u00b7 Hardware testing\n\nSoftware Engineering\nAI\nEmbedded & Systems",
+  "photo_file": "photos/mentors/lukas-bozinov.jpg"
+ },
+ {
+  "name": "Shaun Ahuja",
+  "slack_id": "U0CHPJ2QWMD",
+  "linkedin": "https://www.linkedin.com/in/shaun-ahuja/",
+  "photo": "https://www.hackwestern.com/landing/mentors/shauna.webp",
+  "tags": "Backend \u00b7 Infrastructure \u00b7 Full-stack \u00b7 Startups\n\nSoftware Engineering",
+  "photo_file": "photos/mentors/shaun-ahuja.jpg"
+ },
+ {
+  "name": "Viraj Patel",
+  "slack_id": "U0CJ41J2LLT",
+  "linkedin": "https://www.linkedin.com/in/virajpatell/",
+  "photo": "https://www.hackwestern.com/landing/mentors/virajp.webp",
+  "tags": "Product management \u00b7 AI products \u00b7 Startups \u00b7 Pitching\n\nProduct Management\nAI",
+  "photo_file": "photos/mentors/viraj-patel.jpg"
+ },
+ {
+  "name": "Xander Chin",
+  "slack_id": "U0CKU8R460Y",
+  "linkedin": "https://www.linkedin.com/in/xanderchinxyz/",
+  "photo": "https://www.hackwestern.com/landing/mentors/xanderc.webp",
+  "tags": "Distributed systems \u00b7 ML accelerators \u00b7 Robotics \u00b7 Python\n\nSoftware Engineering\nAI\nHardware\nEmbedded & Systems",
+  "photo_file": "photos/mentors/xander-chin.jpg"
+ },
+ {
+  "name": "Surya Sure",
+  "slack_id": "U0CJLQ6PMHV",
+  "linkedin": "https://www.linkedin.com/in/suryasure/",
+  "photo": "https://www.hackwestern.com/landing/mentors/suryas.webp",
+  "tags": "Distributed systems \u00b7 ML inference \u00b7 ML accelerators\n\nSoftware Engineering\nAI\nHardware",
+  "photo_file": "photos/mentors/surya-sure.jpg"
+ },
+ {
+  "name": "Evan Lin",
+  "slack_id": "U0CJ1NF5PNZ",
+  "linkedin": "https://www.linkedin.com/in/evanliin/",
+  "photo": "https://www.hackwestern.com/landing/mentors/evanl.webp",
+  "tags": "Distributed systems \u00b7 ML accelerators \u00b7 React \u00b7 NLP\n\nSoftware Engineering\nAI\nHardware",
+  "photo_file": "photos/mentors/evan-lin.jpg"
+ },
+ {
+  "name": "Saksham Batra",
+  "slack_id": "U0CJ548UP0W",
+  "linkedin": "https://www.linkedin.com/in/saksham-batra1/",
+  "photo": "https://www.hackwestern.com/landing/mentors/sakshamb.webp",
+  "tags": "Data science \u00b7 Machine learning \u00b7 PyTorch \u00b7 Python\n\nSoftware Engineering\nAI",
+  "photo_file": "photos/mentors/saksham-batra.jpg"
+ }
+]

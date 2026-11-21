@@ -1,0 +1,209 @@
+[
+ {
+  "id": "tf:zhan-hang-thomson-l",
+  "name": "Zhan Hang Thomson L.",
+  "school": "Western University, 4th year",
+  "skills": [
+   "Backend",
+   "Frontend",
+   "ML / AI"
+  ],
+  "looking_for": "Needs designer",
+  "idea": "cool gimmick involving spec decoding, desperately needs someone good at UI/UX and product design",
+  "linkedin_url": "https://www.linkedin.com/in/thomson-lam-260b67292",
+  "github": "https://github.com/Thomson-Lam"
+ },
+ {
+  "id": "tf:riaa-s",
+  "name": "Riaa S.",
+  "school": "3rd year",
+  "skills": [
+   "Backend",
+   "ML / AI"
+  ],
+  "looking_for": "Needs someone who wants to build something fun and innovative",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/riaa-sehgal",
+  "github": ""
+ },
+ {
+  "id": "tf:krishnam-j",
+  "name": "Krishnam J.",
+  "school": "University of Waterloo",
+  "skills": [
+   "Mobile",
+   "Backend",
+   "Design"
+  ],
+  "looking_for": "Wants an ideas guy",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/krishnam-jhalani",
+  "github": ""
+ },
+ {
+  "id": "tf:galit-t",
+  "name": "Galit T.",
+  "school": "University of Waterloo, 2nd year",
+  "skills": [
+   "Backend",
+   "Hardware",
+   "ML / AI"
+  ],
+  "looking_for": "Needs looking to do a hardware project",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/galit-tauber",
+  "github": ""
+ },
+ {
+  "id": "tf:muhammad-burhan-t",
+  "name": "Muhammad Burhan T.",
+  "school": "Wilfrid Laurier University",
+  "skills": [
+   "Frontend",
+   "Backend",
+   "ML / AI"
+  ],
+  "looking_for": "Wants anyone tbf",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/mburhantahir",
+  "github": "https://github.com/Burhan3737"
+ },
+ {
+  "id": "tf:panos-t",
+  "name": "Panos T.",
+  "school": "Western University",
+  "skills": [
+   "ML / AI",
+   "Hardware",
+   "Pitching"
+  ],
+  "looking_for": "Wants creative, ambitious people who love building. Ideally hardware project",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/panos-tzanetakis",
+  "github": "https://github.com/panostzan"
+ },
+ {
+  "id": "tf:jeffrey-s",
+  "name": "Jeffrey S.",
+  "school": "Western University",
+  "skills": [
+   "Pitching",
+   "Hardware",
+   "Design"
+  ],
+  "looking_for": "Wants to have fun and ambitious ideas",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/jeffrey-song-ba21b82aa",
+  "github": "https://github.com/Tangeloz"
+ },
+ {
+  "id": "tf:shaeshan-k",
+  "name": "Shaeshan K.",
+  "school": "McMaster University, 4th year",
+  "skills": [
+   "Backend",
+   "ML / AI",
+   "Hardware"
+  ],
+  "looking_for": "Wants looking for ai/ml or hardware teammates.",
+  "idea": "hardware hack (i have equipment) or ML with 3rd/4th year students",
+  "linkedin_url": "https://www.linkedin.com/in/shaeshan-kunalan",
+  "github": "https://github.com/shaeshan2"
+ },
+ {
+  "id": "tf:michelle-d",
+  "name": "Michelle D.",
+  "school": "University of Waterloo",
+  "skills": [
+   "Hardware",
+   "Backend",
+   "Design"
+  ],
+  "looking_for": "Wants just a chill guy",
+  "idea": "lwk lets just build sm cool! i rlly like hardware so maybe a combo of that and ml...",
+  "linkedin_url": "https://www.linkedin.com/in/michelle-dominic",
+  "github": "https://github.com/m76domi98"
+ },
+ {
+  "id": "tf:ryushen-t",
+  "name": "Ryushen T.",
+  "school": "Carleton University",
+  "skills": [
+   "Frontend",
+   "Backend",
+   "Pitching"
+  ],
+  "looking_for": "Wants a team that got that dawg in them",
+  "idea": "down to build something creative and fun",
+  "linkedin_url": "https://www.linkedin.com/in/ryushen",
+  "github": "https://github.com/ryushen-tan"
+ },
+ {
+  "id": "tf:blaine-d",
+  "name": "Blaine D.",
+  "school": "Conestoga College, 4th year",
+  "skills": [
+   "First hackathon",
+   "Hardware",
+   "Design"
+  ],
+  "looking_for": "Wants support both frontend and backend. Friendly and helpful looking to enjoy the weekend!",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/blainedolson",
+  "github": "https://github.com/blain-e"
+ },
+ {
+  "id": "tf:kenneth-w",
+  "name": "kenneth W.",
+  "school": "McMaster University",
+  "skills": [
+   "Backend",
+   "Frontend"
+  ],
+  "looking_for": "Wants claude demon / hardware idea",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/kenneth-wu-6857a0396",
+  "github": "https://github.com/kennethwu08"
+ },
+ {
+  "id": "tf:eric-s",
+  "name": "Eric S.",
+  "school": "University of Toronto",
+  "skills": [
+   "Backend",
+   "Pitching",
+   "ML / AI"
+  ],
+  "looking_for": "Wants cool people who wanna cook up cool shit. Open to anything",
+  "idea": "We can make Fable 6.0 and hijack the Anthropic IPO",
+  "linkedin_url": "https://www.linkedin.com/in/ericyuchensong",
+  "github": "https://github.com/chardxbt"
+ },
+ {
+  "id": "tf:andrew-t",
+  "name": "Andrew T.",
+  "school": "University of Toronto, 2nd year",
+  "skills": [
+   "Backend",
+   "ML / AI",
+   "Frontend"
+  ],
+  "looking_for": "Wants people who wants to work on the ambitious ideas and have fun and aim for the win",
+  "idea": "",
+  "linkedin_url": "https://www.linkedin.com/in/andrew-tu-b7b64733b",
+  "github": "https://github.com/Andrew-Tu225"
+ },
+ {
+  "id": "tf:ewan-r",
+  "name": "Ewan R.",
+  "school": "Western University",
+  "skills": [
+   "Hardware",
+   "Design"
+  ],
+  "looking_for": "Wants casual or competitive team",
+  "idea": "I'm down for a hardware hack",
+  "linkedin_url": "https://www.linkedin.com/in/ewan-redgrift",
+  "github": "https://github.com/EwanRedgrift"
+ }
+]

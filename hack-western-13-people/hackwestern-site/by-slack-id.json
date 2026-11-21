@@ -1,0 +1,1325 @@
+{
+ "U0CJHMNQ0RK": {
+  "mentor": {
+   "name": "Edwin Ngui",
+   "slack_id": "U0CJHMNQ0RK",
+   "linkedin": "https://www.linkedin.com/in/edwin-ngui/",
+   "photo": "https://www.hackwestern.com/landing/mentors/edwin_ngui.webp",
+   "tags": "React · TypeScript · Generative AI · AI agents · Demos\n\nSoftware Engineering\nProduct Management\nDesign\nAI",
+   "photo_file": "photos/mentors/edwin-ngui.jpg"
+  }
+ },
+ "U0CJVAVFW3F": {
+  "mentor": {
+   "name": "Lecia Cheng",
+   "slack_id": "U0CJVAVFW3F",
+   "linkedin": "https://www.linkedin.com/in/lecia-cheng/",
+   "photo": "https://www.hackwestern.com/landing/mentors/lecia_cheng.webp",
+   "tags": "Front-End · Cloud\n\nSoftware Engineering\nDesign",
+   "photo_file": "photos/mentors/lecia-cheng.jpg"
+  }
+ },
+ "U0CJNQWPZQS": {
+  "mentor": {
+   "name": "Aiden (Arman) Alaei",
+   "slack_id": "U0CJNQWPZQS",
+   "linkedin": "",
+   "photo": "https://www.hackwestern.com/landing/mentors/aidena.webp",
+   "tags": "Python · Machine learning · C# · REST APIs\n\nSoftware Engineering\nProduct Management\nAI",
+   "photo_file": "photos/mentors/aiden-arman-alaei.jpg"
+  }
+ },
+ "U0CJDU8AWEQ": {
+  "mentor": {
+   "name": "Shivansh Kushwaha",
+   "slack_id": "U0CJDU8AWEQ",
+   "linkedin": "https://www.linkedin.com/in/shivkushwaha/",
+   "photo": "https://www.hackwestern.com/landing/mentors/shivanshk.webp",
+   "tags": "Java · TypeScript · React · Startups\n\nSoftware Engineering\nProduct Management\nDesign\nAI",
+   "photo_file": "photos/mentors/shivansh-kushwaha.jpg"
+  }
+ },
+ "U0CJQT97ATT": {
+  "mentor": {
+   "name": "Mohamed Toman",
+   "slack_id": "U0CJQT97ATT",
+   "linkedin": "https://www.linkedin.com/in/hadytoman/",
+   "photo": "https://www.hackwestern.com/landing/mentors/mohamedt.webp",
+   "tags": "Full-stack · React · Python · Cloud · Databases\n\nSoftware Engineering",
+   "photo_file": "photos/mentors/mohamed-toman.jpg"
+  }
+ },
+ "U0CJSMGJ3EY": {
+  "mentor": {
+   "name": "William Liu",
+   "slack_id": "U0CJSMGJ3EY",
+   "linkedin": "https://www.linkedin.com/in/liuwllm/",
+   "photo": "https://www.hackwestern.com/landing/mentors/williaml.webp",
+   "tags": "Project scoping · Debugging · Design · Figma\n\nSoftware Engineering\nProduct Management\nDesign",
+   "photo_file": "photos/mentors/william-liu.jpg"
+  }
+ },
+ "U0CHUSENRF1": {
+  "mentor": {
+   "name": "Jaemin Han",
+   "slack_id": "U0CHUSENRF1",
+   "linkedin": "https://www.linkedin.com/in/hanjaemin/",
+   "photo": "https://www.hackwestern.com/landing/mentors/jaeminh.webp",
+   "tags": "ML engineering · Python · PyTorch · Pitching\n\nSoftware Engineering\nAI",
+   "photo_file": "photos/mentors/jaemin-han.jpg"
+  }
+ },
+ "U0CJE5UCQ6Q": {
+  "mentor": {
+   "name": "Rafay Kashif",
+   "slack_id": "U0CJE5UCQ6Q",
+   "linkedin": "https://www.linkedin.com/in/rafaykashif/",
+   "photo": "https://www.hackwestern.com/landing/mentors/rafayk.webp",
+   "tags": "C++ · Linux & QNX · Vulkan · Rust\n\nSoftware Engineering\nEmbedded & Systems",
+   "photo_file": "photos/mentors/rafay-kashif.jpg"
+  }
+ },
+ "U0CKC7ZB22U": {
+  "mentor": {
+   "name": "David Liu",
+   "slack_id": "U0CKC7ZB22U",
+   "linkedin": "https://www.linkedin.com/in/davidmakesmoves/",
+   "photo": "https://www.hackwestern.com/landing/mentors/davidliu.webp",
+   "tags": "Next.js · TypeScript · Python · AI & RAG · ESP32\n\nSoftware Engineering\nDesign\nAI",
+   "photo_file": "photos/mentors/david-liu.jpg"
+  }
+ },
+ "U0CJGPV815H": {
+  "mentor": {
+   "name": "Ali Mohammed-Ali",
+   "slack_id": "U0CJGPV815H",
+   "linkedin": "https://www.linkedin.com/in/am-uwo/",
+   "photo": "https://www.hackwestern.com/landing/mentors/alim.webp",
+   "tags": "C++ · Python · Swift · OpenCV · Arduino\n\nSoftware Engineering\nDesign\nHardware\nAI",
+   "photo_file": "photos/mentors/ali-mohammed-ali.jpg"
+  }
+ },
+ "U0CKHGRGLP2": {
+  "mentor": {
+   "name": "Luke Blommesteyn",
+   "slack_id": "U0CKHGRGLP2",
+   "linkedin": "https://www.linkedin.com/in/lblommesteyn/",
+   "photo": "https://www.hackwestern.com/landing/mentors/lukeb.webp",
+   "tags": "Machine learning · Computer vision · LLMs · Data\n\nSoftware Engineering\nAI",
+   "photo_file": "photos/mentors/luke-blommesteyn.jpg"
+  }
+ },
+ "U0CJSMLB1PE": {
+  "mentor": {
+   "name": "Lukas Bozinov",
+   "slack_id": "U0CJSMLB1PE",
+   "linkedin": "https://www.linkedin.com/in/lukasbozinov/",
+   "photo": "https://www.hackwestern.com/landing/mentors/lukasb.webp",
+   "tags": "AI agents · Python · CI/CD · Hardware testing\n\nSoftware Engineering\nAI\nEmbedded & Systems",
+   "photo_file": "photos/mentors/lukas-bozinov.jpg"
+  }
+ },
+ "U0CHPJ2QWMD": {
+  "mentor": {
+   "name": "Shaun Ahuja",
+   "slack_id": "U0CHPJ2QWMD",
+   "linkedin": "https://www.linkedin.com/in/shaun-ahuja/",
+   "photo": "https://www.hackwestern.com/landing/mentors/shauna.webp",
+   "tags": "Backend · Infrastructure · Full-stack · Startups\n\nSoftware Engineering",
+   "photo_file": "photos/mentors/shaun-ahuja.jpg"
+  }
+ },
+ "U0CJ41J2LLT": {
+  "mentor": {
+   "name": "Viraj Patel",
+   "slack_id": "U0CJ41J2LLT",
+   "linkedin": "https://www.linkedin.com/in/virajpatell/",
+   "photo": "https://www.hackwestern.com/landing/mentors/virajp.webp",
+   "tags": "Product management · AI products · Startups · Pitching\n\nProduct Management\nAI",
+   "photo_file": "photos/mentors/viraj-patel.jpg"
+  }
+ },
+ "U0CKU8R460Y": {
+  "mentor": {
+   "name": "Xander Chin",
+   "slack_id": "U0CKU8R460Y",
+   "linkedin": "https://www.linkedin.com/in/xanderchinxyz/",
+   "photo": "https://www.hackwestern.com/landing/mentors/xanderc.webp",
+   "tags": "Distributed systems · ML accelerators · Robotics · Python\n\nSoftware Engineering\nAI\nHardware\nEmbedded & Systems",
+   "photo_file": "photos/mentors/xander-chin.jpg"
+  }
+ },
+ "U0CJLQ6PMHV": {
+  "mentor": {
+   "name": "Surya Sure",
+   "slack_id": "U0CJLQ6PMHV",
+   "linkedin": "https://www.linkedin.com/in/suryasure/",
+   "photo": "https://www.hackwestern.com/landing/mentors/suryas.webp",
+   "tags": "Distributed systems · ML inference · ML accelerators\n\nSoftware Engineering\nAI\nHardware",
+   "photo_file": "photos/mentors/surya-sure.jpg"
+  }
+ },
+ "U0CJ1NF5PNZ": {
+  "mentor": {
+   "name": "Evan Lin",
+   "slack_id": "U0CJ1NF5PNZ",
+   "linkedin": "https://www.linkedin.com/in/evanliin/",
+   "photo": "https://www.hackwestern.com/landing/mentors/evanl.webp",
+   "tags": "Distributed systems · ML accelerators · React · NLP\n\nSoftware Engineering\nAI\nHardware",
+   "photo_file": "photos/mentors/evan-lin.jpg"
+  }
+ },
+ "U0CJ548UP0W": {
+  "mentor": {
+   "name": "Saksham Batra",
+   "slack_id": "U0CJ548UP0W",
+   "linkedin": "https://www.linkedin.com/in/saksham-batra1/",
+   "photo": "https://www.hackwestern.com/landing/mentors/sakshamb.webp",
+   "tags": "Data science · Machine learning · PyTorch · Python\n\nSoftware Engineering\nAI",
+   "photo_file": "photos/mentors/saksham-batra.jpg"
+  }
+ },
+ "U0CKWHRFWF6": {
+  "team_finder": {
+   "name": "Pragalvha S.",
+   "status": "Group, looking for 2 more",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Frontend"
+   ],
+   "looking_for": "Needs 2 tokenmaxxers that are chill and fun to work with",
+   "idea": "idk yet.",
+   "linkedin": "https://www.linkedin.com/in/pragalvha-sharma-389499204",
+   "github": "https://github.com/PragalvhaSharma",
+   "instagram": "https://instagram.com/pragalvha",
+   "discord": "prag9769",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/pragalvha-s.jpg",
+   "slack_id": "U0CKWHRFWF6"
+  }
+ },
+ "U0CKVMD09B6": {
+  "team_finder": {
+   "name": "Dongwan S.",
+   "status": "Group, looking for 1 more",
+   "school": "University of Waterloo, 2nd year",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Pitching"
+   ],
+   "looking_for": "Needs hardware/embedded experience, cv, decision models, and chill vibes",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/jamie-seoh",
+   "github": "https://github.com/dwseoh",
+   "instagram": "",
+   "discord": "dw127",
+   "has_photo": false,
+   "slack_id": "U0CKVMD09B6"
+  }
+ },
+ "U0CHG7ASZGF": {
+  "team_finder": {
+   "name": "Rishi B.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "Frontend",
+    "ML / AI",
+    "Hardware"
+   ],
+   "looking_for": "Wants a coder with a creative solution for an unresolved problem",
+   "idea": "",
+   "linkedin": "",
+   "github": "",
+   "instagram": "https://instagram.com/rishibhask",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CHG7ASZGF"
+  }
+ },
+ "U0CJ01EL0FK": {
+  "team_finder": {
+   "name": "Anikait D.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "ML / AI"
+   ],
+   "looking_for": "Needs someone who wants to win with something fun and creative",
+   "idea": "fun hardware project... down for whatever works best though",
+   "linkedin": "https://www.linkedin.com/in/anikait-datta-b4b866365",
+   "github": "",
+   "instagram": "https://instagram.com/an.ikait_d",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CJ01EL0FK"
+  }
+ },
+ "U0CK7B16E0K": {
+  "team_finder": {
+   "name": "Dinu D.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto",
+   "skills": [
+    "Hardware"
+   ],
+   "looking_for": "Wants someone who loves to work with hardware.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/dinu-dassanayake",
+   "github": "https://github.com/dinud2",
+   "instagram": "https://instagram.com/dinu.dass",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CK7B16E0K"
+  }
+ },
+ "U0CJNUJTBB2": {
+  "team_finder": {
+   "name": "Eric F.",
+   "status": "Solo, looking for a team",
+   "school": "McMaster University",
+   "skills": [
+    "Frontend",
+    "Design",
+    "Hardware"
+   ],
+   "looking_for": "Wants fun people with hackathon experience- got that dog in them",
+   "idea": "interested in healthcare hack",
+   "linkedin": "",
+   "github": "",
+   "instagram": "",
+   "discord": "cat2fly",
+   "has_photo": false,
+   "slack_id": "U0CJNUJTBB2"
+  }
+ },
+ "U0CKYLGDQE4": {
+  "team_finder": {
+   "name": "Tharaka T.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "Frontend",
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Wants clear communication and perseverance",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/tharaka-thurairasa",
+   "github": "https://github.com/thutharaka",
+   "instagram": "https://instagram.com/thathu1009",
+   "discord": "tharaka.t",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/tharaka-t.jpg",
+   "slack_id": "U0CKYLGDQE4"
+  }
+ },
+ "U0CKH1FQSAE": {
+  "team_finder": {
+   "name": "Shane M.",
+   "status": "Group, looking for 1 more",
+   "school": "York University, 3rd year",
+   "skills": [
+    "Design",
+    "Frontend",
+    "Backend"
+   ],
+   "looking_for": "Needs a chill team, while everyone explores their own limits.",
+   "idea": "Interested in a hardware project!",
+   "linkedin": "https://www.linkedin.com/in/shanemarcelo",
+   "github": "https://github.com/Polarralop",
+   "instagram": "https://instagram.com/mardelsk",
+   "discord": "polarrralop",
+   "has_photo": false,
+   "slack_id": "U0CKH1FQSAE"
+  }
+ },
+ "U0CJWFXJH0B": {
+  "team_finder": {
+   "name": "Justin C.",
+   "status": "Group, looking for 2 more",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Backend",
+    "Frontend",
+    "Design"
+   ],
+   "looking_for": "Needs figma demon",
+   "idea": "",
+   "linkedin": "",
+   "github": "https://github.com/justintimejt",
+   "instagram": "",
+   "discord": "bichonpoo",
+   "has_photo": false,
+   "slack_id": "U0CJWFXJH0B"
+  }
+ },
+ "U0CJHQJLGQP": {
+  "team_finder": {
+   "name": "Alexia L.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Design"
+   ],
+   "looking_for": "Needs a chill team. i'm a fast learner, looking for for people experienced and skilled in backend.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/alexia-lee26",
+   "github": "",
+   "instagram": "https://instagram.com/xia.a1e",
+   "discord": "valorexies",
+   "has_photo": false,
+   "slack_id": "U0CJHQJLGQP"
+  }
+ },
+ "U0CKLA79YSF": {
+  "team_finder": {
+   "name": "Parnia Y.",
+   "status": "Solo, looking for a team",
+   "school": "McMaster University",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants looking for hardworking teammates with hardware skills. I’m here to win.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/parnia-yazdinia-983703214",
+   "github": "https://github.com/parniayzdin",
+   "instagram": "https://instagram.com/parnia_138425",
+   "discord": "parniayazdinia",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/parnia-y.jpg",
+   "slack_id": "U0CKLA79YSF"
+  }
+ },
+ "U0CHD5V9WMV": {
+  "team_finder": {
+   "name": "Adam X.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Hardware",
+    "Frontend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants people excited to build a hardware project: robotics, anything physical. software is fine as well!",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/adamxu29",
+   "github": "https://github.com/adamxu29",
+   "instagram": "https://instagram.com/adam_xu29",
+   "discord": "bonhomme619",
+   "has_photo": false,
+   "slack_id": "U0CHD5V9WMV"
+  }
+ },
+ "U0CJ32PDV51": {
+  "team_finder": {
+   "name": "Nathan L.",
+   "status": "Solo, looking for a team",
+   "school": "Queen's University",
+   "skills": [
+    "First hackathon",
+    "Backend",
+    "Frontend",
+    "Design"
+   ],
+   "looking_for": "Wants looking for an ambitious team!!",
+   "idea": "",
+   "linkedin": "",
+   "github": "https://github.com/nlin1027",
+   "instagram": "https://instagram.com/nathanlin0123",
+   "discord": "ignsock",
+   "has_photo": false,
+   "slack_id": "U0CJ32PDV51"
+  }
+ },
+ "U0CJP4EQ0NL": {
+  "team_finder": {
+   "name": "Ola W.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Frontend"
+   ],
+   "looking_for": "Needs anyone who’s dedicated to winning, wants to work with hardware, and loves learning new things :)",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/ola-waked",
+   "github": "https://github.com/OlaWak",
+   "instagram": "https://instagram.com/ola_wkd",
+   "discord": "ola_wkd",
+   "has_photo": false,
+   "slack_id": "U0CJP4EQ0NL"
+  }
+ },
+ "U0CJ4SS6JVD": {
+  "team_finder": {
+   "name": "Shawn X.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "ML / AI",
+    "Hardware",
+    "Design"
+   ],
+   "looking_for": "Wants a creative designer that moves fast",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/shawnxionggg",
+   "github": "",
+   "instagram": "https://instagram.com/schwannxiong",
+   "discord": "theonesomebodey",
+   "has_photo": false,
+   "slack_id": "U0CJ4SS6JVD"
+  }
+ },
+ "U0CJ76B7WCE": {
+  "team_finder": {
+   "name": "Taha E.",
+   "status": "Group, looking for 2 more",
+   "school": "",
+   "skills": [
+    "Hardware",
+    "Backend",
+    "Pitching"
+   ],
+   "looking_for": "Needs frontend/design person (+ maybe hardware or ML) for a health hardware hack. Idea + plan ready.",
+   "idea": "Solo so far. Health hardware hack with a live demo. Idea and plan locked. DM me for details.",
+   "linkedin": "",
+   "github": "https://github.com/2talltooha",
+   "instagram": "https://instagram.com/tahaelghadi",
+   "discord": "2talltooha.",
+   "has_photo": false,
+   "slack_id": "U0CJ76B7WCE"
+  }
+ },
+ "U0CK5DBBD17": {
+  "team_finder": {
+   "name": "Omar S.",
+   "status": "Group, looking for 2 more",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Needs someone who is good at frontend/design",
+   "idea": "",
+   "linkedin": "",
+   "github": "https://github.com/Kingsolima",
+   "instagram": "",
+   "discord": "omarms86",
+   "has_photo": false,
+   "slack_id": "U0CK5DBBD17"
+  }
+ },
+ "U0CJ0D81FG9": {
+  "team_finder": {
+   "name": "David O.",
+   "status": "Group, looking for 2 more",
+   "school": "University of Toronto",
+   "skills": [
+    "First hackathon",
+    "Design",
+    "Hardware",
+    "Pitching"
+   ],
+   "looking_for": "Needs to gain experience and build something crazy",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/david-olayinka-83456b373",
+   "github": "https://github.com/dave-2-jpg",
+   "instagram": "https://instagram.com/daavid.zip",
+   "discord": "maloyed",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/david-o.jpg",
+   "slack_id": "U0CJ0D81FG9"
+  }
+ },
+ "U0CJ27BMTCL": {
+  "team_finder": {
+   "name": "Daryna V.",
+   "status": "Solo, looking for a team",
+   "school": "Humber Polytechnic, 3rd year",
+   "skills": [
+    "Design",
+    "Frontend"
+   ],
+   "looking_for": "Wants software engineers :)",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/daryna-volytska",
+   "github": "https://github.com/dvolytska",
+   "instagram": "https://instagram.com/darvolytska",
+   "discord": "darrriana",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/daryna-v.jpg",
+   "slack_id": "U0CJ27BMTCL"
+  }
+ },
+ "U0CHY7P59TL": {
+  "team_finder": {
+   "name": "Diya S.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Frontend"
+   ],
+   "looking_for": "Wants a creative with crazy ideas!",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/diya-saxena",
+   "github": "https://github.com/diyasaxena17",
+   "instagram": "",
+   "discord": "diya_s07",
+   "has_photo": false,
+   "slack_id": "U0CHY7P59TL"
+  }
+ },
+ "U0CKJ8EDPPD": {
+  "team_finder": {
+   "name": "Melina F.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Pitching"
+   ],
+   "looking_for": "Wants pretty chill, tryna build something cool",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/melina-f-53372b20a",
+   "github": "https://github.com/Meellinaa",
+   "instagram": "https://instagram.com/meellina._",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CKJ8EDPPD"
+  }
+ },
+ "U0CK5T7G3TN": {
+  "team_finder": {
+   "name": "Sebastian S.",
+   "status": "Group, looking for 1 more",
+   "school": "University of Windsor, 2nd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Needs any experience is fine, a committed member is welcome!",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/sebastian-sora-93884438b",
+   "github": "https://github.com/Nightbreaker18",
+   "instagram": "https://instagram.com/seb_s18",
+   "discord": "nightbreaker18",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/sebastian-s.jpg",
+   "slack_id": "U0CK5T7G3TN"
+  }
+ },
+ "U0CJP4TNGP2": {
+  "team_finder": {
+   "name": "Isha D.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants people who are hardworking, motivated and ship fast",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/isha-das-8b693b421",
+   "github": "https://github.com/Isha-Das06",
+   "instagram": "https://instagram.com/_i.s.h.aa._",
+   "discord": "night._2006",
+   "has_photo": false,
+   "slack_id": "U0CJP4TNGP2"
+  }
+ },
+ "U0CHNGKH90B": {
+  "team_finder": {
+   "name": "Alvik M.",
+   "status": "Group, looking for 1 more",
+   "school": "Toronto Metropolitan University",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Design"
+   ],
+   "looking_for": "Needs someone interested in a hardware project",
+   "idea": "",
+   "linkedin": "",
+   "github": "",
+   "instagram": "",
+   "discord": "crafter2416",
+   "has_photo": false,
+   "slack_id": "U0CHNGKH90B"
+  }
+ },
+ "U0CHWG59T7G": {
+  "team_finder": {
+   "name": "Raihan C.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto Scarborough, 3rd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Wants the best vibe coders in the nation 👀👀",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/raihan-carder",
+   "github": "https://github.com/raihancarder",
+   "instagram": "https://instagram.com/raihancarder",
+   "discord": ".raayhon",
+   "has_photo": false,
+   "slack_id": "U0CHWG59T7G"
+  }
+ },
+ "U0CHYK30U90": {
+  "team_finder": {
+   "name": "Kamal C.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 2nd year",
+   "skills": [
+    "Backend",
+    "Design",
+    "Mobile"
+   ],
+   "looking_for": "Wants looking for devs down to build something lasting, weave in some hardware, and have fun doing it.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/kamal-chahal-035469321",
+   "github": "https://github.com/kamalchahal7",
+   "instagram": "https://instagram.com/_.kamalchahal._",
+   "discord": ".miles._.",
+   "has_photo": false,
+   "slack_id": "U0CHYK30U90"
+  }
+ },
+ "U0CKQFZ1YGL": {
+  "team_finder": {
+   "name": "Yuvraj Singh B.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Hardware",
+    "ML / AI"
+   ],
+   "looking_for": "Wants robotics/Hardware hack but I'm also down for a machine learning hack",
+   "idea": "",
+   "linkedin": "",
+   "github": "",
+   "instagram": "",
+   "discord": "ystdin",
+   "has_photo": false,
+   "slack_id": "U0CKQFZ1YGL"
+  }
+ },
+ "U0CKKJRCUAF": {
+  "team_finder": {
+   "name": "Mohammed O.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 4th year",
+   "skills": [
+    "Pitching",
+    "Design",
+    "ML / AI"
+   ],
+   "looking_for": "Wants claude coders and a strong will to win",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/mohammedowda",
+   "github": "",
+   "instagram": "https://instagram.com/moe_owda",
+   "discord": "moe1727181",
+   "has_photo": false,
+   "slack_id": "U0CKKJRCUAF"
+  }
+ },
+ "U0CKARNJ63H": {
+  "team_finder": {
+   "name": "Nishant S.",
+   "status": "Group, looking for 2 more",
+   "school": "Western University",
+   "skills": [
+    "Pitching",
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Needs ambitious + communication + claude",
+   "idea": "still deciding, open to new ideas",
+   "linkedin": "https://www.linkedin.com/in/nishant-shah-340869306",
+   "github": "https://github.com/nishantshah0",
+   "instagram": "",
+   "discord": "what2319",
+   "has_photo": false,
+   "slack_id": "U0CKARNJ63H"
+  }
+ },
+ "U0CHG9TT2LX": {
+  "team_finder": {
+   "name": "Otis L.",
+   "status": "Solo, looking for a team",
+   "school": "3rd year",
+   "skills": [
+    "ML / AI",
+    "Pitching",
+    "Backend"
+   ],
+   "looking_for": "Wants the claude warrior 🤞and wants to win 😛",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/otis-lau",
+   "github": "https://github.com/OtisLau",
+   "instagram": "https://instagram.com/otis.lau",
+   "discord": "mist401",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/otis-l.jpg",
+   "slack_id": "U0CHG9TT2LX"
+  }
+ },
+ "U0CK036RSBS": {
+  "team_finder": {
+   "name": "Kevin S.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Design"
+   ],
+   "looking_for": "Needs someone who has worked with unity",
+   "idea": "Hardware + unity + CV +pro iphone = win",
+   "linkedin": "https://www.linkedin.com/in/kevin-hill-9291693b0",
+   "github": "https://github.com/KevinHill14",
+   "instagram": "https://instagram.com/kevinhill2.0",
+   "discord": "floodrush14",
+   "has_photo": false,
+   "slack_id": "U0CK036RSBS"
+  }
+ },
+ "U0CK39R9J86": {
+  "team_finder": {
+   "name": "Angelina E.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo, 2nd year",
+   "skills": [
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Wants i’m looking for anyone interested in combining hardware and software (I’m in mechatronics:)!",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/angelina-elwazzan",
+   "github": "",
+   "instagram": "https://instagram.com/angel161825",
+   "discord": "angel1618.",
+   "has_photo": false,
+   "slack_id": "U0CK39R9J86"
+  }
+ },
+ "U0CK3KPFDED": {
+  "team_finder": {
+   "name": "Liangray L.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "Frontend",
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Needs anyone, looking for one more",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/liangray-li",
+   "github": "",
+   "instagram": "",
+   "discord": "pigjet",
+   "has_photo": false,
+   "slack_id": "U0CK3KPFDED"
+  }
+ },
+ "U0CLB0FMJAC": {
+  "team_finder": {
+   "name": "Kristina B.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Pitching",
+    "Backend"
+   ],
+   "looking_for": "Needs looking for fun teamates to learn & try new things with! I love CS, web dev & robotics : )",
+   "idea": "I'm down for anything. Would love to try training an AI/ML model if relevant (not that ik how lol)",
+   "linkedin": "https://www.linkedin.com/in/kristina-batrak",
+   "github": "https://github.com/KristinaBBBB",
+   "instagram": "",
+   "discord": "hairycylinder",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/kristina-b.jpg",
+   "slack_id": "U0CLB0FMJAC"
+  }
+ },
+ "U0CJNUHPMB2": {
+  "team_finder": {
+   "name": "Eric L.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto, 3rd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants design, web, mobile, agent experience. i won 1st and gemini track last year",
+   "idea": "consumer apps (mobile, web, agents, etc)",
+   "linkedin": "https://www.linkedin.com/in/eric-lee99999",
+   "github": "https://github.com/ericpungholee",
+   "instagram": "https://instagram.com/ericpungholee",
+   "discord": "varusername",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/eric-l.jpg",
+   "slack_id": "U0CJNUHPMB2"
+  }
+ },
+ "U0CKVJBTV4L": {
+  "team_finder": {
+   "name": "Besma S.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Pitching"
+   ],
+   "looking_for": "Wants a team that is looking to do something innovative, sophisticated and novel.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/besma-serrai-4b9313266",
+   "github": "",
+   "instagram": "https://instagram.com/_besma.s",
+   "discord": "blueb3388",
+   "has_photo": false,
+   "slack_id": "U0CKVJBTV4L"
+  }
+ },
+ "U0CJZSV0R2A": {
+  "team_finder": {
+   "name": "Yifan G.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "First hackathon",
+    "Design",
+    "Hardware",
+    "Backend"
+   ],
+   "looking_for": "Wants a committed/dedicated team and to learn new stuff",
+   "idea": "",
+   "linkedin": "",
+   "github": "",
+   "instagram": "https://instagram.com/yifanga0",
+   "discord": "seraphina0737",
+   "has_photo": false,
+   "slack_id": "U0CJZSV0R2A"
+  }
+ },
+ "U0CKF47KWFL": {
+  "team_finder": {
+   "name": "Hadi A.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto, 4th year",
+   "skills": [
+    "Backend",
+    "Frontend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants people who want to create cool stuff and down to do crazy things",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/hadiahmedd",
+   "github": "",
+   "instagram": "https://instagram.com/hadi.ahmed13",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CKF47KWFL"
+  }
+ },
+ "U0CHYEYEEBE": {
+  "team_finder": {
+   "name": "Andrew D.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Backend",
+    "Frontend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants experienced hackathon builders, looking to ship wow-factor demoable ideas",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/andrew-dai-dev",
+   "github": "",
+   "instagram": "https://instagram.com/penguin.push",
+   "discord": "penguin.push",
+   "has_photo": false,
+   "slack_id": "U0CHYEYEEBE"
+  }
+ },
+ "U0CJ0L8GMMF": {
+  "team_finder": {
+   "name": "Arnav P.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "ML / AI",
+    "Design",
+    "Pitching"
+   ],
+   "looking_for": "Needs a person with ambition and puts in work",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/arnavpal27",
+   "github": "",
+   "instagram": "https://instagram.com/Arnavpxl",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CJ0L8GMMF"
+  }
+ },
+ "U0CJ1F6QZC5": {
+  "team_finder": {
+   "name": "Rayburn L.",
+   "status": "Solo, looking for a team",
+   "school": "Queen's University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Pitching"
+   ],
+   "looking_for": "Wants chill people",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/rayburn-lu",
+   "github": "",
+   "instagram": "https://instagram.com/rayburnlu",
+   "discord": "",
+   "has_photo": false,
+   "slack_id": "U0CJ1F6QZC5"
+  }
+ },
+ "U0CHRQ0UY59": {
+  "team_finder": {
+   "name": "Zlata H.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 2nd year",
+   "skills": [
+    "ML / AI",
+    "Pitching",
+    "Backend"
+   ],
+   "looking_for": "Wants creative problem solvers, knows how to plan things, communicators, balance locking in + being silly",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/zlata-honchar-a26625275",
+   "github": "",
+   "instagram": "https://instagram.com/lavendervampirez",
+   "discord": "zlatasaurus",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/zlata-h.jpg",
+   "slack_id": "U0CHRQ0UY59"
+  }
+ },
+ "U0CK806SVB8": {
+  "team_finder": {
+   "name": "Eeshan A.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "ML / AI",
+    "Pitching",
+    "Design"
+   ],
+   "looking_for": "Wants 2x hackathon winner, dont b a chud",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/eeshanagarwal1",
+   "github": "",
+   "instagram": "https://instagram.com/eeshan.agarwal",
+   "discord": ".eeshan",
+   "has_photo": false,
+   "slack_id": "U0CK806SVB8"
+  }
+ },
+ "U0CKP1C6DM0": {
+  "team_finder": {
+   "name": "Eric H.",
+   "status": "Group, looking for 1 more",
+   "school": "Western University",
+   "skills": [
+    "Backend",
+    "Frontend",
+    "Pitching"
+   ],
+   "looking_for": "Needs a designer who is down to clown",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/ericfxh",
+   "github": "https://github.com/Silly-Noodle",
+   "instagram": "https://instagram.com/ercfxh_",
+   "discord": "noodle801",
+   "has_photo": false,
+   "slack_id": "U0CKP1C6DM0"
+  }
+ },
+ "U0CK0RMJP9U": {
+  "team_finder": {
+   "name": "Saiful S.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "First hackathon",
+    "Pitching",
+    "Frontend",
+    "Backend"
+   ],
+   "looking_for": "Wants to have fun, learn, and grind",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/saiful-shaik",
+   "github": "",
+   "instagram": "https://instagram.com/buildwithsaiful",
+   "discord": "saifz.",
+   "has_photo": false,
+   "slack_id": "U0CK0RMJP9U"
+  }
+ },
+ "U0CJX56UHEX": {
+  "team_finder": {
+   "name": "Mithun K.",
+   "status": "Solo, looking for a team",
+   "school": "Western University",
+   "skills": [
+    "Frontend",
+    "Pitching"
+   ],
+   "looking_for": "Wants someone that’s a good all rounder, good at communicating and learns fast",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/mithunk2024",
+   "github": "",
+   "instagram": "https://instagram.com/mithunkan2",
+   "discord": "zw5449",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/mithun-k.jpg",
+   "slack_id": "U0CJX56UHEX"
+  }
+ },
+ "U0CHSHMJHM4": {
+  "team_finder": {
+   "name": "Mohsen S.",
+   "status": "Group, looking for 2 more",
+   "school": "University of California Los Angeles (UCLA), 3rd year",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Backend"
+   ],
+   "looking_for": "Needs familiarity with fpga, LLMs, UI design",
+   "idea": "Quantied, local LLMs outperforming frontier models at x",
+   "linkedin": "https://www.linkedin.com/in/mohsensarrafan",
+   "github": "https://github.com/mohsensc",
+   "instagram": "https://instagram.com/mohsen.sarrafan",
+   "discord": "mohsen_sarrafan",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/mohsen-s.jpg",
+   "slack_id": "U0CHSHMJHM4"
+  }
+ },
+ "U0CHSJ8AEDT": {
+  "team_finder": {
+   "name": "Eric L.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo, 1st year",
+   "skills": [
+    "First hackathon",
+    "ML / AI",
+    "Hardware",
+    "Design"
+   ],
+   "looking_for": "Wants anyone who wants to learn new stuff and is dedicated.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/eric-lu-uw",
+   "github": "https://github.com/crab-oxop",
+   "instagram": "https://instagram.com/crab_oxop",
+   "discord": "oxop",
+   "has_photo": false,
+   "slack_id": "U0CHSJ8AEDT"
+  }
+ },
+ "U0CLLC7UU9W": {
+  "team_finder": {
+   "name": "Reich K.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Hardware",
+    "Backend",
+    "Frontend"
+   ],
+   "looking_for": "Wants academic weapons, would love a hardware project",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/reichkiambati",
+   "github": "https://github.com/rkiambati",
+   "instagram": "https://instagram.com/_r.eich",
+   "discord": "_r.eich1457",
+   "has_photo": false,
+   "slack_id": "U0CLLC7UU9W"
+  }
+ },
+ "U0CK76MKLGL": {
+  "team_finder": {
+   "name": "Rayhan M.",
+   "status": "Solo, looking for a team",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "First hackathon",
+    "Pitching",
+    "Backend",
+    "Hardware"
+   ],
+   "looking_for": "Wants to try doing a hardware project, you can contact me by discord.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/rayhan-mohamed",
+   "github": "https://github.com/overrayted",
+   "instagram": "https://instagram.com/raynoo.m",
+   "discord": "overrayted",
+   "has_photo": false,
+   "slack_id": "U0CK76MKLGL"
+  }
+ },
+ "U0CJRQGSTPS": {
+  "team_finder": {
+   "name": "Radmehr V.",
+   "status": "Solo, looking for a team",
+   "school": "Queen's University, 4th year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Wants builders who can prototype quickly and improvise.",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/radmehrv",
+   "github": "https://github.com/RadmehrVafadar",
+   "instagram": "",
+   "discord": "azo.cs",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/radmehr-v.jpg",
+   "slack_id": "U0CJRQGSTPS"
+  }
+ },
+ "U0CJT362K6C": {
+  "team_finder": {
+   "name": "Krishnam J.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Mobile",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Wants an ideas guy",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/krishnam-jhalani",
+   "github": "",
+   "instagram": "",
+   "discord": "krishnam1717",
+   "has_photo": false
+  }
+ },
+ "U0CHGLQHC07": {
+  "team_finder": {
+   "name": "Muhammad Burhan T.",
+   "status": "Solo, looking for a team",
+   "school": "Wilfrid Laurier University",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants anyone tbf",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/mburhantahir",
+   "github": "https://github.com/Burhan3737",
+   "instagram": "https://instagram.com/mburhantahir",
+   "discord": "burhan9629",
+   "has_photo": false
+  }
+ },
+ "U0CJT130VCG": {
+  "team_finder": {
+   "name": "Michelle D.",
+   "status": "Solo, looking for a team",
+   "school": "University of Waterloo",
+   "skills": [
+    "Hardware",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Wants just a chill guy",
+   "idea": "lwk lets just build sm cool! i rlly like hardware so maybe a combo of that and ml...",
+   "linkedin": "https://www.linkedin.com/in/michelle-dominic",
+   "github": "https://github.com/m76domi98",
+   "instagram": "",
+   "discord": "m.d4722",
+   "has_photo": false
+  }
+ },
+ "U0CJYDZ9YVB": {
+  "team_finder": {
+   "name": "kenneth W.",
+   "status": "Solo, looking for a team",
+   "school": "McMaster University",
+   "skills": [
+    "Backend",
+    "Frontend"
+   ],
+   "looking_for": "Wants claude demon / hardware idea",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/kenneth-wu-6857a0396",
+   "github": "https://github.com/kennethwu08",
+   "instagram": "https://instagram.com/kennethwu_08",
+   "discord": "cookies4life",
+   "has_photo": false
+  }
+ },
+ "U0CK6C947UL": {
+  "team_finder": {
+   "name": "Eric S.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto",
+   "skills": [
+    "Backend",
+    "Pitching",
+    "ML / AI"
+   ],
+   "looking_for": "Wants cool people who wanna cook up cool shit. Open to anything",
+   "idea": "We can make Fable 6.0 and hijack the Anthropic IPO",
+   "linkedin": "https://www.linkedin.com/in/ericyuchensong",
+   "github": "https://github.com/chardxbt",
+   "instagram": "https://instagram.com/Chardxbt_",
+   "discord": "chardxbt",
+   "has_photo": true,
+   "photo_file": "photos/team-finder/eric-s.jpg"
+  }
+ },
+ "U0CHWA4DED8": {
+  "team_finder": {
+   "name": "Andrew T.",
+   "status": "Solo, looking for a team",
+   "school": "University of Toronto, 2nd year",
+   "skills": [
+    "Backend",
+    "ML / AI",
+    "Frontend"
+   ],
+   "looking_for": "Wants people who wants to work on the ambitious ideas and have fun and aim for the win",
+   "idea": "",
+   "linkedin": "https://www.linkedin.com/in/andrew-tu-b7b64733b",
+   "github": "https://github.com/Andrew-Tu225",
+   "instagram": "",
+   "discord": "andrewrabb",
+   "has_photo": false
+  }
+ }
+}

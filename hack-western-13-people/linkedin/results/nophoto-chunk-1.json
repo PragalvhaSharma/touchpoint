@@ -1,0 +1,296 @@
+[
+ {
+  "id": "U0CFW6P7GBG",
+  "name": "Daniel Wang",
+  "linkedin_url": "https://www.linkedin.com/in/daniel04wang",
+  "confidence": "high",
+  "evidence": "LinkedIn slug daniel04wang matches his Slack/email handle exactly; profile lists Ivey Business School at Western, and hackwestern.com lists Daniel Wang as Spon Organizer.",
+  "headline": "Abundant (per LinkedIn title snippet)",
+  "education": "Ivey Business School at Western University",
+  "location": "",
+  "current_work": "Abundant (per LinkedIn snippet); Hack Western 13 Sponsorship Organizer",
+  "candidates": [
+   "https://www.linkedin.com/in/daniel-e-wang"
+  ]
+ },
+ {
+  "id": "U0CJG4298U8",
+  "name": "Pranav Varma",
+  "linkedin_url": "https://ca.linkedin.com/in/pranavarma",
+  "confidence": "high",
+  "evidence": "His resume at pranavvarma.vercel.app links linkedin.com/in/pranavarma and uses the same email handle; profile shows Western CS and Hack Western Web Developer, and hackwestern.com lists him as Web Organizer.",
+  "headline": "Computer science at Western | Wealthsimple",
+  "education": "Western University (Computer Science), 91% average",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "Wealthsimple; Co-President, Western Developers Society; Web Organizer, Hack Western",
+  "candidates": []
+ },
+ {
+  "id": "U0CKSBEEF2M",
+  "name": "Anikesh Bhopal",
+  "linkedin_url": "https://ca.linkedin.com/in/anikesh-bhopal-47376b100",
+  "confidence": "high",
+  "evidence": "Rare full name; LinkedIn title says Scotiabank (matches his scotiabank.com email domain) and LinkedIn directory lists him in London, ON.",
+  "headline": "Scotiabank",
+  "education": "",
+  "location": "London, Ontario, Canada",
+  "current_work": "Scotiabank",
+  "candidates": []
+ },
+ {
+  "id": "U0CKFPTL57E",
+  "name": "George Shao",
+  "linkedin_url": "https://ca.linkedin.com/in/georgeqshao",
+  "confidence": "high",
+  "evidence": "LinkedIn title says StarTech.com, matching his startech.com email domain; directory lists a George Shao in Canada at StarTech.com (Senior Business Analyst).",
+  "headline": "Senior Business Analyst, StarTech.com",
+  "education": "",
+  "location": "Canada",
+  "current_work": "StarTech.com (Senior Business Analyst)",
+  "candidates": [
+   "https://www.linkedin.com/in/georgeshao"
+  ]
+ },
+ {
+  "id": "U0CK7SG4KJT",
+  "name": "Karen Hatherell",
+  "linkedin_url": "https://ca.linkedin.com/in/karenhatherell",
+  "confidence": "high",
+  "evidence": "Slack name is truncated 'Karen Hathe' but email handle is karen.hatherell at canadalife.com; LinkedIn shows Karen Hatherell at Canada Life in London, ON, posting about Hack Western 12.",
+  "headline": "Assistant Vice President, Individual Customer/Wealth Technology, Canada Life",
+  "education": "Fanshawe College",
+  "location": "London, Ontario, Canada",
+  "current_work": "Canada Life (AVP, Individual Customer Technology since Feb 2018 per The Org)",
+  "candidates": []
+ },
+ {
+  "id": "U0CKQDWJF0W",
+  "name": "Vaishak Nair",
+  "linkedin_url": "https://ca.linkedin.com/in/vaishaknair",
+  "confidence": "high",
+  "evidence": "Slack tags him [Canada Life]; LinkedIn shows Vaishak Nair at Canada Life in London, ON, and conference listings name him Director, Infrastructure Automation & SRE at Canada Life.",
+  "headline": "Director, Infrastructure Automation & SRE, Canada Life",
+  "education": "Anna University Chennai, B.Tech Information Technology (2003-2007)",
+  "location": "London, Ontario, Canada",
+  "current_work": "Canada Life (Director, Infrastructure Automation & SRE)",
+  "candidates": []
+ },
+ {
+  "id": "U0CKBM4AUMU",
+  "name": "Yifan Wang",
+  "linkedin_url": "https://ca.linkedin.com/in/yifanwang4869",
+  "confidence": "high",
+  "evidence": "LinkedIn title says StarTech.com, matching his startech.com email domain; directory lists a Yifan Wang in Canada at StarTech.com.",
+  "headline": "StarTech.com",
+  "education": "",
+  "location": "Canada",
+  "current_work": "StarTech.com",
+  "candidates": []
+ },
+ {
+  "id": "U0CJS28U3RA",
+  "name": "Fardin Abbassi",
+  "linkedin_url": "https://ca.linkedin.com/in/fardin-abbassi",
+  "confidence": "high",
+  "evidence": "Rare full name; LinkedIn snippet shows Western University, matching his uwo.ca email and Western org field.",
+  "headline": "London Elite Driving Academy",
+  "education": "Western University",
+  "location": "London, Ontario (inferred)",
+  "current_work": "London Elite Driving Academy (per LinkedIn title)",
+  "candidates": []
+ },
+ {
+  "id": "U0CJJ23C5EZ",
+  "name": "Tracy Su",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Several Tracy Su profiles in Ontario (one with an ElleHacks 2026 team mention), but none ties to Western or Hack Western, and the email handle gives no second signal.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/tracysu6",
+   "https://ca.linkedin.com/in/tracy-su"
+  ]
+ },
+ {
+  "id": "U0CK20NPD7Z",
+  "name": "Amelia Lon",
+  "linkedin_url": "https://sg.linkedin.com/in/amelia-lon-42a649242",
+  "confidence": "high",
+  "evidence": "LinkedIn shows Amelia Lon studying Data Science and Analytics at NUS (matches u.nus.edu email and org), with Mavennet in Toronto and a Hack the North 2026 prize.",
+  "headline": "Data Science and Analytics @ NUS | Mavennet",
+  "education": "National University of Singapore, Data Science and Analytics (2023-2027)",
+  "location": "Singapore (experience in Toronto)",
+  "current_work": "Mavennet (Toronto)",
+  "candidates": []
+ },
+ {
+  "id": "U0CK92CSXDM",
+  "name": "Anton Kuzmichev",
+  "linkedin_url": "https://ca.linkedin.com/in/anton-kuzmichev",
+  "confidence": "medium",
+  "evidence": "Rare name; the LinkedIn profile is a University of Waterloo student in Richmond Hill/Toronto, consistent with an Ontario hackathon participant, but no direct school or handle link to the Slack account.",
+  "headline": "BLCK Optimization Inc.",
+  "education": "University of Waterloo (entrance and presidential scholarships)",
+  "location": "Richmond Hill, Ontario, Canada",
+  "current_work": "BLCK Optimization Inc. (estimation and ML for oil blending software)",
+  "candidates": []
+ },
+ {
+  "id": "U0CJWQ32D0D",
+  "name": "Austin Salter",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Two plausible profiles (Richmond Hill ON at Canlan Sports; Austin TX in ML/marketing); nothing ties either to the Slack account.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/austincsalter",
+   "https://www.linkedin.com/in/austin-salter"
+  ]
+ },
+ {
+  "id": "U0CHNRZ9XTM",
+  "name": "Derek Sun",
+  "linkedin_url": "https://ca.linkedin.com/in/derek-sun",
+  "confidence": "high",
+  "evidence": "Slug derek-sun matches email handle derek.sun; profile is a Computer Science student at University of Toronto, matching his utoronto email and org.",
+  "headline": "Computer Science student @ University of Toronto",
+  "education": "University of Toronto, Computer Science (2025-2028), Focus in Technology Leadership",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "Nova Vacation Homes",
+  "candidates": [
+   "https://www.linkedin.com/in/derekxsun"
+  ]
+ },
+ {
+  "id": "U0CJNUHPMB2",
+  "name": "Eric Lee",
+  "linkedin_url": "https://www.linkedin.com/in/eric-lee99999/",
+  "confidence": "high",
+  "evidence": "Devpost profile eric-pungho-lee uses the same distinctive middle name as his Slack handle, says CS @ UofT, and links this LinkedIn and GitHub ericpungholee.",
+  "headline": "CS @ UofT",
+  "education": "University of Toronto, Computer Science",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "Student",
+  "candidates": []
+ },
+ {
+  "id": "U0CKKUHSR99",
+  "name": "Jennifer Cao",
+  "linkedin_url": "https://ca.linkedin.com/in/jenniferrcao",
+  "confidence": "high",
+  "evidence": "The LinkedIn About section shows her exact Ivey HBA2027 address handle; profile lists Western University 2022-2027 and Ivey Tech Club.",
+  "headline": "Citi | Ivey HBA + Western CS",
+  "education": "Western University 2022-2027; Ivey HBA candidate with Computer Science dual degree",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "Citi (Software Developer, May-Aug 2025); VP Development, Ivey Tech Club",
+  "candidates": []
+ },
+ {
+  "id": "U0CK55JRKNK",
+  "name": "Leo Zhang",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Very common name with a generic email handle and no school or org; many unrelated Leo Zhang profiles (UBC, Waterloo, Toronto) with no way to tell which, if any, is him.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHF794RC7",
+  "name": "Michelle Okolie",
+  "linkedin_url": "https://www.linkedin.com/in/michelleokolie",
+  "confidence": "high",
+  "evidence": "Her public GitHub README (michelleokolie, Honours CS @ UManitoba) lists the same address handle as Slack and links linkedin.com/in/michelleokolie.",
+  "headline": "Honours CS @ University of Manitoba",
+  "education": "University of Manitoba, Honours Computer Science",
+  "location": "Winnipeg, Manitoba, Canada",
+  "current_work": "Technical Support Student, Manitoba Hydro; CS Teaching Assistant, University of Manitoba",
+  "candidates": []
+ },
+ {
+  "id": "U0CKA90R5K9",
+  "name": "Mrida Hingmire",
+  "linkedin_url": "https://ca.linkedin.com/in/mrida-hingmire-768427288",
+  "confidence": "high",
+  "evidence": "Rare full name; LinkedIn says she is a third-year CS student at Western University in London, ON, where Hack Western is held.",
+  "headline": "CS @ Western University",
+  "education": "Western University, Computer Science (third year)",
+  "location": "London, Ontario, Canada",
+  "current_work": "Student; Emirates (Dubai) experience listed; former Off-Campus Soph",
+  "candidates": []
+ },
+ {
+  "id": "U0CKLA79YSF",
+  "name": "Parnia Yazdinia",
+  "linkedin_url": "https://ca.linkedin.com/in/parnia-yazdinia-983703214",
+  "confidence": "medium",
+  "evidence": "Rare full name; GitHub parniayzdin (software engineering student, Ontario) links this LinkedIn, but no school or handle signal ties it to the Slack account itself.",
+  "headline": "McMaster Research",
+  "education": "Software engineering student (school not confirmed; McMaster per LinkedIn title)",
+  "location": "Ontario, Canada",
+  "current_work": "McMaster Research (per LinkedIn title)",
+  "candidates": []
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "name": "Rishi B",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Only a first name and last initial; the Western handle suggests a surname starting Bhaska, but no matching Western profile was found.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CK8B7T68P",
+  "name": "Scott McLaughlin",
+  "linkedin_url": "https://ca.linkedin.com/in/scottmclaughlin2727",
+  "confidence": "high",
+  "evidence": "LinkedIn About shows his Western address handle; his site scottmclaughlin.dev (Western CS) shows the same and links LinkedIn.",
+  "headline": "Computer Science @ Western University",
+  "education": "Western University, BSc Computer Science (Western Scholarship of Distinction, 2025)",
+  "location": "Canada (London, ON)",
+  "current_work": "Brain Tumour Foundation of Canada; VP Projects, Western Founders Network; Project Manager, Tech for Social Impact",
+  "candidates": [
+   "https://ca.linkedin.com/in/scott-mclaughlin-1285a264"
+  ]
+ },
+ {
+  "id": "U0CJ0JMB352",
+  "name": "Sydney Gahunia",
+  "linkedin_url": "https://ca.linkedin.com/in/sydney-gahunia-b9a704318",
+  "confidence": "medium",
+  "evidence": "Very rare full name with only one LinkedIn profile (University of Waterloo, Ontario), but nothing in Slack ties to her school.",
+  "headline": "The Steele Family Foundation",
+  "education": "University of Waterloo",
+  "location": "Ontario, Canada",
+  "current_work": "The Steele Family Foundation (per LinkedIn title)",
+  "candidates": []
+ },
+ {
+  "id": "U0CJAKGD8TT",
+  "name": "Winnie Chen",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Common name; several Ontario Winnie Chen profiles (one with a GryphHacks 2022 2nd place) but no school or handle signal to choose among them.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/winnie-chen-743315196",
+   "https://ca.linkedin.com/in/winniechen11",
+   "https://ca.linkedin.com/in/chenwy"
+  ]
+ }
+]

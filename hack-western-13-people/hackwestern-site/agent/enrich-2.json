@@ -1,0 +1,134 @@
+[
+ {
+  "id": "U0CK5T7G3TN",
+  "name": "Sebastian Sora",
+  "role": "Participant",
+  "email_handle": "sebastiansora.ss",
+  "linkedin_url": "https://ca.linkedin.com/in/sebastian-sora-93884438b",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Sebastian S.\" (University of Windsor, 2nd year).",
+  "team_finder": {
+   "name": "Sebastian S.",
+   "school": "University of Windsor, 2nd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Design"
+   ],
+   "looking_for": "Needs any experience is fine, a committed member is welcome!",
+   "idea": "",
+   "github": "https://github.com/Nightbreaker18",
+   "linkedin": "https://www.linkedin.com/in/sebastian-sora-93884438b"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CKF47KWFL",
+  "name": "Hadi",
+  "role": "Participant",
+  "email_handle": "hadiahmed554",
+  "linkedin_url": "https://ca.linkedin.com/in/hadiahmedd",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Hadi A.\" (University of Toronto, 4th year).",
+  "team_finder": {
+   "name": "Hadi A.",
+   "school": "University of Toronto, 4th year",
+   "skills": [
+    "Backend",
+    "Frontend",
+    "ML / AI"
+   ],
+   "looking_for": "Wants people who want to create cool stuff and down to do crazy things",
+   "idea": "",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/hadiahmedd"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "name": "Shawn X",
+  "role": "Participant",
+  "email_handle": "juniorflybear",
+  "linkedin_url": "https://ca.linkedin.com/in/shawnxionggg",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Shawn X.\" (University of Waterloo). Slack name \"Shawn X\" matches the card name format; no other signal.",
+  "team_finder": {
+   "name": "Shawn X.",
+   "school": "University of Waterloo",
+   "skills": [
+    "ML / AI",
+    "Hardware",
+    "Design"
+   ],
+   "looking_for": "Wants a creative designer that moves fast",
+   "idea": "",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/shawnxionggg"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CK806SVB8",
+  "name": "eeshan2agarwal",
+  "role": "Participant",
+  "email_handle": "eeshan2agarwal",
+  "linkedin_url": "https://ca.linkedin.com/in/eeshanagarwal1",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Eeshan A.\" (Western University).",
+  "team_finder": {
+   "name": "Eeshan A.",
+   "school": "Western University",
+   "skills": [
+    "ML / AI",
+    "Pitching",
+    "Design"
+   ],
+   "looking_for": "Wants 2x hackathon winner, dont b a chud",
+   "idea": "",
+   "github": "",
+   "linkedin": "https://www.linkedin.com/in/eeshanagarwal1"
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CHNGKH90B",
+  "name": "maharjanalvik",
+  "role": "Participant",
+  "email_handle": "maharjanalvik",
+  "linkedin_url": "https://ca.linkedin.com/in/alvikmaharjan",
+  "match_evidence": "Team finder card \"Alvik M.\" (Toronto Metropolitan University) plus email handle maharjanalvik and GitHub of the same name point to the only Alvik Maharjan, a TMU student.",
+  "team_finder": {
+   "name": "Alvik M.",
+   "school": "Toronto Metropolitan University",
+   "skills": [
+    "Hardware",
+    "ML / AI",
+    "Design"
+   ],
+   "looking_for": "Needs someone interested in a hardware project",
+   "idea": "",
+   "github": "",
+   "linkedin": ""
+  },
+  "mentor_page": null
+ },
+ {
+  "id": "U0CKJ8EDPPD",
+  "name": "melinafathi3825",
+  "role": "Participant",
+  "email_handle": "melinafathi3825",
+  "linkedin_url": "https://ca.linkedin.com/in/melina-f-53372b20a",
+  "match_evidence": "Self-listed on the Hack Western team finder card \"Melina F.\" (Western University, 3rd year).",
+  "team_finder": {
+   "name": "Melina F.",
+   "school": "Western University, 3rd year",
+   "skills": [
+    "Frontend",
+    "Backend",
+    "Pitching"
+   ],
+   "looking_for": "Wants pretty chill, tryna build something cool",
+   "idea": "",
+   "github": "https://github.com/Meellinaa",
+   "linkedin": "https://www.linkedin.com/in/melina-f-53372b20a"
+  },
+  "mentor_page": null
+ }
+]

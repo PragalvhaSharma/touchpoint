@@ -1,0 +1,58 @@
+[
+ {
+  "id": "U0CJNQWPZQS",
+  "name": "Aiden Alaei",
+  "role": "Mentor",
+  "email_handle": "maplearman.ca",
+  "new_signals": "Hack Western mentors page lists him as \"Aiden (Arman) Alaei\"; tags: Python, Machine learning, C#, REST APIs. No LinkedIn on the page.",
+  "current": {}
+ },
+ {
+  "id": "U0CK5DBBD17",
+  "name": "omar.soliman030",
+  "role": "Participant",
+  "email_handle": "omar.soliman030",
+  "new_signals": "Team finder card \"Omar S.\", Western University, GitHub github.com/Kingsolima, skills Backend, ML/AI.",
+  "current": {}
+ },
+ {
+  "id": "U0CJ32PDV51",
+  "name": "Nathan Lin",
+  "role": "Participant",
+  "email_handle": "nathan.lin.chungking",
+  "new_signals": "Team finder card \"Nathan L.\", Queen's University, GitHub github.com/nlin1027, first hackathon.",
+  "current": {}
+ },
+ {
+  "id": "U0CJZSV0R2A",
+  "name": "Yifan Gao",
+  "role": "Participant",
+  "email_handle": "yifan.gao.ca",
+  "new_signals": "Team finder card \"Yifan G.\", University of Waterloo. No LinkedIn on the card.",
+  "current": {}
+ },
+ {
+  "id": "U0CHG7ASZGF",
+  "name": "Rishi B",
+  "role": "Participant",
+  "email_handle": "rbhaska2",
+  "new_signals": "Team finder card \"Rishi B.\", Western University, skills Frontend, ML/AI, Hardware. Western email rbhaska2@uwo.ca.",
+  "current": {}
+ },
+ {
+  "id": "U0CJ76B7WCE",
+  "name": "tahaelghadi",
+  "role": "Participant",
+  "email_handle": "tahaelghadi",
+  "new_signals": "Team finder card \"Taha E.\" with GitHub github.com/2talltooha and the same handle as his email (tahaelghadi). Planning a health hardware hack. Current low candidate: linkedin.com/in/taha-el-ghadi (Guelph).",
+  "current": {
+   "confidence": "low"
+  }
+ },
+ {
+  "id": "tf:alexander-s",
+  "name": "Alexander S.",
+  "role": "Participant (team finder only)",
+  "new_signals": "Team finder card, Western University, skills Design, Hardware, Pitching. Card text: Wants academic weapons who are also down to clown.. Instagram handle mr._stojanov suggests surname Stojanov."
+ }
+]

@@ -1,0 +1,517 @@
+[
+  {
+    "id": "U0CJ72GK8V7",
+    "name": "Ian Korovinsky",
+    "role": "Mentor",
+    "organization_or_school": "Hack the North",
+    "title": "Mentor / Judge",
+    "slack_username": "ian",
+    "email_for_identity_matching_only": "ian@hackthenorth.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/ian-korovinsky",
+      "confidence": "high",
+      "evidence": "Headline lists Ex. Hack the North, matching the Slack org and email ian@hackthenorth.com.",
+      "headline": "Software Engineering @ UWaterloo | Ex. Baseten, Hack the North, Thrive Capital, Bloomberg",
+      "current_work": "Ex. Baseten, Hack the North, Thrive Capital, Bloomberg",
+      "education": "University of Waterloo (Software Engineering)",
+      "location": "",
+      "candidates": [],
+      "public_description": "sidequesting · Experience: Hack the North · Education: University of Waterloo · Location: San Francisco Bay Area · 500+ connections on LinkedIn. View Ian Korovinsky’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJ41J2LLT",
+    "name": "Viraj Patel",
+    "role": "Mentor",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "viraj40316",
+    "email_for_identity_matching_only": "viraj40316@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/virajpatell",
+      "confidence": "medium",
+      "evidence": "Viraj Patel, GTA product/startups; a Viraj Patel co-wrote a Hack Western Medium post with Ethan Rong, but the LinkedIn snippet does not show his school.",
+      "headline": "APM Intern @ Google | 2x YC Startups | Prev. Founder",
+      "current_work": "APM Intern @ Google",
+      "education": "",
+      "location": "Greater Toronto Area, Canada",
+      "candidates": [],
+      "public_description": "Product &amp; startups. · Location: Greater Toronto Area, Canada. 500+ connections on LinkedIn. View Viraj Patel’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHE5NL5H7",
+    "name": "Emily Liu",
+    "role": "Organizer",
+    "organization_or_school": "",
+    "title": "Events Organizer",
+    "slack_username": "emi.liu1133",
+    "email_for_identity_matching_only": "emi.liu1133@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/emiliuly",
+      "confidence": "high",
+      "evidence": "LinkedIn lists Events Organizer at Hack Western (Mar 2026), matching her Slack title.",
+      "headline": "Computer Science & Business @ Western University",
+      "current_work": "Events Organizer, Hack Western; prev Projects Director, Western Founders Network",
+      "education": "Western University (CS & Business)",
+      "location": "",
+      "candidates": [],
+      "public_description": "Experience: Content Hero · Education: Western University · Location: Greater Toronto Area, Canada · 500+ connections on LinkedIn. View Emily Liu’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHQ926BCL",
+    "name": "Lillian Wei",
+    "role": "Organizer",
+    "organization_or_school": "Western University",
+    "title": "Design Organizer",
+    "slack_username": "lwei246",
+    "email_for_identity_matching_only": "lwei246@uwo.ca",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/lillianhwei",
+      "confidence": "high",
+      "evidence": "LinkedIn snippet shows lwei246@uwo.ca (matches Slack email) and Design Organizer at Hack Western.",
+      "headline": "Hack Western",
+      "current_work": "Designer at Memento Studios; Design Organizer, Hack Western",
+      "education": "Western University",
+      "location": "Canada",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CDR3H3D7H",
+    "name": "Noah Medland",
+    "role": "Organizer (Sponsorships)",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "noahmedland04",
+    "email_for_identity_matching_only": "noahmedland04@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/noah-medland-72a82b340",
+      "confidence": "high",
+      "evidence": "LinkedIn lists Sponsorship Team Lead at Hack Western (Feb 2026).",
+      "headline": "Finance Student @ Western University",
+      "current_work": "Sponsorship Team Lead, Hack Western",
+      "education": "Western University (Business Management, Finance)",
+      "location": "London, ON",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CJHQJLGQP",
+    "name": "Alexia Lee",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "lee.alexia10",
+    "email_for_identity_matching_only": "lee.alexia10@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/alexia-lee26",
+      "confidence": "medium",
+      "evidence": "Alexia Lee, Western University student in GTA (Code Ninjas); other Alexia Lees are at UBC/McGill/US.",
+      "headline": "Western University",
+      "current_work": "Code Ninjas",
+      "education": "Western University",
+      "location": "Greater Toronto Area, Canada",
+      "candidates": [],
+      "public_description": "Experience: Women+ in Technology Society · Education: Western University · Location: Greater Toronto Area, Canada · 141 connections on LinkedIn. View Alexia Lee’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJ01EL0FK",
+    "name": "Anikait Datta",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "anikait.datta03",
+    "email_for_identity_matching_only": "anikait.datta03@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "none",
+      "evidence": "No LinkedIn found for Anikait Datta; results were Aniket/Anik Dattas in India/Bangladesh/US.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHTN3LEER",
+    "name": "Audrey",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "audreyliang27",
+    "email_for_identity_matching_only": "audreyliang27@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/audrey-liang08",
+      "confidence": "medium",
+      "evidence": "Exact name with a London, Ontario student profile and no conflicting local candidate.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "London, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Experience: Starbucks · Education: Point Grey Secondary · Location: London · 500+ connections on LinkedIn. View Audrey Liang’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJZQPFP6J",
+    "name": "Clark Miller",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "clarkmillermail",
+    "email_for_identity_matching_only": "clarkmillermail@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/clark-miller-b14718290",
+      "confidence": "medium",
+      "evidence": "Clark Miller in London ON, fullstack/embedded developer (github DevClarkMiller, clarkmiller.ca); other Clark Millers are US-based.",
+      "headline": "Fullstack + Embedded Systems Developer",
+      "current_work": "OEC",
+      "education": "",
+      "location": "London, Ontario, Canada",
+      "candidates": [],
+      "public_description": "I am a Fullstack + Embedded Systems Developer entering my 6th and final semester at… · Experience: OEC · Education: Fanshawe College · Location: Canada · 174 connections on LinkedIn. View Clark Miller’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHJHRK1BR",
+    "name": "Dhruvil Patel",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "dhruvilp004",
+    "email_for_identity_matching_only": "dhruvilp004@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Very common name; dozens of Ontario Dhruvil Patels, and the slug closest to the email handle (dhruvilpatel004) is a US profile.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://www.linkedin.com/in/dhruvilpatel004",
+        "https://ca.linkedin.com/in/dhruvilpatel5"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHD5HKNBZ",
+    "name": "Eric Chen",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "cloudec.11",
+    "email_for_identity_matching_only": "cloudec.11@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Very common name; several Ontario student Eric Chens, none tied to the cloudec.11 email.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/eric356",
+        "https://ca.linkedin.com/in/eric-chen11"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHNDGAMK5",
+    "name": "George",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "george.farag166",
+    "email_for_identity_matching_only": "george.farag166@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/gfarag",
+      "confidence": "medium",
+      "evidence": "Exact name; young Ontario student profile with extensive Canadian hackathon participation.",
+      "headline": "Microsoft",
+      "current_work": "Microsoft",
+      "education": "Sheridan College",
+      "location": "Toronto",
+      "candidates": [],
+      "public_description": "Experience: Microsoft · Education: Sheridan College · Location: Toronto · 500+ connections on LinkedIn. View George Farag’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CLBDZD67J",
+    "name": "Ibrahim Farrukh",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "farrukhoglu",
+    "email_for_identity_matching_only": "farrukhoglu@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/ibrahim-farrukh-0aa523193",
+      "confidence": "medium",
+      "evidence": "Only matching profile; based in London, Ontario.",
+      "headline": "Asset Lenz",
+      "current_work": "Asset Lenz",
+      "education": "",
+      "location": "London, Ontario, Canada",
+      "candidates": [],
+      "public_description": "👋 Hey. I’m Ibrahim and I’m a first year pursuing a degree in computer science at Western… · Experience: Asset Lenz · Education: Western University · Location: London · 500+ connections on LinkedIn. View Ibrahim Farrukh’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJZPMGCMU",
+    "name": "Jasmine K.",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "jasminekkumar1",
+    "email_for_identity_matching_only": "jasminekkumar1@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Email implies Jasmine Kumar; a Western student by that name appears in hackathon posts (Hack the Hill, PDS), but no profile URL was found.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CKVKYBK9P",
+    "name": "Juna Kim",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "kimjuna0118",
+    "email_for_identity_matching_only": "kimjuna0118@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/kimjuna",
+      "confidence": "high",
+      "evidence": "Slug kimjuna matches email handle kimjuna0118; Ivey HBA '27 + Software Engineering.",
+      "headline": "SWE Intern @TD | Ivey HBA '27 + Software Engineering Student",
+      "current_work": "SWE Intern, TD",
+      "education": "Ivey HBA + Software Engineering, Western University",
+      "location": "",
+      "candidates": [],
+      "public_description": "I’m a Software Engineering student pursuing a dual degree with the HBA program at Ivey… · Experience: Private Tutor · Education: Ivey Business School at Western University · Location: London · 500+ connections on LinkedIn. View Juna Kim’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHZ7GNSJY",
+    "name": "Layan Al-Hamarneh",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "Red Hat",
+    "slack_username": "mydy.420",
+    "email_for_identity_matching_only": "mydy.420@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/layan-al-hamarneh-550a12298",
+      "confidence": "low",
+      "evidence": "Only profile found is in Edmonton with no Red Hat link.",
+      "headline": "",
+      "current_work": "ASAP POOP Company LLC",
+      "education": "",
+      "location": "Edmonton, Alberta, Canada",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHRQN186R",
+    "name": "Miller Downey",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "miller.05dow",
+    "email_for_identity_matching_only": "miller.05dow@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/millerdowney",
+      "confidence": "high",
+      "evidence": "SWE at uwo who hosts hackathons.",
+      "headline": "Full-Stack Software Engineer | prev @ Mave, Sliq | mllr.ca",
+      "current_work": "",
+      "education": "Western University",
+      "location": "",
+      "candidates": [],
+      "public_description": "I build software, host hackathons, and run a Red Bull sponsored ski rail jam out of my… · Experience: Mave · Education: Western University · Location: Toronto · 500+ connections on LinkedIn. View Miller Downey’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHPHPQ2LV",
+    "name": "Nathan Espejo",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "nate.e.espejo",
+    "email_for_identity_matching_only": "nate.e.espejo@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/nathan-espejo",
+      "confidence": "high",
+      "evidence": "His resume lists this LinkedIn and his exact Slack email.",
+      "headline": "Software Developer at WE MARS",
+      "current_work": "TeraGo intern; 3D Western",
+      "education": "BESc Software Engineering, Western University (2024-2028)",
+      "location": "Brampton, Ontario, Canada",
+      "candidates": [],
+      "public_description": "I&#39;m a third-year Software Engineering co-op student at Western, looking for a co-op term… · Experience: WE MARS · Education: Western University · Location: Brampton · 500+ connections on LinkedIn. View Nathan Espejo’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKS687WHG",
+    "name": "Oladele Magbadelo",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "oj.magbadelo",
+    "email_for_identity_matching_only": "oj.magbadelo@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/oladele-magbadelo",
+      "confidence": "high",
+      "evidence": "CS student at Western University.",
+      "headline": "Computer Science Student at Western University",
+      "current_work": "",
+      "education": "Western University",
+      "location": "",
+      "candidates": [],
+      "public_description": "https://www.magbadelojr.com/ · Experience: Grand Theatre · Education: Western University · Location: N6G 1G9 · 500+ connections on LinkedIn. View Oladele Magbadelo’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJWEL5QN9",
+    "name": "Reuben Varghese",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "reubengvarghese",
+    "email_for_identity_matching_only": "reubengvarghese@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/reubengvarghese",
+      "confidence": "high",
+      "evidence": "Exact name and LinkedIn slug match the email handle; Western University student.",
+      "headline": "Buchan Capital",
+      "current_work": "Buchan Capital",
+      "education": "Western University",
+      "location": "Maple",
+      "candidates": [],
+      "public_description": "Experience: Buchan Capital · Education: Western University · Location: Maple · 500+ connections on LinkedIn. View Reuben Varghese’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKLJ67CJW",
+    "name": "Satvik g",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "sg8gar",
+    "email_for_identity_matching_only": "sg8gar@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Public search returned plausible profiles, but the available text did not uniquely match the Slack participant.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/gargsatvik",
+        "https://ca.linkedin.com/in/satvikgarg15"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CK9C7KTEE",
+    "name": "Tiffany Ho",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "tiffanyho0903",
+    "email_for_identity_matching_only": "tiffanyho0903@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Public search returned plausible profiles, but the available text did not uniquely match the Slack participant.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/tiffany-ho1"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CKBG1Q266",
+    "name": "Yuhao Qin",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "qinmath13",
+    "email_for_identity_matching_only": "qinmath13@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/yuhaoqin",
+      "confidence": "high",
+      "evidence": "Exact name; Western University profile in Oakville, Ontario.",
+      "headline": "DraftParty",
+      "current_work": "DraftParty",
+      "education": "Western University",
+      "location": "Oakville",
+      "candidates": [],
+      "public_description": "email: yqin345@uwo.ca · Experience: DraftParty · Education: Western University · Location: Oakville · 500+ connections on LinkedIn. View Yuhao Qin’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJX58EPE0",
+    "name": "Stephanie Sheng",
+    "role": "Volunteer",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "shengstephanie",
+    "email_for_identity_matching_only": "shengstephanie@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/stephanie-jh-sheng",
+      "confidence": "medium",
+      "evidence": "Only Stephanie Sheng tied to Western: Ivey Business School student joining Kearney Toronto as BA after graduation.",
+      "headline": "Incoming Business Analyst at Kearney; Ivey student",
+      "current_work": "Incoming Business Analyst, Kearney (Toronto)",
+      "education": "Ivey Business School, Western University",
+      "location": "Richmond Hill, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Location: Richmond Hill · 500+ connections on LinkedIn. View Stephanie Sheng’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  }
+]

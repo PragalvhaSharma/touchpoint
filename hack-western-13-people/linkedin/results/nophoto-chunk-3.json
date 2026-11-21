@@ -1,0 +1,296 @@
+[
+ {
+  "id": "U0CFBV046JE",
+  "name": "Lucas Vanderwielen",
+  "linkedin_url": "https://ca.linkedin.com/in/lucas-vanderwielen-5b7947338",
+  "confidence": "high",
+  "evidence": "Search snippet shows 'Honours Specialization in Computer Science @ Western University' with Hack Western as an organization, and hackwestern.com lists Lucas Vanderwielen as Web Organizer.",
+  "headline": "Honours Specialization in Computer Science @ Western University",
+  "education": "Western University, Honours Specialization in Computer Science",
+  "location": "Canada",
+  "current_work": "Hack Western (Web Organizer); LinkedIn directory also lists Bell",
+  "candidates": []
+ },
+ {
+  "id": "U0CJGPV815H",
+  "name": "Ali Mohammed-Ali",
+  "linkedin_url": "https://www.linkedin.com/in/am-uwo",
+  "confidence": "high",
+  "evidence": "His portfolio resume (alimohammed-ali.com/resume.pdf) links linkedin.com/in/am-uwo and states Electrical Engineering at Western University, matching the uwo.ca email and Western org.",
+  "headline": "Electrical Engineering at Western University",
+  "education": "Western University, Bachelor of Engineering Science, Electrical Engineering",
+  "location": "London, Ontario, Canada",
+  "current_work": "Student; research co-op with Prof. Stanimir Metchev's stratospheric infrared camera project (per Waterloo/CBC coverage)",
+  "candidates": []
+ },
+ {
+  "id": "U0CKR957XUJ",
+  "name": "Dave Ticknor",
+  "linkedin_url": "https://ca.linkedin.com/in/dticknor1",
+  "confidence": "high",
+  "evidence": "LinkedIn result 'David Ticknor - Canada Life', London, Ontario, matches canadalife.com email; The Org lists him as Senior IT Automation/DevOps Engineering Specialist and he was a Hack Western 2024 mentor from Canada Life.",
+  "headline": "Canada Life (Senior IT Automation/DevOps Engineering Specialist)",
+  "education": "",
+  "location": "London, Ontario, Canada",
+  "current_work": "Canada Life, Senior IT Automation/DevOps Engineering Specialist",
+  "candidates": []
+ },
+ {
+  "id": "U0CKAU59802",
+  "name": "Jenny Jarvis",
+  "linkedin_url": "https://ca.linkedin.com/in/jenny-jarvis-61a29722",
+  "confidence": "high",
+  "evidence": "LinkedIn headline 'Sr IT Business Systems Analyst at Canada Life, ITILv4', London, Ontario, matches canadalife.com email and Canada Life org.",
+  "headline": "Sr IT Business Systems Analyst at Canada Life, ITILv4",
+  "education": "",
+  "location": "London, Ontario, Canada",
+  "current_work": "Canada Life, Sr IT Business Systems Analyst",
+  "candidates": []
+ },
+ {
+  "id": "U0CJQT97ATT",
+  "name": "Mohamed Toman",
+  "linkedin_url": "https://ca.linkedin.com/in/hadytoman",
+  "confidence": "high",
+  "evidence": "LinkedIn profile 'Mohamed Toman - Software Engineering' with Western University (Software Engineering, 2018-2025) matches the uwo.ca email and Western org for a mentor.",
+  "headline": "Software Engineering",
+  "education": "Western University, Bachelor's degree, Software Engineering (2018-2025)",
+  "location": "Canada",
+  "current_work": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKG9SGRPD",
+  "name": "Vijay M",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Only the last name Maulkhan (from the email handle) is known; no LinkedIn profile for Vijay Maulkhan at Sun Life surfaced, and a business-directory page tying a Vijay Maulkhan to Western's CS Undergraduate Society could not be confirmed.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "Sun Life, Software Quality Engineer (from Slack title)",
+  "candidates": []
+ },
+ {
+  "id": "U0CKGMZ20KS",
+  "name": "Baraka Waweru",
+  "linkedin_url": "https://ca.linkedin.com/in/baraka-waweru",
+  "confidence": "high",
+  "evidence": "LinkedIn headline 'CS & Applied Mathematics @ Western University', London ON, and the profile's About lists the same uwo.ca handle as the Slack email.",
+  "headline": "CS & Applied Mathematics @ Western University",
+  "education": "Western University, Computer Science and Applied Mathematics",
+  "location": "London, Ontario, Canada",
+  "current_work": "Student Tutor at TutorMatch",
+  "candidates": []
+ },
+ {
+  "id": "U0CJ7J1P338",
+  "name": "Khushi Lad",
+  "linkedin_url": "https://ca.linkedin.com/in/khushi-lad-datascience-uwo",
+  "confidence": "medium",
+  "evidence": "Only Khushi Lad profile tied to Western University (Data Science, 2024-2029), consistent with volunteering at Western's hackathon; Slack has no school field, so the Western link is inferred from the volunteer role.",
+  "headline": "Data Science Student @ Western University | Python & SQL | Aspiring Data Scientist | Seeking 2027 Internships",
+  "education": "Western University, BSc Honours Specialization in Data Science (2024-2029)",
+  "location": "Canada",
+  "current_work": "Student",
+  "candidates": [
+   "https://linkedin.com/in/khushi-lad"
+  ]
+ },
+ {
+  "id": "U0CLK8F0H3J",
+  "name": "Abdullokh Tulkinov",
+  "linkedin_url": "https://ca.linkedin.com/in/abdullokh-tulkinov",
+  "confidence": "high",
+  "evidence": "Unique full name; LinkedIn headline 'cs & philosophy @ Western University' links personal site abuu.ca, which matches his Slack display name 'abu'.",
+  "headline": "Computer Science and Philosophy @ Western University",
+  "education": "Western University, Honours Specialization in Computer Science and Major in Philosophy",
+  "location": "Canada",
+  "current_work": "Student; LinkedIn directory lists Lamina Solutions",
+  "candidates": []
+ },
+ {
+  "id": "U0CHYEYEEBE",
+  "name": "Andrew Dai",
+  "linkedin_url": "https://linkedin.com/in/andrew-dai-dev",
+  "confidence": "high",
+  "evidence": "His resume at andrewd.ai lists the same email as the Slack account and links linkedin.com/in/andrew-dai-dev and github.com/PenguinPush.",
+  "headline": "CS @ UWaterloo | 10x hackathon wins | Co-lead @ JAMHacks | Chief of Staff @ TMUN | check out andrewd.ai",
+  "education": "University of Waterloo, Computer Science",
+  "location": "Greater Toronto Area, Canada",
+  "current_work": "AI + Full-Stack Developer; Co-lead @ JAMHacks",
+  "candidates": [
+   "https://www.linkedin.com/in/andrew-dai-5a3415250/",
+   "https://www.linkedin.com/in/andrewdai"
+  ]
+ },
+ {
+  "id": "U0CJ0L8GMMF",
+  "name": "Arnav Pal",
+  "linkedin_url": "https://ca.linkedin.com/in/arnavpal27",
+  "confidence": "medium",
+  "evidence": "Profile 'CS Honors Student @ Western' (ML Engineer @ DiedrichsenLab, site arnavpal.com) fits a participant at Western's hackathon; the only other Canadian Arnav Pal is a Waterloo SE alum, but Slack gives no school, so this rests on the event location.",
+  "headline": "CS Honors Student @ Western | Machine Learning Engineer @ DiedrichsenLab",
+  "education": "Western University, Computer Science (Honors)",
+  "location": "Greater Toronto Area, Canada",
+  "current_work": "Machine Learning Engineer @ DiedrichsenLab",
+  "candidates": [
+   "https://ca.linkedin.com/in/arnavpal"
+  ]
+ },
+ {
+  "id": "U0CHYU0NBS9",
+  "name": "Brayden Leung",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "A Brayden Leung is a Western Engineering student (ES1050 SORTAMENT project team, WE FIRST executive) but no LinkedIn URL for him surfaced; the only Brayden Leung profile found is a 2011-2015 Ivey grad in Hong Kong, likely someone else.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://hk.linkedin.com/in/brayden-leung-748b3a101"
+  ]
+ },
+ {
+  "id": "U0CJNUJTBB2",
+  "name": "Eric F.",
+  "linkedin_url": "https://ca.linkedin.com/in/eric-fu-3020112a5",
+  "confidence": "high",
+  "evidence": "The handle fue9 is a McMaster MacID; LinkedIn 'Eric Fu - iGEM McMaster' (McMaster University) lists that same McMaster address in its About section.",
+  "headline": "iGEM McMaster",
+  "education": "McMaster University",
+  "location": "Vancouver, British Columbia, Canada",
+  "current_work": "iGEM McMaster; MSTRI team page lists an Eric Fu in Payload Hardware",
+  "candidates": []
+ },
+ {
+  "id": "U0CJY5N932L",
+  "name": "Gloria T. Huang",
+  "linkedin_url": "https://ca.linkedin.com/in/gloriathuang",
+  "confidence": "high",
+  "evidence": "LinkedIn slug 'gloriathuang' matches the full name with middle initial T used in the Slack email handle, and the profile lists the Chinese Students' Association at Western University.",
+  "headline": "CIBC",
+  "education": "Western University (Chinese Students' Association listed)",
+  "location": "Markham, Ontario, Canada",
+  "current_work": "CIBC",
+  "candidates": [
+   "https://ca.linkedin.com/in/jiahui-gloria"
+  ]
+ },
+ {
+  "id": "U0CKDQRDKFG",
+  "name": "Kelcie Li",
+  "linkedin_url": "https://ca.linkedin.com/in/kelcie-li-283a58313",
+  "confidence": "medium",
+  "evidence": "Uncommon name; the profile 'Software Engineering & Ivey HBA @ Western University' matches the host school of the hackathon, but Slack lists no school to confirm it.",
+  "headline": "Software Engineering & Ivey HBA @ Western University",
+  "education": "Western University, Software Engineering; Ivey Business School HBA",
+  "location": "Richmond Hill, Ontario, Canada (LinkedIn directory)",
+  "current_work": "Cashew & Clive (part-time, per LinkedIn)",
+  "candidates": []
+ },
+ {
+  "id": "U0CKXK1T3LG",
+  "name": "Malek Hammoud",
+  "linkedin_url": "https://ca.linkedin.com/in/malekhammoud",
+  "confidence": "high",
+  "evidence": "Email domain is his personal site malekhammoud.com, whose resume links linkedin.com/in/malekhammoud (London, Ontario), plus GitHub and Devpost.",
+  "headline": "Software & systems builder; computer science @ McMaster",
+  "education": "McMaster University, Computer Science (first year)",
+  "location": "London, Ontario, Canada",
+  "current_work": "Student; seeking Summer 2027 SWE internship; LinkedIn experience lists Playtoon It, Inc.",
+  "candidates": []
+ },
+ {
+  "id": "U0CJLN8A4Q2",
+  "name": "Moses Justin",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Slack name 'Moses Justin' does not match the email handle (Justin Fang, likely born 2007); several student Justin Fangs exist (Waterloo CS, Waterloo EE, UofT Engineering) with nothing tying one to this account.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/justinfanguw",
+   "https://ca.linkedin.com/in/justinfangjf"
+  ]
+ },
+ {
+  "id": "U0CJ32PDV51",
+  "name": "Nathan Lin",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Very common name and the email handle adds no school; a Queen's CS student in Richmond Hill is plausible but uncorroborated.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/nathan-lin-77906342a"
+  ]
+ },
+ {
+  "id": "U0CKWHRFWF6",
+  "name": "Pragalvha Sharma (you)",
+  "linkedin_url": "https://linkedin.com/in/pragalvha-sharma-389499204",
+  "confidence": "high",
+  "evidence": "This is Prag's own account; URL taken from his personal-information skill.",
+  "headline": "Computer Science + Ivey HBA @ Western",
+  "education": "Western University, Computer Science and Ivey Business School HBA (grad April 2027)",
+  "location": "London, Ontario, Canada",
+  "current_work": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CHP9D7QAH",
+  "name": "Sawaab Anas",
+  "linkedin_url": "https://ca.linkedin.com/in/sawaabanas",
+  "confidence": "high",
+  "evidence": "Unique full name; LinkedIn shows Wilfrid Laurier University and WLU Machine Learning & AI Club activity, matching the mylaurier.ca email and Laurier org.",
+  "headline": "",
+  "education": "Wilfrid Laurier University",
+  "location": "Canada",
+  "current_work": "AWS Student Builder Group Leader at Laurier; Laurier Students' Union Board of Directors; Community Based Research Canada (per LinkedIn)",
+  "candidates": []
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "name": "Shawn X",
+  "linkedin_url": "",
+  "confidence": "none",
+  "evidence": "Only a first name and last initial; the email handle returned no public profile or account to anchor a match.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": []
+ },
+ {
+  "id": "U0CKF2FEZPW",
+  "name": "Thomas Hao",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "A UofT-educated Thomas Hao in Oakville exists but his UofT dates end in 2022 while this participant has an active UofT email; another Toronto Thomas Hao is a high-school IB student, so neither is confirmed.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/thomas-hao-3b8014122"
+  ]
+ },
+ {
+  "id": "U0CHRQ0UY59",
+  "name": "Zlata Honchar",
+  "linkedin_url": "https://ca.linkedin.com/in/zlata-honchar-a26625275",
+  "confidence": "high",
+  "evidence": "Unique name; LinkedIn shows Western AI (Project Manager) in London, Ontario, and she hosts Western's Women In Tech Society events, matching the uwo.ca email and Western org.",
+  "headline": "Project Manager at Western AI",
+  "education": "Western University",
+  "location": "London, Ontario, Canada",
+  "current_work": "Western AI, Project Manager; KKC Classroom fellowship",
+  "candidates": []
+ }
+]

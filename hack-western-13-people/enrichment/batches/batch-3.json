@@ -1,0 +1,515 @@
+[
+  {
+    "id": "U0CHUR8TSDD",
+    "name": "Aleks Bursac",
+    "role": "Mentor",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "aleksbrsc",
+    "email_for_identity_matching_only": "aleksbrsc@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "none",
+      "evidence": "Devpost aleksbrsc matches email, and he founded BearHacks (Toronto), but no LinkedIn profile for him was found; the only Aleksandar Bursac profiles found are unrelated (Serbia, US).",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHPJ2QWMD",
+    "name": "Shaun Ahuja",
+    "role": "Mentor",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "ahuja.shaun00",
+    "email_for_identity_matching_only": "ahuja.shaun00@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/shaun-ahuja",
+      "confidence": "high",
+      "evidence": "Profile About section gives sahuja47@uwo.ca, so Western-affiliated; slug matches name; only Shaun Ahuja found.",
+      "headline": "",
+      "current_work": "",
+      "education": "Western University",
+      "location": "United States (per snippet)",
+      "candidates": [],
+      "public_description": "If you are a student and would like to chat, feel free to reach out at sahuja47@uwo.ca or… · Experience: Meta · Education: Ivey Business School at Western University · Location: New York · 500+ connections on LinkedIn. View Shaun Ahuja’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHUBFV402",
+    "name": "Anson Wang",
+    "role": "Organizer",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "ansonwang20",
+    "email_for_identity_matching_only": "ansonwang20@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/ansonwnng",
+      "confidence": "medium",
+      "evidence": "Anson Wang, CS & Ivey HBA Candidate at Western; hackwestern.com lists him as Marketing Organizer, but the snippet does not mention Hack Western.",
+      "headline": "CS & Ivey HBA Candidate @ Western",
+      "current_work": "Intercept (per snippet)",
+      "education": "Ivey Business School at Western University; Computer Science",
+      "location": "Scarborough, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Experience: Intercept · Education: Ivey Business School at Western University · Location: Scarborough · 500+ connections on LinkedIn. View Anson Wang’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CFCJV2KLJ",
+    "name": "Jessica Wang",
+    "role": "Organizer",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "jessica.wang255",
+    "email_for_identity_matching_only": "jessica.wang255@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/jwang255",
+      "confidence": "high",
+      "evidence": "Slug jwang255 matches email jessica.wang255; LinkedIn lists Design Lead at Hack Western.",
+      "headline": "Product Design | CS + Business @ Western University",
+      "current_work": "Design Lead, Hack Western; Fellowship Director, Ivey Product Society",
+      "education": "Western University (CS + Business)",
+      "location": "",
+      "candidates": [],
+      "public_description": "https://www.jessicaywang.co\n\nHi there! I&#39;m Jessica 🌠 Find me at… · Experience: RBCx · Education: Ivey Business School at Western University · Location: Greater Toronto Area, Canada · 500+ connections on LinkedIn. View Jessica Wang’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CG1UDVAE8",
+    "name": "Alice Nguyen",
+    "role": "Organizer (Sponsorships)",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "alicen.1307",
+    "email_for_identity_matching_only": "alicen.1307@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/alicebtnguyen",
+      "confidence": "high",
+      "evidence": "LinkedIn lists Sponsorship Organizer at Hack Western (Feb 2026).",
+      "headline": "Ivey HBA Candidate 27",
+      "current_work": "Sponsorship Organizer, Hack Western; Director of Events, Women+ in Technology Society",
+      "education": "Ivey Business School at Western University",
+      "location": "",
+      "candidates": [],
+      "public_description": "📧: alicebtnguyen@gmail.com · Experience: Tech for Social Impact · Education: Ivey Business School at Western University · Location: Greater Toronto Area, Canada · 500+ connections on LinkedIn. View Alice Nguyen’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHX9FGFEW",
+    "name": "Adeline Lue Sang",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "addelue",
+    "email_for_identity_matching_only": "addelue@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/adeline-lue-sang",
+      "confidence": "high",
+      "evidence": "Rare exact name; Ivey Business School at Western, Notion London ON experience.",
+      "headline": "",
+      "current_work": "Notion",
+      "education": "Ivey Business School at Western University",
+      "location": "Canada",
+      "candidates": [],
+      "public_description": "aluesang.hba2028@ivey.ca · Experience: Notion · Education: Ivey Business School at Western University · Location: Canada · 500+ connections on LinkedIn. View Adeline Lue Sang’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CHX132TB3",
+    "name": "Anerie Patel",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "aneriep",
+    "email_for_identity_matching_only": "aneriep@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/anerie-patel",
+      "confidence": "medium",
+      "evidence": "Rare spelling 'Anerie P.' (matches aneriep handle), Nepean ON, posted about TechNova hackathon; other results are 'Aneri' Patels.",
+      "headline": "",
+      "current_work": "Ontario Soccer",
+      "education": "",
+      "location": "Nepean, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Experience: Ontario Soccer · Education: Merivale High School · Location: Nepean · 453 connections on LinkedIn. View Anerie P.’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKL5HMTK3",
+    "name": "Arjun Harinath",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "mhaju05",
+    "email_for_identity_matching_only": "mhaju05@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/arjun-harinath",
+      "confidence": "high",
+      "evidence": "Profile About lists mhaju05@gmail.com (exact Slack email); Western University, London ON.",
+      "headline": "",
+      "current_work": "",
+      "education": "Western University",
+      "location": "London, Ontario, Canada",
+      "candidates": [],
+      "public_description": "e: mhaju05@gmail.com · Experience: Dancifier Labs · Education: Western University · Location: London · 500+ connections on LinkedIn. View Arjun Harinath’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJWRV0M7V",
+    "name": "Cailyn Pun",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "cailyn.ch.pun",
+    "email_for_identity_matching_only": "cailyn.ch.pun@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/cailynpun",
+      "confidence": "medium",
+      "evidence": "Rare name; Western University student in London ON (Learning Champs, cailynpun.com); a duplicate profile of the same person exists.",
+      "headline": "",
+      "current_work": "Learning Champs",
+      "education": "Western University",
+      "location": "London, Ontario, Canada",
+      "candidates": [
+        "https://ca.linkedin.com/in/cailyn-pun-888b622a5"
+      ],
+      "public_description": "cpun8@uwo.ca · Experience: HOUSE Canada · Education: Western University · Location: London · 500+ connections on LinkedIn. View Cailyn Pun’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKHHL7UUS",
+    "name": "Daniel Antal",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "danielantal566",
+    "email_for_identity_matching_only": "danielantal566@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/danielantal2",
+      "confidence": "high",
+      "evidence": "Western University 2023-2027 profile listing a HackWestern 12 prize category win.",
+      "headline": "Hitachi Rail",
+      "current_work": "Hitachi Rail",
+      "education": "Western University (3.7 GPA, 2023-2027)",
+      "location": "Richmond Hill, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Hi, Im Daniel 👋\n\nIm currently a 4th year Computer Science student at Western… · Experience: Hitachi Rail · Education: Western University · Location: Richmond Hill · 500+ connections on LinkedIn. View Daniel Antal’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJWD67SAH",
+    "name": "Eliza Anis",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "elizaanis28",
+    "email_for_identity_matching_only": "elizaanis28@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/eliza-anis-281907e",
+      "confidence": "high",
+      "evidence": "Unique name; Western University 2023-2027, Women+ In Tech Society.",
+      "headline": "",
+      "current_work": "",
+      "education": "Western University (2023-2027); Women+ In Tech Society, Ivey Product Society, Ivey AEO",
+      "location": "Greater Toronto Area, Canada",
+      "candidates": [],
+      "public_description": "Hi there! 👋\n\nI’m a CS student at Western University interested in building… · Experience: RBC · Education: Western University · Location: Greater Toronto Area, Canada · 500+ connections on LinkedIn. View Eliza Anis’ profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CLMJCV0JU",
+    "name": "Fahmi Omer",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "fahmiomer02",
+    "email_for_identity_matching_only": "fahmiomer02@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/fahmi-omer",
+      "confidence": "medium",
+      "evidence": "Distinctive name; University of Waterloo 2023-2028 student.",
+      "headline": "Medra",
+      "current_work": "Medra",
+      "education": "University of Waterloo (2023-2028)",
+      "location": "San Francisco, California, United States",
+      "candidates": [],
+      "public_description": "I like building cool and fun things that make people happy and make lives… · Experience: Medra · Education: University of Waterloo · Location: Waterloo · 500+ connections on LinkedIn. View Fahmi Omer’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CLAGRPDCY",
+    "name": "Hania Yasin",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "haniayasin18",
+    "email_for_identity_matching_only": "haniayasin18@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/hania-yasin-aa0721333",
+      "confidence": "high",
+      "evidence": "Unique name; Western Cyber Society, London ON.",
+      "headline": "Western Cyber Society",
+      "current_work": "Western Cyber Society",
+      "education": "",
+      "location": "London, Canada Metropolitan Area",
+      "candidates": [],
+      "public_description": "I’m a CS + SWE student at Western University interested in building technology that… · Experience: Western Cyber Society · Education: Western University · Location: London, Canada Metropolitan Area · 75 connections on LinkedIn. View Hania Yasin’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKAPYUBQX",
+    "name": "James Williamson",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "jaswmson",
+    "email_for_identity_matching_only": "jaswmson@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/jameswmson",
+      "confidence": "high",
+      "evidence": "Slug jameswmson mirrors email handle jaswmson; Western University 2025-2029, Western Founders Network.",
+      "headline": "Brain Tumour Foundation of Canada",
+      "current_work": "Brain Tumour Foundation of Canada",
+      "education": "Western University (2025-2029); Western Founders Network",
+      "location": "",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CKWCQ9LF2",
+    "name": "Jodie Chen",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "jodie.chen.j",
+    "email_for_identity_matching_only": "jodie.chen.j@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "No profile tied to a Canadian university student or the email; only weak candidates.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/jodie-chen-17273a165"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CK04C8XU6",
+    "name": "Kathy Dong",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "kathydongjing",
+    "email_for_identity_matching_only": "kathydongjing@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/kathy-jy-dong",
+      "confidence": "high",
+      "evidence": "Western CS & Ivey HBA (kdong44@uwo.ca); 'jy' fits email kathydongjing.",
+      "headline": "Computer Science & Ivey HBA @ Western University | National Scholar",
+      "current_work": "",
+      "education": "BS Computer Science + BA HBA, Western University / Ivey",
+      "location": "Toronto, Ontario, Canada",
+      "candidates": [],
+      "public_description": "kdong44@uwo.ca · Experience: Western University Housing · Education: Ivey Business School at Western University · Location: Toronto · 500+ connections on LinkedIn. View Kathy Dong’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CLJ0E6TUY",
+    "name": "Maxwell Peng",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "maxwellpeng88",
+    "email_for_identity_matching_only": "maxwellpeng88@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/maxwell-peng-070116246",
+      "confidence": "high",
+      "evidence": "Profile lists mpeng57@uwo.ca (Western).",
+      "headline": "",
+      "current_work": "",
+      "education": "Western University",
+      "location": "Canada",
+      "candidates": [],
+      "public_description": "Hey I&#39;m Maxwell!\nInterested in AI infra, distributed systems and prediction markets… · Experience: Pairenthesis · Education: Western University · Location: Canada · 500+ connections on LinkedIn. View Maxwell Peng’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CKT3GKLJW",
+    "name": "Mollo Hou",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "mologosley",
+    "email_for_identity_matching_only": "mologosley@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/molick-hou-508828328",
+      "confidence": "low",
+      "evidence": "Possible match Molick Hou (Western CS) but first name differs.",
+      "headline": "",
+      "current_work": "",
+      "education": "Computer Science, Western University",
+      "location": "",
+      "candidates": [],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CHGK8R887",
+    "name": "Noah Bradatanu",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "nbrada102",
+    "email_for_identity_matching_only": "nbrada102@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://www.linkedin.com/in/noah-bradatanu",
+      "confidence": "medium",
+      "evidence": "Unique name; CS student at University of Windsor.",
+      "headline": "CompSci student attending University of Windsor",
+      "current_work": "",
+      "education": "University of Windsor",
+      "location": "Windsor, Ontario, Canada",
+      "candidates": [],
+      "public_description": "Education: University of Windsor · Location: Windsor · 20 connections on LinkedIn. View Noah Bradatanu’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CK76MKLGL",
+    "name": "Ray Mohamed",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "rayhan24k",
+    "email_for_identity_matching_only": "rayhan24k@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Public search returned plausible profiles, but the available text did not uniquely match the Slack participant.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/ray-mohamed-b1981324"
+      ],
+      "public_description": ""
+    }
+  },
+  {
+    "id": "U0CK0RMJP9U",
+    "name": "Saiful Shaik",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "saifulshaik47",
+    "email_for_identity_matching_only": "saifulshaik47@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/saiful-shaik",
+      "confidence": "high",
+      "evidence": "Exact name; Western University student beginning in 2026 in Ontario.",
+      "headline": "City of Markham",
+      "current_work": "City of Markham",
+      "education": "Western University",
+      "location": "Greater Toronto Area, Canada",
+      "candidates": [],
+      "public_description": "Experience: City of Markham · Education: Western University · Location: Greater Toronto Area, Canada · 207 connections on LinkedIn. View Saiful Shaik’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJ1CZR717",
+    "name": "Sudrisha Sarkar",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "sudrishasarkar005",
+    "email_for_identity_matching_only": "sudrishasarkar005@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/sudrisha-sarkar",
+      "confidence": "high",
+      "evidence": "Exact uncommon name and LinkedIn slug match the email handle; Western University profile.",
+      "headline": "PointClickCare",
+      "current_work": "PointClickCare",
+      "education": "Western University",
+      "location": "Greater Toronto Area, Canada",
+      "candidates": [],
+      "public_description": "Seeking Winter 2027 and Summer 2027 Internships!\n\nlet&#39;s chat! : ssarka32@uwo.ca · Experience: PointClickCare · Education: Western University · Location: Greater Toronto Area, Canada · 500+ connections on LinkedIn. View Sudrisha Sarkar’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CL1FLR43A",
+    "name": "Xinge Xu",
+    "role": "Participant",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "xingexu1107",
+    "email_for_identity_matching_only": "xingexu1107@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "https://ca.linkedin.com/in/xinge-xu",
+      "confidence": "high",
+      "evidence": "Exact name and LinkedIn slug match the email handle; Western University profile in Ontario.",
+      "headline": "",
+      "current_work": "",
+      "education": "Western University",
+      "location": "Richmond Hill, Ontario, Canada",
+      "candidates": [],
+      "public_description": "xxu767@uwo.ca · Education: Western University · Location: Richmond Hill · 500+ connections on LinkedIn. View Xinge Xu’s profile on LinkedIn, a professional community of 1 billion members."
+    }
+  },
+  {
+    "id": "U0CJBDPBNRF",
+    "name": "Benson Yu",
+    "role": "Volunteer",
+    "organization_or_school": "",
+    "title": "",
+    "slack_username": "yubenson1122",
+    "email_for_identity_matching_only": "yubenson1122@gmail.com",
+    "other_email_for_identity_matching_only": "",
+    "existing_linkedin": {
+      "url": "",
+      "confidence": "low",
+      "evidence": "Benson Yu profiles found are Waterloo (WATurbine) with a University of Western Ontario mention; two slugs, no handle match to yubenson1122.",
+      "headline": "",
+      "current_work": "",
+      "education": "",
+      "location": "",
+      "candidates": [
+        "https://ca.linkedin.com/in/benson-m-yu",
+        "https://ca.linkedin.com/in/benson-yu07"
+      ],
+      "public_description": ""
+    }
+  }
+]

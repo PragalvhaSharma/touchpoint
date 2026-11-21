@@ -1,0 +1,272 @@
+[
+ {
+  "id": "U0CFADPAPLN",
+  "name": "Natalie Wang",
+  "linkedin_url": "https://ca.linkedin.com/in/wang-natalie",
+  "confidence": "high",
+  "evidence": "LinkedIn lists Web Developer at Hack Western (Apr 2026-present, hackwestern.com) and CS & Business at Western, matching her Slack Organizer role.",
+  "headline": "CS & Business @ Western University | Prev @ Lyft",
+  "education": "Western University (CS & Business, Ivey HBA 2028)",
+  "location": "Richmond Hill, Ontario, Canada",
+  "current_work": "Web Developer, Hack Western; prev Lyft",
+  "candidates": []
+ },
+ {
+  "id": "U0CL67M748G",
+  "name": "Amira Antoun",
+  "linkedin_url": "https://ca.linkedin.com/in/amira-antoun",
+  "confidence": "high",
+  "evidence": "Profile headline is Talent Acquisition Lead @ StarTech.com, matching her startech.com email domain and sponsor org.",
+  "headline": "Talent Acquisition Lead @ StarTech.com",
+  "education": "Fanshawe College",
+  "location": "London, Ontario, Canada",
+  "current_work": "StarTech.com, Talent Acquisition Lead",
+  "candidates": []
+ },
+ {
+  "id": "U0CKC7ZB22U",
+  "name": "David Liu",
+  "linkedin_url": "https://ca.linkedin.com/in/davidmakesmoves",
+  "confidence": "medium",
+  "evidence": "Western Software Engineering student and Tech for Social Impact founder whose profile says he ran hackathon prep workshops in partnership with Hack Western; fits the Hack Western mentor role, but the gmail handle does not confirm it and the name is common.",
+  "headline": "Founder of TSI | SDE @ J.D. Power | Third Year SWE at Western University",
+  "education": "Western University, Software Engineering",
+  "location": "Greater Toronto Area, Canada",
+  "current_work": "Software Developer, J.D. Power; Founder, Tech for Social Impact",
+  "candidates": []
+ },
+ {
+  "id": "U0CKALQP8RY",
+  "name": "Jon Rohan",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "TheOrg's Canada Life org chart and a Cyber Hive YXU speaker post name Jonathan Rohan as Sr Platform Engineering Lead at Canada Life, matching his canadalife.com email, but no LinkedIn profile URL surfaced across three search backends.",
+  "headline": "Sr Platform Engineering Lead @ Canada Life (per TheOrg)",
+  "education": "",
+  "location": "Ontario, Canada",
+  "current_work": "Canada Life, Sr Platform Engineering Lead",
+  "candidates": []
+ },
+ {
+  "id": "U0CKCP0MG3T",
+  "name": "Rob Craig",
+  "linkedin_url": "https://ca.linkedin.com/in/robert-craig",
+  "confidence": "high",
+  "evidence": "Profile shows Canada Life (emerging talent recruiting) and Western University, matching his canadalife.com email; a Skillsoft article names Robert Craig as Canada Life's Manager for Emerging Talent.",
+  "headline": "Helping build the next generation of talent at one of Canada's leading financial services companies",
+  "education": "The University of Western Ontario",
+  "location": "Ontario, Canada",
+  "current_work": "Canada Life, Emerging Talent / campus recruiting",
+  "candidates": []
+ },
+ {
+  "id": "U0CJSMGJ3EY",
+  "name": "William Liu",
+  "linkedin_url": "https://ca.linkedin.com/in/liuwllm",
+  "confidence": "high",
+  "evidence": "His public resume on liuwllm.me lists the same email handle and links linkedin.com/in/liuwllm; profile shows Hack Western organizer history (Apr 2023-Nov 2025).",
+  "headline": "Prev @ Meta | CS + Business @ Western",
+  "education": "Western University, CS + Business (fifth year)",
+  "location": "Greater Toronto Area, Canada",
+  "current_work": "Student; prev Meta",
+  "candidates": []
+ },
+ {
+  "id": "U0CHU64DWDD",
+  "name": "Eric Zhang",
+  "linkedin_url": "",
+  "confidence": "low",
+  "evidence": "Common name; a Western business student profile exists but nothing ties it to the gmail handle or the volunteer role.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "current_work": "",
+  "candidates": [
+   "https://linkedin.com/in/ericzhang0105"
+  ]
+ },
+ {
+  "id": "U0CKGMWD1FA",
+  "name": "Skyler Laxman",
+  "linkedin_url": "https://ca.linkedin.com/in/skyler-laxman-1154333a6",
+  "confidence": "high",
+  "evidence": "Rare name and the profile is Global Business and Digital Arts @ UWaterloo, matching her uwaterloo.ca email and org.",
+  "headline": "Global Business and Digital Arts @ UWaterloo",
+  "education": "University of Waterloo, Global Business and Digital Arts",
+  "location": "Canada",
+  "current_work": "HEAL",
+  "candidates": []
+ },
+ {
+  "id": "U0CHD5V9WMV",
+  "name": "Adam Xu",
+  "linkedin_url": "https://ca.linkedin.com/in/adamxu29",
+  "confidence": "medium",
+  "evidence": "Slug adamxu29 and GitHub adamxu29 resemble the email handle adam.xu290, and the profile is an Ontario engineering student (Waterloo Mechatronics, Western Mechatronics), but there is no direct link.",
+  "headline": "Mechatronics Engineering | University of Waterloo",
+  "education": "University of Waterloo, Mechatronics Engineering",
+  "location": "Waterloo, Ontario, Canada",
+  "current_work": "Software Developer, Western Mechatronics",
+  "candidates": []
+ },
+ {
+  "id": "U0CKZ7ABCNL",
+  "name": "Anna deRoos",
+  "linkedin_url": "https://linkedin.com/in/anna-deroos-2607653b2",
+  "confidence": "medium",
+  "evidence": "Rare name with the same 'deRoos' capitalization, and the profile is a CS student at Western University, the host school.",
+  "headline": "CS Student at Western University",
+  "education": "Western University, Computer Science",
+  "location": "East Gwillimbury, Ontario, Canada",
+  "current_work": "Lived Experience Advisor, The Hospital for Sick Children",
+  "candidates": []
+ },
+ {
+  "id": "U0CKEDASQSW",
+  "name": "Ashmita Haldar",
+  "linkedin_url": "https://ca.linkedin.com/in/ashmita-haldar",
+  "confidence": "medium",
+  "evidence": "Rare name; the only matching profile is Toronto-based (NOC Toronto, NiaHealth) with hackathon posts, consistent with attending, but nothing ties it to the yahoo handle.",
+  "headline": "SWE @ NiaHealth | CS + Entrepreneurship @ NUS | NOC Toronto",
+  "education": "National University of Singapore, CS + Entrepreneurship (NOC Toronto)",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "SWE, NiaHealth; UBS Tomorrow's Talent Program (Technology)",
+  "candidates": [
+   "https://www.linkedin.com/in/ashmita-haldar-687714243"
+  ]
+ },
+ {
+  "id": "U0CJVM77UQK",
+  "name": "Daniel M",
+  "linkedin_url": "https://ca.linkedin.com/in/daniel-manguply-baa81b242",
+  "confidence": "high",
+  "evidence": "Email handle mangupli.dan matches Devpost mangupli-dan (Daniel Manguply), whose challenges list Hack Western 13; the LinkedIn for Daniel Manguply is a Waterloo Computer Engineering student based in London, Ontario.",
+  "headline": "First Year Computer Engineering @ UWaterloo",
+  "education": "University of Waterloo, Computer Engineering",
+  "location": "London, Ontario, Canada",
+  "current_work": "Waterloo Aerial Robotics Group",
+  "candidates": []
+ },
+ {
+  "id": "U0CKP1C6DM0",
+  "name": "Eric Huang",
+  "linkedin_url": "https://ca.linkedin.com/in/ericfxh",
+  "confidence": "high",
+  "evidence": "Devpost erichuang200608 (exact email handle) shows a Western Founders Network Product Design Sprint project and the Revamp battery BMS project at Hack the 6ix 2025; this LinkedIn is CS + Ivey HBA at Western and lists Finalist, Hack the 6ix (2025).",
+  "headline": "Computer Science + Ivey HBA @ Western University",
+  "education": "Western University / Ivey Business School, Computer Science + HBA (2028)",
+  "location": "Greater Toronto Area, Canada",
+  "current_work": "Student",
+  "candidates": [
+   "https://ca.linkedin.com/in/eric-huang-12156726b"
+  ]
+ },
+ {
+  "id": "U0CK81EM7K9",
+  "name": "Jack Ruttan",
+  "linkedin_url": "https://ca.linkedin.com/in/jack-ruttan",
+  "confidence": "high",
+  "evidence": "Profile is CS & Math @ Western (Western AI project manager), matching his uwo.ca email and org.",
+  "headline": "AI Systems Engineer @ Lifemark | CS & Math @ Western",
+  "education": "Western University, Computer Science & Math",
+  "location": "Hamilton, Ontario, Canada",
+  "current_work": "AI Systems Engineer, Lifemark Health Group; Project Manager, Western AI",
+  "candidates": []
+ },
+ {
+  "id": "U0CK036RSBS",
+  "name": "Kevin Hill",
+  "linkedin_url": "https://linkedin.com/in/kevin-hill-9291693b0",
+  "confidence": "high",
+  "evidence": "Profile is a Western Computer Science student and hackathon winner, and its listed contact handle shares the distinctive 1302 sequence with his Slack email handle.",
+  "headline": "Western Computer Science Student | Hackathon Winner",
+  "education": "Western University, Computer Science",
+  "location": "",
+  "current_work": "Project Developer, Western Computer Science Undergraduate",
+  "candidates": []
+ },
+ {
+  "id": "U0CJLE5MX1V",
+  "name": "Michael Glean",
+  "linkedin_url": "https://ca.linkedin.com/in/michaelglean",
+  "confidence": "high",
+  "evidence": "GitHub GLeanM (name Michael Glean, bio 'CS @ Western') lists the same address as his Slack email handle, and the LinkedIn is CS @ Western University with the same rare name.",
+  "headline": "CS @ Western University | Prev @ Uber",
+  "education": "Western University, Computer Science",
+  "location": "Canada",
+  "current_work": "DoorDash; prev Uber",
+  "candidates": []
+ },
+ {
+  "id": "U0CK8CMAG3D",
+  "name": "Mousa Adnan",
+  "linkedin_url": "https://ca.linkedin.com/in/mousa-adnan",
+  "confidence": "high",
+  "evidence": "Profile is CS @ Western U, matching his uwo.ca email and org; personal site mousaadnan.com describes the same person.",
+  "headline": "CS @ Western U | AI Security | AI Risk & Governance",
+  "education": "Western University, Honours Specialization in Computer Science",
+  "location": "Oakville, Ontario, Canada",
+  "current_work": "Student",
+  "candidates": []
+ },
+ {
+  "id": "U0CHY7E72SH",
+  "name": "Nathan Schultz",
+  "linkedin_url": "https://ca.linkedin.com/in/nathan-r-a-schultz",
+  "confidence": "high",
+  "evidence": "Profile is CS @ Western, matching his uwo.ca email and org.",
+  "headline": "SWE @ IBM | CS @ Western | Prev @ RBC, Telus",
+  "education": "Western University, Computer Science",
+  "location": "Canada",
+  "current_work": "SWE, IBM",
+  "candidates": []
+ },
+ {
+  "id": "U0CHWG59T7G",
+  "name": "Raihan Carder",
+  "linkedin_url": "https://ca.linkedin.com/in/raihan-carder",
+  "confidence": "high",
+  "evidence": "GitHub raihanCarder matches his email handle and carries the same bio as the LinkedIn headline (SWE Intern @ Rocket | CS @ UofT); the name is rare.",
+  "headline": "SWE Intern @ Rocket | CS @ UofT",
+  "education": "University of Toronto, Computer Science (Software Engineering)",
+  "location": "Toronto, Ontario, Canada",
+  "current_work": "SWE Intern, Rocket",
+  "candidates": []
+ },
+ {
+  "id": "U0CKBE3PG23",
+  "name": "Scarlett Ho",
+  "linkedin_url": "https://ca.linkedin.com/in/scarlett-ho-a44632397",
+  "confidence": "medium",
+  "evidence": "Profile is a first-year CS student at Western in London, Ontario, the host school; no direct tie to the gmail handle.",
+  "headline": "CS @ western",
+  "education": "Western University, Computer Science (first year)",
+  "location": "London, Ontario, Canada",
+  "current_work": "Ivey Research",
+  "candidates": []
+ },
+ {
+  "id": "U0CKS1TDGLA",
+  "name": "Stefan Ilas",
+  "linkedin_url": "https://ca.linkedin.com/in/stefan-ilas1",
+  "confidence": "medium",
+  "evidence": "Rare name and the profile is SWE @ Western University (Asterra, prev Honda); GitHub StefanIlas1 matches the slug, but nothing ties it to the gmail handle.",
+  "headline": "SWE @ Western University | prev. SWE @ Honda | Salesforce Certified",
+  "education": "Western University, Software Engineering",
+  "location": "Canada",
+  "current_work": "Asterra; prev Honda",
+  "candidates": []
+ },
+ {
+  "id": "U0CHSBZ3MKP",
+  "name": "Ved Agwkear",
+  "linkedin_url": "https://ca.linkedin.com/in/vedagwekar",
+  "confidence": "high",
+  "evidence": "Slack name is a typo for Ved Agwekar; the profile is math @ uwaterloo, matching his uwaterloo.ca email and the vagwekar handle, and his site vedagwekar.com confirms Waterloo math.",
+  "headline": "math @ uwaterloo | web dev @ ypc",
+  "education": "University of Waterloo, Mathematics (1A)",
+  "location": "Greater Toronto Area, Canada (from Calgary)",
+  "current_work": "Web dev, Youth Policy Council; flight software, WARG",
+  "candidates": []
+ }
+]

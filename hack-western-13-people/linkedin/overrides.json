@@ -1,0 +1,834 @@
+{
+ "U0CJ41J2LLT": {
+  "confidence": "high",
+  "evidence": "Hack Western live mentors page lists Viraj Patel with this LinkedIn and Slack ID U0CJ41J2LLT. (was low)",
+  "linkedin_url": "https://ca.linkedin.com/in/virajpatell"
+ },
+ "U0CHDAKUDKR": {
+  "confidence": "medium",
+  "linkedin_url": "https://www.linkedin.com/in/jennn-wang/",
+  "evidence": "Chain from the Slack email: Devpost jenn-wang04 (= email handle jenn.wang04) is Jennifer Wang, with Hack Western 10 and Hack Western 12 submissions, and links GitHub jennw4, whose repo 'uwo-timetable-maker' ('vibe coded timetable maker for uwo') places her at Western. LinkedIn /in/jennn-wang is Jennifer Wang, 'WEST Lab @UWO', education Western University, Greater Toronto Area (search snippet). Name + Western school agree, but no direct cross-link between LinkedIn and her GitHub/Devpost, so medium. Snippet also mentions a University of Waterloo School of Pharmacy Rx2029 White Coat Ceremony post, which may be hers or a reshare; unverified. (was low)",
+  "headline": "Jennifer Wang - WEST Lab @UWO (search snippet)",
+  "education": "Western University",
+  "location": "Greater Toronto Area",
+  "candidates": [
+   "https://ca.linkedin.com/in/jenniferwang06"
+  ]
+ },
+ "U0CJGF09XEX": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/liam-tl",
+  "evidence": "Commit email and GitHub email search return liamma06 (Liam Ma, Engineering at Western), whose README, social links, site liamma.com and Devpost liam-jbr-ma (email handle) all link linkedin.com/in/liam-tl. (was high)"
+ },
+ "U0CKF47KWFL": {
+  "confidence": "high",
+  "evidence": "Self-listed on the Hack Western team finder card \"Hadi A.\" (University of Toronto, 4th year).",
+  "linkedin_url": "https://ca.linkedin.com/in/hadiahmedd"
+ },
+ "U0CK0K5GDM4": {
+  "confidence": "medium",
+  "linkedin_url": "https://www.linkedin.com/in/samuel-shi",
+  "evidence": "Name and school both tie. Commit-email search for the Slack email returns commits by GitHub sokosam, whose profile reads 'Samuel Shi', location 'McMaster University', with McMaster Formula Electric repos (MACFE-Firmware-2024, macformula/metrics) and a Hack Western 12 repo. Devpost samuelshiwork links that GitHub and reads 'Software Engineering 2 @ McMaster University'. LinkedIn samuel-shi (public page fetched) is Samuel Shi, McMaster University 2023-2028, now a SWE intern at Stripe (Dashboard team). Medium, not high: sokosam.com (his portfolio, which may link it) is down (HTTP 521) and the Wayback Machine was offline, so there is no direct link. A second slug samuel-shi-910651293 (AMD/RBC/Alectra internships, McMaster SE) seen on aggregators may be the same person under an old slug.",
+  "headline": "Software Engineering Intern, Stripe",
+  "education": "McMaster University (2023-2028), Software Engineering",
+  "location": "San Francisco Bay Area (internship)",
+  "candidates": [
+   "https://www.linkedin.com/in/samuel-shi-910651293"
+  ]
+ },
+ "U0CJSKWJR7X": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/ashleyswmoon",
+  "evidence": "Slack email moonashley889 authored 62 commits as GitHub mswq (author \"Ashley Moon\"; repos ece298a, a Waterloo ECE course, and hw13); LinkedIn ashleyswmoon is Ashley Moon, Computer Engineering @ UWaterloo, Richmond Hill. The GitHub does not link the LinkedIn. (was low)"
+ },
+ "U0CK0RMJP9U": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/saiful-shaik",
+  "evidence": "Self-listed on the Hack Western team finder card \"Saiful S.\" (Western University)."
+ },
+ "U0CJ548UP0W": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/saksham-batra1",
+  "evidence": "Hack Western live mentors page lists Saksham Batra with this LinkedIn and Slack ID U0CJ548UP0W. (was medium) Slack role says Participant, but the site lists him as a mentor."
+ },
+ "U0CKBG1Q266": {
+  "confidence": "medium"
+ },
+ "U0CL1FLR43A": {
+  "confidence": "medium"
+ },
+ "U0CJBNZ8C2V": {
+  "confidence": "medium"
+ },
+ "U0CKQN2C406": {
+  "confidence": "medium"
+ },
+ "U0CJWFZ2V0V": {
+  "confidence": "medium",
+  "evidence": "LinkedIn slug muralishruthi matches email muralishruthi222; profile is an NUS student interning in Toronto, no direct Hack Western link."
+ },
+ "U0CJLQ6PMHV": {
+  "confidence": "high",
+  "evidence": "Hack Western live mentors page lists Surya Sure with this LinkedIn and Slack ID U0CJLQ6PMHV.",
+  "linkedin_url": "https://ca.linkedin.com/in/suryasure"
+ },
+ "U0CHTN3LEER": {
+  "evidence": "Slack shows only \"Audrey\"; surname Liang from email handle audreyliang27 matches the profile name."
+ },
+ "U0CJ27BMTCL": {
+  "evidence": "Self-listed on the Hack Western team finder card \"Daryna V.\" (Humber Polytechnic, 3rd year).",
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/daryna-volytska"
+ },
+ "U0CHNDGAMK5": {
+  "evidence": "Slack shows only \"George\"; surname Farag from email handle george.farag166 matches the profile name.",
+  "confidence": "high"
+ },
+ "U0CK8RAFA7Q": {
+  "confidence": "medium",
+  "evidence": "Slug matches email handle neilpatrickadams; profile is a BlackBerry (QNX parent) developer in Waterloo, but Slack lists him as a participant."
+ },
+ "U0CKSB0SZ1P": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/shouryaw",
+  "evidence": "The Western email [email omitted] gives surname Walia, first initial S and Western enrolment. LinkedIn shouryaw (public page fetched) is Shourya Walia, Western University 2025-2029, Toronto; his posts describe building CramMap, a live study-spot app for Western, Waterloo, McMaster and Laurier (also on the App Store under Shouryajeet Walia). No public commits or Devpost for the handle, so there is no direct link; medium on surname + initial + school.",
+  "headline": "Student founder (CramMap)",
+  "education": "Western University (2025-2029)",
+  "location": "Toronto, Ontario, Canada",
+  "candidates": []
+ },
+ "U0CHYNZC7J8": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/tygo-crawley-034b1a271",
+  "evidence": "authored 100+ commits as GitHub TCrawley11 under the name Tygo Crawley (bio \"SWE Student @ Western University, ML/AI\"); LinkedIn tygo-crawley-034b1a271 is a Western SE student, and BearHacks congratulates Tygo Crawley with Ian Patrick Tan and Dev Chaudhari, matching his commits to IanPTan/CoLa and Dev077/Vendi. (was low)"
+ },
+ "U0CHY7P59TL": {
+  "linkedin_url": "https://www.linkedin.com/in/diya-saxena/",
+  "confidence": "high",
+  "evidence": "Slack email handle matches GitHub and Devpost diyasaxena17 (Diya Saxena, CS + Finance @ UWaterloo, CGI); that GitHub README links /in/diya-saxena. Corrected on review from a Western Diya Saxena.",
+  "headline": "AI FDE @ CGI | CS + Finance @ UWaterloo",
+  "education": "University of Waterloo, CS + Finance",
+  "location": "Waterloo, ON",
+  "current_work": "CGI",
+  "linkedin_photo": "",
+  "banner_photo": ""
+ },
+ "U0CK65L2TNG": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/sarah-gao-175a79297",
+  "evidence": "Chain from the Slack email: commit search on [email omitted] returns GitHub sarahmlgao-sketch (repo lingobunns); Devpost sarahmlgao-sketch (email handle; London, Ontario) lists LingoBunns, TheDaily. and Bat Hat. Her own site sarahgao.ca/my-work lists \"LINGOBUNNS - SheHacks+ 10\" (2nd place, Best Use of ElevenLabs) and \"TheDaily. - Product Design Sprint\", and every page of sarahgao.ca links linkedin.com/in/sarah-gao-175a79297 (CS @ Western). Two independent ties: shared projects plus site link. (was low)",
+  "headline": "CS @ Western",
+  "education": "Western University (BMOS 2025-2029 per LinkedIn education; site says cs + business student)",
+  "location": "London, Ontario, Canada",
+  "candidates": []
+ },
+ "U0CJ2HPUEBW": {
+  "confidence": "low",
+  "linkedin_url": "https://ca.linkedin.com/in/s-lily",
+  "evidence": "Lily Song of sillly.ca (Waterloo CS, SummerHacks Co-Director) self-links linkedin.com/in/s-lily, but nothing ties her to [email omitted]. (was low)"
+ },
+ "U0CJ1967F0R": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/suadalam",
+  "evidence": "Commit email [email omitted] ties GitHub suad52 (Suad Alam, Math + BBA at Waterloo/Laurier), whose social links list linkedin.com/in/suadalam; his README links Devpost suadalam2020 (email handle). (was high)"
+ },
+ "U0CJ76B7WCE": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/taha-el-ghadi",
+  "evidence": "His team-finder GitHub github.com/2talltooha is named Taha El Ghadi and its profile README links linkedin.com/in/Taha-El-Ghadi; the README handle matches his email handle tahaelghadi and describes pre-med plus coding and a health wearable, matching the Guelph health-sciences profile. (was low)"
+ },
+ "U0CHNGKH90B": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/alvikmaharjan",
+  "evidence": "Team finder card \"Alvik M.\" (Toronto Metropolitan University) plus email handle maharjanalvik and GitHub of the same name point to the only Alvik Maharjan, a TMU student."
+ },
+ "U0CHSV19T6H": {
+  "confidence": "medium",
+  "evidence": "Waterloo handle a2baid fits the surname Baid, the Slack org is University of Waterloo, and Anay Baid (Waterloo CS) is already in Slack and matched to this profile; most likely his second account, not confirmed by a cross-link. (verifier: was high)",
+  "linkedin_url": "https://ca.linkedin.com/in/anaybaid"
+ },
+ "U0CKSPQ93AA": {
+  "confidence": "medium",
+  "evidence": " Set to medium (verifier): his site links /in/tejasskaushik, but nothing public ties that site or the LinkedIn to this Slack account, and the spelling differs."
+ },
+ "U0CKC7ZB22U": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/davidmakesmoves",
+  "evidence": "Hack Western live mentors page lists David Liu with this LinkedIn and Slack ID U0CKC7ZB22U."
+ },
+ "U0CHX132TB3": {
+  "confidence": "high"
+ },
+ "U0CK5LRJGFK": {
+  "confidence": "medium"
+ },
+ "U0CKU8R460Y": {
+  "education": "Western University, Mechatronics Engineering",
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/xanderchinxyz",
+  "evidence": "Hack Western live mentors page lists Xander Chin with this LinkedIn and Slack ID U0CKU8R460Y."
+ },
+ "U0CJPSMNNNT": {
+  "location": ""
+ },
+ "U0CJHMNQ0RK": {
+  "headline": "AI Engineer Intern @ RBC | 7x Hackathon Winner | CS @ Carleton",
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/edwin-ngui",
+  "evidence": "Hack Western live mentors page lists Edwin Ngui with this LinkedIn and Slack ID U0CJHMNQ0RK."
+ },
+ "U0CKS687WHG": {
+  "location": "London, Ontario"
+ },
+ "U0CJVAVFW3F": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/lecia-cheng",
+  "evidence": "Hack Western live mentors page lists Lecia Cheng with this LinkedIn and Slack ID U0CJVAVFW3F."
+ },
+ "U0CJDU8AWEQ": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/shivkushwaha",
+  "evidence": "Hack Western live mentors page lists Shivansh Kushwaha with this LinkedIn and Slack ID U0CJDU8AWEQ."
+ },
+ "U0CJQT97ATT": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/hadytoman",
+  "evidence": "Hack Western live mentors page lists Mohamed Toman with this LinkedIn and Slack ID U0CJQT97ATT."
+ },
+ "U0CJSMGJ3EY": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/liuwllm",
+  "evidence": "Hack Western live mentors page lists William Liu with this LinkedIn and Slack ID U0CJSMGJ3EY."
+ },
+ "U0CHUSENRF1": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/hanjaemin",
+  "evidence": "Hack Western live mentors page lists Jaemin Han with this LinkedIn and Slack ID U0CHUSENRF1."
+ },
+ "U0CJE5UCQ6Q": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/rafaykashif",
+  "evidence": "Hack Western live mentors page lists Rafay Kashif with this LinkedIn and Slack ID U0CJE5UCQ6Q."
+ },
+ "U0CJGPV815H": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/am-uwo",
+  "evidence": "Hack Western live mentors page lists Ali Mohammed-Ali with this LinkedIn and Slack ID U0CJGPV815H."
+ },
+ "U0CKHGRGLP2": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/lblommesteyn",
+  "evidence": "Hack Western live mentors page lists Luke Blommesteyn with this LinkedIn and Slack ID U0CKHGRGLP2."
+ },
+ "U0CJSMLB1PE": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/lukasbozinov",
+  "evidence": "Hack Western live mentors page lists Lukas Bozinov with this LinkedIn and Slack ID U0CJSMLB1PE."
+ },
+ "U0CHPJ2QWMD": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/shaun-ahuja",
+  "evidence": "Hack Western live mentors page lists Shaun Ahuja with this LinkedIn and Slack ID U0CHPJ2QWMD."
+ },
+ "U0CJ1NF5PNZ": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/evanliin",
+  "evidence": "Hack Western live mentors page lists Evan Lin with this LinkedIn and Slack ID U0CJ1NF5PNZ. (was medium)"
+ },
+ "U0CJ01EL0FK": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/anikait-datta-b4b866365",
+  "evidence": "Self-listed on the Hack Western team finder card \"Anikait D.\" (Western University)."
+ },
+ "U0CK7B16E0K": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/dinu-dassanayake",
+  "evidence": "Self-listed on the Hack Western team finder card \"Dinu D.\" (University of Toronto)."
+ },
+ "U0CJHQJLGQP": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/alexia-lee26",
+  "evidence": "Self-listed on the Hack Western team finder card \"Alexia L.\" (Western University, 3rd year)."
+ },
+ "U0CKLA79YSF": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/parnia-yazdinia-983703214",
+  "evidence": "Self-listed on the Hack Western team finder card \"Parnia Y.\" (McMaster University)."
+ },
+ "U0CHD5V9WMV": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/adamxu29",
+  "evidence": "Self-listed on the Hack Western team finder card \"Adam X.\" (University of Waterloo)."
+ },
+ "U0CJP4EQ0NL": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/ola-waked",
+  "evidence": "Self-listed on the Hack Western team finder card \"Ola W.\" (Western University). Slack name \"Ola W\" matches the card name format; no other signal."
+ },
+ "U0CJ4SS6JVD": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/shawn-xionggg",
+  "evidence": "His own site shawnxionggg.work links linkedin.com/in/shawn-xionggg; the public page title \"Shawn Xiong - Waterloo, Ontario, Canada\" matches his site and GitHub (University of Waterloo Computer Engineering). Old slug /in/shawnxionggg returns 404.",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": []
+ },
+ "U0CJ0D81FG9": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/david-olayinka-83456b373",
+  "evidence": "Self-listed on the Hack Western team finder card \"David O.\" (University of Toronto)."
+ },
+ "U0CKJ8EDPPD": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/melina-f-53372b20a",
+  "evidence": "Self-listed on the Hack Western team finder card \"Melina F.\" (Western University, 3rd year)."
+ },
+ "U0CK5T7G3TN": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/sebastian-sora-93884438b",
+  "evidence": "Self-listed on the Hack Western team finder card \"Sebastian S.\" (University of Windsor, 2nd year)."
+ },
+ "U0CK39R9J86": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/angelina-elwazzan",
+  "evidence": "Self-listed on the Hack Western team finder card \"Angelina E.\" (University of Waterloo, 2nd year)."
+ },
+ "U0CK3KPFDED": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/liangray-li",
+  "evidence": "Self-listed on the Hack Western team finder card \"Liangray L.\" (Western University)."
+ },
+ "U0CKVJBTV4L": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/besma-serrai-4b9313266",
+  "evidence": "Self-listed on the Hack Western team finder card \"Besma S.\" (Western University)."
+ },
+ "U0CJ0L8GMMF": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/arnavpal27",
+  "evidence": "Self-listed on the Hack Western team finder card \"Arnav P.\" (Western University)."
+ },
+ "U0CK806SVB8": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/eeshanagarwal1",
+  "evidence": "Self-listed on the Hack Western team finder card \"Eeshan A.\" (Western University)."
+ },
+ "U0CJX56UHEX": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/mithunk2024",
+  "evidence": "Self-listed on the Hack Western team finder card \"Mithun K.\" (Western University)."
+ },
+ "U0CHSJ8AEDT": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/eric-lu-uw",
+  "evidence": "Self-listed on the Hack Western team finder card \"Eric L.\" (University of Waterloo, 1st year)."
+ },
+ "U0CK76MKLGL": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/rayhan-mohamed",
+  "evidence": "Self-listed on the Hack Western team finder card \"Rayhan M.\" (Western University, 3rd year)."
+ },
+ "U0CJRQGSTPS": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/radmehrv",
+  "evidence": "Self-listed on the Hack Western team finder card \"Radmehr V.\" (Queen's University, 4th year)."
+ },
+ "U0CK5DBBD17": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/omar-soliman-662939283",
+  "evidence": "The team-finder GitHub (github.com/Kingsolima) hosts his portfolio, which links linkedin.com/in/omar-soliman-662939283; the profile and his site omarsol.dev both say Computer Science at Western, matching the card and the omar.soliman030 email handle. (was low)"
+ },
+ "U0CHG7ASZGF": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/rishi-bhaskara",
+  "evidence": "His Western email handle rbhaska2 fits Rishi Bhaskara and the card says Western; LinkedIn shows a Western B.Sc. Computer Science (2025 to 2029), and his site rishib.me links a LinkedIn and GitHub (RBKesh, named Rishi Bhaskara) with hardware and AI work matching the card's Frontend, ML/AI and Hardware skills. (was none)"
+ },
+ "U0CJ32PDV51": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/nathan-lin-77906342a",
+  "evidence": "Exact name plus Queen's: the profile is a computer science student at Queen's University, matching the team-finder card and his GitHub nlin1027 (Nathan Lin, Computing Student at Queen's University), but nothing cross-links the GitHub and LinkedIn. (was low)"
+ },
+ "U0CJNQWPZQS": {
+  "confidence": "low",
+  "linkedin_url": "",
+  "evidence": "Western's CS graduate-student directory lists an Arman Alaei, which fits a Hack Western mentor, but the only ML-focused LinkedIn found (arman-alaei-a29897181) shows Iran University of Science and Technology and University of the People with no Western or Canada link. (was none)"
+ },
+ "U0CJZSV0R2A": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/yifan-gao-bme",
+  "evidence": "Name plus school and cohort. The Hack Western team-finder card for this Slack ID is 'Yifan G., University of Waterloo', first hackathon, skills design/hardware/backend; Devpost yifan-gao-ca (email handle) is Yifan Gao, Ontario. LinkedIn yifan-gao-bme (public page fetched) is Yifan Gao, University of Waterloo 2026-2031 (first year, slug suggests Biomedical Engineering, fits 'hardware'), Ottawa. Medium only: Yifan Gao is a common name and nothing links the LinkedIn to the email, Devpost or card.",
+  "headline": "",
+  "education": "University of Waterloo (2026-2031)",
+  "location": "Ottawa, Ontario, Canada",
+  "candidates": [
+   "https://ca.linkedin.com/in/yifangao"
+  ]
+ },
+ "U0CHUR8TSDD": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/aleksbrsc",
+  "evidence": "Exact handle aleksbrsc is shared by LinkedIn, GitHub, Devpost and his site; Devpost names Aleks Bursac and BearHacks lists him as founder and coach. (was none)"
+ },
+ "U0CHDPVQ1K9": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/kaisenni",
+  "evidence": "Rare exact full name from nikaisen143 plus current Western Software Engineering independently match the event context. (was none)"
+ },
+ "U0CKG42LRA4": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/sahaib-rakhra",
+  "evidence": "Exact uncommon full name and Western Mathematics and Computer Science match the Canadian hackathon context. (was none)"
+ },
+ "U0CKKF2FE69": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/steven-weller091",
+  "evidence": "Slack alias Skwiglyman publishes ASCIICraft and contributes to Steven Weller ASCIIgL; LinkedIn, Devpost, GitHub and itch.io converge on one Western CS student. (was none)"
+ },
+ "U0CKK1119S7": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/tristanpinzari",
+  "evidence": "Exact uncommon name and handle are used by LinkedIn and GitHub; linked portfolio confirms Western CS and the same projects. (was none)"
+ },
+ "U0CKLUXUG9H": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/yousef-al-wahami",
+  "evidence": "Public portfolio displays the exact Slack email and links LinkedIn and GitHub; Devpost independently uses his full name. (was none)"
+ },
+ "U0CHPGP06PP": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/achabaytah",
+  "evidence": "Commit email [email omitted] ties GitHub maniic (Abdullah Chabaytah, CS 28 at UofT), whose social links list linkedin.com/in/achabaytah. Two signals for a first-name-only Slack name. (was high)"
+ },
+ "U0CHQ9TKBH9": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/danielrltan",
+  "evidence": "Exact email handle is used by GitHub, Devpost, portfolio and LinkedIn; portfolio identifies Western CS plus Ivey. (was none)"
+ },
+ "U0CHWHBDVQ9": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/noah-daniel-levy",
+  "evidence": "Commit email [email omitted] ties GitHub NoahCodes23 (Noah Levy, University of Waterloo), whose social links list linkedin.com/in/noah-daniel-levy; Devpost noahlevy575 equals the email handle. Two signals for a first-name-only Slack name. (was high)"
+ },
+ "U0CHNHTR7K5": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/ali-el-rafih-30713631b",
+  "evidence": "Western handle aelrafi3 maps to Ali El-Rafih; candidate is a current Western CS student whose GitHub has a Hack Western 12 project. (was none)"
+ },
+ "U0CKJLHFL0Z": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/aymannkhann",
+  "evidence": "LinkedIn publicly displays exact institutional email [email omitted]. (was none)"
+ },
+ "U0CJ1SP0CF5": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/marcochen1",
+  "evidence": "Commit email [email omitted] ties GitHub marcocharco (Marco Chen, CS & Ivey HBA at Western), whose social links list linkedin.com/in/marcochen1; Devpost marcochen links the same GitHub and LinkedIn. (was high)"
+ },
+ "U0CJG1UAW30": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/eric-zeng07",
+  "evidence": "Email handle encodes Eric Zeng; candidate is a current Western Engineering student and active robotics and hackathon builder. (was none)"
+ },
+ "U0CK7RWB943": {
+  "confidence": "low",
+  "linkedin_url": "https://linkedin.com/in/hubert-chan-uwo",
+  "evidence": "Verifier downgrade: GitHub Alienator135 is confidently his (commit from [email omitted], Hack-Western-13 repo), but the LinkedIn tie is a common name plus \"uwo\" and is not cross-linked or indexed. LinkedIn UNVERIFIED. (was medium)"
+ },
+ "U0CJ09U2BAM": {
+  "confidence": "medium",
+  "linkedin_url": "https://www.linkedin.com/in/ibrahim-asif-qayyum",
+  "evidence": "Two ties beyond the name. (1) Email handle ibrahimaqayyum reads Ibrahim A. Qayyum, and Devpost ibrahimaqayyum (same handle) is Ibrahim Qayyum, Toronto. (2) The TED.com page for TEDxMcfarren Boulevard Youth (ted.com/tedx/events/61702, MiST Theatre UTM, Mississauga) lists the organizers as Nathan Yan (Organizer), Adam Hjouj (Curation, Mississauga) and Asif Qayyum (Co-organizer, Mississauga). Adam Hjouj is his teammate on all three projects on the email-tied Devpost (NoDoxx, Sea Scanner, FoodWise; verified on each project page), and LinkedIn ibrahim-asif-qayyum lists 'TEDx Event Lead Organizer at TEDxMcFarren Boulevard Youth' (Oct 2024-Sep 2025, Mississauga). Nathan Yan, his DECA teammate, also appears in the LinkedIn's activity. Lead from agent B, verified this pass. Medium, not high: nothing on his own accounts links the LinkedIn directly.",
+  "headline": "cybersec @ intelligenes | engineering + ivey @ uwo",
+  "education": "Western University (Engineering + Ivey, from fall 2026); IB, St. Francis Xavier SS, Mississauga",
+  "location": "Greater Toronto Area, Canada",
+  "candidates": []
+ },
+ "U0CJT362K6C": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/krishnam-jhalani",
+  "evidence": "The uwaterloo.ca userid k2jhalan fits Waterloo's initial + digit + truncated surname pattern for Jhalani; the Waterloo FCI CIVIC Hack page names Krishnam Jhalani, and his site kj12354.github.io (Waterloo CS, AI Developer at Waterloo's Future Cities Institute) links to linkedin.com/in/krishnam-jhalani. No page links the userid itself. (was low)"
+ },
+ "U0CLLJQ0QLQ": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/matiasrivas",
+  "evidence": "Email handle contains exact full name; LinkedIn identity is a Canadian hackathon builder who interned at Shopify and won two 2026 sponsor prizes. (was none)"
+ },
+ "U0CJWP7RR6Z": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/noahkassam",
+  "evidence": "LinkedIn publicly displays exact email [email omitted]. (was none)"
+ },
+ "U0CKMQ98UCB": {
+  "confidence": "medium",
+  "linkedin_url": "https://linkedin.com/in/ella-sajor",
+  "evidence": "Verifier downgrade: GitHub eswizzle22 (commits signed Ella Sajor from [email omitted]) and Devpost sajorella9 confirmed; LinkedIn ella-sajor (CS @ Western) matches on name and school only, not cross-linked. (was high)"
+ },
+ "U0CHY5V35PV": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/vishallbalaji",
+  "evidence": "Public LinkedIn text displays exact institutional email [email omitted]; profile and GitHub identify Western CS plus Ivey. (was none)"
+ },
+ "U0CK00Q5E4W": {
+  "confidence": "none",
+  "linkedin_url": "",
+  "evidence": "Rejected previous candidate yanglluo (Yang Luo, Western CS): his public LinkedIn About lists the Western email [email omitted], a different Western handle from this member's [email omitted], so they are different students. Commit search on [email omitted] returns only GitHub yluo553 (no name, one tutorial repo). No other profile ties to the handle. (was low)",
+  "headline": "",
+  "education": "",
+  "location": "",
+  "candidates": [
+   "https://ca.linkedin.com/in/yanglluo"
+  ]
+ },
+ "U0CKM620NF6": {
+  "confidence": "low",
+  "linkedin_url": "",
+  "evidence": "Western candidate fits zsong, but exact numeric handle is absent. (was none)"
+ },
+ "U0CFF77FQCR": {
+  "confidence": "none",
+  "linkedin_url": "",
+  "evidence": "Confirmed Hack Western Co-Director (hackwestern.com) with Devpost brittneyrachellechong (email handle; project Align), but no LinkedIn found; prior candidate brittney-ch is a Dalhousie freelancer and is rejected. (was low)"
+ },
+ "U0CJ6V473FZ": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/aliu24",
+  "evidence": "Slack email [email omitted] authored 100+ public commits as GitHub andyy-liu, whose profile (bio \"cs + business @ western\") links linkedin.com/in/aliu24. (was low)"
+ },
+ "U0CJW678YAG": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/akhil-sunil-548b07130",
+  "evidence": "Commit email [email omitted] ties GitHub llLucidll (Akhil Sunil); his site looosid.com links linkedin.com/in/akhil-sunil-548b07130, and Devpost akhil10831 (equals email handle) links the same GitHub. (was high)"
+ },
+ "U0CJ00P755Z": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/andrewchu-ca",
+  "evidence": "Commit email [email omitted] ties GitHub andrewchu16 (Andrew Chu, CS at Waterloo), whose social links list linkedin.com/in/andrewchu-ca; Devpost andrew-chu206 (email handle) links the same GitHub. (was high)"
+ },
+ "U0CJ4FY7WKD": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/andrew-wu13",
+  "evidence": "Commit email and GitHub email search return andrewwu13 (Andrew Wu, Computer Engineering at McMaster), whose README and social links list linkedin.com/in/andrew-wu13. (was high)"
+ },
+ "U0CJKNP77BR": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/angela-cheng-0062a5237",
+  "evidence": "Commit email [email omitted] ties GitHub aircon2 (Angela, Business + CS at UBC); GitHub social, README and her site all link linkedin.com/in/angela-cheng-0062a5237; Devpost angelacheng369 links the same GitHub and site. (was high)"
+ },
+ "U0CKUNKP989": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/atika-hussain-573a2b233",
+  "evidence": "Slack email hussainatika12 authored commits as GitHub atikahussain12 (repos uwoFlow, SkinSense-AI-Hackwestern12); Appropedia lists that GitHub as a FAST research group member, and LinkedIn atika-hussain-573a2b233 is a third-year Western CS student working with the FAST Research lab. (was low)"
+ },
+ "U0CHP7YCTS9": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/-ben-zhou-",
+  "evidence": "Commit email [email omitted] and the identical GitHub/Devpost handle benz16107 tie GitHub, Devpost and thebenzhou.com, all of which link linkedin.com/in/-ben-zhou-. (was high)"
+ },
+ "U0CK1H5HDCJ": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/chloe-chan-339819290",
+  "evidence": "is the developer contact for the SnuffleStudy Chrome extension, built by GitHub chloewychan (bio \"cs @uwaterloo\", Markham); her Devpost chloe_wyc lists SnuffleStudy and links that GitHub, chloechan.ca and linkedin.com/in/chloe-chan-339819290. (was low)"
+ },
+ "U0CHJHRK1BR": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/dhruvilpatel5",
+  "evidence": "Commit email [email omitted] ties GitHub Dhruvilp25 (CS at Western), whose social links list linkedin.com/in/dhruvilpatel5; Devpost dhruvilp25 links the GitHub. (was high)"
+ },
+ "U0CHD5HKNBZ": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/eric-chen11",
+  "evidence": "His site eric-chen.ca lists [email omitted] (the Slack email) and links linkedin.com/in/eric-chen11; GitHub cloudec11 (commits authored with the same email) and Devpost cloudec-11 link the same LinkedIn. (was low)"
+ },
+ "U0CJQFY9L84": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/eric-o-neil-b868a0324",
+  "evidence": "Commit email and GitHub email search return ejo6 (Eric O'Neil, CS at Western, README says he is at Hack Western 13), whose social links and README list linkedin.com/in/eric-o-neil-b868a0324. (was high)"
+ },
+ "U0CJP1X0KGQ": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/james-hong-uw",
+  "evidence": "Commit email and GitHub email search return jameshjs (James Hong, CS + Finance at Waterloo); README and social links list linkedin.com/in/james-hong-uw. Devpost jameshjs85 equals the email handle. (was high)"
+ },
+ "U0CJZPMGCMU": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/jasmine-kumar-3ab925297",
+  "evidence": "Commit email [email omitted] ties GitHub scanadens (Jasmine Kumar, London, Canada), whose social links list linkedin.com/in/jasmine-kumar-3ab925297; Devpost jasminekkumar1 equals the email handle. Two signals for a first-name-plus-initial Slack name. (was high)"
+ },
+ "U0CJZMQHAJ3": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/jeffrey-wongg",
+  "evidence": "Commit email and GitHub email search return JeffreyWongg (Jeffrey Wong, ECE at UofT), whose social links list linkedin.com/in/jeffrey-wongg; Devpost jeffrey-wong-businessmail (email handle) links the same GitHub. (was high)"
+ },
+ "U0CJNN4U3PZ": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/kaitlyn-zhu-a5846221a",
+  "evidence": "Slack email kaitlynzhu06 authored commits as GitHub kaitlynrxz (UofT CSC207/258/384 repos, NewHacks-2025); Devpost kaitlynzhu06 shows Meme Stock Watchlist at NewHacks 2025; LinkedIn kaitlyn-zhu-a5846221a is CS & Pharmacology @UofT. No direct cross-link. (was low)"
+ },
+ "U0CJ2T2PM6D": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/fangjing-michael-zhang",
+  "evidence": "Commit email and GitHub email search return elphoun (Michael Zhang, site kalemz.com echoing the kale.mzhang email handle), whose README links linkedin.com/in/fangjing-michael-zhang; Devpost kale-mzhang7132 (email handle) links the same GitHub. (was high)"
+ },
+ "U0CKT3GKLJW": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/molick-hou-508828328",
+  "evidence": "Slack email mologosley authored commits as GitHub Mologos under the names \"Mol\" and \"Molick\"; Devpost mologosley (\"Mol Hou\") lists Cogwalk, also a Mologos repo; LinkedIn molick-hou-508828328 is a Western CS student, and Prof. Agustinus Kristiadi's group lists Molick Hou as a BSc thesis student, matching the Mologos thesis repo. (was low)"
+ },
+ "U0CHZ3AM63E": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/terry-wang1",
+  "evidence": "Commit email [email omitted] ties GitHub owly1 (terry wang, Systems Design Engineering at Waterloo), whose README lists the same email and links linkedin.com/in/terry-wang1. (was high)"
+ },
+ "U0CJQN9L6LA": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/wanyichen946",
+  "evidence": "Devpost wychen946 (equals the Slack email handle, name Wanyi Chen) links linkedin.com/in/wanyichen946 and GitHub wchen946, which commit-email search also ties to [email omitted]. (was high)"
+ },
+ "U0CJH5C83DK": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/victoriayfan",
+  "evidence": "LinkedIn slug victoriayfan equals the Slack email handle victoriayfan47 without the digits (first name + middle initial + surname), Slack name 'vic'; profile is London Central Secondary School (2020-2024, London ON, the hackathon's city) then UWaterloo Mechatronics 2024-2029. Strong handle tie plus consistent local details, but no second independent link. Prior candidate victoria-fanvjf (UPenn) stays rejected.",
+  "headline": "Mechatronics Engineering Student @UWaterloo",
+  "education": "University of Waterloo, BASc Mechatronics, Robotics, and Automation Engineering (2024-2029); London Central Secondary School (2020-2024)",
+  "location": "Ontario, Canada",
+  "candidates": [
+   "https://www.linkedin.com/in/victoria-fanvjf"
+  ]
+ },
+ "U0CJAKGD8TT": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/winniechen3",
+  "evidence": "Slack email winnie.chen005 authored commits as GitHub winnie-c8, which links linkedin.com/in/winniechen3; Devpost winnie-c8 links the same LinkedIn, GitHub and site. (was low)"
+ },
+ "U0CHYU0NBS9": {
+  "confidence": "none",
+  "linkedin_url": "",
+  "evidence": "Email commits go to GitHub braydenleung-Git (Western Engineering: SE3351 and WE FIRST repos; Devpost braydenleung-Git), but no LinkedIn found; candidate brayden-leung-748b3a101 is an Ivey grad in Hong Kong and is rejected. (was low)"
+ },
+ "U0CHXJ4DF5G": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/daniel-hyman-a81a56310",
+  "evidence": "Commit email and GitHub email search return d-hyman (Daniel Hyman, Systems Engineering at Guelph), whose social links list linkedin.com/in/daniel-hyman-a81a56310 and his portfolio. (was high)"
+ },
+ "U0CKTAYB7U1": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/ey6/",
+  "evidence": "His resume at ethanyang.dev lists [email omitted] (the Slack email); GitHub e-yang6, found by searching that email, and his site both link linkedin.com/in/ey6 (ece @ uoft | prev @ sunlife). (was low)"
+ },
+ "U0CK3NUATPB": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/karen-guan-gzy",
+  "evidence": "Commit email [email omitted] ties GitHub karenguann (karen guan, CS at Waterloo), whose social links list linkedin.com/in/karen-guan-gzy; Devpost karenguann links the GitHub. (was high)"
+ },
+ "U0CLH5AHKCY": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/tudor-filimon",
+  "evidence": "Commit email and GitHub email search return tudor-filimon (Tudor Filimon, CS at UWO), whose README lists [email omitted] and links linkedin.com/in/tudor-filimon. (was high)"
+ },
+ "U0CKMEFTATD": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/edisonqu/",
+  "evidence": "Two independent ties: (1) GitHub commit search for [email omitted] returns commits by GitHub user edisonqu (name 'Edison Qu', site edisonqu.com; repos superhack2024, certichain, definso), so the Slack email belongs to that GitHub account; (2) the GitHub handle edisonqu is identical to the LinkedIn slug /in/edisonqu, whose profile (Edison Qu) lists Ivey Business School at Western University (the host school) and Ignition Hacks co-president 2021-2023, consistent with a hackathon builder. Also, his existing Devpost profile 'web3' (Edison Qu) links both GitHub edisonqu and linkedin.com/in/edisonqu directly. (was low)",
+  "headline": "Edison Qu - Friends for Humanity (per LinkedIn search snippet)",
+  "education": "Ivey Business School, Western University",
+  "location": "Toronto, ON (LinkedIn); GitHub says New York City",
+  "candidates": []
+ },
+ "U0CKG9SGRPD": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/VijayMaulkhan",
+  "evidence": "Commit-email search on [email omitted] returns GitHub VijayMaulkhan (named Vijay Maulkhan), whose profile website field is linkedin.com/in/VijayMaulkhan. Two independent signals for a first-name-plus-initial Slack name. (was high)"
+ },
+ "U0CHU68C8HM": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/daniel-legada-2aa688383",
+  "evidence": "Rare full name matches a LinkedIn listing Western University BASc Computer Science 2025-2029 in London, consistent with his Hack Western volunteer role; his email handle decl07 is his Devpost (Daniel Ely Legada) and his email authored commits on GitHub decl1204 (name Daniel Ely Legada), but neither links the LinkedIn. (was none)"
+ },
+ "U0CK55JRKNK": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/leozhang99",
+  "evidence": "Commit email and GitHub user email search both return Leo-Zh9 (Leo Zhang, Systems Design Engineering at Waterloo); his social accounts and README link linkedin.com/in/leozhang99. (was high)"
+ },
+ "U0CJY4AK50F": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/stephenmkshin",
+  "evidence": "His Slack email handle stephenmkshin is exactly his LinkedIn vanity URL, and the LinkedIn snippet also shows [email omitted]; profile is a CS + Ivey HBA student at Western. (was none)"
+ },
+ "U0CHWA4DED8": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b",
+  "evidence": "Verifier downgrade: Medium handle andrew960713147 is Andrew Tu (Math&CS UofT); GitHub Andrew-Tu225 links this LinkedIn but uses a different email, so the Slack-to-GitHub step rests on name and program. (was high)"
+ },
+ "U0CJT130VCG": {
+  "confidence": "high",
+  "linkedin_url": "https://linkedin.com/in/michelle-dominic",
+  "evidence": "Her portfolio michelledominic.dev lists [email omitted] (her Slack email) and links GitHub m76domi98 and LinkedIn in/michelle-dominic. Slack display name is the nickname \"Bong\". (was none)"
+ },
+ "U0CJZPR50SH": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/chandlerxie",
+  "evidence": "Commit email [email omitted] ties GitHub chandlerkx (Chandler Xie, Western CS); his site chandlerxie.ca, linked from GitHub, links linkedin.com/in/chandlerxie. Two independent signals for a first-name-only Slack name. (was high)"
+ },
+ "U0CJLJL9SKH": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/harryyangzy",
+  "evidence": "Commit email [email omitted] ties GitHub harryyangzy (Harry Yang), whose README gives [email omitted] and links harryyang.ca; that site links linkedin.com/in/harryyangzy. (was high)"
+ },
+ "U0CJ5C3JUH0": {
+  "confidence": "medium",
+  "linkedin_url": "https://ca.linkedin.com/in/jiamingchen01",
+  "evidence": "His Slack email [email omitted] authored commits (name Jiaming Chen) on GitHub JadedOut, including Western SE3351 team and Western Developer Society repos and the 3DWestern makerspace backend; the only matching LinkedIn is Jiaming Chen, Software Engineering at Western 2024-2029, which does not cross-link the GitHub. (was none)"
+ },
+ "U0CHRBVEL3V": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/yangjam",
+  "evidence": "GitHub jeojdi1 shows [email omitted] (his Slack email) on its public profile card and links LinkedIn in/yangjam and Devpost Jeojdi. (was none)"
+ },
+ "U0CKF9S15B3": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/abdallah-shabaro-mmv1/",
+  "evidence": "GitHub commit search on the Slack email returns commits by \"Abdallah Shabaro\" on github.com/3boodMMVI (email search also returns that account); its profile README links linkedin.com/in/abdallah-shabaro-mmv1. (was none)"
+ },
+ "U0CLM996C1E": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/johndotpierre",
+  "evidence": "Commit email [email omitted] ties GitHub jpierre-7 (John Pierre), whose social links and personal site both link linkedin.com/in/johndotpierre, matching the Slack email handle exactly. (was high)"
+ },
+ "U0CHGLQHC07": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/mburhantahir",
+  "evidence": "Commit email [email omitted] returns 1,100+ commits by GitHub Burhan3737 (Muhammad Burhan Tahir), whose social links list linkedin.com/in/mburhantahir. Two independent signals for a first-name-only Slack name. (was medium)"
+ },
+ "U0CK6C947UL": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/ericyuchensong",
+  "evidence": "Commit email [email omitted] ties GitHub ChardXBT (Eric Song, Math at UofT); README, site ericsong.tech and Devpost chardxbt all link linkedin.com/in/ericyuchensong. (was high)"
+ },
+ "U0CJR83A8QG": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/jocelyn-chang-a710921b7",
+  "evidence": "Commits authored with [email omitted] (author name Jocelyn Chang) are in GitHub jocelyn-chang repos; that profile says CS + Business at Western and Ivey and its social links list linkedin.com/in/jocelyn-chang-a710921b7. (was high)"
+ },
+ "U0CJYDZ9YVB": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/kenneth-wu-6857a0396",
+  "evidence": "Commit email [email omitted] ties GitHub kennethwu08 (Kenneth Wu); his site kennethwu08.github.io says CS student at McMaster (matching the email domain) and links linkedin.com/in/kenneth-wu-6857a0396. (was high)"
+ },
+ "U0CJW307MEX": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/nancyli15",
+  "evidence": "Commit email [email omitted] ties GitHub nancyli15 (Nancy Li, CS at Western), whose README links linkedin.com/in/nancyli15 and lists the same email; Devpost nancyli15 links the GitHub. (was low)"
+ },
+ "U0CK9C7KTEE": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/tiffany-ho-8158442b7/",
+  "evidence": "Her portfolio source in GitHub tiiffanyho (tied by commit email = Slack email) uses her Slack email as the contact link and links this LinkedIn. (was low)"
+ },
+ "U0CKE4JC25N": {
+  "confidence": "medium",
+  "linkedin_url": "https://www.linkedin.com/in/ryan-yuan-517868416",
+  "evidence": "GitHub RyanY158 is tied by commit email; his Devpost ryany158 lists NaviNate (Best Beginner Hack, Hack the 6ix 2026), and this LinkedIn posted about that NaviNate win. No direct cross-link. (was low)"
+ },
+ "U0CJSE1SREU": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/emily-nz-yu",
+  "evidence": "Two ties: (1) Devpost emilyyu18739 (= Slack email handle emilyyu18739) is Emily Yu, whose portfolio includes TradeOff (Hack the North 2025; won 'Amazon: AWS Campus Champions - Best Use of DynamoDB Streams'; teammates include hAlcLeite) and links GitHub em1190 (Emily Yu); (2) LinkedIn /in/emily-nz-yu (Emily Yu, Ivey Business School / Western University, 'Business Analyst @ RBC') surfaces in search for TradeOff with her own post saying she and teammates built TradeOff for the RBC InvestEase challenge at Hack the North; teammate Henrique Leite (Devpost hAlcLeite) also appears for TradeOff. Same name + same specific project + host school. Post author slug seen only via search snippet, not loaded directly. (was low)",
+  "headline": "Emily Yu - Business Analyst @ RBC (search snippet)",
+  "education": "Ivey Business School, Western University",
+  "location": "Ontario, Canada",
+  "candidates": [
+   "https://ca.linkedin.com/in/emilyyu01",
+   "https://ca.linkedin.com/in/emilyyu07"
+  ]
+ },
+ "U0CHQ6ZCTCM": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/alyssa-huang-06b850399",
+  "evidence": "The LinkedIn profile lists the exact Slack email [email omitted] in its public summary, and its education is Western University (matching the uwo.ca address). Other Alyssa Huangs at Western (alyssa-huang-ca, PhD Education/staff) are different people.",
+  "headline": "Student at Western University",
+  "education": "Western University",
+  "location": "North York, Ontario",
+  "candidates": [
+   "https://linkedin.com/in/alyssa-huang-ca"
+  ]
+ },
+ "U0CHX8NSAVC": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/joanna-liu-ca",
+  "evidence": "Slack email annajjj100 = Devpost annajjj100 ('J L'); her MeloMoods team ties that Devpost to GitHub immortalillusions, whose site joanna-liu.vercel.app ('Hi, I'm Joanna') lists internships as Backend SWE Intern at Ramp and Quant Developer Intern (Portfolio Design and Construction) at CPP Investments. LinkedIn joanna-liu-ca (Western/Ivey, 'Western National Scholar') shows Backend Software Engineer at Ramp (May 2026-) and CPP Investments (May-Aug 2024); CPP's own article lists 'Joanna Liu, Intern Analyst, Portfolio Design & Construction'. Two employer matches plus Western. Weakest link is the Devpost-to-GitHub step (team inference, not a direct link).",
+  "headline": "Western National Scholar",
+  "education": "Ivey Business School at Western University (HBA) + Computer Science (dual degree, per Ivey HBA blog)",
+  "location": "Canada (Ramp role based in New York, NY)",
+  "candidates": []
+ },
+ "U0CJ16DCG92": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/dhyaanam-pandya-9393bb2a1",
+  "evidence": "(1) On a public LinkedIn post (Atticus Moes, DECA guide), commenter 'Dhyaanam Pandya' (profile dhyaanam-pandya-9393bb2a1) posted the exact Slack email '[email omitted]' (2025-09-03). (2) Handle dpandy7 = D. Pandya; LinkedIn headline 'Chemical Engineering @ Western University', and Western Engineering's Student Ambassadors page lists Dhyaanam Pandya, Second Year Chemical Engineering.",
+  "headline": "Laboratory Researcher | Student Ambassador | Chemical Engineering @ Western University",
+  "education": "Western University, Chemical Engineering (second year in 2026-27)",
+  "location": "Ontario, Canada",
+  "candidates": []
+ },
+ "U0CKECV7E92": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/daniel04wang",
+  "evidence": "Public LinkedIn summary reads 'E: [email omitted]' (exact Slack email); education lists Ivey Business School at Western University, matching the uwo.ca address.",
+  "headline": "Prev @ Abundant (YC F24), A1Base, NimbleRx, KPMG",
+  "education": "Ivey Business School at Western University",
+  "location": "San Francisco, CA (LinkedIn); Burnaby in another snippet",
+  "candidates": []
+ },
+ "U0CJJ7RKQ2W": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/thomson-lam-260b67292",
+  "evidence": "(1) Hack Western 13 team-finder card 'Zhan Hang Thomson L.' (Western University, 4th year) links this LinkedIn and github.com/Thomson-Lam; no other Thomson/Lam in the Slack and the card has no other Slack match, while Slack handle lamzhanhang = Zhan Hang Lam and Devpost lamzhanhang displays 'Zhan Hang Lam'. (2) GitHub Thomson-Lam profile README ('Thomson Lam') links the same LinkedIn and has Western CS course repos (CS 3307, CS 3357, CS 4453). LinkedIn page itself 999 to logged-out curl, so headline not read.",
+  "headline": "Research @ BAL | Quantum + ML | CS @ Western",
+  "education": "Western University (Computer Science)",
+  "location": "Markham, Ontario, Canada",
+  "candidates": []
+ },
+ "U0CHXQH2NCW": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/anastasiya-volgina",
+  "evidence": "Her email-tied GitHub and Devpost (Anastasiya006; commit-email search returns her name) both link linkedin.com/in/anastasiya-volgina and anastasiyavolgina.com. (was medium)"
+ },
+ "U0CJ0JMB352": {
+  "confidence": "high",
+  "linkedin_url": "https://ca.linkedin.com/in/sydney-gahunia-b9a704318",
+  "evidence": "Her own GitHub README (sydneygahunia-wq) links linkedin.com/in/sydney-gahunia-b9a704318, and her site sydneygahunia.com matches the headline (Systems Design Engineering @ UWaterloo). (was medium)"
+ },
+ "U0CKS6CFJM8": {
+  "confidence": "medium",
+  "linkedin_url": "https://www.linkedin.com/in/brian-huang-2b581a35a",
+  "evidence": "Name plus school/location tie. Devpost bhuan84497 (username equals Slack email handle) is Brian Huang, London, Ontario, registered for Hack Western 13; GitHub speedweeweeman (92 commits from the Slack email) shows a beginner-to-app progression in summer 2026, consistent with a first-year student. LinkedIn brian-huang-2b581a35a (public page fetched) is Brian Huang, Ottawa, Western University (Ivey AEO, 2026-2030), Merivale High School, Odyssey Products Canada, and is tagged in a HackMIT 2026 hackathon post. A first-year Western student living in London matches the Devpost. Medium: no account links the LinkedIn directly and the name is common.",
+  "headline": "",
+  "education": "Western University, Ivey AEO (2026-2030); Merivale High School, Ottawa",
+  "location": "Ottawa, Ontario, Canada (hometown); London, Ontario per Devpost",
+  "candidates": [
+   "https://ca.linkedin.com/in/brian-huang-01647a179",
+   "https://ca.linkedin.com/in/brian-yc-huang"
+  ]
+ },
+ "U0CJLN8A4Q2": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/justinfangjf",
+  "evidence": "Devpost justinfang2007 (exact Slack email handle) is located Ottawa, Ontario; justinfangjf public page shows University of Waterloo, current Ciena, location Ottawa, Ontario; the other candidate justinfanguw is at CareHawk Safety Communications. Name Justin Fang comes from the email handle; GitHub justinfangg README says University of Waterloo Computer Science. (was low) Extra support found this pass: GitHub justinfangg (tied to the email-handle Devpost via his Third Guard project repo) lists linkedin.com/in/justinfangjf as a social account, which by itself would meet the bar for high; kept at medium per the user's decision. Raised to high: GitHub justinfangg (linked from his email-handle Devpost project) lists linkedin.com/in/justinfangjf as its social account.",
+  "headline": "Ciena",
+  "education": "University of Waterloo",
+  "location": "Ottawa, Ontario, Canada",
+  "candidates": [
+   "https://ca.linkedin.com/in/justinfanguw"
+  ]
+ },
+ "U0CKJ2JPQ11": {
+  "confidence": "high",
+  "linkedin_url": "https://www.linkedin.com/in/ColinWang001",
+  "evidence": "His own site colinwang.dev lists the exact Slack email [email omitted] (mailto) and links linkedin.com/in/ColinWang001 and GitHub passman300 (Colin Wang, Computer Engineer @UWaterloo). The LinkedIn public page (indexed) shows University of Waterloo and onsemi, matching the site (onsemi Wireless Firmware Intern, Sep-Dec 2026). Two independent ties: exact email on his own site plus site link. (was low)",
+  "headline": "Wireless Firmware Intern, onsemi",
+  "education": "University of Waterloo, Computer Engineering",
+  "location": "Waterloo, Ontario, Canada",
+  "candidates": []
+ }
+}

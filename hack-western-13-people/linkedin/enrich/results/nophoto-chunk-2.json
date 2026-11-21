@@ -1,0 +1,1035 @@
+[
+ {
+  "id": "U0CFDTA0BR7",
+  "name": "Holia Zhang",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/holiazhang",
+   "evidence": "GitHub name Holia Zhang, same 'holiazhang' slug as her LinkedIn; rare name (only profile-config repo)"
+  },
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University, Computer Science (Faculty of Science)",
+  "grad_year": "2029 (LinkedIn education 2025-2029)",
+  "current_role": "Organizer, Hack Western",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [
+   "Betty Schecter Memorial Scholarship (2026), for first-year women in Western Computer Science",
+   "Principal's Award for Student Leadership (Jun 2025)",
+   "FBLA Canada Top 3 Finalist, 3rd in Business Management (Feb 2024)"
+  ],
+  "clubs_leadership": [
+   "Hack Western organizer",
+   "Western Piano Society",
+   "Western Blockbuster"
+  ],
+  "skills_interests": [
+   "DELF B2 French",
+   "CSIA Level 1 ski instructor",
+   "RCM Level 10 Theory (piano)"
+  ],
+  "talking_points": [
+   "Ask what she is running at Hack Western 13 this weekend",
+   "She won the Betty Schecter scholarship for first-year CS women; ask how first-year CS went",
+   "Piano Society plus RCM Level 10 theory: ask whether she still plays"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/holiazhang",
+   "https://github.com/holiazhang"
+  ],
+  "confidence_notes": "No Devpost or personal site found under holiazhang.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKMDV2WN9",
+  "name": "Alex Sikora",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University (per LinkedIn education)",
+  "grad_year": "",
+  "current_role": "Senior Product Developer, StarTech.com, London ON (since Apr 2024)",
+  "past_roles": [
+   "Product Developer, StarTech.com"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Product development (connectivity and IT hardware)"
+  ],
+  "talking_points": [
+   "Ask what a Senior Product Developer at StarTech.com works on, from idea to shelf",
+   "Western alum at a London tech company: ask how he got into product development",
+   "Ask what StarTech.com wants to see from hackers this weekend"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/alex-sikora"
+  ],
+  "confidence_notes": "GitHub alexsikora exists but has no location or employer, and another Alex Sikora works at Salesforce, so it was excluded.",
+  "status": "done"
+ },
+ {
+  "id": "U0CL68L4UQ0",
+  "name": "Chi Zhang",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Fanshawe College, electrical engineering technician (2013-2015, Dean's Honour Roll)",
+  "grad_year": "",
+  "current_role": "StarTech.com (London, ON)",
+  "past_roles": [
+   "Welcome Ambassador, Fanshawe College International Department (2014)"
+  ],
+  "projects": [
+   {
+    "name": "Auto Garbage Bin",
+    "summary": "Fanshawe design project: automated garbage bin",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Stage manager, London Chinese Association (volunteer, since 2015)"
+  ],
+  "skills_interests": [
+   "Electrical engineering",
+   "Factory automation and process control"
+  ],
+  "talking_points": [
+   "Ask what his team at StarTech.com builds and what they want hackers to try",
+   "Fanshawe electrical engineering grad: ask how hardware testing works at a connectivity company"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/chi-zhang-06b213a0"
+  ],
+  "confidence_notes": "No personal site, GitHub or Devpost found.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHUSENRF1",
+  "name": "Jaemin Han",
+  "personal_site": {
+   "url": "https://www.jaeminhan.dev/",
+   "evidence": "Blog by Jaemin Han that links github.com/xpuffball and linkedin.com/in/hanjaemin; hosts the same Minecraft LLM article he published on Towards Data Science under the j4emin-han author slug"
+  },
+  "github": {
+   "url": "https://github.com/xPuffball",
+   "evidence": "Name Jaemin Han, University of Waterloo; linked from jaeminhan.dev"
+  },
+  "devpost": {
+   "url": "https://devpost.com/xPuffball",
+   "evidence": "Devpost 'Jaemin Han (xPuffball)' links github.com/xPuffball"
+  },
+  "other_professional_links": [
+   {
+    "url": "https://towardsdatascience.com/author/j4emin-han/",
+    "label": "Towards Data Science author page",
+    "evidence": "Author slug j4emin-han matches his handle; LinkedIn hanjaemin announces the same TDS article"
+   }
+  ],
+  "school_program": "University of Waterloo, Statistics/Computing (data science and software engineering)",
+  "grad_year": "",
+  "current_role": "Waterloo student; writes LLM and data-science articles for Towards Data Science",
+  "past_roles": [
+   "Undergraduate Research Assistant, University of Waterloo (Jan 2024 - Mar 2025)"
+  ],
+  "projects": [
+   {
+    "name": "Attack of the B(ot) Team",
+    "summary": "LLM-controlled mobs lay siege to his Minecraft house as an LLM benchmark (Towards Data Science, Aug 2026)",
+    "url": "https://www.jaeminhan.dev/"
+   },
+   {
+    "name": "PhysicalReasoningBench",
+    "summary": "Benchmark for evaluating physical reasoning in LLMs",
+    "url": "https://github.com/xPuffball/PhysicalReasoningBench"
+   },
+   {
+    "name": "VCDash",
+    "summary": "Canvas tool for VCs to arrange charts on Canada's startup landscape (CxC 2025)",
+    "url": "https://devpost.com/software/vcdash"
+   },
+   {
+    "name": "Macaron",
+    "summary": "NLP news app to stay informed without overload (nwHacks 2021)",
+    "url": "https://devpost.com/software/macaron"
+   }
+  ],
+  "hackathon_wins": [
+   "CxC 2025: runQL Challenge (VCDash)",
+   "nwHacks 2021: The Perfect Pitch (Deloitte) and Honorable Mention (Macaron)"
+  ],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "LLM benchmarks and evals",
+   "NLP",
+   "Reinforcement learning",
+   "Data science",
+   "Python, JAX"
+  ],
+  "talking_points": [
+   "Ask how the LLM did laying siege to his Minecraft house, and whether it cheated",
+   "He won the runQL challenge at CxC with VCDash: ask what they found about Canada's startup landscape",
+   "Ask what he plans to mentor on this weekend: LLM evals or data science"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/hanjaemin",
+   "https://www.jaeminhan.dev/",
+   "https://github.com/xPuffball",
+   "https://devpost.com/xPuffball",
+   "https://devpost.com/software/vcdash",
+   "https://devpost.com/software/macaron"
+  ],
+  "confidence_notes": "Linked through the j4emin-han TDS slug and the blog's cross-links. Mentor role suggests a senior student; exact year not found.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKL69FT3P",
+  "name": "May Au Yong",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "",
+  "grad_year": "",
+  "current_role": "StarTech.com, London ON; manages a data analytics team (supply chain, product and market intelligence analytics)",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Data analytics",
+   "Power BI",
+   "Microsoft Fabric (Fabric Analyst in a Day, 2025)"
+  ],
+  "talking_points": [
+   "She hires data analysts at StarTech.com: ask what the team looks for in student or co-op hires",
+   "Her team built Market Intelligence pipelines on Microsoft Fabric: ask how they use it"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/may-au-yong-8805813"
+  ],
+  "confidence_notes": "Title not shown in public snippets; manager role inferred from her own 'on my team' hiring posts and a direct report's thank-you post.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKPG30EPQ",
+  "name": "Veronica Zhao",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "url": "https://glo.iiba.org/page/support-team",
+    "label": "IIBA Greater London Ontario chapter support team",
+    "evidence": "Lists 'Veronica Zhao, CPOA, CBDA'; a LinkedIn post tags Veronica (Mengchen) Zhao alongside the same IIBA GLO members"
+   }
+  ],
+  "school_program": "Western University, MESc Software Engineering (Specialization in AI)",
+  "grad_year": "",
+  "current_role": "Data Analyst, StarTech.com (since Sept 2024)",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [
+   "CPOA and CBDA certifications (per IIBA GLO listing)"
+  ],
+  "clubs_leadership": [
+   "IIBA Greater London Ontario chapter support team"
+  ],
+  "skills_interests": [
+   "Data analysis",
+   "Business analysis",
+   "AI and software engineering"
+  ],
+  "talking_points": [
+   "Western MESc grad now a StarTech.com data analyst: ask how the program led there",
+   "Ask about IIBA London: how business analysis fits with data roles",
+   "Ask what data problems StarTech.com would love hackers to tackle"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/veronica-zhao",
+   "https://glo.iiba.org/page/support-team"
+  ],
+  "confidence_notes": "IIBA GLO link attributed by name plus London ON plus a post tagging her with the same chapter members.",
+  "status": "done"
+ },
+ {
+  "id": "U0CK5L9TAQ3",
+  "name": "Yipeng Zhang",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "",
+  "grad_year": "",
+  "current_role": "StarTech.com, London ON",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "PMP (issued Mar 2026)",
+   "Microsoft Certified: Azure Fundamentals (2020)",
+   "CompTIA A+"
+  ],
+  "talking_points": [
+   "Recently earned his PMP: ask what projects he runs at StarTech.com",
+   "Ask what StarTech.com's challenge or prize is this weekend"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/yipengz"
+  ],
+  "confidence_notes": "yipeng.me (his Slack email domain) only redirects to google.ca with no content, so it could not be confirmed and is excluded. Exact title not in public snippets.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJS25TD6Y",
+  "name": "John Lehman",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University, Engineering (first year)",
+  "grad_year": "2030 (LinkedIn education 2025-2030)",
+  "current_role": "Member, Project Astraeus (Waterloo, ON)",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [],
+  "talking_points": [
+   "First-year Western engineering: ask which discipline he is aiming for",
+   "Ask what Project Astraeus is building",
+   "Ask what volunteering at Hack Western is like from the inside"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/john-lehman-40858a26b",
+   "https://ca.linkedin.com/company/project-astraeus"
+  ],
+  "confidence_notes": "No GitHub or Devpost tied to him; GitHub users named John Lehman lacked any school or location match.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ8RJ77LN",
+  "name": "Abby Wang",
+  "personal_site": {
+   "url": "https://abbywang.netlify.app/",
+   "evidence": "Linked in the About section of LinkedIn abby-wangg; portfolio links github.com/abbywangg and her Devpost projects"
+  },
+  "github": {
+   "url": "https://github.com/abbywangg",
+   "evidence": "Name Abby Wang, repos 'hackwestern' and 'SheHacks'; linked from her portfolio and Devpost"
+  },
+  "devpost": {
+   "url": "https://devpost.com/abbywangg",
+   "evidence": "Devpost 'Abby Wang (abbywangg)' links github.com/abbywangg; attended Hack Western 12"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Engineering",
+  "grad_year": "",
+  "current_role": "Engineering student; Software Engineering Intern, Travelers (Summer 2026)",
+  "past_roles": [
+   "Solutions Engineering Intern, Intercept (Winter 2026)",
+   "Analyst, Relay Financial (2026)",
+   "Research Assistant, Western Biomechanical Research Lab (Fall 2025)",
+   "Emily Stowe Scholar, Women's College Hospital (Summer 2025)"
+  ],
+  "projects": [
+   {
+    "name": "ReceiptJars",
+    "summary": "Turns receipts into memory collages while tracking spending (SheHacks+10)",
+    "url": "https://devpost.com/software/receiptjars"
+   },
+   {
+    "name": "Flow State",
+    "summary": "Concentration and creativity biometric app",
+    "url": "https://devpost.com/software/flow-state-gws82m"
+   },
+   {
+    "name": "sty.ly",
+    "summary": "Outfit suggestions synced to the weather forecast",
+    "url": "https://devpost.com/software/sty-ly"
+   }
+  ],
+  "hackathon_wins": [
+   "SheHacks+10: [MLH] Best Use of Gemini API (ReceiptJars)"
+  ],
+  "awards": [
+   "Western National Scholar (Richard and Jean Ivey Family President's Entrance Scholarship)",
+   "Emily Stowe Scholar, Women's College Hospital (2025)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Software engineering",
+   "Biomechanics research",
+   "Gemini API",
+   "TypeScript, Java"
+  ],
+  "talking_points": [
+   "She won MLH Best Use of Gemini at SheHacks+10 with ReceiptJars: ask how it worked",
+   "Ask about interning at Travelers after a solutions engineering term at Intercept",
+   "Western National Scholar in engineering: ask which discipline she is heading into"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/abby-wangg",
+   "https://abbywang.netlify.app/",
+   "https://devpost.com/abbywangg",
+   "https://github.com/abbywangg",
+   "https://devpost.com/software/receiptjars",
+   "https://www.president.uwo.ca/honour_roll/students/national.html"
+  ],
+  "confidence_notes": "Portfolio links an older LinkedIn slug (abby-w-3604421b4); likely the same profile before a vanity rename. The scholarship listing names an Abby Wang; her LinkedIn headline says Western National Scholar.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHXQH2NCW",
+  "name": "Anastasiya Volgina",
+  "personal_site": {
+   "url": "https://anastasiyavolgina.com/",
+   "evidence": "Site says 3A Computer Engineering at University of Waterloo, Shopify Software Engineer Intern, 5x hackathon winner, matching LinkedIn anastasiya-volgina"
+  },
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "University of Waterloo, Computer Engineering (3A)",
+  "grad_year": "",
+  "current_role": "Software Engineer Intern, Shopify (fall term); seeking Summer 2027 internships",
+  "past_roles": [
+   "Full Stack Developer intern, Food Mamba"
+  ],
+  "projects": [
+   {
+    "name": "Opportuna",
+    "summary": "Emails fresh internship postings to students (2025)",
+    "url": ""
+   },
+   {
+    "name": "SD-card music player",
+    "summary": "Music player in C for the Nios II processor on a DE1-SoC (2025)",
+    "url": ""
+   },
+   {
+    "name": "STM32 GPS tracker",
+    "summary": "GPS tracking on an STM32 microcontroller (2024)",
+    "url": ""
+   },
+   {
+    "name": "jagame",
+    "summary": "Java library for building games with less boilerplate (2024)",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "Hack Canada: Tailscale challenge winner (with Matias R. and Rosie Chai)",
+   "Site says 5x hackathon winner"
+  ],
+  "awards": [
+   "Accepted to Y Combinator Startup School"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Software engineering",
+   "Embedded systems (STM32, RISC-V, Nios II)",
+   "Custom PCBs"
+  ],
+  "talking_points": [
+   "She won the Tailscale challenge at Hack Canada: ask about the self-hosted project",
+   "Ask how YC Startup School in SF was",
+   "Ask what she worked on as a Shopify intern"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/anastasiya-volgina",
+   "https://anastasiyavolgina.com/"
+  ],
+  "confidence_notes": "GitHub avolgina and Devpost avolgina exist but show no name or links, so they were not attributed.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHXT1T6SJ",
+  "name": "Arielle Tetelbaum",
+  "personal_site": {
+   "url": "https://theBaum.com",
+   "evidence": "Named as her portfolio in the AryBaum.github.io repo of GitHub AryBaum (Arielle Tetelbaum)"
+  },
+  "github": {
+   "url": "https://github.com/AryBaum",
+   "evidence": "Name Arielle Tetelbaum, London Ontario, bio 'year 2 Computer Science student at the University of Western Ontario'"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "url": "https://devpost.com/software/throwback-0utcr1",
+    "label": "Devpost project: Throwback",
+    "evidence": "Arielle Tetelbaum listed on the team"
+   }
+  ],
+  "school_program": "Western University, Specialization in Computer Science (second year per GitHub bio)",
+  "grad_year": "",
+  "current_role": "3DW Makerspaces, Western University",
+  "past_roles": [
+   "trACT Software Inc. (listed on company page)"
+  ],
+  "projects": [
+   {
+    "name": "Throwback",
+    "summary": "Mobile app reconnecting people with old school friends, inspired by 2016 nostalgia",
+    "url": "https://devpost.com/software/throwback-0utcr1"
+   },
+   {
+    "name": "md-punch-in",
+    "summary": "Svelte employee punch-in page built with Sam Deitz",
+    "url": "https://github.com/AryBaum/md-punch-in"
+   },
+   {
+    "name": "Rush Hour",
+    "summary": "Java version of the Rush Hour board game",
+    "url": "https://github.com/AryBaum/Rush-Hour"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Svelte",
+   "Java",
+   "Frontend and UI"
+  ],
+  "talking_points": [
+   "Ask what she does at Western's 3DW Makerspace",
+   "Ask about Throwback, her app for reconnecting with school friends",
+   "Ask about building software at trACT"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/arielle-tetelbaum",
+   "https://github.com/AryBaum",
+   "https://devpost.com/software/throwback-0utcr1"
+  ],
+  "confidence_notes": "theBaum.com taken from her repo description; not fetched.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKL41A0P5",
+  "name": "Ayush Parekh",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Western University, Computer Science",
+  "grad_year": "",
+  "current_role": "Student",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [],
+  "talking_points": [
+   "Fellow Western CS: ask what year he is in and what he is building this weekend"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/ayush-parekh-314b932b8"
+  ],
+  "confidence_notes": "GitHub and Devpost accounts named Ayush Parekh belong to other people (Surat .NET developer, Windsor Shopify freelancer), so none were attributed. Only the LinkedIn headline was available.",
+  "status": "nothing_found"
+ },
+ {
+  "id": "U0CHD7M09SB",
+  "name": "Dhruv Thakar",
+  "personal_site": {
+   "url": "https://thakardhruv.me",
+   "evidence": "Site says Dhruv Thakar, BSc Computer Science at Ontario Tech, graduating 2028; links github.com/dhruvht612 and his LinkedIn"
+  },
+  "github": {
+   "url": "https://github.com/dhruvht612",
+   "evidence": "Name Dhruv Thakar, company @Ontario Tech University; linked from thakardhruv.me"
+  },
+  "devpost": {
+   "url": "https://devpost.com/dhruvht612",
+   "evidence": "Devpost 'Dhruv Thakar (dhruvht612)' links the same GitHub"
+  },
+  "other_professional_links": [],
+  "school_program": "Ontario Tech University, BSc Computer Science (AI specialization)",
+  "grad_year": "2028",
+  "current_role": "Student; OTU Google Developer Group on Campus team",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Wisely",
+    "summary": "Goal-based spending tracker with Plaid bank sync",
+    "url": "https://devpost.com/software/wisely-9s80yo"
+   },
+   {
+    "name": "MedGuard",
+    "summary": "Agentic AI to help Canadians with chronic conditions manage medications safely",
+    "url": "https://devpost.com/software/medguard-riugbp"
+   },
+   {
+    "name": "AfterWords",
+    "summary": "AI grief and closure companion",
+    "url": "https://devpost.com/software/afterwords-xk1ah8"
+   },
+   {
+    "name": "HackWestern_13",
+    "summary": "Repo for his Hack Western 13 build",
+    "url": "https://github.com/dhruvht612/HackWestern_13"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "OTU GDGOC team member",
+   "Site lists 5+ leadership roles and 10+ events"
+  ],
+  "skills_interests": [
+   "AI",
+   "Full-stack development",
+   "Embedded systems",
+   "C++, Python, Java"
+  ],
+  "talking_points": [
+   "He has a HackWestern_13 repo going: ask what his team is building",
+   "Ask about MedGuard, his agentic medication-safety app",
+   "Ask what the Ontario Tech GDG runs on campus"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/dhruv-thakar-ba46aa296",
+   "https://thakardhruv.me",
+   "https://github.com/dhruvht612",
+   "https://devpost.com/dhruvht612"
+  ],
+  "confidence_notes": "No hackathon wins shown on his Devpost.",
+  "status": "done"
+ },
+ {
+  "id": "U0CL614HQTA",
+  "name": "Felix Hansen",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/felixghansen",
+   "evidence": "GitHub login equals his email handle; name Felix Hansen, Toronto, bio 'University of Toronto CS 29'"
+  },
+  "devpost": {
+   "url": "https://devpost.com/felixghansen",
+   "evidence": "Devpost 'Felix Hansen (felixghansen)' links github.com/felixghansen; no projects listed"
+  },
+  "other_professional_links": [],
+  "school_program": "University of Toronto, Computer Science (and Math per LinkedIn)",
+  "grad_year": "2029 (GitHub bio)",
+  "current_role": "Student",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Listr",
+    "summary": "macOS app using AI to extract data from postcard images to automate research",
+    "url": "https://github.com/felixghansen/Listr"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Swift and macOS",
+   "AI data extraction"
+  ],
+  "talking_points": [
+   "Ask about Listr, his macOS app that reads postcards with AI",
+   "UofT CS and Math: ask what brought him to Hack Western"
+  ],
+  "sources": [
+   "https://linkedin.com/in/felix-hansen-81b1032a3",
+   "https://github.com/felixghansen",
+   "https://devpost.com/felixghansen"
+  ],
+  "confidence_notes": "GitHub and Devpost confirmed by the exact email handle. The LinkedIn match is medium (UofT CS and Math, but no cross-link).",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ0KCRVJ8",
+  "name": "Mohammad Zain Al Abbideen Syed",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/eszain",
+   "evidence": "Name Zain Syed, Toronto; same 'eszain' slug as LinkedIn; linked from Devpost eszain"
+  },
+  "devpost": {
+   "url": "https://devpost.com/eszain",
+   "evidence": "Devpost 'Zain Syed (eszain)' links github.com/eszain and linkedin.com/in/eszain"
+  },
+  "other_professional_links": [],
+  "school_program": "York University, Computer Engineering (third year)",
+  "grad_year": "",
+  "current_role": "Student; YU Blueprint",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "komo",
+    "summary": "Organizes Slack and Notion chat histories for retrieval (Hack Western 12)",
+    "url": "https://devpost.com/software/komo-4lrjdg"
+   },
+   {
+    "name": "LookSmith",
+    "summary": "Shape 3D art using only facial movement, for people with limited motor ability",
+    "url": "https://devpost.com/software/looksmith"
+   },
+   {
+    "name": "CityLens",
+    "summary": "Maps where Toronto's environmental and social challenges cluster",
+    "url": "https://devpost.com/software/citylens-xk6bsa"
+   },
+   {
+    "name": "ENG 4000 Project 12 (CSA)",
+    "summary": "Capstone: conjunction data message ingestion and risk tracking",
+    "url": "https://github.com/eszain/project12_code"
+   }
+  ],
+  "hackathon_wins": [
+   "Hack Western 12: Third Place Overall (komo)"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "YU Blueprint",
+   "Mentors students (per LinkedIn About)"
+  ],
+  "skills_interests": [
+   "Embedded systems",
+   "TypeScript, Next.js",
+   "Accessibility"
+  ],
+  "talking_points": [
+   "He placed third overall at Hack Western 12 with komo: ask what they are building this year",
+   "Ask about his capstone on space conjunction data",
+   "Ask about LookSmith, the face-controlled 3D art tool"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/eszain",
+   "https://github.com/eszain",
+   "https://devpost.com/eszain",
+   "https://devpost.com/software/komo-4lrjdg"
+  ],
+  "confidence_notes": "komo team listed seven names including Zain Syed; Devpost marks it a winner.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKJDALLHF",
+  "name": "Munadir Khan",
+  "personal_site": {
+   "url": "https://www.munadirkhan.me",
+   "evidence": "Linked from LinkedIn munadirkhan and GitHub munadirkhan; says Software Engineering at Western University"
+  },
+  "github": {
+   "url": "https://github.com/munadirkhan",
+   "evidence": "Name Munadir Khan, company University of Western Ontario, blog munadirkhan.me"
+  },
+  "devpost": {
+   "url": "https://devpost.com/munadirkhan",
+   "evidence": "Devpost 'Munadir Khan (munadirkhan)' links his GitHub and a LinkedIn"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Software Engineering",
+  "grad_year": "",
+  "current_role": "Stealth AI Startup",
+  "past_roles": [
+   "Caterpillar",
+   "Robarts Research Institute"
+  ],
+  "projects": [
+   {
+    "name": "Argus",
+    "summary": "Always-on AI agent that watches your files, terminal and browser and speaks only when it can help",
+    "url": "https://github.com/munadirkhan/Argus"
+   },
+   {
+    "name": "Interval",
+    "summary": "AI spaced-repetition study app for Android",
+    "url": "https://devpost.com/software/interval-h5vngc"
+   },
+   {
+    "name": "Relay",
+    "summary": "Multi-agent autopilot that turns home-service inquiries into approved quotes",
+    "url": "https://devpost.com/software/relay-autopilot-agents-for-home-service-quoting"
+   },
+   {
+    "name": "CodeBuster",
+    "summary": "Hybrid similarity model for detecting C++ code plagiarism (CUCAI)",
+    "url": ""
+   },
+   {
+    "name": "CrashGuard-AI",
+    "summary": "ML market surveillance for pump-and-dump schemes",
+    "url": "https://github.com/munadirkhan/CrashGuard-AI"
+   }
+  ],
+  "hackathon_wins": [
+   "RevenueCat Shipaton 2026: Next Gen Award (Interval)"
+  ],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "ML research",
+   "Fintech",
+   "Autonomous systems",
+   "AI agents",
+   "Kotlin, Python"
+  ],
+  "talking_points": [
+   "Ask about Argus, his always-on desktop agent",
+   "Interval won a RevenueCat Shipaton award: ask what shipping a paid app taught him",
+   "Ask what the stealth AI startup is working on"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/munadirkhan",
+   "https://www.munadirkhan.me",
+   "https://github.com/munadirkhan",
+   "https://devpost.com/munadirkhan"
+  ],
+  "confidence_notes": "Shipaton award taken from his own repo description.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHRTLP2BF",
+  "name": "Parum Patel",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [],
+  "school_program": "Ivey Business School (HBA), Western University",
+  "grad_year": "2027 (Ivey HBA 2027)",
+  "current_role": "OpenAI ChatGPT Lab campus program at Western (listed as OpenAI on LinkedIn)",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "SpendSights (ProdX)",
+    "summary": "Spotify Wrapped-style AI spending recaps to make TD MySpend engaging for Gen Z; Ivey Product Society ProdX case with Notion and Ivey Fintech",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "OpenAI ChatGPT Lab at Western: hosted a ChatGPT event with Western AI",
+   "Product Manager, Ivey Product Society ProdX case competition"
+  ],
+  "skills_interests": [
+   "Product management",
+   "AI adoption",
+   "Fintech"
+  ],
+  "talking_points": [
+   "Fellow Ivey HBA 2027: ask about his ProdX pitch for TD MySpend",
+   "Ask how the ChatGPT Lab event with Western AI went",
+   "Ask what he is building at Hack Western as an Ivey student"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/parum-p-1b498a1b1",
+   "https://www.linkedin.com/posts/parum-p-1b498a1b1_over-the-past-few-weeks-as-part-of-openai-activity-7457111816327049216-xhyB"
+  ],
+  "confidence_notes": "'OpenAI' on his profile refers to the ChatGPT Lab student program, not employment.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKH1FQSAE",
+  "name": "Shane Marcelo",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "url": "https://devpost.com/software/slab-schedule",
+    "label": "Devpost project: Appointify",
+    "evidence": "Shane Gabriel Marcelo listed on the team"
+   }
+  ],
+  "school_program": "York University, Computer Science",
+  "grad_year": "",
+  "current_role": "Student; part-time at Chipotle Mexican Grill",
+  "past_roles": [
+   "Crew Trainer, McDonald's (from Jun 2021)",
+   "Atlantic Packaging Products Ltd. (listed on LinkedIn)"
+  ],
+  "projects": [
+   {
+    "name": "Appointify",
+    "summary": "Scheduling app (Devpost)",
+    "url": "https://devpost.com/software/slab-schedule"
+   },
+   {
+    "name": "AI deadline manager for student gamers",
+    "summary": "Hack the Valley 11 project",
+    "url": "https://hack-the-valley-11.devpost.com/project-gallery?page=2"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [],
+  "talking_points": [
+   "Ask about his Hack the Valley project, an AI deadline manager for student gamers",
+   "York CS: ask what year he is in and what he wants to build"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/shanemarcelo",
+   "https://devpost.com/software/slab-schedule"
+  ],
+  "confidence_notes": "No GitHub found under his name or handle. The Hack the Valley project name was not captured.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKSPQ93AA",
+  "name": "Tejas Kaushik",
+  "personal_site": {
+   "url": "https://tejass-kaushik.vercel.app/",
+   "evidence": "Site of Tejass Kaushik links LinkedIn tejasskaushik and GitHub tejask-dev; resume says Western BSc CS 2026-2030, Ivey AEO"
+  },
+  "github": {
+   "url": "https://github.com/tejask-dev",
+   "evidence": "Name Tejass Kaushik, blog tejass-kaushik.vercel.app"
+  },
+  "devpost": {
+   "url": "https://devpost.com/tejask-dev",
+   "evidence": "Same tejask-dev handle; links github.com/tejask-dev"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, BSc Computer Science, Ivey AEO",
+  "grad_year": "2030 (expected)",
+  "current_role": "COO / CIO, Anticipation Labs (Elda: screenless bracelet for older adults)",
+  "past_roles": [
+   "CTO, Stellar Learning (free IB/AP exam-prep platform with 40,000+ learners)"
+  ],
+  "projects": [
+   {
+    "name": "Elda",
+    "summary": "Screenless bracelet helping older adults with daily tasks; he leads customer discovery and software testing",
+    "url": ""
+   },
+   {
+    "name": "OrganicChem WebApp",
+    "summary": "Turns molecule names and drawings into properties and 3D structures (React, FastAPI, RDKit)",
+    "url": "https://github.com/tejask-dev/OrganicChem-WebApp"
+   },
+   {
+    "name": "RelayPass",
+    "summary": "Signed permissions that narrow as work passes between AI agents (hackathon prototype)",
+    "url": "https://devpost.com/software/relaypass"
+   },
+   {
+    "name": "claude-codex-connector",
+    "summary": "Local MCP teamwork between Claude and Codex",
+    "url": "https://github.com/tejask-dev/claude-codex-connector"
+   },
+   {
+    "name": "CanDrive",
+    "summary": "Food-drive tracker built in five days; campaign collected 27,000+ cans",
+    "url": "https://github.com/tejask-dev/ACS_CanDrive-WebApp"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "National first-place team research study across 34 countries (per site)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "AI agents and MCP",
+   "React, TypeScript, FastAPI",
+   "Health tech for older adults"
+  ],
+  "talking_points": [
+   "Ask about Elda and what care-home visits taught him",
+   "He built a Claude-Codex MCP connector: compare agent workflows",
+   "First-year Western CS with Ivey AEO: same path as Prag"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/tejasskaushik",
+   "https://tejass-kaushik.vercel.app/",
+   "https://github.com/tejask-dev",
+   "https://devpost.com/tejask-dev"
+  ],
+  "confidence_notes": "Profile and site spell the name 'Tejass'; the Slack name is 'Tejas'. Kept medium for that reason. Site says COO; LinkedIn headline says CIO.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKQFZ1YGL",
+  "name": "Yuvraj Singh Birdi",
+  "personal_site": {
+   "url": "https://yuvibirdi.com",
+   "evidence": "Linked as blog on GitHub yuvibirdi; 'Hello, I'm Yuvraj' portfolio"
+  },
+  "github": {
+   "url": "https://github.com/yuvibirdi",
+   "evidence": "Linked as 'Yuvraj Singh Birdi' in a Waterloo CS240 Typst guide; blog yuvibirdi.com"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "url": "https://gitlab.uwaterloo.ca/ysbirdi",
+    "label": "UWaterloo GitLab (ECE 198)",
+    "evidence": "Username ysbirdi equals his email handle; name Yuvraj Singh Birdi"
+   },
+   {
+    "url": "https://gitlab.com/yuvibirdi",
+    "label": "GitLab",
+    "evidence": "Name Yuvraj Singh Birdi, same yuvibirdi handle"
+   }
+  ],
+  "school_program": "University of Waterloo (ECE 198 and CS 240 coursework)",
+  "grad_year": "",
+  "current_role": "Robotics, Bracket Bot (San Francisco Bay Area)",
+  "past_roles": [
+   "Battery Manager subteam, Waterloo Aerial Robotics Group (WARG), 2025"
+  ],
+  "projects": [
+   {
+    "name": "OpenBias",
+    "summary": "News bias analysis platform inspired by Ground News",
+    "url": "https://github.com/yuvibirdi/open-bias"
+   },
+   {
+    "name": "Fitris",
+    "summary": "Exercise game to keep users moving during workouts",
+    "url": "https://github.com/yuvibirdi/fitris"
+   },
+   {
+    "name": "autopilot",
+    "summary": "Hackathon entry; he ended up helping teams that used BracketBot as a sponsor",
+    "url": "https://devpost.com/software/autopilot-psho4f"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "WARG (Waterloo Aerial Robotics Group), battery manager drivers",
+   "Bracket Bot sponsor-mentor at hackathons"
+  ],
+  "skills_interests": [
+   "Robotics",
+   "Linux systems",
+   "Compilers and competitive programming",
+   "C/C++, Rust, Python, PyTorch"
+  ],
+  "talking_points": [
+   "Bracket Bot hackers keep thanking him for help with the robot: ask what teams build on it",
+   "Ask about writing battery manager drivers for WARG",
+   "Ask about OpenBias, his Ground News-style project"
+  ],
+  "sources": [
+   "https://www.linkedin.com/in/ystdin",
+   "https://yuvibirdi.com",
+   "https://github.com/yuvibirdi",
+   "https://gitlab.uwaterloo.ca/ysbirdi/ece-198",
+   "https://devpost.com/software/autopilot-psho4f"
+  ],
+  "confidence_notes": "Indian-university results for the same name (PEC Chandigarh, GNDEC) belong to other people and were ignored.",
+  "status": "done"
+ }
+]

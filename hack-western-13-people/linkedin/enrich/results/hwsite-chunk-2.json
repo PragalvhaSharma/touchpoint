@@ -1,0 +1,509 @@
+[
+ {
+  "id": "U0CK5T7G3TN",
+  "name": "Sebastian Sora",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/Nightbreaker18",
+   "evidence": "Linked from his own Hack Western team finder card (Sebastian S., University of Windsor). Profile name 'Seb18456', bio 'Procedural generation my beloved / Coding & 3D modelling', location Canada"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "YouTube dev channel (linked from GitHub profile)",
+    "url": "https://www.youtube.com/@NightsDev"
+   },
+   {
+    "label": "SMArt (UWindsor student art) artist page",
+    "url": "https://smartuwindsor.com/copy-of-tien-le"
+   }
+  ],
+  "school_program": "University of Windsor, 2nd year (team finder). A UWindsor SMArt artist page for Sebastian Sora says Biomedical Sciences (written in his first year)",
+  "grad_year": "",
+  "current_role": "Student, University of Windsor",
+  "past_roles": [
+   "Coding Instructor (volunteer), Code Ninjas, about 10 months: helped students with game-development code in JavaScript, Lua and C#"
+  ],
+  "projects": [
+   {
+    "name": "NASA Space Apps 2025 habitat layout creator",
+    "summary": "Interactive 3D web app (HTML/CSS/JS, Three.js) for the 'Your Home in Space: Habitat Layout Creator' challenge; users build a habitat while balancing cost and placement rules from NASA data. He was lead designer",
+    "url": ""
+   },
+   {
+    "name": "Aero Rush",
+    "summary": "3D platformer mixing first-person exploration with third-person gameplay, built as his Code Ninjas Windsor Black Belt project (inspired by Super Mario 3D World and Terraria modding)",
+    "url": "https://blog.codeninjas.com/black-belt-ninja/sebastian-sora"
+   },
+   {
+    "name": "landmass_krems_austria",
+    "summary": "C# procedural landmass generation recreating the Blue Krems area in Krems, Austria",
+    "url": "https://github.com/Nightbreaker18/landmass_krems_austria"
+   },
+   {
+    "name": "Fertilizer Defender",
+    "summary": "Browser shooter game made with teammates (credits @nightbreaker18)",
+    "url": "https://hjzr.itch.io/pjp"
+   }
+  ],
+  "hackathon_wins": [
+   "NASA Space Apps Challenge 2025: 2nd place, Lead Designer (self-reported on LinkedIn)",
+   "WinHacks 2025: Category Winner, Front-end Developer (self-reported on LinkedIn)"
+  ],
+  "awards": [
+   "Code Ninjas Black Belt (Code Ninjas Windsor)"
+  ],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Procedural generation",
+   "3D modelling",
+   "Game development (C#, JavaScript, Lua)",
+   "Three.js",
+   "Frontend, backend, design (team finder)",
+   "Digital art",
+   "Languages: English, French, Romanian"
+  ],
+  "talking_points": [
+   "His team took 2nd at NASA Space Apps 2025 with a Three.js habitat builder that enforced real NASA placement rules; ask how they turned NASA's constraints into the 3D editor",
+   "He loves procedural generation: ask about his Krems, Austria landmass project and how he generates terrain",
+   "He won a category at WinHacks 2025 (Windsor's hackathon) as front-end dev; compare notes on Windsor vs Hack Western",
+   "He is looking for committed teammates of any experience level and covers frontend, backend and design"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/sebastian-sora-93884438b",
+   "https://github.com/Nightbreaker18",
+   "https://blog.codeninjas.com/black-belt-ninja/sebastian-sora",
+   "https://smartuwindsor.com/copy-of-tien-le",
+   "https://hjzr.itch.io/pjp"
+  ],
+  "confidence_notes": "LinkedIn and GitHub are both self-listed on his team finder card, and his Slack email handle sebastiansora.ss matches the name. Code Ninjas Windsor Black Belt page and UWindsor SMArt page are tied by name, Windsor, and the same interests (game dev, 3D modelling, procedural design) plus his LinkedIn Code Ninjas role; the Biomedical Sciences program is from that SMArt page only. Excluded: high-school race results, a Miami sales director, a Delaware construction student, a Colombian account and an unrelated obituary sharing the name.",
+  "status": "done"
+ },
+ {
+  "id": "U0CKF47KWFL",
+  "name": "Hadi Ahmed",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/hadiahmed13",
+   "evidence": "Hosts the CareerIQ repo, matching the CareerIQ project (career-iq.vercel.app) on his LinkedIn; location Toronto; also a 'uoftexperience' repo; linked from Devpost hadiahmed13. (The github.com/hadiahmedd account has no public repos.)"
+  },
+  "devpost": {
+   "url": "https://devpost.com/hadiahmed13",
+   "evidence": "Links github.com/hadiahmed13; lists Aura-67"
+  },
+  "other_professional_links": [
+   {
+    "label": "CareerIQ live demo",
+    "url": "https://career-iq.vercel.app/"
+   }
+  ],
+  "school_program": "University of Toronto, BS Computer Science (2023 to 2027), 4th year",
+  "grad_year": "2027",
+  "current_role": "CS student, University of Toronto; LinkedIn headline 'prev @ amazon | cs @ university of toronto'",
+  "past_roles": [
+   "Software Engineer Intern, Amazon, Vancouver (May 2026 to Sep 2026)",
+   "Founder, Aetheria, Toronto (May 2025 to Dec 2025)",
+   "Software Engineer, Venture for Canada, Toronto (Jun 2025 to Aug 2025)",
+   "Computing Solutions Advisor, Best Buy Canada (Aug 2022 to Sep 2024)"
+  ],
+  "projects": [
+   {
+    "name": "CareerIQ",
+    "summary": "AI career coaching platform: industry insights, ATS resume builder, mock interviews and cover letter generation (Feb to Mar 2025)",
+    "url": "https://github.com/hadiahmed13/CareerIQ"
+   },
+   {
+    "name": "Aura-67",
+    "summary": "Self-balancing robot (ESP32 balance loop, Raspberry Pi Zero 2 W vision) that follows natural-language commands via an LLM and tracks objects with OpenCV; Next.js + FastAPI control app. Team of 4; GitHub org name HTN-Aura-67 suggests Hack the North",
+    "url": "https://devpost.com/software/aura-67"
+   },
+   {
+    "name": "Interactive Data Visualization Application",
+    "summary": "Recursive treemap explorer for 1,000+ research papers with expand/collapse and live resizing",
+    "url": "https://github.com/hadiahmed13/Interactive-Data-Visualization-Application"
+   },
+   {
+    "name": "F1 Safety Car Prediction / F1 Race Insight",
+    "summary": "Formula 1 data projects in Python/Jupyter",
+    "url": "https://github.com/hadiahmed13/F1-Safety-Car-Prediction"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Backend, frontend, ML/AI (team finder)",
+   "Python, JavaScript/TypeScript, Java",
+   "React, Next.js, Node.js, MongoDB",
+   "PyTorch, pandas, NumPy",
+   "Robotics and computer vision",
+   "Formula 1 and football analytics"
+  ],
+  "talking_points": [
+   "Just finished a summer SDE internship at Amazon in Vancouver; ask what team he was on and what he shipped",
+   "Aura-67 burned three motor drivers during bring-up; ask whether they ever got closed-loop balancing working with the vision and language stack",
+   "He founded Aetheria in 2025 and has an 'Aladi' web-dev startup repo; ask what he was building",
+   "He wants teammates 'down to do crazy things', so pitch your wildest idea"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/hadiahmedd",
+   "https://linkedin.com/in/hadiahmedd",
+   "https://devpost.com/hadiahmed13",
+   "https://github.com/hadiahmed13",
+   "https://devpost.com/software/aura-67",
+   "https://career-iq.vercel.app/"
+  ],
+  "confidence_notes": "LinkedIn self-listed on team finder card 'Hadi A.' (UofT, 4th year); LinkedIn education (UofT CS 2023 to 2027) matches. GitHub/Devpost hadiahmed13 tied by the CareerIQ project that appears on his LinkedIn, plus Toronto location. Slack email handle hadiahmed554 is consistent with the name. Excluded: hadi-ahmed.com (a Durham University grad in UK payments ML), an Aetheria in the Netherlands from a data-broker site, and several other Hadi Ahmeds.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ4SS6JVD",
+  "name": "Shawn Xiong",
+  "personal_site": {
+   "url": "https://www.shawnxionggg.work/",
+   "evidence": "Same 'shawnxionggg' handle as the team finder LinkedIn; says Computer Engineering co-op student at University of Waterloo; links github.com/shawn-xionggg and linkedin.com/in/shawn-xionggg"
+  },
+  "github": {
+   "url": "https://github.com/shawn-xionggg",
+   "evidence": "Name Shawn Xiong, bio 'Computer Engineering student building software, systems, and full-stack projects'; hosts toneffx and a Waterloo LEARN planner; linked from his site"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "ToneFFX live demo",
+    "url": "https://toneffx.vercel.app"
+   },
+   {
+    "label": "Giraffe (Devpost project)",
+    "url": "https://devpost.com/software/giraffe-ncwyz1"
+   }
+  ],
+  "school_program": "University of Waterloo, BASc Computer Engineering (Co-op), started Sept 2026 (first year)",
+  "grad_year": "",
+  "current_role": "Student; Autonomy Subteam member, Waterloo Aerial Robotics Group (WARG), Sept 2026 to present",
+  "past_roles": [
+   "Team lead, solar-powered boat prototype for UBC Physics Olympics (March 2025)"
+  ],
+  "projects": [
+   {
+    "name": "ToneFFX",
+    "summary": "Guitar tone comparison app: aligns a user's recording to a reference with chroma-based dynamic time warping (librosa) and suggests EQ, presence and brightness changes across 7 frequency bands; Next.js + Supabase",
+    "url": "https://github.com/shawn-xionggg/toneffx"
+   },
+   {
+    "name": "Giraffe",
+    "summary": "Wearable posture monitor (Arduino Nano, MPU-6050 configured at register level, buzzer, 3D-printed enclosure); he wrote the sensor firmware",
+    "url": "https://devpost.com/software/giraffe-ncwyz1"
+   },
+   {
+    "name": "Allos",
+    "summary": "Hack the Valley computer vision prototype that traces potential allergen contact through hands, utensils and meals from an overhead camera",
+    "url": ""
+   },
+   {
+    "name": "effx",
+    "summary": "Browser-based digital guitar pedalboard processing live audio",
+    "url": "https://github.com/shawn-xionggg/effx"
+   },
+   {
+    "name": "WARG camera capture node",
+    "summary": "ROS 2 node publishing camera frames with GPS and IMU data; behavior-tree logic for waypoint image capture",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "Theme Prize, vsHacks 2025 (Giraffe) (self-reported)"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "Waterloo Aerial Robotics Group, Autonomy Subteam"
+  ],
+  "skills_interests": [
+   "Python, TypeScript, C++, Java",
+   "Embedded hardware: Arduino, STM32, MPU-6050, soldering",
+   "ROS 2, py_trees",
+   "Audio signal processing (librosa)",
+   "React, Next.js, Supabase",
+   "Guitar"
+  ],
+  "talking_points": [
+   "He plays guitar and built ToneFFX to match his tone to reference tracks; ask how the dynamic time warping alignment works",
+   "First-year Waterloo CE already on WARG's autonomy subteam; ask about the camera capture node and behavior trees for drone flight",
+   "He did firmware for a posture wearable that won the vsHacks 2025 Theme Prize and wants a fast-moving designer, so a hardware build with him is an option",
+   "Ask about Allos, his Hack the Valley allergen-contact tracking project"
+  ],
+  "sources": [
+   "https://www.shawnxionggg.work/",
+   "https://www.shawnxionggg.work/shawn-xiong-resume.pdf",
+   "https://github.com/shawn-xionggg",
+   "https://github.com/shawn-xionggg/toneffx"
+  ],
+  "confidence_notes": "Medium match per input: Slack name 'Shawn X' fits the team finder card 'Shawn X.' (Waterloo) by name format only; the Slack email handle juniorflybear does not link to anything (a Sketchfab account with that name is empty). The LinkedIn owner plausibly fits: site and resume use the same shawnxionggg handle, confirm University of Waterloo, and show ML/hardware/design work matching the card's skills. Note the site and resume link linkedin.com/in/shawn-xionggg (hyphenated) while the card listed /in/shawnxionggg. Treat as likely the same person but not proven. Excluded: phone number and school email from the resume, a church summer camp role, and older Shawn Xiongs (Dalhousie biochemistry PhD, CantorAI CTO, others).",
+  "status": "done"
+ },
+ {
+  "id": "U0CK806SVB8",
+  "name": "Eeshan Agarwal",
+  "personal_site": {
+   "url": "https://eeshanagarwal.com/",
+   "evidence": "Linked from LinkedIn and GitHub; site resume lists eeshan2agarwal@gmail.com, the same handle as his Slack email"
+  },
+  "github": {
+   "url": "https://github.com/eesh4n",
+   "evidence": "Bio 'engineering + ivey hba @ western university', links eeshanagarwal.com and in/eeshanagarwal1; also listed on LinkedIn"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "Resume (PDF)",
+    "url": "https://www.eeshanagarwal.com/resume.pdf"
+   },
+   {
+    "label": "CardIQ live app",
+    "url": "https://cardiq.fly.dev"
+   }
+  ],
+  "school_program": "Western University, BESc (Engineering Science) + HBA, Ivey Business School combined degree (Ivey AEO)",
+  "grad_year": "",
+  "current_role": "Student; Algorithmic Trading Developer (0DTE options strategy), independent trading partnership, 2026 to present",
+  "past_roles": [
+   "Part-time job during summer 2026 (quit before school to free up time, per his LinkedIn post)"
+  ],
+  "projects": [
+   {
+    "name": "Calmpost",
+    "summary": "Smart compost bin: Arduino UNO R4 with moisture, temperature and CO2 sensors, webcam plus Gemini vision to log items dropped in, FastAPI + Tiger Data backend, Flutter app with health score, XP and leaderboards",
+    "url": "https://devpost.com/software/calmpost-v2hqgr"
+   },
+   {
+    "name": "RivalRuns",
+    "summary": "Controller-free two-player 3D runner driven by MediaPipe body and hand tracking over dual webcams; 'dodge with your legs, block with your hands'",
+    "url": "https://github.com/eesh4n/rivalruns"
+   },
+   {
+    "name": "Sentiment Desk",
+    "summary": "LLM pipeline scraping 11 finance subreddits, extracting 1,200+ investment theses and flagging sentiment vs price divergence (Next.js, PostgreSQL, Gemini)",
+    "url": "https://github.com/eesh4n/reddit-thesis-dashboard"
+   },
+   {
+    "name": "CardIQ",
+    "summary": "Django/PostgreSQL credit card recommender scoring 30+ Canadian cards against a user's spending, deployed on Fly.io",
+    "url": "https://github.com/eesh4n/cc_optimizer"
+   },
+   {
+    "name": "0DTE options data pipeline",
+    "summary": "WebSocket pipeline capturing QQQ options-chain data from the IBKR API for backtesting a strategy with a trader managing a $200K portfolio",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [
+   "2nd Best Hack, UofT School of Cities track, Hack the Valley 11 (Calmpost); Devpost marks it Winner",
+   "2nd Best Overall Hack among 25+ teams, Hack the Valley HackDays (RivalRuns) (self-reported)"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "Volunteer, LUSO Community Services (3.5 years)",
+   "Food drive coordinator for a community organization (3+ years, 600+ people served)"
+  ],
+  "skills_interests": [
+   "ML/AI, pitching, design (team finder)",
+   "C++, Python, SQL, TypeScript, Dart",
+   "Arduino and sensor wiring",
+   "Computer vision (MediaPipe)",
+   "Flutter, Next.js, Django, FastAPI",
+   "Gemini API, IBKR API",
+   "Fintech, quant trading, investing",
+   "Building an audience online"
+  ],
+  "talking_points": [
+   "Two Hack the Valley podiums this fall (Calmpost and RivalRuns); his card asks for a '2x hackathon winner', so ask what he thinks wins judges",
+   "Calmpost has Gemini phrase verdicts from a rules engine and 'the rules always win'; ask why they designed it that way",
+   "Fellow Western Ivey AEO combined-degree student building a 0DTE QQQ options strategy; ask how the backtests look",
+   "Ask about Sentiment Desk: does Reddit sentiment actually lead price moves?"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/eeshanagarwal1",
+   "https://eeshanagarwal.com/",
+   "https://www.eeshanagarwal.com/resume.pdf",
+   "https://github.com/eesh4n",
+   "https://devpost.com/software/calmpost-v2hqgr"
+  ],
+  "confidence_notes": "Strong: LinkedIn self-listed on team finder card 'Eeshan A.' (Western); his resume email uses eeshan2agarwal, exactly his Slack email handle; site, GitHub and LinkedIn cross-link. LinkedIn shows 'Instagram' in experience but details are hidden, and his Instagram handle was excluded. Excluded: Eeshan Agarwal at Vanta (senior engineering manager) and a 2010 Delhi news mention. Food drive organization named only generically because it is a religious organization.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHNGKH90B",
+  "name": "Alvik Maharjan",
+  "personal_site": {
+   "url": "https://alvikmaharjan.com/",
+   "evidence": "Aerospace engineering student at Toronto Metropolitan University; resume on the site lists maharjanalvik@gmail.com (same as Slack handle) and linkedin.com/in/alvikmaharjan"
+  },
+  "github": {
+   "url": "https://github.com/maharjanalvik",
+   "evidence": "Name Alvik Maharjan; hosts the Open Source Recycled Plastic Pelletizer docs (ES1050 Lab 16 Pellets), a project on his resume"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "Resume (PDF)",
+    "url": "https://alvikmaharjan.com/assets/Alvik_Maharjan_Resume.pdf"
+   }
+  ],
+  "school_program": "Toronto Metropolitan University, BEng Aerospace Engineering, 2nd year",
+  "grad_year": "2029 (expected April 2029)",
+  "current_role": "Student; Mechanical Design Contributor, Launch Canada Turbopump Project (Oct 2025 to present)",
+  "past_roles": [
+   "Mechanical Engineering Intern, AirMetal Robotics Corporation (Jul to Aug 2026): owned airframe and landing gear for a 2 m wingspan, 15 kg flying-wing UAV through 3 revisions and 4 flight tests",
+   "Electromechanical Lead, FAST Lab at Western University student project (Dec 2025 to Apr 2026)",
+   "Build Team Lead, NASA HUNCH Design Challenge (Sep 2024 to May 2025)",
+   "President and Founder, high-school Aerospace Club (Aug 2024 to Aug 2025)"
+  ],
+  "projects": [
+   {
+    "name": "Open Source Recycled Plastic Pelletizer",
+    "summary": "RP2040-controlled pelletizer with stepper filament feeder, DC cutter, encoder feedback, E-stop and runout recovery; 370 g/hr for under $100 CAD (6-person team)",
+    "url": "https://github.com/maharjanalvik/ES1050-Winter-Project-2026-Lab-16-Pellets"
+   },
+   {
+    "name": "Launch Canada turbopump",
+    "summary": "Electric-motor-driven turbopump for the Atlas Vernier LR-101 liquid rocket engine; trade studies and P&IDs for a lubricant pump system",
+    "url": ""
+   },
+   {
+    "name": "Thermal Imaging Drone",
+    "summary": "Fully 3D-printed FPV drone with ducted props and RGB/thermal camera switching on a Raspberry Pi Zero 2 W",
+    "url": ""
+   },
+   {
+    "name": "Morphing Camber Wing Research",
+    "summary": "2D CFD in ANSYS Fluent of FishBAC camber-morphing wings; predicted 19.7% higher lift-to-drag vs slotted flaps",
+    "url": ""
+   },
+   {
+    "name": "NASA HUNCH lunar imaging robot",
+    "summary": "Spherical lunar imaging robot; team advanced from Critical Design Review in New York to Final Design Review in Houston",
+    "url": ""
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "Silver, 2025 Toronto Science Fair (morphing camber wing)",
+   "1st-place STLE award (RC ground-effect vehicle, 2024)",
+   "Transport Canada RPAS pilot certificate (VLOS)",
+   "Amateur radio operator certificate (ISED)",
+   "Certified SolidWorks Associate (CSWA)"
+  ],
+  "clubs_leadership": [
+   "MACH - TMU Liquid Rocketry (member, per LinkedIn directory snippet)",
+   "Launch Canada Turbopump Project",
+   "Founder and President, Aerospace Club (high school; CanSat deployed above 1 km with live telemetry)"
+  ],
+  "skills_interests": [
+   "Hardware, ML/AI, design (team finder)",
+   "SolidWorks, Inventor, Onshape",
+   "Machining, MIG welding, 3D printing, laser cutting",
+   "ANSYS Fluent, MATLAB",
+   "C/C++, Arduino, ESP32, Raspberry Pi",
+   "Rockets, UAVs, robotics, turbomachinery"
+  ],
+  "talking_points": [
+   "He is looking for a hardware project partner: he can do CAD, machining, embedded control and flight testing",
+   "Ask about the 15 kg flying-wing UAV he took through 4 flight tests in 2 months at AirMetal Robotics",
+   "His pelletizer was built with Western's FAST Lab and lives in a Western ES 1050 repo; ask how a TMU student ended up on it",
+   "Ask what it's like designing a turbopump for an LR-101 engine with Launch Canada"
+  ],
+  "sources": [
+   "https://alvikmaharjan.com/",
+   "https://alvikmaharjan.com/assets/Alvik_Maharjan_Resume.pdf",
+   "https://github.com/maharjanalvik",
+   "https://www.linkedin.com/pub/dir/%C3%85lvik/+",
+   "https://hunchdesign.com/uploads/2/2/0/9/22093000/invite_list_for_d_p_2025.pdf"
+  ],
+  "confidence_notes": "Strong: resume lists maharjanalvik@gmail.com (identical to his Slack email handle) and linkedin.com/in/alvikmaharjan; TMU matches the team finder card 'Alvik M.'; GitHub hosts a resume project. The LinkedIn page itself was blocked to logged-out fetch; the MACH membership comes from a LinkedIn directory snippet. Excluded: phone number on the resume, and unrelated Maharjan records (Nepali bank lists, research papers).",
+  "status": "done"
+ },
+ {
+  "id": "U0CKJ8EDPPD",
+  "name": "Melina Fathidashtaki",
+  "personal_site": {
+   "url": "https://meellinaa.github.io/",
+   "evidence": "Portfolio 'Melina Fathidashtaki, Computer Science, Western University'; hosted from GitHub Meellinaa, which is on her team finder card"
+  },
+  "github": {
+   "url": "https://github.com/Meellinaa",
+   "evidence": "Self-listed on team finder card 'Melina F.' (Western, 3rd year); hosts her portfolio site; linked from her Devpost"
+  },
+  "devpost": {
+   "url": "https://devpost.com/Meellinaa",
+   "evidence": "'Melina fathi (Meellinaa)'; links meellinaa.github.io, github.com/Meellinaa and linkedin.com/in/melina-f-53372b20a"
+  },
+  "other_professional_links": [],
+  "school_program": "Western University, Computer Science, 3rd year",
+  "grad_year": "",
+  "current_role": "CS student; Student Ambassador and Event Organizer, Morrissette Institute for Entrepreneurship, Western (Oct 2025 to present)",
+  "past_roles": [
+   "Co-Founder, Business Operations and Finance, Gold Star Catering, Toronto (Sep 2025 to present): Python/SQL sales and expense pipelines; reports 30% month-over-month revenue growth",
+   "Instructor Assistant, Kumon Learning Centre, London ON (Nov 2024 to present)"
+  ],
+  "projects": [
+   {
+    "name": "OmniPrep AI",
+    "summary": "Voice-driven mock interviewer: resume and job-description tailored questions, live webcam coaching on pace, filler words and eye contact (MediaPipe), ElevenLabs personas, STAR-scored emailed debrief via n8n",
+    "url": "https://devpost.com/software/omniprep-ai"
+   },
+   {
+    "name": "StemSlice",
+    "summary": "AI DJ engine that splits tracks into stems with Demucs and builds tempo-matched transitions, loading only the audio slice it needs and caching time-stretched results",
+    "url": "https://devpost.com/software/stemslice"
+   },
+   {
+    "name": "Shade Sense",
+    "summary": "Estimates skin tone from a photo using MediaPipe face mesh and OpenCV region sampling, then matches real foundation products with pandas",
+    "url": "https://devpost.com/software/shade-sense-ai-foundation-matcher"
+   },
+   {
+    "name": "LLM Robustness Tester",
+    "summary": "Rephrases a prompt many ways and scores how much LLM output changes, with a similarity heatmap",
+    "url": "https://github.com/Meellinaa/llm-robustness-tester"
+   },
+   {
+    "name": "Code Red",
+    "summary": "JavaFX educational typing game with teacher admin, difficulty levels and leaderboards",
+    "url": "https://github.com/Meellinaa/Code-Red"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [
+   "TD Scholar, one of four at Western (self-reported)",
+   "Admitted to Western's Gifted Academic Program, 18 of 5,000 (self-reported)"
+  ],
+  "clubs_leadership": [
+   "Morrissette Institute for Entrepreneurship: organizer of 250+ events (self-reported)"
+  ],
+  "skills_interests": [
+   "Frontend, backend, pitching (team finder)",
+   "Python, Java, C++, SQL, TypeScript, R",
+   "PyTorch, OpenCV, MediaPipe, pandas",
+   "FastAPI, React, Qt, JavaFX, MongoDB",
+   "Entrepreneurship and business operations",
+   "Audio/DJ tech"
+  ],
+  "talking_points": [
+   "She is a TD Scholar and co-founded Gold Star Catering in first year; ask how she used Python and SQL to find the pricing changes behind its growth",
+   "Ask how StemSlice decides which stems to blend during a transition, and whether she DJs herself",
+   "She runs events for Western's Morrissette Institute, so she knows the campus founder scene; ask which student startups to watch",
+   "OmniPrep AI scores answers with STAR and tracks eye contact; trade recruiting-season stories"
+  ],
+  "sources": [
+   "https://meellinaa.github.io/",
+   "https://github.com/Meellinaa",
+   "https://devpost.com/Meellinaa",
+   "https://devpost.com/software/omniprep-ai",
+   "https://devpost.com/software/stemslice",
+   "https://devpost.com/software/shade-sense-ai-foundation-matcher",
+   "https://linkedin.com/in/melina-f-53372b20a"
+  ],
+  "confidence_notes": "Strong: LinkedIn and GitHub self-listed on team finder card 'Melina F.' (Western, 3rd year); Devpost links both; portfolio on her GitHub gives full name Melina Fathidashtaki and Western CS; Slack email handle melinafathi3825 matches. LinkedIn page itself was blocked to logged-out fetch (snippet: 'Computer Science Student', GTA; Gold Star Catering company page lists her). Excluded: a data-broker listing, a Swedish people-search result, a study-notes upload site and Instagram/TikTok results.",
+  "status": "done"
+ }
+]

@@ -1,0 +1,428 @@
+[
+ {
+  "id": "U0CJ41J2LLT",
+  "name": "Viraj Patel",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/virajpatell"
+   },
+   {
+    "label": "Hack Western mentor page",
+    "url": "https://www.hackwestern.com/"
+   }
+  ],
+  "school_program": "Western University, Computer Science (UNVERIFIED: from a LinkedIn search snippet not tied to virajpatell)",
+  "grad_year": "",
+  "current_role": "Hack Western 13 mentor; LinkedIn headline for virajpatell: 'APM Intern @ Google | 2x YC Startups | Prev. Founder' (Greater Toronto Area)",
+  "past_roles": [
+   "UNVERIFIED (snippets likely the same person, not linked to virajpatell): Product @ Lancey.ai (YC S22)",
+   "UNVERIFIED: Product @ Datacurve (YC W24)",
+   "UNVERIFIED: PM @ Interac",
+   "Previously a founder (company not named)"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "UNVERIFIED: Co-President, WDS (from a snippet not linked to virajpatell)"
+  ],
+  "skills_interests": [
+   "Product management",
+   "AI products",
+   "Startups",
+   "Pitching"
+  ],
+  "talking_points": [
+   "He mentors on product management, AI products, startups and pitching: ask him to pressure-test your pitch before judging",
+   "His headline says 2x YC startups and a previous founder: ask what he learned doing product at early YC companies",
+   "Ask how he landed an APM internship at Google, which is directly useful for your own recruiting"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/virajpatell",
+   "https://www.hackwestern.com/"
+  ],
+  "confidence_notes": "Identity confirmed by the official Hack Western mentors page (name, Slack ID, LinkedIn virajpatell); the Google APM headline is from the virajpatell search snippet. Lancey.ai, Datacurve, Interac, WDS and Western CS come from other LinkedIn snippets that are probably the same person but were not linked to virajpatell, so they are marked UNVERIFIED. Full profile was bot-blocked.",
+  "status": "done"
+ },
+ {
+  "id": "U0CK39R9J86",
+  "name": "Angelina Elwazzan",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/angelina-elwazzan"
+   }
+  ],
+  "school_program": "University of Waterloo, Mechatronics Engineering",
+  "grad_year": "",
+  "current_role": "Second-year Mechatronics Engineering student, University of Waterloo",
+  "past_roles": [],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Design",
+   "Pitching",
+   "Combining hardware and software"
+  ],
+  "talking_points": [
+   "She is looking for teammates who want to combine hardware and software: ask what sensor or actuator idea she wants to build this weekend",
+   "As a design and pitching person in mechatronics, ask which part of a hardware demo she thinks judges remember",
+   "Her LinkedIn says the question she asked most as a child was 'why?': ask what she is most curious about in mechatronics so far"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/angelina-elwazzan"
+  ],
+  "confidence_notes": "Identity from her self-listed Hack Western team finder card (Waterloo, 2nd year) plus the LinkedIn search snippet 'Second Year Mechatronics Engineering Student at the University of Waterloo'. LinkedIn page itself was bot-blocked. No GitHub, site or Devpost found; a people-search listing was ignored.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ01EL0FK",
+  "name": "Anikait Datta",
+  "personal_site": null,
+  "github": null,
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/anikait-datta-b4b866365"
+   }
+  ],
+  "school_program": "Western University, Mechatronics Engineering",
+  "grad_year": "",
+  "current_role": "Mechatronics Engineering student at Western University",
+  "past_roles": [
+   "Software + AI Engineer Intern, Bensons Workwear (Toronto, Jul 2026 to Sep 2026)",
+   "Tutor, Tutor Doctor"
+  ],
+  "projects": [],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "ML / AI",
+   "Hardware"
+  ],
+  "talking_points": [
+   "Ask what AI he built during his summer internship at Bensons Workwear and how a workwear company uses it",
+   "He wants a fun, creative hardware project: ask which hardware idea he would pitch first",
+   "Ask how mechatronics coursework at Western overlaps with the ML work he lists"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/anikait-datta-b4b866365"
+  ],
+  "confidence_notes": "Identity from his self-listed team finder card (Western) plus LinkedIn search snippets naming Western Mechatronics Engineering, Tutor Doctor and the Bensons Workwear internship. Full profile bot-blocked. Excluded Stanford researcher Anikait Singh and an unrelated Anik Datta. No GitHub, site or Devpost found.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJ0D81FG9",
+  "name": "David Olayinka",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/dave-2-jpg",
+   "evidence": "Linked on his team finder card; GitHub name David Olayinka, bio 'uoft eng', location Toronto"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/david-olayinka-83456b373"
+   }
+  ],
+  "school_program": "University of Toronto, Engineering",
+  "grad_year": "",
+  "current_role": "University of Toronto engineering student (first hackathon)",
+  "past_roles": [],
+  "projects": [
+   {
+    "name": "Arduino-RC-Car",
+    "summary": "Arduino RC car project with voltmeter code (C++)",
+    "url": "https://github.com/dave-2-jpg/Arduino-RC-Car"
+   },
+   {
+    "name": "Reaction-Time-Calculator",
+    "summary": "Arduino project that measures reaction speed with a timed counter",
+    "url": "https://github.com/dave-2-jpg/Reaction-Time-Calculator"
+   },
+   {
+    "name": "Piano-Joystick",
+    "summary": "Joystick controlling audible LED pins on Arduino",
+    "url": "https://github.com/dave-2-jpg/Piano-Joystick"
+   },
+   {
+    "name": "Manim math animations",
+    "summary": "Animations of absolute extrema, the natural exponential function and polynomial graphs using 3Blue1Brown's Manim",
+    "url": "https://github.com/dave-2-jpg/Deriving-Natural-Exponential-Function-Animation"
+   },
+   {
+    "name": "Grocery-Store-Simulator",
+    "summary": "C# simulator built in 2025",
+    "url": "https://github.com/dave-2-jpg/Grocery-Store-Simulator"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Arduino and hardware",
+   "C++",
+   "Python",
+   "C#",
+   "Manim math animation",
+   "Design",
+   "Pitching"
+  ],
+  "talking_points": [
+   "This is his first hackathon and he wants to 'build something crazy': ask which of his Arduino builds he would scale up",
+   "Ask about animating calculus proofs with Manim, the 3Blue1Brown library",
+   "He has an ultrasonic-sensor/LCD and RC car on GitHub: a good person to pair with for a sensor-driven hardware hack"
+  ],
+  "sources": [
+   "https://github.com/dave-2-jpg"
+  ],
+  "confidence_notes": "GitHub is linked from his own team finder card and shows his full name, 'uoft eng' and Toronto. LinkedIn bot-blocked and no snippet found. Excluded an unrelated SoundBetter audio engineer and a U of T nursing student with the same surname.",
+  "status": "done"
+ },
+ {
+  "id": "U0CHSJ8AEDT",
+  "name": "Eric Lu",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/crab-oxop",
+   "evidence": "Linked on his own team finder card; repos include a University of Waterloo deadline aggregator (LEARN, Crowdmark) and a WATonomous admissions assignment, matching Waterloo"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/eric-lu-uw"
+   }
+  ],
+  "school_program": "University of Waterloo, Honours Bachelor of Computer Science (Co-op)",
+  "grad_year": "2031 (LinkedIn: Sept 2026 to April 2031)",
+  "current_role": "First-year Waterloo CS student; Robotics and STEM Coach at Caution Tape Robotics Club; Director of Education Partnerships, CanSTEAM Foundation",
+  "past_roles": [
+   "Engineering Club President, Bayview Engineering Club (Oct 2022 to Jun 2026), grew weekly attendance from 10 to 45-50 members",
+   "IB Diploma, Bayview Secondary School"
+  ],
+  "projects": [
+   {
+    "name": "Waterloo Deadline Aggregator",
+    "summary": "Python app pulling LEARN, Crowdmark, Quest and Outlook deadlines into one dashboard and a Google Calendar",
+    "url": "https://github.com/crab-oxop/waterloo-deadline-aggregator"
+   },
+   {
+    "name": "PinkbikeDeals",
+    "summary": "PyQt6 desktop app that scrapes Pinkbike BuySell, values each used bike from its parsed components and ranks underpriced listings",
+    "url": "https://github.com/crab-oxop/PinkbikeDeals"
+   },
+   {
+    "name": "WATonomous ASD training",
+    "summary": "Fork of the WATonomous autonomous-driving admissions assignment (C++)",
+    "url": "https://github.com/crab-oxop/wato_asd_training"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [
+   "Director of Education Partnerships, CanSTEAM Foundation (recruited judges for the VEX Halloween Qualifier: 131 teams, 1,000+ students)",
+   "Robotics and STEM Coach, Caution Tape Robotics Club",
+   "President, Bayview Engineering Club"
+  ],
+  "skills_interests": [
+   "VEX robotics",
+   "Mechanical design and CAD",
+   "Autonomous systems",
+   "Python",
+   "C++",
+   "ML / AI",
+   "Hardware"
+  ],
+  "talking_points": [
+   "Ask how PinkbikeDeals values a used bike from its fork, drivetrain and wheels instead of comparing listings",
+   "He sent 220+ emails to find independent judges for a 131-team VEX qualifier: ask what judges actually look for",
+   "Ask whether he joined WATonomous after doing their admissions assignment",
+   "His deadline aggregator syncs LEARN and Crowdmark to Google Calendar: ask how he handled the Duo sign-in"
+  ],
+  "sources": [
+   "https://ca.linkedin.com/in/eric-lu-uw",
+   "https://github.com/crab-oxop",
+   "https://github.com/crab-oxop/PinkbikeDeals",
+   "https://github.com/crab-oxop/waterloo-deadline-aggregator"
+  ],
+  "confidence_notes": "LinkedIn eric-lu-uw is self-listed on his team finder card; the logged-out fetch returned his CanSTEAM/VEX post and snippets give the Waterloo CS dates, Bayview Engineering Club and Caution Tape roles. GitHub crab-oxop is self-listed but shows no real name; its Waterloo-specific repos fit. A second LinkedIn (eric-lu-8a0480222, Waterloo CS, Bayview) may be an older profile of the same person and was not used. Excluded the pianist, arXiv author and other Eric Lus.",
+  "status": "done"
+ },
+ {
+  "id": "U0CJP4EQ0NL",
+  "name": "Ola Waked",
+  "personal_site": null,
+  "github": {
+   "url": "https://github.com/OlaWak",
+   "evidence": "Linked on her team finder card; GitHub name Ola Waked, links in/ola-waked, README says Computer Science student at Western"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/ola-waked"
+   },
+   {
+    "label": "DoraHacks: Talk To The Hand",
+    "url": "https://dorahacks.io/buidl/21417"
+   }
+  ],
+  "school_program": "Western University, Computer Science Honours Specialization, minor in Software Engineering",
+  "grad_year": "",
+  "current_role": "Western CS student; founder of DEENSET (digital-planner brand); Entrepreneurship Ambassador at Morrissette Entrepreneurship; TPM at Alderra (per LinkedIn headline)",
+  "past_roles": [
+   "Executive Director of Graphic Design, Western Women in Leadership (self-reported 30% engagement boost)",
+   "Research project improving the Google PageRank algorithm (self-reported, university-led)"
+  ],
+  "projects": [
+   {
+    "name": "Talk To The Hand",
+    "summary": "ASL learning web app with real-time hand-sign recognition (Flask, TensorFlow/Keras, OpenCV); team photographed 4,500+ signs to train the model in about 36 hours",
+    "url": "https://github.com/OlaWak/talk-to-the-hand"
+   },
+   {
+    "name": "FastER",
+    "summary": "AI ER check-in kiosk: multilingual intake, Raspberry Pi age detection, health-card OCR with Gemini, CTAS-style triage queue, nurse dashboard, Supabase",
+    "url": "https://github.com/OlaWak/MSA-Hackathon-2"
+   },
+   {
+    "name": "WayFinder",
+    "summary": "AI campus safety app built at SheHacks+",
+    "url": ""
+   },
+   {
+    "name": "Clinic system",
+    "summary": "PHP clinic management system",
+    "url": "https://github.com/OlaWak/clinic-system"
+   }
+  ],
+  "hackathon_wins": [
+   "Top 5 of 40+ projects at SheHacks+ with WayFinder (self-reported)"
+  ],
+  "awards": [],
+  "clubs_leadership": [
+   "Executive Director of Graphic Design, Western Women in Leadership",
+   "Entrepreneurship Ambassador, Morrissette Entrepreneurship"
+  ],
+  "skills_interests": [
+   "App development",
+   "Computer vision",
+   "Hardware (Raspberry Pi)",
+   "ML / AI",
+   "Frontend",
+   "Design",
+   "Research"
+  ],
+  "talking_points": [
+   "Ask how her team collected and trained on 4,500+ photos of hand signs for Talk To The Hand in about 36 hours",
+   "FastER combined a Raspberry Pi camera, OCR and a triage queue: a strong reference for the hardware + AI project she wants this weekend",
+   "Ask how she grew DEENSET from an idea into an online brand and what she does as a TPM at Alderra"
+  ],
+  "sources": [
+   "https://github.com/OlaWak",
+   "https://github.com/OlaWak/talk-to-the-hand",
+   "https://github.com/OlaWak/MSA-Hackathon-2",
+   "https://dorahacks.io/buidl/21417",
+   "https://ca.linkedin.com/in/ola-waked"
+  ],
+  "confidence_notes": "GitHub and DoraHacks entry both link linkedin.com/in/ola-waked, which is self-listed on her team finder card. Headline comes from public LinkedIn search snippets (profile bot-blocked). Excluded data-broker pages (RocketReach, SignalHire) and any roles known only from them, a math.uwo.ca outreach mention that could not be tied to her, and social-media follower claims.",
+  "status": "done"
+ },
+ {
+  "id": "U0CK76MKLGL",
+  "name": "Rayhan Mohamed",
+  "personal_site": {
+   "url": "https://www.rayhanmohamed.com/",
+   "evidence": "Linked from GitHub Overrayted (name Ray Mohamed, 'CS @ UWO'); site says third-year CS at Western; LinkedIn headline 'Computer Science @ Western | rayhanmohamed.com'"
+  },
+  "github": {
+   "url": "https://github.com/Overrayted",
+   "evidence": "Linked on his team finder card; name Ray Mohamed, bio 'CS @ UWO', blog rayhanmohamed.com"
+  },
+  "devpost": null,
+  "other_professional_links": [
+   {
+    "label": "LinkedIn",
+    "url": "https://ca.linkedin.com/in/rayhan-mohamed"
+   }
+  ],
+  "school_program": "Western University, HBSc Honours Specialization in Computer Science",
+  "grad_year": "2028",
+  "current_role": "Third-year Computer Science student, Western University",
+  "past_roles": [
+   "Associate Merchant Intern, Loblaw Companies Limited (Summer 2025 and Summer 2026): store distribution, vendor negotiations, automations"
+  ],
+  "projects": [
+   {
+    "name": "Scholario scholarship matcher",
+    "summary": "OpenAI-backed app matching Canadian undergrads to eligible scholarships (SolidJS/React frontend, Node/Express backend on Railway and Vercel)",
+    "url": "https://github.com/Overrayted/scholarship-matcher-frontend"
+   },
+   {
+    "name": "UPC Verifier",
+    "summary": "Big-endian ARM7 32-bit assembly program that validates UPC codes",
+    "url": "https://github.com/Overrayted/UPC-Verifier"
+   },
+   {
+    "name": "Leafdle",
+    "summary": "Wordle-style game about Toronto Maple Leafs history",
+    "url": "https://github.com/Overrayted/leafdle"
+   },
+   {
+    "name": "PocketTypes",
+    "summary": "Pokemon-style typing game for kids, built with classmates for Western CS 2212",
+    "url": "https://github.com/Overrayted/PocketTypes"
+   },
+   {
+    "name": "Prediction market",
+    "summary": "Paper-trading prediction market project",
+    "url": "https://github.com/Overrayted/prediction-market"
+   },
+   {
+    "name": "Crafting Interpreters",
+    "summary": "Workspace for working through the Crafting Interpreters book in Java",
+    "url": "https://github.com/Overrayted/Crafting-Interpreters"
+   }
+  ],
+  "hackathon_wins": [],
+  "awards": [],
+  "clubs_leadership": [],
+  "skills_interests": [
+   "Compilers and interpreters",
+   "Computer architecture and low-level programming",
+   "ARM assembly",
+   "React, Next.js, TailwindCSS",
+   "Python, Java, C, SQL, Flask, Firebase",
+   "Backend",
+   "Hardware",
+   "Triathlon (working toward a half Ironman)",
+   "Golf"
+  ],
+  "talking_points": [
+   "He wrote a UPC validator in ARM7 assembly and is working through Crafting Interpreters: ask what language he is building",
+   "Ask how Scholario uses the OpenAI API to match students to scholarships and what went wrong in early matches",
+   "Ask what he automated as a merchant intern at Loblaw two summers in a row",
+   "First hackathon and he wants hardware; his projectF repo has Arduino rocket code, so ask about that build"
+  ],
+  "sources": [
+   "https://www.rayhanmohamed.com/",
+   "https://github.com/Overrayted",
+   "https://ca.linkedin.com/in/rayhan-mohamed"
+  ],
+  "confidence_notes": "Strong identity: team finder links GitHub Overrayted, which links rayhanmohamed.com; LinkedIn snippet names the same site, Western CS 2024-2028 and Loblaw. Phone number on the public resume PDF was excluded. Excluded Devpost ICYBAWSS / rayhanm.ooo (Rutgers student), lablab.ai profile and physics.uwo.ca Rayhan Abdul Rahman. Team finder card says 'First hackathon'.",
+  "status": "done"
+ }
+]
