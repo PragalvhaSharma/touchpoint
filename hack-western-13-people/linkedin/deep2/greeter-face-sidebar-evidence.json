@@ -1,0 +1,533 @@
+{
+ "what": "Second, independent check of person-tool LinkedIn photos for people whose public LinkedIn top card is the grey placeholder (photo hidden from logged-out viewers). Each person-tool photo was compared pixel by pixel (16x16 grayscale, mean diff) with every profile-displayphoto on the same profile page fetched as facebookexternalhit/1.1. distance < 1 means the same image. sidebar_name is the aria-label/alt next to the matching image, i.e. the stranger in 'People also viewed'. Blank sidebar_name means the match had no label nearby. Checked 2026-11-21.",
+ "rows": [
+  {
+   "slack_id": "U0CLK8F0H3J",
+   "name": "Abdullokh Tulkinov",
+   "photo": "faces/person-tool/U0CLK8F0H3J-7feb03a4e0.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Oliver Olejar",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CGDSG30DS",
+   "name": "Alex Li",
+   "photo": "faces/person-tool/U0CGDSG30DS-03c96b5a00.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Lucian Lavric",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKMDV2WN9",
+   "name": "Alex Sikora",
+   "photo": "faces/person-tool/U0CKMDV2WN9-c605a2d8d1.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Josh Gardner",
+   "distance": 0.2
+  },
+  {
+   "slack_id": "U0CG1UDVAE8",
+   "name": "Alice Nguyen",
+   "photo": "faces/person-tool/U0CG1UDVAE8-e1ae9f2c79.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Salma Abdulla",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CL67M748G",
+   "name": "Amira Antoun",
+   "photo": "faces/person-tool/U0CL67M748G-3172cfa69b.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Kylie Larwood",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJF8GBZ54",
+   "name": "Anay Baid",
+   "photo": "faces/person-tool/U0CJF8GBZ54-c8bdf95709.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJ6V473FZ",
+   "name": "Andy Liu",
+   "photo": "faces/person-tool/U0CJ6V473FZ-d3ab036f63.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHX132TB3",
+   "name": "Anerie Patel",
+   "photo": "faces/person-tool/U0CHX132TB3-9ea6a90634.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Linda Qi",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHPFF6KN0",
+   "name": "Aniya Liu",
+   "photo": "faces/person-tool/U0CHPFF6KN0-8aaf2ed9b7.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Iris Liu",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CHDA78MEK",
+   "name": "Ariston Michael",
+   "photo": "faces/person-tool/U0CHDA78MEK-1619bca096.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Tina McDivitt Rajabian",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKL5HMTK3",
+   "name": "Arjun Harinath",
+   "photo": "faces/person-tool/U0CKL5HMTK3-b3acb2863b.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Saksham Batra",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CFA3DLRL6",
+   "name": "Caroline Ge",
+   "photo": "faces/person-tool/U0CFA3DLRL6-770e7ed2d1.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Caleigh van Leenen",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKFG6G5T5",
+   "name": "Cem Torun",
+   "photo": "faces/person-tool/U0CKFG6G5T5-5bbb8c92ff.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Tanay Tandon",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJZPR50SH",
+   "name": "Chandler Xie",
+   "photo": "faces/person-tool/U0CJZPR50SH-2d834c174e.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Gabriel Changamire",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CK5U6MBCZ",
+   "name": "Claresta Cheung",
+   "photo": "faces/person-tool/U0CK5U6MBCZ-cd507e331f.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHQ8U798X",
+   "name": "Collin Sobowale",
+   "photo": "faces/person-tool/U0CHQ8U798X-fe4b41a5ff.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJVM77UQK",
+   "name": "Daniel M",
+   "photo": "faces/person-tool/U0CJVM77UQK-931d5f15fe.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "John McNelly",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHQ9TKBH9",
+   "name": "Daniel Tan",
+   "photo": "faces/person-tool/U0CHQ9TKBH9-ac880f7a2d.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Harry Yang",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHJHRK1BR",
+   "name": "Dhruvil Patel",
+   "photo": "faces/person-tool/U0CHJHRK1BR-1cace4716b.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Aakash Sribalu",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHY7P59TL",
+   "name": "Diya Saxena",
+   "photo": "faces/person-tool/U0CHY7P59TL-afe78d0b16.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ian Korovinsky",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKMEFTATD",
+   "name": "Edison Qu",
+   "photo": "faces/person-tool/U0CKMEFTATD-afe78d0b16.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ian Korovinsky",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CJHMNQ0RK",
+   "name": "Edwin Ngui",
+   "photo": "faces/person-tool/U0CJHMNQ0RK-acb1b78ff7.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Amirhossein Pashaeehir",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJWD67SAH",
+   "name": "Eliza Anis",
+   "photo": "faces/person-tool/U0CJWD67SAH-ba94cfa2c5.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Jasleen Bakshi",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJNUJTBB2",
+   "name": "Eric F.",
+   "photo": "faces/person-tool/U0CJNUJTBB2-c059e80d7e.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Natasha Latysheva",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHSJ8AEDT",
+   "name": "Eric Lu",
+   "photo": "faces/person-tool/U0CHSJ8AEDT-9db641de90.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Wei Zhang",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKQ1YF7RU",
+   "name": "Fiona Xu",
+   "photo": "faces/person-tool/U0CKQ1YF7RU-6a0d3cf405.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Isabella Zhu",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CKFPTL57E",
+   "name": "George Shao",
+   "photo": "faces/person-tool/U0CKFPTL57E-471624f198.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Will Wenger",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CJP9GRWD6",
+   "name": "Ghala Basaad",
+   "photo": "faces/person-tool/U0CJP9GRWD6-22ab238bf4.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Nesreen Al-karamleh",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKF47KWFL",
+   "name": "Hadi Ahmed",
+   "photo": "faces/person-tool/U0CKF47KWFL-e937d9bc2d.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Aman Shah",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CLAGRPDCY",
+   "name": "Hania Yasin",
+   "photo": "faces/person-tool/U0CLAGRPDCY-78cacc581e.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKL26J473",
+   "name": "Henrique Alcantara Leite",
+   "photo": "faces/person-tool/U0CKL26J473-7fba6b4ce4.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Kalan Roye",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CFDTA0BR7",
+   "name": "Holia Zhang",
+   "photo": "faces/person-tool/U0CFDTA0BR7-5567918087.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Juliann Zhu",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJPSMNNNT",
+   "name": "Isabelle Gan",
+   "photo": "faces/person-tool/U0CJPSMNNNT-1c83fa4a5e.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CKAU59802",
+   "name": "Jenny Jarvis",
+   "photo": "faces/person-tool/U0CKAU59802-0023463b5f.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Kevin Venuto",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKVJ0LAPK",
+   "name": "Jerry Jiang",
+   "photo": "faces/person-tool/U0CKVJ0LAPK-54e2787487.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Seungmin Hong",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CGMK4KX9A",
+   "name": "Jess Xing",
+   "photo": "faces/person-tool/U0CGMK4KX9A-a3ce46136f.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHX8NSAVC",
+   "name": "Joanna Liu",
+   "photo": "faces/person-tool/U0CHX8NSAVC-b129f7eb66.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Satyam Singh",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHDPVQ1K9",
+   "name": "Kaisen Ni",
+   "photo": "faces/person-tool/U0CHDPVQ1K9-1fa9fa2f05.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Abdul Wahaj",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJNN4U3PZ",
+   "name": "Kaitlyn Zhu",
+   "photo": "faces/person-tool/U0CJNN4U3PZ-55330d919c.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Emerson Yu",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CK04C8XU6",
+   "name": "Kathy Dong",
+   "photo": "faces/person-tool/U0CK04C8XU6-f8dff4c911.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CK5VAF64D",
+   "name": "Lawrence Milne",
+   "photo": "faces/person-tool/U0CK5VAF64D-b7c9ee54d2.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Thank-God Williams",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJGF09XEX",
+   "name": "Liam M",
+   "photo": "faces/person-tool/U0CJGF09XEX-cad6cd131b.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ethan Luo",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJGF09XEX",
+   "name": "Liam Ma",
+   "photo": "faces/person-tool/U0CJGF09XEX-cad6cd131b.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ethan Luo",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CK3KPFDED",
+   "name": "Liangray Li",
+   "photo": "faces/person-tool/U0CK3KPFDED-5505d60d42.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Bryan Zhu",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJ04H4PNG",
+   "name": "Lina Hout",
+   "photo": "faces/person-tool/U0CJ04H4PNG-0d68c45604.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CFBV046JE",
+   "name": "Lucas Vanderwielen",
+   "photo": "faces/person-tool/U0CFBV046JE-03c96b5a00.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Lucian Lavric",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJVB8M5FW",
+   "name": "Matthew Mo",
+   "photo": "faces/person-tool/U0CJVB8M5FW-75654b9fd0.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Dawson Xiong",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKL69FT3P",
+   "name": "May Au Yong",
+   "photo": "faces/person-tool/U0CKL69FT3P-4534d97836.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Craig Oliphant",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJT130VCG",
+   "name": "Michelle Dominic",
+   "photo": "faces/person-tool/U0CJT130VCG-7962ed09e0.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Shafquat Rana",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJQT97ATT",
+   "name": "Mohamed Toman",
+   "photo": "faces/person-tool/U0CJQT97ATT-b0e685922f.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Maria Paula Garcia",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJLN8A4Q2",
+   "name": "Moses Justin",
+   "photo": "faces/person-tool/U0CJLN8A4Q2-62fe8ed7c3.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKA90R5K9",
+   "name": "Mrida Hingmire",
+   "photo": "faces/person-tool/U0CKA90R5K9-b807a4c86f.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Sudrisha Sarkar",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJW307MEX",
+   "name": "Nancy Li",
+   "photo": "faces/person-tool/U0CJW307MEX-54455b4ebf.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "David Liu",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHPHPQ2LV",
+   "name": "Nathan Espejo",
+   "photo": "faces/person-tool/U0CHPHPQ2LV-923ca369b6.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Samuel Gwosdy",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CJP4EQ0NL",
+   "name": "Ola W",
+   "photo": "faces/person-tool/U0CJP4EQ0NL-421ee097f7.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Maya Abdallah Waked",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKWHRFWF6",
+   "name": "Pragalvha Sharma (you)",
+   "photo": "faces/person-tool/U0CKWHRFWF6-3458782571.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ben Booi",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CK5T7G3TN",
+   "name": "Sebastian Sora",
+   "photo": "faces/person-tool/U0CK5T7G3TN-3175446de5.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Reese Konrad",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJ4SS6JVD",
+   "name": "Shawn X",
+   "photo": "faces/person-tool/U0CJ4SS6JVD-3a9b994148.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Hunt Zhang",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJ4SS6JVD",
+   "name": "Shawn Xiong",
+   "photo": "faces/person-tool/U0CJ4SS6JVD-3a9b994148.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Hunt Zhang",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJ76B7WCE",
+   "name": "Taha El Ghadi",
+   "photo": "faces/person-tool/U0CJ76B7WCE-dc657986dd.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Ahmad Wali",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CHYNZC7J8",
+   "name": "Tygo Crawley",
+   "photo": "faces/person-tool/U0CHYNZC7J8-0c0d306992.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Dev Chaudhari",
+   "distance": 0.0
+  },
+  {
+   "slack_id": "U0CKPG30EPQ",
+   "name": "Veronica Zhao",
+   "photo": "faces/person-tool/U0CKPG30EPQ-a7cb23f395.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Priya Shrestha",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CL1FLR43A",
+   "name": "Xinge Xu",
+   "photo": "faces/person-tool/U0CL1FLR43A-e5d0fed28d.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Marven Wang",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CK5L9TAQ3",
+   "name": "Yipeng Zhang",
+   "photo": "faces/person-tool/U0CK5L9TAQ3-f5dd15f900.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CKLUXUG9H",
+   "name": "Yousef Al-Wahami",
+   "photo": "faces/person-tool/U0CKLUXUG9H-838c5aee02.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Jumana Alaarajee",
+   "distance": 0.1
+  },
+  {
+   "slack_id": "U0CJJ7RKQ2W",
+   "name": "Zhan Hang (Thomson) Lam",
+   "photo": "faces/person-tool/U0CJJ7RKQ2W-7fba6b4ce4.jpg",
+   "top_card": "ghost",
+   "matches_sidebar_person": "Kalan Roye",
+   "distance": 0.1
+  }
+ ]
+}
