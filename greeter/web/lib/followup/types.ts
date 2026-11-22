@@ -49,7 +49,7 @@ export type Email = {
   to: string;
   subject: string;
   body: string; // plain text with light markdown (gws_email.py format), grows while drafting
-  status: "drafting" | "sending" | "sent" | "failed" | "held";
+  status: "drafting" | "approval" | "sending" | "sent" | "failed" | "held"; // approval: waiting for the recruiter's yes
   messageId?: string;
   error?: string;
 };

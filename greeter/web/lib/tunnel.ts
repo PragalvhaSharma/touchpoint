@@ -1,4 +1,5 @@
 import { spawn, type ChildProcess } from "node:child_process";
+import { Resolver } from "node:dns/promises";
 import { existsSync } from "node:fs";
 import os from "node:os";
 import path from "node:path";
@@ -30,6 +31,23 @@ const URL_RE = /https:\/\/[a-z0-9-]+\.trycloudflare\.com/;
 const REGISTERED_RE = /Registered tunnel connection/;
 // after the edge registers the tunnel, a moment for the new name to propagate before a phone tries it
 const SETTLE_MS = 1500;
+// Cloudflare sometimes drops a quick tunnel's name while cloudflared keeps running, and phones then get "site can't
+// be reached". Every minute the name is looked up on public DNS (the laptop's own DNS caches); two misses in a row
+// restart cloudflared, which brings a new address that the QR picks up on its next refresh.
+const HEALTH_MS = 60_000;
+
+/** False only when public DNS says the name doesn't exist; a timeout or no network counts as fine. */
+async function nameExists(url: string): Promise<boolean> {
+  const r = new Resolver({ timeout: 4000, tries: 2 });
+  r.setServers(["1.1.1.1", "8.8.8.8"]);
+  try {
+    await r.resolve4(new URL(url).host);
+    return true;
+  } catch (e) {
+    const code = (e as NodeJS.ErrnoException).code;
+    return !(code === "ENOTFOUND" || code === "ENODATA");
+  }
+}
 
 function binary(): string | null {
   const set = process.env.CLOUDFLARED?.trim();
@@ -106,7 +124,22 @@ function start(t: Tunnel) {
   child.on("error", (e: NodeJS.ErrnoException) => {
     if (e.code === "ENOENT") t.missing = true;
   });
+  let misses = 0;
+  const health = setInterval(async () => {
+    const url = t.url;
+    if (t.child !== child || !t.ready || !url) return;
+    if (await nameExists(url)) {
+      misses = 0;
+      return;
+    }
+    if (++misses >= 2 && t.child === child && t.url === url) {
+      console.warn("[tunnel] " + url + " no longer resolves; restarting cloudflared");
+      child.kill();
+    }
+  }, HEALTH_MS);
+  health.unref?.();
   child.on("exit", () => {
+    clearInterval(health);
     if (t.child !== child) return;
     t.child = null;
     t.url = null;

@@ -14,7 +14,7 @@ import type { ScreenHandle, Shown } from "../talk/genui/screen";
 import type { Voice } from "../voice";
 import type { Org, Profile, RoleItem } from "./types";
 import { useProfile } from "./use-profile";
-import { RecruiterChip } from "./recruiter-chip";
+import { RecruiterChip } from "./recruiter";
 
 const SPRING = { type: "spring", bounce: 0, duration: 0.5 } as const;
 
@@ -37,6 +37,8 @@ type Props = {
   screen: ScreenHandle;
   lines: PanelLine[];
   footer: ReactNode;
+  /** Top right, beside the status trail (unused now that visitors don't scan anything). */
+  corner?: ReactNode;
   className?: string;
 };
 
@@ -180,7 +182,12 @@ export function Panel(props: Props) {
         </span>
       </header>
 
-      <Trail list={trail.list} reduce={reduce} />
+      <div className="relative flex items-start gap-2 pr-5">
+        <div className="min-w-0 flex-1">
+          <Trail list={trail.list} reduce={reduce} />
+        </div>
+        {props.corner && <div className="shrink-0 pb-3 pt-3">{props.corner}</div>}
+      </div>
 
       <div className="no-scrollbar relative flex min-h-0 flex-1 flex-col gap-3 overflow-y-auto px-4 pb-4 pt-1">
         <AnimatePresence mode="popLayout" initial={false}>

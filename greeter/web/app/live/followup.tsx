@@ -1093,7 +1093,7 @@ function SendBar({ email, sentAt, reduce }: { email: Email; sentAt: number; redu
           ? "border-[rgba(48,209,88,0.25)] bg-[rgba(48,209,88,0.1)]"
           : s === "failed"
             ? "border-[rgba(255,69,58,0.25)] bg-[rgba(255,69,58,0.08)]"
-            : s === "held"
+            : s === "held" || s === "approval"
               ? "border-[rgba(255,159,10,0.25)] bg-[rgba(255,159,10,0.08)]"
               : "border-white/[0.06] bg-white/[0.02]",
       )}
@@ -1120,6 +1120,20 @@ function SendBar({ email, sentAt, reduce }: { email: Email; sentAt: number; redu
             <>
               <Spinner size={18} reduce={reduce} color="var(--blue)" />
               <span className="truncate text-label">Sending from the booth&apos;s Gmail</span>
+            </>
+          )}
+          {s === "approval" && (
+            <>
+              <span className="grid size-[26px] shrink-0 place-items-center rounded-full bg-orange text-black">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                  <circle cx="12" cy="12" r="8" />
+                  <path d="M12 8v4l2.5 2" />
+                </svg>
+              </span>
+              <span className="min-w-0 leading-snug">
+                <span className="font-semibold text-label">Waiting for the recruiter</span>
+                <span className="text-label-2">: it sends when they say yes</span>
+              </span>
             </>
           )}
           {s === "sent" && (

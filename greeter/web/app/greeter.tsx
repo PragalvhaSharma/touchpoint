@@ -11,8 +11,8 @@ import {
   type RefObject,
 } from "react";
 import { Panel, type PanelLine, type PanelVoice } from "./live/panel";
-import { ConfirmCard, type ConsentState } from "./live/confirm-card";
 import { FollowUpView, useFollowUp } from "./live/followup";
+import { RecruiterGate, RecruiterInbox } from "./live/recruiter";
 import { useScreen } from "./talk/genui/screen";
 import { useVoice, VoiceDock, type Member } from "./voice";
 
@@ -276,14 +276,10 @@ export default function Greeter() {
   const closeGrab = useCallback(() => setGrab(null), []);
   const closeTeach = useCallback(() => setTeaching(false), []);
 
-  // The booth follow-up: when a visitor walks away, research roles for them and email them right away.
+  // The booth follow-up: when a visitor walks away, research roles for them and draft their email; the recruiter
+  // approves it (live/recruiter) before it goes out.
   // ?nofollowup turns the automatic run off (the button still works).
   const followUp = useFollowUp();
-  // each visitor's phone approval, from their QR card: Follow up stays off until they approve an email
-  const [consents, setConsents] = useState<Record<string, ConsentState>>({});
-  const onConsent = useCallback((id: string, c: ConsentState) => {
-    setConsents((all) => (all[id]?.status === c.status && all[id]?.needConsent === c.needConsent ? all : { ...all, [id]: c }));
-  }, []);
   const [followSheet, setFollowSheet] = useState(false);
   const queue = useRef<{ id: string; force: boolean }[]>([]);
   const [queued, setQueued] = useState(0); // bumps when someone joins the queue
@@ -303,6 +299,10 @@ export default function Greeter() {
     setFollowSheet(true);
   }, []);
   const startFollowUp = followUp.start;
+  const followRunning = useRef(false);
+  useEffect(() => {
+    followRunning.current = followUp.running;
+  }, [followUp.running]);
   // one at a time: the next visitor's follow-up starts when the last one has finished.
   // busy covers the gap while start() is still stopping the old run, before running turns true.
   const followBusy = useRef(false);
@@ -323,37 +323,9 @@ export default function Greeter() {
     const timers = leaving.current;
     return () => timers.forEach(clearTimeout);
   }, []);
-  // A visitor whose follow-up was skipped for want of an address (no consent yet, or no email on file) and who
-  // then picks one on their phone from the booth QR: start their follow-up now (the server keeps that list).
-  // ?nofollowup turns this off too.
-  const retried = useRef(new Set<string>());
-  useEffect(() => {
-    if (new URLSearchParams(window.location.search).has("nofollowup")) return;
-    let stop = false;
-    let timer: ReturnType<typeof setTimeout> | undefined;
-    const tick = async () => {
-      try {
-        const res = await fetch("/api/confirm?ready=1", { cache: "no-store" });
-        const { ready } = (await res.json()) as { ready?: string[] };
-        for (const id of ready ?? []) {
-          if (stop || retried.current.has(id) || following.current === id) continue;
-          retried.current.add(id);
-          followed.current.delete(id);
-          followUpFor(id);
-        }
-      } catch {
-        // the server restarting; try again on the next tick
-      }
-      if (!stop) timer = setTimeout(tick, 4000);
-    };
-    void tick();
-    return () => {
-      stop = true;
-      clearTimeout(timer);
-    };
-  }, [followUpFor]);
 
   const screen = useScreen();
+  const clearScreen = screen.clear; // stable
   const voice = useVoice(active, screen);
   // Is any face in view? Only flips when that changes, so the page doesn't re-render every frame.
   const looking = useSyncExternalStore(faceStore.subscribe, () => !!faceStore.get()?.faces.length, () => false);
@@ -468,10 +440,13 @@ export default function Greeter() {
               }, LEFT_AFTER),
             );
           }
-        // someone else stepped up: cut off whatever was being said to the last person, right away
+        // someone else stepped up: cut off whatever was being said to the last person, and put their screen away
         if (ev.id !== activeId.current) {
           speaker.stop();
+          clearScreen();
           setSeen(null);
+          // the last person's finished follow-up folds into its pill, so it doesn't sit over the next person
+          if (!followRunning.current) setFollowSheet(false);
         }
         activeId.current = ev.id;
         const members = ev.members ?? (ev.id ? [{ id: ev.id, name: ev.name }] : []);
@@ -498,7 +473,7 @@ export default function Greeter() {
       }
     };
     return () => es.close();
-  }, [speaker, followUpFor]);
+  }, [speaker, followUpFor, clearScreen]);
 
   // A photo greeting takes the panel for 45 seconds (or until someone else steps up), then it goes back to the camera.
   useEffect(() => {
@@ -550,22 +525,11 @@ export default function Greeter() {
 
   const guest = !!active.id?.startsWith("guest-");
   const livePerson = seen?.id ?? (active.id && !guest ? active.id : null);
-  // the manual follow-up goes to whoever is talking now, falling back to the last face greeted
-  // (?demo staging picks the person, the same as for the panel)
-  const followTarget =
-    demo && demo.person !== undefined
-      ? demo.person && !demo.person.startsWith("guest-") ? demo.person : null
-      : ((active.id && !guest ? active.id : null) ?? seen?.id ?? null);
   const personId = demo && demo.person !== undefined ? demo.person : livePerson;
-  const gate = followTarget ? consents[followTarget] : undefined;
-  const declined = gate?.status === "declined";
-  const waitingPhone = !!gate?.needConsent && gate.status === "waiting";
-  // The follow-up QR, for whoever the greeter knows in front of it (both people of a pair, no guests).
-  const qrIds = !personId || personId.startsWith("guest-")
-    ? []
-    : personId.includes("+")
-      ? active.members.map((m) => m.id).filter((id) => !id.startsWith("guest-") && !id.includes("+")).slice(0, 2)
-      : [personId];
+  // A run that only said "nothing to send" (already emailed) stays out of the way.
+  const followSteps = (followUp.message?.parts ?? []).flatMap((p) => (p.type === "data-step" ? [p.data.status] : []));
+  const followSkipped = !followUp.running && !followUp.error && followSteps.length > 0 && followSteps.every((x) => x === "skipped");
+  const followShown = !followSkipped && !!(followUp.message || followUp.error);
   const shownVoice = demo?.voice ? { ...voice, ...demo.voice } : voice;
   const lines: PanelLine[] = demo?.lines ?? convo.lines.map((l) => ({ key: l.key, who: l.who, text: l.text }));
   const blocked = !voice.on && sound && speakState === "blocked";
@@ -671,7 +635,7 @@ export default function Greeter() {
         {/* The follow-up for whoever just left, running while the next visitor walks up. A solid sheet above the
             face tags, so the camera and the name chips never show through it. */}
         <AnimatePresence>
-          {followSheet && (followUp.message || followUp.error) && (
+          {followSheet && followShown && (
             <motion.aside
               key="followup"
               aria-label="Booth follow-up"
@@ -686,7 +650,7 @@ export default function Greeter() {
           )}
         </AnimatePresence>
         <AnimatePresence>
-          {!followSheet && (followUp.message || followUp.error) && (
+          {!followSheet && followShown && (
             <motion.button
               key="followup-pill"
               initial={{ opacity: 0, y: 8 }}
@@ -732,17 +696,6 @@ export default function Greeter() {
         lines={lines}
         footer={
           <>
-            {/* Scan to get your follow-up: up as soon as the greeter knows who is in front of it, here in the panel
-                so it never covers the camera. Both people of a pair get one. */}
-            {!teaching && qrIds.length > 0 && (
-              <div className="mb-3 flex flex-col gap-2">
-                <AnimatePresence initial={false}>
-                  {qrIds.map((id) => (
-                    <ConfirmCard key={id} personId={id} small={qrIds.length > 1} onStatus={onConsent} />
-                  ))}
-                </AnimatePresence>
-              </div>
-            )}
             <AnimatePresence>{teaching && <TeachSheet onClose={closeTeach} reduce={!!reduce} />}</AnimatePresence>
             {blocked && <p className="px-1 pb-2 text-[12.5px] text-orange">Click anywhere to hear the greeter.</p>}
             <div className="flex gap-2">
@@ -753,22 +706,6 @@ export default function Greeter() {
               >
                 {teaching ? "Done" : "Teach a face"}
               </button>
-              {followTarget && (
-                <button
-                  onClick={() => followUpFor(followTarget, true)}
-                  disabled={waitingPhone || declined}
-                  title={
-                    declined
-                      ? "They said no thanks on their phone"
-                      : waitingPhone
-                        ? "Waiting for them to approve their email on their phone"
-                        : "Research roles for this visitor and email them now"
-                  }
-                  className="press flex-1 rounded-[14px] bg-white/[0.06] py-2.5 text-[14px] font-semibold text-label-2 hover:bg-white/10 hover:text-label disabled:pointer-events-none disabled:opacity-45"
-                >
-                  {declined ? "Opted out" : waitingPhone ? "Waiting for approval" : "Follow up"}
-                </button>
-              )}
               {!voice.on && (
                 <button
                   onClick={() => {
@@ -786,6 +723,8 @@ export default function Greeter() {
           </>
         }
       />
+      <RecruiterInbox />
+      <RecruiterGate />
     </main>
   );
 }

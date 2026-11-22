@@ -34,10 +34,13 @@ export type ConsentState = { status: "waiting" | "confirmed" | "declined"; needC
 export function ConfirmCard({
   personId,
   small = false,
+  corner = false,
   onStatus,
 }: {
   personId: string;
   small?: boolean;
+  /** The compact version for the top right of the panel: just the QR and a word under it. */
+  corner?: boolean;
   /** tells the booth whether this visitor has approved an email yet, so Follow up can wait for it */
   onStatus?: (personId: string, s: ConsentState) => void;
 }) {
@@ -79,6 +82,7 @@ export function ConfirmCard({
   const status = s.status ?? "waiting";
   const first = s.first || "you";
   const size = small ? "size-[92px]" : "size-[clamp(112px,9vw,150px)]";
+  if (corner) return <Corner s={s} status={status} first={first} small={small} reduce={reduce} />;
 
   return (
     <motion.section
@@ -175,6 +179,56 @@ function QR({ qr, url, className }: { qr?: string; url?: string; className: stri
         <span className="size-full animate-pulse rounded-[8px] bg-black/10" />
       )}
     </span>
+  );
+}
+
+/** The top-right QR: scan it, approve on the phone, and it turns green. The follow-up then runs on the left. */
+function Corner({ s, status, first, small, reduce }: { s: Status; status: string; first: string; small: boolean; reduce: boolean }) {
+  const box = small ? "size-[78px]" : "size-[clamp(96px,7vw,124px)]";
+  const label =
+    status === "confirmed" ? "Email approved"
+    : status === "declined" ? "No follow-up"
+    : !s.qr ? "Getting ready"
+    : small ? (first === "you" ? "Scan me" : first)
+    : "Scan for your follow-up";
+  return (
+    <motion.section
+      layout={reduce ? false : "position"}
+      aria-label="Scan to get your follow-up"
+      initial={reduce ? { opacity: 0 } : { opacity: 0, y: -8, filter: "blur(6px)" }}
+      animate={{ opacity: 1, y: 0, filter: "blur(0px)" }}
+      exit={reduce ? { opacity: 0 } : { opacity: 0, y: -8, filter: "blur(6px)", transition: { duration: 0.2 } }}
+      transition={SPRING}
+      className={
+        "flex flex-col items-center gap-1.5 rounded-[18px] p-2 ring-1 transition-colors duration-500 " +
+        (status === "confirmed" ? "bg-[rgba(48,209,88,0.08)] ring-[rgba(48,209,88,0.55)]" : "bg-white/[0.045] ring-white/[0.08]")
+      }
+    >
+      {status === "confirmed" ? (
+        <span className={box + " grid place-items-center"}>
+          <motion.span
+            initial={reduce ? false : { scale: 0.5 }}
+            animate={{ scale: 1 }}
+            transition={{ type: "spring", bounce: 0.4, duration: 0.6 }}
+            className="grid size-12 place-items-center rounded-full bg-green shadow-[0_12px_36px_-10px_rgba(48,209,88,0.8)]"
+          >
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" strokeWidth="3.2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+              <path d="M5 12.5l4.5 4.5L19 7.5" />
+            </svg>
+          </motion.span>
+        </span>
+      ) : (
+        <QR qr={s.qr} url={s.url} className={box + " rounded-[12px] p-1.5" + (status === "declined" ? " opacity-40" : "")} />
+      )}
+      <p
+        className={
+          "w-0 min-w-full text-balance text-center text-[11.5px] font-semibold leading-tight " +
+          (status === "confirmed" ? "text-green" : "text-label-2")
+        }
+      >
+        {label}
+      </p>
+    </motion.section>
   );
 }
 
