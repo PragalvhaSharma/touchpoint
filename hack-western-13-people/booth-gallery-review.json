@@ -1,0 +1,3543 @@
+{
+  "people": {
+    "U0CJ78QGDMM": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CJ78QGDMM.jpg",
+        "sha256": "586eb7b11217f2ae2ef8a2e06b8f50741d73ba54c31b8f2da086ec01ba20a6bb"
+      }
+    },
+    "U0CGDSG30DS": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CGDSG30DS.jpg",
+        "sha256": "e11f10b4b5a7a44ce651e0d9ad54adf72247b1ce2eec9f17da6797355816cd5a"
+      }
+    },
+    "U0CDUJ6E799": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CDUJ6E799.jpg",
+        "sha256": "9520d0b0ff04503a6a516aeb1d2c3cd0ea78b63c845c3a94552732c2ac837688"
+      }
+    },
+    "U0CHUBFV402": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CHUBFV402.jpg",
+        "sha256": "caaf86c85580d9658a60a08e911c0772adcc88bc7a549fa45bfaefefae68e8ee"
+      }
+    },
+    "U0CFF77FQCR": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CFF77FQCR.jpg",
+        "sha256": "849eb7500516fd88b243f87298381ae832b5471c8ee8df3dfd5851edb37e1850"
+      }
+    },
+    "U0CHUPE2XNV": {
+      "primary": {
+        "path": "faces/person-tool/U0CHUPE2XNV-1277579999.jpg",
+        "sha256": "4b2465d6698f2fe0daefdfe7da5d84a771a06bd7db9502280a931f7d132a2021"
+      }
+    },
+    "U0CHE5NL5H7": {
+      "primary": {
+        "path": "photos-linkedin/U0CHE5NL5H7-linkedin.jpg",
+        "sha256": "4561f8e63858b00e587440291b9eb1c51f17ad18777622b89f1a89426d3ca3af"
+      }
+    },
+    "U0CHMDPS30T": {
+      "primary": {
+        "path": "photos-linkedin/U0CHMDPS30T-linkedin.jpg",
+        "sha256": "9a88ad633aa7cbcf9ed56b065efa33940f6ad20e49416b6a71d5727e2e5a48e3"
+      }
+    },
+    "U0CFDTA0BR7": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CFDTA0BR7.jpg",
+        "sha256": "7c70851210d2ce93f340bba0f8201acb3ed6584ab12e1be3c7978301e107d934"
+      }
+    },
+    "U0CFDQF509X": {
+      "primary": {
+        "path": "photos-linkedin/U0CFDQF509X-linkedin.jpg",
+        "sha256": "ea8fc94c45c9b31498d203180120ea024de0372dda42ffa3e3881ab1e044f6f1"
+      }
+    },
+    "U0CHL3QEWTY": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CHL3QEWTY.jpg",
+        "sha256": "99bdd6963fa7b9bcdeb000785692621beef944490629040789f1928827953879"
+      }
+    },
+    "U0CGMK4KX9A": {
+      "primary": {
+        "path": "photos/jess-xing-U0CGMK4KX9A.jpg",
+        "sha256": "8f19d13e48c4c9bf471d8e538f15793000188cf582569143560a0bfb411c80ae"
+      }
+    },
+    "U0CFCJV2KLJ": {
+      "primary": {
+        "path": "photos-linkedin/U0CFCJV2KLJ-linkedin.jpg",
+        "sha256": "869f81dc5705d19e565c5c62fb8b554401fdf1ef596c24a3ca7e92d8d6bd3280"
+      }
+    },
+    "U0CF1DC3L6L": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CF1DC3L6L.jpg",
+        "sha256": "11e3036f1b3de3554cc78d899511d4a709c8e0e560c2801d926b3b2bdc2454b9"
+      }
+    },
+    "U0CFCJNKNFL": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CFCJNKNFL.jpg",
+        "sha256": "5497bd0b2c14a498299ae8e6964d26fa8de4d994f3d8d7fa9fd4bc7f1b617eea"
+      }
+    },
+    "U0CHQ926BCL": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CHQ926BCL.jpg",
+        "sha256": "90134c05ba384268b8e0ebcb549a1b60efe2b604a8629689d7049cca83827357"
+      }
+    },
+    "U0CFBV046JE": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CFBV046JE.jpg",
+        "sha256": "d080f73e411ac762f997aea4e3f27ebdd95749c2d6103e56cf937b98b8f29bd3"
+      }
+    },
+    "U0CFA0WM7C6": {
+      "primary": {
+        "path": "faces/gravatar/U0CFA0WM7C6.jpg",
+        "sha256": "a37e681e0c2f239c3a14d70fc406520cea3bced87ca3631453c91a8840bd9f2f"
+      }
+    },
+    "U0CFADPAPLN": {
+      "primary": {
+        "path": "photos-linkedin/U0CFADPAPLN-linkedin.jpg",
+        "sha256": "453a6878136931df4b599e428c0fa4f4c8431dade11a5867c71f6906e1efaf9c"
+      }
+    },
+    "U0CJG4298U8": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CJG4298U8.jpg",
+        "sha256": "32895b8df0433fbdacdb573731d99458efdac8dd2c8a2dd97bd878dd2716fd6f"
+      }
+    },
+    "U0CDZHB2KMH": {
+      "primary": {
+        "path": "photos/sarah-lieng-U0CDZHB2KMH.jpg",
+        "sha256": "affa0033729844f29bd20bea713d35f4c96492cae09218e1bc4d2d78b9222f27"
+      }
+    },
+    "U0CF5Q0UA9Z": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CF5Q0UA9Z.jpg",
+        "sha256": "d0dbc70d90244ac288b66be822c2817998fba5a871833caabf5ea9ebceee4b60"
+      }
+    },
+    "U0CH4C2JRAB": {
+      "primary": {
+        "path": "faces/person-tool/U0CH4C2JRAB-7596fd9d22.jpg",
+        "sha256": "b39187516841730f928802dca23da9b15649f353bef14f4739494ca4b1be7e87"
+      }
+    },
+    "U0CG1UDVAE8": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CG1UDVAE8.jpg",
+        "sha256": "cd08a21911f4fb0ca34d4ccce146c7270dfdc09d25d8c048c60371d532a4aed2"
+      }
+    },
+    "U0CHPFF6KN0": {
+      "primary": {
+        "path": "faces/hackwestern-site/U0CHPFF6KN0.jpg",
+        "sha256": "cf184927e404370176f7c43071f44af90e71ef2dd8301d1f94e3afe5fd05a8dd"
+      }
+    },
+    "U0CFA3DLRL6": {
+      "primary": {
+        "path": "photos/caroline-ge-U0CFA3DLRL6.jpg",
+        "sha256": "8440881964ea8ad53f7d7d6dabf6cc0900bf7dd7ac01dc83fb4584125669dc59"
+      }
+    },
+    "U0CFW6P7GBG": {
+      "primary": {
+        "path": "photos-linkedin/U0CFW6P7GBG-linkedin.jpg",
+        "sha256": "ebf9d3815cba7653914e381bb4a742e305700262def16f090efe0edfaa8e9cdc"
+      }
+    },
+    "U0CDR3H3D7H": {
+      "primary": {
+        "path": "faces/person-tool/U0CDR3H3D7H-9a38db4950.jpg",
+        "sha256": "10359b985b44007e6b0a4ac3e3818fd6d96dfbcee5ba3303ce61910c4989aede"
+      }
+    },
+    "U0CJPSMNNNT": {
+      "primary": {
+        "path": "photos-fallback/U0CJPSMNNNT-devpost.jpg",
+        "sha256": "20e32d1cd4de099ba4e555b8cc2a9277916c0a0c5a49ae32d06a755c111018d6"
+      }
+    },
+    "U0CJNQWPZQS": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/aiden-arman-alaei.jpg",
+        "sha256": "6a54d7287e04e01eb75314dfc3f39de50e1ca5f73127a4c6e22cbe5077a32c3e"
+      }
+    },
+    "U0CHUR8TSDD": {
+      "primary": {
+        "path": "faces/person-tool/U0CHUR8TSDD-3a1ebd978f.jpg",
+        "sha256": "793e70e7a290d2a161525d1d026e984db0bde46fc35f9ccc4449ceb4fadf1904"
+      }
+    },
+    "U0CJGPV815H": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/ali-mohammed-ali.jpg",
+        "sha256": "f9bd4ea4ce8d3e3c2e1cd07efccdda28439f846b5fb01abb7d7c3584f267906e"
+      }
+    },
+    "U0CKC7ZB22U": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/david-liu.jpg",
+        "sha256": "5273ae74b8a85c0027dadfa5eeb94568df4d2cb57ed0406085bb7b81c737658a"
+      }
+    },
+    "U0CJHMNQ0RK": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/edwin-ngui.jpg",
+        "sha256": "50595b194ad3e099c30224a0b1f1e685e1c934d332a9cb4821be0b90f1722724"
+      }
+    },
+    "U0CJ1NF5PNZ": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/evan-lin.jpg",
+        "sha256": "3cd844c4ff8108a3a0aa99fb2f76d01372e7e761a3debee5b56e1d4cd7abf150"
+      }
+    },
+    "U0CJ72GK8V7": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ72GK8V7-b4cc0e87d5.jpg",
+        "sha256": "47410b8870e0d277c73548f6564d777850f83a40539be941274f802077782a26"
+      }
+    },
+    "U0CHUSENRF1": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/jaemin-han.jpg",
+        "sha256": "a14693523bc1ede406e3abee666d339bde9fc92d227d62a20f35e0915d36af37"
+      }
+    },
+    "U0CJVAVFW3F": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/lecia-cheng.jpg",
+        "sha256": "b511b6b293319d92cfec16871b697cc6a6b6e2d0d2643b1c725a32ee14e05adc"
+      }
+    },
+    "U0CJSMLB1PE": {
+      "primary": {
+        "path": "faces/person-tool/U0CJSMLB1PE-b09cfaf7fc.jpg",
+        "sha256": "487c5bab8653979fe39aab243d5241e0faa478f7acac80166d21a62947394d13"
+      }
+    },
+    "U0CKHGRGLP2": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/luke-blommesteyn.jpg",
+        "sha256": "fdf61f88479cf816c6657915417536cb345f9a999ac29294ad932a7f9a12282e"
+      }
+    },
+    "U0CJQT97ATT": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/mohamed-toman.jpg",
+        "sha256": "3ccc74f922ddd39b49fb18625c9ed88cf31d64881f7634c3c90c00616402719f"
+      }
+    },
+    "U0CJE5UCQ6Q": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/rafay-kashif.jpg",
+        "sha256": "745a8a3a1558840cc2f87ab9a20aae39038739be31c88846ce0ea040f6239e6e"
+      }
+    },
+    "U0CHPJ2QWMD": {
+      "primary": {
+        "path": "photos-linkedin/U0CHPJ2QWMD-linkedin.jpg",
+        "sha256": "fbb4eb3402d4750e945ceed3696e42805e2a9ddb1850090fa089089930be98df"
+      }
+    },
+    "U0CJDU8AWEQ": {
+      "primary": {
+        "path": "photos-linkedin/U0CJDU8AWEQ-linkedin.jpg",
+        "sha256": "8aa642f370cf5fb68fe7a776f43cab42ee0a5e3633b1e868aedffc83227296b7"
+      }
+    },
+    "U0CJLQ6PMHV": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/surya-sure.jpg",
+        "sha256": "8259b4f5e1fe0b99f2b5e24761bdf77fe8dea041f2bc330cde07e0d833436fe7"
+      }
+    },
+    "U0CJ41J2LLT": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ41J2LLT-linkedin.jpg",
+        "sha256": "34eee8b51c5e73ca6dd17f112ac67cd801354ef4810c5f8d9c7867d1b610ad54"
+      }
+    },
+    "U0CJSMGJ3EY": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/william-liu.jpg",
+        "sha256": "37158e5c84b4aa333341404985cbad62d83fb676ab3dfe4b35b5629827503a1f"
+      }
+    },
+    "U0CKU8R460Y": {
+      "primary": {
+        "path": "hackwestern-site/photos/mentors/xander-chin.jpg",
+        "sha256": "612c872b7550e8490a82fc781eb1b1339bf6ac47cdcfbea57f1fe28aa13a49a0"
+      }
+    },
+    "U0CKMDV2WN9": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The linked GitHub account uses an identicon. LinkedIn provided no individually attributed image."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CL67M748G": {
+      "review": [
+        {
+          "label": "Additional photo",
+          "text": "The linked Bayt professional profile explicitly labels the headshot as Amira Antoun, Recruitment Advisor. Its name, London, Ontario location, and HR career align with the curated professional record. The image filename dates to 2011 and the photographed appearance may be outdated.",
+          "url": "https://people.bayt.com/amira-antoun-5057475/"
+        },
+        {
+          "label": "Primary portrait",
+          "text": "The StarTech sponsor roster identifies Amira Antoun. The named LinkedIn profile lists her StarTech talent-acquisition role. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/amira-antoun"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKFG6G5T5": {
+      "primary": {
+        "path": "faces/github/U0CKFG6G5T5.jpg",
+        "sha256": "c0af65c5d67cca770c4e43e1b11e676673a0dd8ff0eee89fa929a9ef9c19ebfe"
+      }
+    },
+    "U0CL68L4UQ0": {
+      "primary": {
+        "path": "photos-linkedin/U0CL68L4UQ0-linkedin.jpg",
+        "sha256": "013d4aa93e8cbefbd5ab3e77155836a9ec4d737034ae0dcdc459abda833dd557"
+      }
+    },
+    "U0CKR957XUJ": {
+      "primary": {
+        "path": "photos-linkedin/U0CKR957XUJ-linkedin.jpg",
+        "sha256": "bf4df3b792d0774ae7d55bf70958248529c2746f77097dc64ad56a854978a530"
+      }
+    },
+    "U0CKALQP8RY": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK7SG4KJT": {
+      "primary": {
+        "path": "faces/person-tool/U0CK7SG4KJT-3a855f8a5c.jpg",
+        "sha256": "8b3f7942e5710c64bb613dc837a1401537f5540394dd868b518ba80126e91ea7"
+      }
+    },
+    "U0CKL69FT3P": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The sponsor roster name and StarTech affiliation are corroborated by her own public hiring posts for StarTech. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/may-au-yong-8805813"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKCP0MG3T": {
+      "primary": {
+        "path": "faces/person-tool/U0CKCP0MG3T-aa69eeeec9.jpg",
+        "sha256": "7c215597a43013a7a6bab3ceddd46a8bafda71fab16b9c72857907a339eb4e6e"
+      }
+    },
+    "U0CKQDWJF0W": {
+      "primary": {
+        "path": "faces/person-tool/U0CKQDWJF0W-bedba31329.jpg",
+        "sha256": "85dc518d563bb9733b263e3d29f86360781fd00d3b75174af651475ea65851a5"
+      }
+    },
+    "U0CKPG30EPQ": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The StarTech sponsor roster and confirmed StarTech data analyst role identify Veronica (Mengchen) Zhao. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/veronica-zhao"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKG9SGRPD": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Sun Life sponsor roster username and verified GitHub identity match Vijay Maulkhan. His GitHub profile links this LinkedIn account. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/VijayMaulkhan"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKBM4AUMU": {
+      "primary": {
+        "path": "photos-linkedin/U0CKBM4AUMU-linkedin.jpg",
+        "sha256": "5986d532d8303fa3bca6852a48f8bcff4dcc9e1e7e7ea69a0e92c233f78f4766"
+      }
+    },
+    "U0CK5L9TAQ3": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The two authored posts show a credential/diploma and a placeholder byline image. The regulatory sources concern products."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKSBEEF2M": {
+      "primary": {
+        "path": "faces/person-tool/U0CKSBEEF2M-969c31065d.jpg",
+        "sha256": "a20256423915a442cd7c3f480dc3bace7d1724f4946fa4905be2259f1f82340b"
+      }
+    },
+    "U0CKFPTL57E": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The sponsor record and LinkedIn entry both give George Shao at StarTech in Canada. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/georgeqshao"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKAU59802": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Canada Life sponsor roster and named London, Ontario professional account match on name and employer. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/jenny-jarvis-61a29722"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKQGHQHLZ": {
+      "primary": {
+        "path": "faces/person-tool/U0CKQGHQHLZ-51f49c68c9.jpg",
+        "sha256": "d1591b0d2c8b7f7bca72552464a16cf0f7610fa85e525ec26acfbbc229501478"
+      }
+    },
+    "U0CKF9S15B3": {
+      "primary": {
+        "path": "photos-linkedin/U0CKF9S15B3-linkedin.jpg",
+        "sha256": "472eec730cac36af6fba054850355ae0c5a8b4d5b36b022aa2630ebaa64b49a1"
+      }
+    },
+    "U0CJ6V473FZ": {
+      "primary": {
+        "path": "photos/andy-liu-U0CJ6V473FZ.jpg",
+        "sha256": "133c4c0222bfd1fa3a630e7d8beea456d544fb376cc736412326bf1414ac365c"
+      }
+    },
+    "U0CJ3B9PBBM": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKGMZ20KS": {
+      "primary": {
+        "path": "photos-linkedin/U0CKGMZ20KS-linkedin.jpg",
+        "sha256": "c390cc227bd5366dd0785bc22098d13c1d25a3f487ea10c6985c9d1140c42369"
+      }
+    },
+    "U0CJBDPBNRF": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost account matches the roster handle, but its named profile image is the generic silhouette."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHU68C8HM": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The individually labeled Devpost avatar is an initial, and the linked GitHub avatar is an illustration."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The named Devpost and GitHub accounts match the roster handle but do not link to this LinkedIn. The named member page adds the host school only."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKGMUQU4Q": {
+      "primary": {
+        "path": "faces/person-tool/U0CKGMUQU4Q-099888e718.jpg",
+        "sha256": "b4780cb82a0de404c4efabdb9669466edaf618f284f6bb1b4b8328c115267c07"
+      }
+    },
+    "U0CHU64DWDD": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Ivey profile’s hero is an interior photograph with several distant people. The publisher does not identify one as Eric."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJS28U3RA": {
+      "primary": {
+        "path": "photos-linkedin/U0CJS28U3RA-linkedin.jpg",
+        "sha256": "f4a8e6a6790fa302473298ae38055118b93710ca2b808dfc22449e80a73254ea"
+      }
+    },
+    "U0CJS25TD6Y": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "A clear portrait exists. The volunteer name and Western student profile agree, but there is no independent link from the roster account or event to that profile."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ7J1P338": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named data-science portfolio publishes the exact roster contact and links the LinkedIn account that supplied the saved portrait. Public GitHub commits independently tie the account to the roster.",
+          "url": "https://ca.linkedin.com/in/khushi-lad-datascience-uwo"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://github.com/khushi-lad/data-science-portfolio"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKGMWD1FA": {
+      "primary": {
+        "path": "faces/person-tool/U0CKGMWD1FA-625fd57dad.jpg",
+        "sha256": "9cbb612338bb2df9bae0159bf22726a678b2ab7a4c30f71c8f37ad3075c88518"
+      }
+    },
+    "U0CJX58EPE0": {
+      "primary": {
+        "path": "faces/person-tool/U0CJX58EPE0-9f85fca167.jpg",
+        "sha256": "79ebecb021779028bd96c1dae392ca53abc7f69f30a40d84c47b1bbb5040d510"
+      }
+    },
+    "U0CJJ23C5EZ": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The personal site has a clear introductory photo; the portfolio and GitHub identify the same Laurier CS student. The roster identity review records multiple Ontario namesakes and explicitly reports no link to this volunteer’s handle. Held for confirmation."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJYP29TNH": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Devpost account for this full name lists Hack Western 13 and directly links the exact LinkedIn profile that supplied the portrait.",
+          "url": "https://ca.linkedin.com/in/aarush-modi"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://devpost.com/aarush-modi/challenges"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJ8RJ77LN": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ8RJ77LN-linkedin.jpg",
+        "sha256": "6933f6a840f4cffa07df8328b5222c7873d4bb386ebfa43b7c49c563e54c5ae3"
+      }
+    },
+    "U0CK8091S04": {
+      "primary": {
+        "path": "photos/abdul-mughal-U0CK8091S04.jpg",
+        "sha256": "64dfa3d8dae186ecaf0fd7707aa662322259a36e4b8d672993ac1c8fdc05db57"
+      }
+    },
+    "U0CLK8F0H3J": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Slack username exactly matches the named Devpost handle. Devpost, GitHub and his personal site link the same LinkedIn profile. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/abdullokh-tulkinov"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKHCD88F2": {
+      "primary": {
+        "path": "photos-linkedin/U0CKHCD88F2-linkedin.jpg",
+        "sha256": "7dd6c65da4e1ab2f9a20c54eda0f2e7c8abe5fd5b90fc745e2e02df19ac77582"
+      }
+    },
+    "U0CHD5V9WMV": {
+      "primary": {
+        "path": "faces/person-tool/U0CHD5V9WMV-26cf8f9591.jpg",
+        "sha256": "fd77c8c3bee031e0dc2f1ea132ae3b83588db63c4c394093ebfc576277667c87"
+      }
+    },
+    "U0CHX9FGFEW": {
+      "primary": {
+        "path": "faces/person-tool/U0CHX9FGFEW-1d93edb5aa.jpg",
+        "sha256": "03b25213e96408d82135b81c29c016ef821ba82acfacb36d6d3cf0cef8e3867e"
+      }
+    },
+    "U0CJW678YAG": {
+      "primary": {
+        "path": "photos-linkedin/U0CJW678YAG-linkedin.jpg",
+        "sha256": "502df9a22cf07fb19bcfa27a352350c6332cbfd03bcb7a5adc2722d2913dfd64"
+      }
+    },
+    "U0CKPDJPQES": {
+      "primary": {
+        "path": "photos-linkedin/U0CKPDJPQES-linkedin.jpg",
+        "sha256": "e1ff32f14525d2479ceb31f837a6642fece27b3bf1dd583038233f98a18237ff"
+      }
+    },
+    "U0CJHQJLGQP": {
+      "primary": {
+        "path": "faces/person-tool/U0CJHQJLGQP-6267789985.jpg",
+        "sha256": "da7c05bc8bb55ffe4585632ff1e7447e722f45a72940231803d6720df10c7ce8"
+      }
+    },
+    "U0CJPPJCFT2": {
+      "primary": {
+        "path": "photos/an-shi-wang-U0CJPPJCFT2.jpg",
+        "sha256": "c07bdd304a153a91b049fb3d224c24deb7bdb3123ef53513babcaebe8e7531fe"
+      }
+    },
+    "U0CHXQH2NCW": {
+      "review": [
+        {
+          "label": "Corroborating photo credit",
+          "url": "https://anastasiyavolgina.com/blog/how-we-revamped-taildrive",
+          "text": "The roster’s confirmed GitHub and Devpost accounts link directly to her personal site. Its Taildrive article associates the contributor named Anastasiya with her profile and her individual headshot. The confirmed portfolio and the article are on the same domain."
+        },
+        {
+          "label": "Primary portrait",
+          "text": "The roster-linked Devpost and GitHub profiles both link this LinkedIn handle and the named personal site. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/anastasiya-volgina"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJF8GBZ54": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The same heavily stylized avatar recurs on several linked accounts alongside a generated identicon. None supplies a clearly attributable photographic likeness."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ00P755Z": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ00P755Z-82a4317746.jpg",
+        "sha256": "a916f55aa16c171f1ff4efe8d66e4dfa8e7339c009a59b405947ace1f6843b9b"
+      }
+    },
+    "U0CHYEYEEBE": {
+      "primary": {
+        "path": "faces/devpost/U0CHYEYEEBE.jpg",
+        "sha256": "2139b83572117f9ce759255a695fd1c7fb12439bdfd8c3f4b6caf7e78ed61a35"
+      }
+    },
+    "U0CJ4FY7WKD": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ4FY7WKD-5feb72d49a.jpg",
+        "sha256": "b94660060c82dce4cc5f2866525919fc7545a4ba63f19f7e7a161b7afaad556b"
+      }
+    },
+    "U0CHX132TB3": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named Devpost profile matches the Slack username exactly. The confirmed LinkedIn slug, display name Anerie P., Ontario location and hackathon activity match the curated record. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/anerie-patel"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJKNP77BR": {
+      "primary": {
+        "path": "faces/person-tool/U0CJKNP77BR-7ee3905c1d.jpg",
+        "sha256": "0b331bffd677c3f94378dff2122d893ed15ac215f72768a20861715440ee1325"
+      }
+    },
+    "U0CK39R9J86": {
+      "primary": {
+        "path": "faces/person-tool/U0CK39R9J86-f24b78ed8c.jpg",
+        "sha256": "d88059187cb0032b687e97f632615e0ea12225a5521111367b88867c74f237be"
+      }
+    },
+    "U0CJ01EL0FK": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ01EL0FK-597f1c7bf8.jpg",
+        "sha256": "609315783d925521c0adde0ffbc1353a88f94ecf58604ff6e2e68ff4bc3fbd5d"
+      }
+    },
+    "U0CKZ7ABCNL": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The roster contact exactly matches Anna deRoos’s public GitHub commits to the SheHacks+ 10 website. The named LinkedIn portrait profile independently identifies her as Director of Development for Women+ in Technology Society at Western, the same student organization behind SheHacks+.",
+          "url": "https://linkedin.com/in/anna-deroos-2607653b2"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://github.com/junakim0118/Shehacks10_Website/commit/001ed0e7b5cc684932bcc0bc4520069e37f69bc5"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJY6UBKFV": {
+      "primary": {
+        "path": "photos-linkedin/U0CJY6UBKFV-linkedin.jpg",
+        "sha256": "15059661ef67f68169e6820191bbe264bd2d0cc8ca26df540896d761c05b17a4"
+      }
+    },
+    "U0CJ856JDPG": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ856JDPG-linkedin.jpg",
+        "sha256": "2b50196acb7838ea593574e486e9d4a2fd234a686940733ed7aea458dd1d520a"
+      }
+    },
+    "U0CK92CSXDM": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The attendee’s Devpost handle matches the roster handle and directly links Antkuz17. A public commit on that GitHub account matches the roster contact. The account’s personal portfolio links the portrait profile in the repository’s saved rendered copy.",
+          "url": "https://ca.linkedin.com/in/anton-kuzmichev"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://github.com/Antkuz17/Expression_Evaluator/commit/25148fa16126450a98cde3b07de561289a09b1e4"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHXT1T6SJ": {
+      "primary": {
+        "path": "photos-linkedin/U0CHXT1T6SJ-linkedin.jpg",
+        "sha256": "0f210d215260cf555139b261a332fbd564fe3ca3fcc24b281ac2450bed430f4d"
+      }
+    },
+    "U0CHDA78MEK": {
+      "primary": {
+        "path": "faces/devpost/U0CHDA78MEK.jpg",
+        "sha256": "fb7c52e89701797c6b6005e7e565111b6cd13b3c97f6941876a9480c72de8bff"
+      }
+    },
+    "U0CKL5HMTK3": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The sole saved image is a geometric GitHub identicon."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ0L8GMMF": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ0L8GMMF-cd6b22207f.jpg",
+        "sha256": "67953e1e270778fb25a7fa10296d2c46ac6ecf0f7d1d67220ce3ead0728ed67b"
+      }
+    },
+    "U0CJSKWJR7X": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Devpost and GitHub use identicons. The personal portfolio directly linked by the GitHub owner presents graphics and projects. A separate matching-name website belongs to a math teacher and volleyball coach."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The matched page shows a placeholder; the co-op and major match but the participant GitHub supplies no direct cross-link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKEDASQSW": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CKEDASQSW.jpg",
+        "sha256": "393a7f396c73efe007eb724d923f88fdc103a32e0281bd988d40a9f4dc0b3e83"
+      }
+    },
+    "U0CKUNKP989": {
+      "primary": {
+        "path": "photos-linkedin/U0CKUNKP989-linkedin.jpg",
+        "sha256": "8c56f4c531e3f6c2eb3b545f934f3104421deda8b5b75035b57eb523dc71c283"
+      }
+    },
+    "U0CJWQ32D0D": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The named GitHub account uses an identicon."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKL41A0P5": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The full-name Devpost account lists Hack Western 13. Its ClearHear project also appears in the same-name developer’s GitHub repositories, where their profile explicitly links the exact portrait account.",
+          "url": "https://ca.linkedin.com/in/ayush-parekh-314b932b8"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://devpost.com/ayushparekh2022/challenges"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHP7YCTS9": {
+      "primary": {
+        "path": "photos-linkedin/U0CHP7YCTS9-linkedin.jpg",
+        "sha256": "6da63b88153384ff196cb7eea62c799d7edfa564bc339eb111b010e26b32f133"
+      }
+    },
+    "U0CHZR1AGDT": {
+      "primary": {
+        "path": "photos/bonnie-qiu-U0CHZR1AGDT.jpg",
+        "sha256": "36fe746881d66dbe327d5052d96abe1cbfacd48ff6c5c606ae6d3d5d47158b4e"
+      }
+    },
+    "U0CKS6CFJM8": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The exact-handle Devpost confirms participation, but neither it nor the verified GitHub account links the candidate LinkedIn. The name is shared by multiple people."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKL4G5EF5": {
+      "primary": {
+        "path": "photos-linkedin/U0CKL4G5EF5-linkedin.jpg",
+        "sha256": "fe0420dc2f5550cb54aaa8820d7508df40288b51b22f6daf1ad09fee57f12987"
+      }
+    },
+    "U0CJWRV0M7V": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Two consistent LinkedIn accounts point to the same personal site. The roster volunteer name does not independently tie that site to this event account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK1H5HDCJ": {
+      "primary": {
+        "path": "faces/person-tool/U0CK1H5HDCJ-e6dc9c676d.jpg",
+        "sha256": "6746a90b78ac1cfd962325c1f9b2562b81ebaa3c8bc0e2151f8142bce981daf9"
+      }
+    },
+    "U0CJZQPFP6J": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Devpost account lists this full name and Hack Western 13, and links the portrait profile and GitHub. A commit on the linked GitHub account also matches the roster contact.",
+          "url": "https://ca.linkedin.com/in/clark-miller-b14718290"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://devpost.com/DevClarkMiller/challenges"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJW712AQK": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The GitHub and Devpost owner avatars show the same cat; the other linked accounts did not provide an individually credited portrait."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The candidate profile shows a placeholder. No asset to verify."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CLKLT4KB2": {
+      "primary": {
+        "path": "photos-linkedin/U0CLKLT4KB2-linkedin.jpg",
+        "sha256": "b69d50ce718efcce0021df2fa11f286a8b22985eb37b0811ae92f6fb5f050de8"
+      }
+    },
+    "U0CJYM2CJJZ": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKHHL7UUS": {
+      "primary": {
+        "path": "faces/person-tool/U0CKHHL7UUS-2bcbee0348.jpg",
+        "sha256": "e9dd6e6d784c1f11f8b5aa30f1f1ad17df2f96c420d13aea7662d3d99a6ae48e"
+      }
+    },
+    "U0CJVM77UQK": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CJVM77UQK.jpg",
+        "sha256": "56602f526dfb50e12861b50eb5b97054b50c7261d8bdea346f578bf748051586"
+      }
+    },
+    "U0CJ0D81FG9": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ0D81FG9-4253926225.jpg",
+        "sha256": "3509ed6f50f31ac294c14535e297d4250bac40fe62d522590ee7ea66b2e53c60"
+      }
+    },
+    "U0CHD7M09SB": {
+      "primary": {
+        "path": "faces/person-tool/U0CHD7M09SB-867fe8973a.jpg",
+        "sha256": "ed8db22c19cea9b2a950fb7ce389faffba5e85acd7f000486efcd2908148834f"
+      }
+    },
+    "U0CHJHRK1BR": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The GitHub and Devpost account-owner avatars are a cartoon. The owner image on his public post is a placeholder; the media is a project video preview."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK7B16E0K": {
+      "primary": {
+        "path": "faces/person-tool/U0CK7B16E0K-6612711a40.jpg",
+        "sha256": "396dea3fc40c5bf7cb19b779700cfb80bacaf22bbd901432a69757196dfd7750"
+      }
+    },
+    "U0CHY7P59TL": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The Slack username matches Diya Saxena’s GitHub and Devpost account. The GitHub profile links this LinkedIn slug. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/diya-saxena"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHPG7699T": {
+      "primary": {
+        "path": "faces/person-tool/U0CHPG7699T-7dcc9706aa.jpg",
+        "sha256": "1d48cf95cac085a87272154f2160fc2b43471109e86794c662ce051418a7c9c0"
+      }
+    },
+    "U0CKPGUUHJS": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The public GitHub and Devpost link the candidate portrait and confirm that those public profiles belong together. The separate roster account could not be tied to either through a matching contact or event listing."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJWD67SAH": {
+      "primary": {
+        "path": "photos/eliza-anis-U0CJWD67SAH.jpg",
+        "sha256": "6c7cbb18eba993f1130cd0289b1a8e87d20e53b3c554cfbb691f54501a4f17e6"
+      }
+    },
+    "U0CJSE1SREU": {
+      "primary": {
+        "path": "photos-linkedin/U0CJSE1SREU-linkedin.jpg",
+        "sha256": "b2289ad094ded00e7d6060a9625c827dff6a662157517d57c8ddd68c8f9896fb"
+      }
+    },
+    "U0CK8U5SH8U": {
+      "primary": {
+        "path": "faces/person-tool/U0CK8U5SH8U-97be6960aa.jpg",
+        "sha256": "c91c5373c946a5a298145a8d463c6eb36e677539182e38e4feec7bc4cf365f52"
+      }
+    },
+    "U0CHD5HKNBZ": {
+      "primary": {
+        "path": "photos-linkedin/U0CHD5HKNBZ-linkedin.jpg",
+        "sha256": "d933c33a49bc5907755dfdcede971a06ce654b6d871d81713ccd3f549db8dd9c"
+      }
+    },
+    "U0CJNUJTBB2": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CJNUJTBB2.jpg",
+        "sha256": "b0d5c3ba2c010eba0fd5f96a31fe24c4ba95f03dd45dd74eae045ad965564c03"
+      }
+    },
+    "U0CKP1C6DM0": {
+      "primary": {
+        "path": "faces/person-tool/U0CKP1C6DM0-0040c0920e.jpg",
+        "sha256": "96e1ae178c754ad6410ccc262df84bdf1cb2ee59079219cc241aaf61f6194ad2"
+      }
+    },
+    "U0CJNUHPMB2": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/eric-l.jpg",
+        "sha256": "d62a82cc96910d50598a3d7a54c73f3901da416a6e700aa022c1091df9b89a1d"
+      }
+    },
+    "U0CHSJ8AEDT": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The event-linked GitHub avatar is a geometric identicon."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJQFY9L84": {
+      "primary": {
+        "path": "faces/person-tool/U0CJQFY9L84-b71c331d79.jpg",
+        "sha256": "b65f8c6cdf4e79aa602085b9e361fee7697d409f477d548c871f90b81456a925"
+      }
+    },
+    "U0CKFTU498E": {
+      "primary": {
+        "path": "photos-linkedin/U0CKFTU498E-linkedin.jpg",
+        "sha256": "8e63b1aef70a9882cb2f253927127f86ab9a908b1b7f42c007dd380b56d87f9c"
+      }
+    },
+    "U0CHT73R4LW": {
+      "primary": {
+        "path": "photos-fallback/U0CHT73R4LW-site.jpg",
+        "sha256": "8743600718242ef18d4b25adbd4d759c53f578676f99509087052d5925590984"
+      }
+    },
+    "U0CLMJCV0JU": {
+      "primary": {
+        "path": "faces/person-tool/U0CLMJCV0JU-10bb6532f4.jpg",
+        "sha256": "003a8b2e403626cf10a5f262e3edd72e154af9e4145c90ab08553b9a9f39458c"
+      }
+    },
+    "U0CL614HQTA": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The exact-handle GitHub and Devpost identify the participant. The candidate LinkedIn shares a name and university but has no cross-link to either account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJM61GM55": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named personal site publishes the exact roster contact and links the same LinkedIn profile that supplied the saved photo.",
+          "url": "https://ca.linkedin.com/in/felix-jeong"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://felixjeong.com/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKQ1YF7RU": {
+      "primary": {
+        "path": "photos/fiona-xu-U0CKQ1YF7RU.jpg",
+        "sha256": "a70700b037af30a40234aeca6c7fa953f7bd5e78da506ccc8189f2f32472782a"
+      }
+    },
+    "U0CL64QUK08": {
+      "primary": {
+        "path": "faces/person-tool/U0CL64QUK08-5ae53fd176.jpg",
+        "sha256": "cee8a0806e73e945d15139de8e411dfa47eee0748dc4dc2c02df94f268b5a16d"
+      }
+    },
+    "U0CLBR7H9MW": {
+      "primary": {
+        "path": "photos-linkedin/U0CLBR7H9MW-linkedin.jpg",
+        "sha256": "61537e29fd8b4ac5ff47f9a4f0ea2172f3e59fce99ddaa2345d85c915d0bc2de"
+      }
+    },
+    "U0CLAGRPDCY": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The only saved GitHub image is a geometric identicon."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKKPSQQRG": {
+      "primary": {
+        "path": "photos/himaja-mankala-U0CKKPSQQRG.jpg",
+        "sha256": "0b80ceac54301fdf274cfdccad58a23345a9647aa2256147a6c87eda7507a2bd"
+      }
+    },
+    "U0CK8Q6B62J": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named personal site publishes the exact roster contact and links the portrait profile. The same-name Devpost account also links that profile and lists Hack Western 13.",
+          "url": "https://ca.linkedin.com/in/horst-fang"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://horstfang.com/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CLBDZD67J": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named personal site links both the portrait profile and the GitHub account whose public commit matches the roster contact. The exact roster handle also identifies the Hack Western 13 Devpost registrant.",
+          "url": "https://ca.linkedin.com/in/ibrahim-farrukh-0aa523193"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://ibrahimfarrukh.com/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJPP2T8ET": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The confirmed GitHub and Devpost accounts match the roster handle and list event work. Neither account connects to the candidate LinkedIn, and the shared name is common."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJP4TNGP2": {
+      "primary": {
+        "path": "photos-linkedin/U0CJP4TNGP2-linkedin.jpg",
+        "sha256": "535c73861695d10f2814c55ab9f019cecd2e54d898b7becba89186386e523c71"
+      }
+    },
+    "U0CK81EM7K9": {
+      "primary": {
+        "path": "photos-linkedin/U0CK81EM7K9-linkedin.jpg",
+        "sha256": "05f6dcde94e54edda047162efc14db50f7a1e25eedd7f55aa08c1a3375ce99af"
+      }
+    },
+    "U0CK6RX2BAM": {
+      "primary": {
+        "path": "photos-linkedin/U0CK6RX2BAM-linkedin.jpg",
+        "sha256": "54d332dec9d79a797f60aa8c82c1bf1b01f144fa301c41b8ae5cdb0e8d4bf820"
+      }
+    },
+    "U0CJP1X0KGQ": {
+      "primary": {
+        "path": "faces/person-tool/U0CJP1X0KGQ-8431d109b9.jpg",
+        "sha256": "c3d8a16bced992112dfcd69d2e37168dfae258876cad0cda1f53617f8d904549"
+      }
+    },
+    "U0CKAPYUBQX": {
+      "primary": {
+        "path": "faces/person-tool/U0CKAPYUBQX-4d4f945b87.jpg",
+        "sha256": "2e5e1eab5de8f0b80e4bffb8c81391c5510bb315ce13aced521a59a0ec7330b1"
+      }
+    },
+    "U0CKEFCL865": {
+      "primary": {
+        "path": "faces/person-tool/U0CKEFCL865-b85d5582eb.jpg",
+        "sha256": "3f444f6e28122b3f36b0a9c96363ee7fe1286275ed6515f154f79f7c6042c9ab"
+      }
+    },
+    "U0CKVMD09B6": {
+      "primary": {
+        "path": "photos-linkedin/U0CKVMD09B6-linkedin.jpg",
+        "sha256": "0e1481b662491998f1a712bf89c626289b5482ad7d9e387b307445930b596da6"
+      }
+    },
+    "U0CJZPMGCMU": {
+      "primary": {
+        "path": "photos-linkedin/U0CJZPMGCMU-linkedin.jpg",
+        "sha256": "e00c3f04994a18686af51791eab6552682b12a4866bb2d4840c595bbca762f12"
+      }
+    },
+    "U0CJ9SYLA06": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ9SYLA06-5175ad5d3e.jpg",
+        "sha256": "b4406e10f272f5a57e21e2321531baf71c2b24250401e3852ead29c7253afb72"
+      }
+    },
+    "U0CJZMQHAJ3": {
+      "primary": {
+        "path": "photos-linkedin/U0CJZMQHAJ3-linkedin.jpg",
+        "sha256": "07aa21a0c34f1eabbe8e995f9d7f96dbd667e473d10eca70f0d32a49861ac8c7"
+      }
+    },
+    "U0CKKUHSR99": {
+      "primary": {
+        "path": "photos-linkedin/U0CKKUHSR99-linkedin.jpg",
+        "sha256": "fb28c6917371361f4eab2be5c6af6bff86c51b507b097523ecf1b86a69eb71a5"
+      }
+    },
+    "U0CHDAKUDKR": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost handle ties to the roster and links GitHub. The candidate LinkedIn matches a common name and a university, without an independent connection."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHVE9K6UF": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The saved LinkedIn images duplicate a distant full-body shot with a small face. The confirmed GitHub and Devpost do not link this portrait account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKWCQ9LF2": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "GitHub and Devpost use an identicon. A tentative same-name SoundCloud page has a portrait but no corroborating connection to the participant. Excluded."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CLM996C1E": {
+      "primary": {
+        "path": "photos-linkedin/U0CLM996C1E-linkedin.jpg",
+        "sha256": "618e94120f4db3daf55a31472be1e5769f120e2b71c579f51bed67d2f1ffb471"
+      }
+    },
+    "U0CKQN2C406": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The shortened name and school on LinkedIn fit. The exact-handle Devpost has no independent link to the candidate, and another same-name developer exists."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJRBRHFMW": {
+      "primary": {
+        "path": "faces/person-tool/U0CJRBRHFMW-a3653c1975.jpg",
+        "sha256": "93c65b44b6542882f9e52952e81f97935a0b2c4dce8bf79d49001cd6e7ea7265"
+      }
+    },
+    "U0CKVKYBK9P": {
+      "primary": {
+        "path": "faces/person-tool/U0CKVKYBK9P-4d5cc52005.jpg",
+        "sha256": "5901feb80c47bff7b92f525a73c2607758d778bf42659320aabc65b48125c559"
+      }
+    },
+    "U0CJWFXJH0B": {
+      "primary": {
+        "path": "photos-linkedin/U0CJWFXJH0B-linkedin.jpg",
+        "sha256": "3c259bb7687d0b4c35d945c4b0da9755a9425ce66977685922a35122fb418e3c"
+      }
+    },
+    "U0CHDPVQ1K9": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost owner image is landscape art and the named Substack avatar is an abstract graphic. LinkedIn did not expose the profile."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The named LinkedIn page and roster-linked Devpost share a name and school; neither Devpost nor Substack supplies a cross-link to this member."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJNN4U3PZ": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost owner avatar is an initial and GitHub uses an identicon. The university association displays group photos without a separately identified individual portrait of her."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The LinkedIn account gives CS and Pharmacology at UofT. The verified Devpost project and GitHub establish NewHacks and CS, but neither links this LinkedIn nor corroborates this specific member beyond the name, school and a broad subject overlap."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHQ3CQ5AP": {
+      "primary": {
+        "path": "photos-linkedin/U0CHQ3CQ5AP-linkedin.jpg",
+        "sha256": "d5be8181f117d8107d7f16be15c69190a8849adfb63cfa23e2c0b1677f3a0a4c"
+      }
+    },
+    "U0CK04C8XU6": {
+      "primary": {
+        "path": "faces/devpost/U0CK04C8XU6.jpg",
+        "sha256": "7c061ce02be1ef08243f9cdcead5b6b1732cc121344ab769e05d33d7d6dc89b5"
+      }
+    },
+    "U0CKDQRDKFG": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The candidate LinkedIn and the roster share a name. The available sources do not establish a separate roster or event tie to that portrait."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJZQXS3QW": {
+      "primary": {
+        "path": "faces/person-tool/U0CJZQXS3QW-9c2057951a.jpg",
+        "sha256": "9dc3b2829a7d66d1d3ea12f63e8381b47a479c5eaf5e564ceed23273c1dfe795"
+      }
+    },
+    "U0CK036RSBS": {
+      "primary": {
+        "path": "faces/person-tool/U0CK036RSBS-a4cc0beef0.jpg",
+        "sha256": "01c3ed85ca570a01e83da78440f01e77add68c1cfcd36883294247b9f84427b3"
+      }
+    },
+    "U0CK5VAF64D": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "QNX captions the sole person in the photo as Larry Milne at its Robotics Summit & Expo 2026 booth. The participant’s own About page confirms Lawrence goes by Larry, and his confirmed profile names QNX.",
+          "url": "https://qnx.software/en/blog/2026/hands-on-with-physical-ai-why-developers-need-qnx-everywhere"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHZ7GNSJY": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK55JRKNK": {
+      "primary": {
+        "path": "photos-linkedin/U0CK55JRKNK-linkedin.jpg",
+        "sha256": "94f18a7a825174ac59a7f4e556b35cc795c2b2214efdf4aa2a4d396447f346e3"
+      }
+    },
+    "U0CJGF09XEX": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Devpost uses initials and GitHub uses a cat. His named personal website shows project visuals."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHYGXFXRQ": {
+      "primary": {
+        "path": "faces/person-tool/U0CHYGXFXRQ-22609d9a18.jpg",
+        "sha256": "b85b0e7e8edbea75342ebac96512749aa71e5cf994b1682fc89e068ab6f668d6"
+      }
+    },
+    "U0CJ2HPUEBW": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "A Waterloo Data Science Club card names Lily Song and provides a portrait. The roster identity audit explicitly records no connection between the attendee’s handle and that Waterloo student’s portfolio or other verified account. Held for confirmation."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKXK1T3LG": {
+      "primary": {
+        "path": "faces/person-tool/U0CKXK1T3LG-59af87a975.jpg",
+        "sha256": "3f77200c89f28db30a139d9624cf5c88be9dbff9d66829bc0eb43bbb8fca9d57"
+      }
+    },
+    "U0CJBNZ8C2V": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The participant’s named portfolio publishes the exact roster contact and links the LinkedIn profile that supplied the portrait.",
+          "url": "https://www.linkedin.com/in/matt-farzaneh-36153727a"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://matt-portfolio-site-tau.vercel.app/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJVB8M5FW": {
+      "primary": {
+        "path": "faces/personal-sites/U0CJVB8M5FW.jpg",
+        "sha256": "1e53cf5943584693c46b650185f56d9383007d2808a17dc4e479eb86be5ecef4"
+      }
+    },
+    "U0CLJ0E6TUY": {
+      "primary": {
+        "path": "faces/person-tool/U0CLJ0E6TUY-3fa161b3dd.jpg",
+        "sha256": "4fe7ddfa364503dedb982f3e0ef37345e024b5be3e2886739e151b8e514d555b"
+      }
+    },
+    "U0CJX4F4L3V": {
+      "primary": {
+        "path": "faces/person-tool/U0CJX4F4L3V-47fadac305.jpg",
+        "sha256": "e272f750d2fb0a74542240ae181dd021fd09fdfca0e7f9cb4c72949e4b23ab8a"
+      }
+    },
+    "U0CJLE5MX1V": {
+      "primary": {
+        "path": "photos-linkedin/U0CJLE5MX1V-linkedin.jpg",
+        "sha256": "a656828db8e658ddafbe1ac4cc95fae79f4e7f55ec77c27ffbdcb81dfe3b757d"
+      }
+    },
+    "U0CJ2T2PM6D": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ2T2PM6D-linkedin.jpg",
+        "sha256": "4a8606268c70712f8fbf54cbd1120c2a12ca0a641ce2ccba240234aa2cfcd329"
+      }
+    },
+    "U0CHF794RC7": {
+      "primary": {
+        "path": "faces/person-tool/U0CHF794RC7-3f3eca7c2a.jpg",
+        "sha256": "6dcffa3ca4539b307d188199ad344ebee3cd99134e42b65d7185c697c5740b9a"
+      }
+    },
+    "U0CHRQN186R": {
+      "primary": {
+        "path": "faces/person-tool/U0CHRQN186R-661336d3b2.jpg",
+        "sha256": "59965bbf1f38c340ab5dab6887ac3566e0a1030792f98ef3ce5e90f2cf62b161"
+      }
+    },
+    "U0CKPHQRHLJ": {
+      "primary": {
+        "path": "faces/person-tool/U0CKPHQRHLJ-e2857c37ad.jpg",
+        "sha256": "269f0edb9a96ecb68fd423e09b9d7ce12c8b88ed2b83bc3ce8a7e1c9918fe785"
+      }
+    },
+    "U0CJX56UHEX": {
+      "primary": {
+        "path": "photos-linkedin/U0CJX56UHEX-linkedin.jpg",
+        "sha256": "7ad648f810c05dd508616e9beeeb9ce3127503bc67fe77ac02f4e8c10b648b03"
+      }
+    },
+    "U0CJ0KCRVJ8": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ0KCRVJ8-8a4f44258a.jpg",
+        "sha256": "f0c0641771fafe0a896f3df033b729cec1272d43af65d6caf9e5486fc16419c9"
+      }
+    },
+    "U0CKKJRCUAF": {
+      "primary": {
+        "path": "photos-linkedin/U0CKKJRCUAF-linkedin.jpg",
+        "sha256": "6756fa057844de52fc4f8a2f6ce7a75709ce1d9fb1129b436e0efd879255272b"
+      }
+    },
+    "U0CHSHMJHM4": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/mohsen-s.jpg",
+        "sha256": "fa04672adae0d927473a912da15603b8ab4772e778ad7179482fc01f0c86e74e"
+      }
+    },
+    "U0CKT3GKLJW": {
+      "primary": {
+        "path": "faces/person-tool/U0CKT3GKLJW-8048c22340.jpg",
+        "sha256": "952a0a8d3b66a4f261cfeae0e42f5741f6fcee613a98ecad282eef4741230783"
+      }
+    },
+    "U0CJLN8A4Q2": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The roster handle links to the Devpost and GitHub accounts, but the owner avatars are geometric graphics or generic icons."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK8CMAG3D": {
+      "primary": {
+        "path": "faces/person-tool/U0CK8CMAG3D-aab8504e17.jpg",
+        "sha256": "86060fa90cec94c0c02666925f9ed28cbf8de4c5cf8264deb7d874d8feb77634"
+      }
+    },
+    "U0CKA90R5K9": {
+      "primary": {
+        "path": "photos-fallback/U0CKA90R5K9-devpost.jpg",
+        "sha256": "be099eb0e7d8b66db12d28fc4e1aadd9e7468b425f5493d71f60b99a78d4420c"
+      }
+    },
+    "U0CKJDALLHF": {
+      "primary": {
+        "path": "photos-linkedin/U0CKJDALLHF-linkedin.jpg",
+        "sha256": "003df0a8d1be2d12198fbe03b84da9ef076147c2820f63bb69d93c2a977766ec"
+      }
+    },
+    "U0CJWFZ2V0V": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost and LinkedIn use a name-based handle similar to the roster handle, but do not cross-link. The available first-party sources do not independently verify the roster account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJW307MEX": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost and GitHub avatars are a cat; the linked Vercel portfolio returns 404."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHPHPQ2LV": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "His résumé links the LinkedIn account and contains the same contact identity as the event roster. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/nathan-espejo"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJY9ZUBMK": {
+      "primary": {
+        "path": "faces/person-tool/U0CJY9ZUBMK-b32fe5b0b8.jpg",
+        "sha256": "2930a210ae99114a70fa3128eb790b6c5598d83329fa04df8a5b467e9cf51621"
+      }
+    },
+    "U0CJ32PDV51": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The roster contact and Devpost are tied to the confirmed GitHub and to Hack Western 13. The candidate LinkedIn shares name and school but does not cross-link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHY7E72SH": {
+      "primary": {
+        "path": "faces/person-tool/U0CHY7E72SH-52c5838b1b.jpg",
+        "sha256": "ee01cf4e5fb25dca8565dddd593534bc2d9469f99661145aac927697ae53fdfe"
+      }
+    },
+    "U0CK8RAFA7Q": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The profile slug resembles the roster handle and matches the name. There is no independent event or account link to confirm the portrait."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKARNJ63H": {
+      "review": [
+        {
+          "label": "Additional photo",
+          "text": "The first-party About page names Nishant in the alt text of this solo HackMIT photo. His event-submitted accounts link the site. The subject is turned down and the scene is dark.",
+          "url": "https://nishantshah.xyz/about.html"
+        },
+        {
+          "label": "Primary portrait",
+          "text": "The Slack username matches the Devpost handle exactly. Devpost links the personal site and LinkedIn account and the team finder corroborates the profile. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/nishant-shah-340869306"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHGK8R887": {
+      "primary": {
+        "path": "photos/noah-bradatanu-U0CHGK8R887.jpg",
+        "sha256": "c5a8378da48fc48982809588bb7548f57a7b8d79c0c7404a677e554d9ae7e293"
+      }
+    },
+    "U0CKFK2QD36": {
+      "primary": {
+        "path": "photos-linkedin/U0CKFK2QD36-linkedin.jpg",
+        "sha256": "c6917e8a49ba6e49be5dce4f01d5695887e74d1547dae5f6199aac701f14c9de"
+      }
+    },
+    "U0CJP4EQ0NL": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The only saved GitHub image is a geometric identicon."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKS687WHG": {
+      "primary": {
+        "path": "faces/person-tool/U0CKS687WHG-b71545ac9b.jpg",
+        "sha256": "d385d931b3f89632a302af44fddc72ddcc9094d122e67c190a511641509e5b14"
+      }
+    },
+    "U0CJBV0DUGK": {
+      "primary": {
+        "path": "faces/person-tool/U0CJBV0DUGK-bb5136e38e.jpg",
+        "sha256": "956f45895037c8e737064757b24c2ca750b77d647d3c6accd41c8506d5648c21"
+      }
+    },
+    "U0CHG9TT2LX": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/otis-l.jpg",
+        "sha256": "b5bf599c3fdb3597c5b3ba666df6362cb6160a092460956aaa747eb3d73613d6"
+      }
+    },
+    "U0CKLA79YSF": {
+      "primary": {
+        "path": "photos-linkedin/U0CKLA79YSF-linkedin.jpg",
+        "sha256": "ad0631ecd476d9e3bfa7ce475ad08792430f738fe39df4684708b9db160d410b"
+      }
+    },
+    "U0CHRTLP2BF": {
+      "primary": {
+        "path": "faces/person-tool/U0CHRTLP2BF-e421bdbcd4.jpg",
+        "sha256": "1d552497c014d25cb46e948dc62db28c7b42bea59bc65490f6046b9835877460"
+      }
+    },
+    "U0CKWHRFWF6": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/pragalvha-s.jpg",
+        "sha256": "52d9a51c5324ccbc166db7791b51ade76b21f6eb16ee3adc95ea9c57e88975ac"
+      }
+    },
+    "U0CHUJ4UA2W": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The available images duplicate a sunglasses-obscured portrait. The verified GitHub account and event-registered Devpost do not directly establish the source of this photo."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJRQGSTPS": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/radmehr-v.jpg",
+        "sha256": "8028b1c6a6e6dd4c3fc67555a1997e333dc843f3495cda6f0e59f5d84898c415"
+      }
+    },
+    "U0CHWG59T7G": {
+      "primary": {
+        "path": "photos-linkedin/U0CHWG59T7G-linkedin.jpg",
+        "sha256": "70657ed4d676422b8e9c31af5a4d86d073fc802b0a8cdf0b56dbb23c5580d8f2"
+      }
+    },
+    "U0CK76MKLGL": {
+      "primary": {
+        "path": "photos-linkedin/U0CK76MKLGL-linkedin.jpg",
+        "sha256": "fd909103f009e941b15432b0c9e89e52bcb2e38609b4b500bb12140fd6ff8096"
+      }
+    },
+    "U0CJ1F6QZC5": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ1F6QZC5-1d69a5ff73.jpg",
+        "sha256": "f2dcdea4171b8b454fab263e01912d38038809723721df1a51c01a3d38d0185b"
+      }
+    },
+    "U0CLLC7UU9W": {
+      "primary": {
+        "path": "faces/person-tool/U0CLLC7UU9W-2d27dfff3b.jpg",
+        "sha256": "55ef91768e290b2dc27b191dffbcb55ac205920c8e32cfc67ab7ca57bfd5704f"
+      }
+    },
+    "U0CJWEL5QN9": {
+      "primary": {
+        "path": "faces/person-tool/U0CJWEL5QN9-3a91b9ece6.jpg",
+        "sha256": "214968ee26fe1ca82d17186a1a284dc774f498b21b20f575f8eb0da4d1be9dec"
+      }
+    },
+    "U0CHG7ASZGF": {
+      "primary": {
+        "path": "photos-linkedin/U0CHG7ASZGF-linkedin.jpg",
+        "sha256": "9a0ddbe63bec13b73c996ec1e1d801cd9b2c659a7d9a3638663a6570d0c89a3f"
+      }
+    },
+    "U0CKS2VNLQJ": {
+      "primary": {
+        "path": "photos/ronit-longia-U0CKS2VNLQJ.jpg",
+        "sha256": "8f05f62cfd63e1382aba0f25c291b3add3b1a77eb8f9aac6c915e1d887def35a"
+      }
+    },
+    "U0CKRANF0AY": {
+      "primary": {
+        "path": "faces/person-tool/U0CKRANF0AY-264f47b52d.jpg",
+        "sha256": "22de29918a790513b963820eed852e8c678ec2fbf4b6df3c7fdbd2c1c9e9c80b"
+      }
+    },
+    "U0CHRSN0C3V": {
+      "primary": {
+        "path": "faces/person-tool/U0CHRSN0C3V-ed6395d056.jpg",
+        "sha256": "e02d9f15a736cef37f311926650f011b4e7d37e435c621824b7ce8db5f3e4693"
+      }
+    },
+    "U0CKG42LRA4": {
+      "primary": {
+        "path": "photos/sahaib-rakhra-U0CKG42LRA4.jpg",
+        "sha256": "e380b1abdb27c6c5e326d8fd42d5938fb932b6881dd858a348e1956d39c732b4"
+      }
+    },
+    "U0CK0RMJP9U": {
+      "primary": {
+        "path": "faces/person-tool/U0CK0RMJP9U-39edd9fe5b.jpg",
+        "sha256": "abcfac28bc6019e5b6a872820191c4f74379db1a418f6bb453ece8d5f68daa9d"
+      }
+    },
+    "U0CJ548UP0W": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ548UP0W-linkedin.jpg",
+        "sha256": "1d5a7c7f1a730e9bbe2f655a31c449e64e031eea46ddc8e3fa7069bd6d3fb489"
+      }
+    },
+    "U0CK65L2TNG": {
+      "primary": {
+        "path": "photos-linkedin/U0CK65L2TNG-linkedin.jpg",
+        "sha256": "10298af9d5c97d943a61c4db5718206c795a55ecfa4f50b733e0d74e7ec3461e"
+      }
+    },
+    "U0CKLJ67CJW": {
+      "primary": {
+        "path": "faces/person-tool/U0CKLJ67CJW-9e540cadc1.jpg",
+        "sha256": "31c6a166c4c36d5be22cd73c39e29704b7f7ae71b28f77ae92fbba378224d52d"
+      }
+    },
+    "U0CHP9D7QAH": {
+      "primary": {
+        "path": "faces/person-tool/U0CHP9D7QAH-235d5aee69.jpg",
+        "sha256": "30779dbceade0065886948e99eee4f3310bd0be60af6c03e65e9ab2871c2a996"
+      }
+    },
+    "U0CKBE3PG23": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "GitHub directly links the same-name LinkedIn account. The roster account could not be independently tied to either account or a corresponding Hack Western 13 registration."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK8B7T68P": {
+      "primary": {
+        "path": "faces/person-tool/U0CK8B7T68P-4fa158e667.jpg",
+        "sha256": "e540c6c958b89c9b412207cede8b91158fac18b18c498f7cb174a14fa6a1a36e"
+      }
+    },
+    "U0CK5T7G3TN": {
+      "primary": {
+        "path": "photos/sebastian-sora-U0CK5T7G3TN.jpg",
+        "sha256": "4bae986cc15f558f661a79c1e237cf6f479c5af4364a4e61974446531524bd2b"
+      }
+    },
+    "U0CKH1FQSAE": {
+      "primary": {
+        "path": "photos-linkedin/U0CKH1FQSAE-linkedin.jpg",
+        "sha256": "e5a54f2d61085adf5bc2dc960a763cf8a4d2d3d00063f58cfc89c12942185af2"
+      }
+    },
+    "U0CKH0U9J66": {
+      "primary": {
+        "path": "faces/person-tool/U0CKH0U9J66-5a7d5d0dbc.jpg",
+        "sha256": "2edaafaae4deb1c441a86af2dd9cd1b542148f59952c0a4b8534b0f41a0d0721"
+      }
+    },
+    "U0CJ4SS6JVD": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "His confirmed personal site links this exact hyphenated LinkedIn account. His GitHub and own site corroborate his school and identity. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/shawn-xionggg"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKS1TDGLA": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "A GitHub commit confirms the attendee’s developer account. Its normalized handle resembles the LinkedIn slug, but the credited project and GitHub profile do not identify that LinkedIn account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJY4AK50F": {
+      "primary": {
+        "path": "photos-linkedin/U0CJY4AK50F-linkedin.jpg",
+        "sha256": "6d971324e1e1f407cfb66d226a08a0808936904b97917e4c976d7af682345825"
+      }
+    },
+    "U0CKKF2FE69": {
+      "primary": {
+        "path": "faces/person-tool/U0CKKF2FE69-0746c662f1.jpg",
+        "sha256": "8f6a6997cbecae250f159c292a4f47a1c2c654840864cd90e8207114054a5623"
+      }
+    },
+    "U0CJ1CZR717": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ1CZR717-e736680149.jpg",
+        "sha256": "b973c854e3003897858dccb1bd0c54c7d5eb99a79d441f474c77463cf579d99f"
+      }
+    },
+    "U0CJ0JMB352": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ0JMB352-linkedin.jpg",
+        "sha256": "544876990e8fd84a471311b9831b559688ab69efe2a7a4d9e828674c2a980102"
+      }
+    },
+    "U0CHZ3AM63E": {
+      "primary": {
+        "path": "photos-linkedin/U0CHZ3AM63E-linkedin.jpg",
+        "sha256": "75b110b32794c4f4eb5ba6aee6fa711f07c655d6c50497311cd9c0012f2ed70a"
+      }
+    },
+    "U0CKYLGDQE4": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/tharaka-t.jpg",
+        "sha256": "b4a8664adbac9f7496291e1c0488cf8b4992d7e9db8939aae8da7819b25db028"
+      }
+    },
+    "U0CKF2FEZPW": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK9C7KTEE": {
+      "primary": {
+        "path": "faces/person-tool/U0CK9C7KTEE-1fa3f99adb.jpg",
+        "sha256": "a3b06274aaf29619c8432f8a3426a7e9cd0ff70d5549f5596698cf499963cf4f"
+      }
+    },
+    "U0CHSKD4KD4": {
+      "primary": {
+        "path": "faces/person-tool/U0CHSKD4KD4-f289ebda4b.jpg",
+        "sha256": "9cab324faa794679eb4f9da5a0aabf5c754115c21e619c64a59eaed106fb3b9b"
+      }
+    },
+    "U0CKK1119S7": {
+      "primary": {
+        "path": "photos-linkedin/U0CKK1119S7-linkedin.jpg",
+        "sha256": "8271b84e007955bce025c66a3773ba6a4213e00f0fcec6f4da9879f3df8f3da0"
+      }
+    },
+    "U0CHSBZ3MKP": {
+      "primary": {
+        "path": "photos-linkedin/U0CHSBZ3MKP-linkedin.jpg",
+        "sha256": "79ca47fd9723510848d516015dbc60ab5e2c3205e687d858baccba2722c1a9bb"
+      }
+    },
+    "U0CJQN9L6LA": {
+      "primary": {
+        "path": "faces/person-tool/U0CJQN9L6LA-0a2ae7b8b7.jpg",
+        "sha256": "f19bd3b698ed018dd292b98a81c05c61c36d9ea95de462a1f331ec8ae456652a"
+      }
+    },
+    "U0CJAKGD8TT": {
+      "primary": {
+        "path": "faces/person-tool/U0CJAKGD8TT-5da9301b5a.jpg",
+        "sha256": "1c3d36b2a8c9ed4e301a6cf0a6c194da247c1586a637044227693d2c00dba6da"
+      }
+    },
+    "U0CL1FLR43A": {
+      "primary": {
+        "path": "faces/person-tool/U0CL1FLR43A-9dd91aace7.jpg",
+        "sha256": "484de8501650ddfef7b58893e3bcc1a35b23f7d0097c3c32b712461f3ab7d52f"
+      }
+    },
+    "U0CJZSV0R2A": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The roster and team finder supply Waterloo and the name, and a separate Devpost matches the roster handle. No source connects that account to the candidate LinkedIn."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKLUXUG9H": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The self-authored portfolio matches the roster contact identity and links LinkedIn and GitHub. Devpost independently identifies him. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/yousef-al-wahami"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKBG1Q266": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The two LinkedIn accounts appear to belong together. No public account establishes that either belongs to this roster entry."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKQFZ1YGL": {
+      "primary": {
+        "path": "photos-linkedin/U0CKQFZ1YGL-linkedin.jpg",
+        "sha256": "84a86869df2b53c911d7de592dab91104e21b80216b6680ce41fc99f6dc8fe37"
+      }
+    },
+    "U0CHRQ0UY59": {
+      "primary": {
+        "path": "faces/person-tool/U0CHRQ0UY59-dc876da326.jpg",
+        "sha256": "9bcecb6a01a39a513f60710e846a4e68f640cd35d1336cd39229f23d27c2ec55"
+      }
+    },
+    "U0CK5LRJGFK": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CK5LRJGFK.jpg",
+        "sha256": "ac51f0e59946a31563abddecf84d7880086abf5b1dd0f6c9f00ff41f67e69969"
+      }
+    },
+    "U0CHSV19T6H": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The only saved picture is a heavily stylized avatar reused on a possible second account. The alternate-account connection and a usable personal likeness could not be established."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHPGP06PP": {
+      "primary": {
+        "path": "photos-linkedin/U0CHPGP06PP-linkedin.jpg",
+        "sha256": "f65f3798576e9f01cc7fefdde44429b46a44ca2c194376ba171071b06994522f"
+      }
+    },
+    "U0CHENYTDJB": {
+      "primary": {
+        "path": "photos-linkedin/U0CHENYTDJB-linkedin.jpg",
+        "sha256": "84ffef9cf54010482f2e2c06c8b1aa07b800342130712574f90cca980d77c982"
+      }
+    },
+    "U0CHNHTR7K5": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The public GitHub author record matches the roster contact. That GitHub profile directly links the portrait account and is linked by the Hack Western 13 Devpost registrant.",
+          "url": "https://linkedin.com/in/ali-el-rafih-30713631b"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://github.com/AliElrafih/skills-review-pull-requests/commit/4f7d8f2afce39a919c40c9e997d5c7ec1cb839bb"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHQ6ZCTCM": {
+      "primary": {
+        "path": "photos-linkedin/U0CHQ6ZCTCM-linkedin.jpg",
+        "sha256": "2660fc2647697a6ef06f0f13215699d5ad97f96ae3ff35779459b3a3365596dd"
+      }
+    },
+    "U0CKJLHFL0Z": {
+      "primary": {
+        "path": "faces/person-tool/U0CKJLHFL0Z-813a31f486.jpg",
+        "sha256": "8054b6b4b62a94f13d79e3754958fa59c5bb496e7aa943e083b83e751a952d6f"
+      }
+    },
+    "U0CK20NPD7Z": {
+      "primary": {
+        "path": "faces/person-tool/U0CK20NPD7Z-bc0f1f1699.jpg",
+        "sha256": "c2a06db2588661ea64ddb77c5e78b4b3867442d09574043a2bdf62294153d11a"
+      }
+    },
+    "U0CHD5Q66MV": {
+      "primary": {
+        "path": "photos-fallback/U0CHD5Q66MV-devpost.jpg",
+        "sha256": "6654fcc97ede8fc040c96cb9079ecdbc49675ba9323ea3209d326f916f5299c2"
+      }
+    },
+    "U0CKDFDLCQ1": {
+      "primary": {
+        "path": "faces/person-tool/U0CKDFDLCQ1-0878e7e3ba.jpg",
+        "sha256": "917a37cb2a3650a4a31f2b0b651586ae3f0f0d6c2c1280f1f6883bec70288caa"
+      }
+    },
+    "U0CHWA4DED8": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The roster’s distinctive full handle is the Andrew Tu Medium account captured in the repository. The Hack Western 13 Devpost registrant has the same name and developer handle, and the event team-finder card and public GitHub profile both link the exact portrait profile.",
+          "url": "https://ca.linkedin.com/in/andrew-tu-b7b64733b"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://medium.com/@andrew960713147"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHX8NSAVC": {
+      "review": [
+        {
+          "label": "Corroborating photo credit",
+          "url": "https://static1.squarespace.com/static/5cf45640c775120001d4c3cc/t/68d1a3d8d40f5821e92eff66/1758569432373/WIC-Annual-Report-2024-25-vFF.pdf#page=8",
+          "text": "The repository confirms the roster identity through the Devpost-to-GitHub and portfolio links. Her Ivey profile independently confirms Western Investment Club membership. The club’s annual report, page 8, labels this single portrait Joanna Liu, junior analyst, Tech Media & Telecom, corroborating the role in her profile."
+        },
+        {
+          "label": "Primary portrait",
+          "text": "The event handle matches the Devpost handle. Her project connects the same Devpost to the GitHub account and portfolio that confirms the LinkedIn profile. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/joanna-liu-ca"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKPG4PA3B": {
+      "primary": {
+        "path": "faces/person-tool/U0CKPG4PA3B-9dee6b4d2a.jpg",
+        "sha256": "ec7fa7d45a669ba9c34b950f6b113879b5ba96b3bd3e6470787dd1b5f43e5400"
+      }
+    },
+    "U0CJRA7HBME": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHTN3LEER": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The exact-handle Devpost identifies Audrey but does not link the like-named LinkedIn. A surname inferred from a handle does not resolve that gap."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHNC9DWP5": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJNUFM90U": {
+      "primary": {
+        "path": "photos-linkedin/U0CJNUFM90U-linkedin.jpg",
+        "sha256": "02176bdf7293717fb9f8c9dc885a976bddc8e2db9bbe5948930fd7449152f8a3"
+      }
+    },
+    "U0CKVJBTV4L": {
+      "primary": {
+        "path": "photos-linkedin/U0CKVJBTV4L-linkedin.jpg",
+        "sha256": "4dde963c224740ab8ea62a59f182f3867d3ae1806cda46e881a397c023a82065"
+      }
+    },
+    "U0CHTCM50TH": {
+      "primary": {
+        "path": "faces/person-tool/U0CHTCM50TH-aba36e9695.jpg",
+        "sha256": "5d1bfb59a68bfb67083ab5c0e0fae2033c1de1726a31cd1d965ed9904c4ab991"
+      }
+    },
+    "U0CJT130VCG": {
+      "primary": {
+        "path": "faces/person-tool/U0CJT130VCG-37289479de.jpg",
+        "sha256": "c2b60be4e7dd5ac0e59becdb3e478a42288dab1197e645c0be2db46b82d3dc52"
+      }
+    },
+    "U0CHYU0NBS9": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The Devpost, GitHub, SoundCloud and YouTube accounts use logos/graphics."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHGLQHC07": {
+      "primary": {
+        "path": "photos-linkedin/U0CHGLQHC07-linkedin.jpg",
+        "sha256": "1343a1ea3df1bd673b37d03d530f5c1400f498c6ed494b16584238f993473a39"
+      }
+    },
+    "U0CJZPR50SH": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The portfolio has no portrait. GitHub and Devpost use the same illustration. The authored announcement shows the Wealthsimple mark and a generic author icon."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ1SP0CF5": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ1SP0CF5-linkedin.jpg",
+        "sha256": "d4cd79e87344133fdef17ca168b5526c14f8cac7324617a31720b3d949fe4977"
+      }
+    },
+    "U0CK5U6MBCZ": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CK5U6MBCZ.jpg",
+        "sha256": "e5afab2ad3d5604be1c9f5d20d5357ce92e9f18dcc9a728c5a45cacda9daf7d0"
+      }
+    },
+    "U0CKJ2JPQ11": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The verified portfolio has no portrait. The GitHub account uses a cartoon."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHQ8U798X": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CHQ8U798X.jpg",
+        "sha256": "178fb89d08e65baf3bc2869ae149741a3afd03e01dc58507c06ec92cbc627738"
+      }
+    },
+    "U0CHYGFVBDF": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The event registrant with the distinctive matching name and handle lists Hack Western 13 and directly links the Crystalge07 GitHub account. Both that account and the participant’s named portfolio link the exact portrait profile. The roster handle includes the same name and full year in place of its two-digit suffix.",
+          "url": "https://ca.linkedin.com/in/crystal-ge-796334269"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://devpost.com/Crystalge07/challenges"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHQ9TKBH9": {
+      "primary": {
+        "path": "photos/daniel-U0CHQ9TKBH9.jpg",
+        "sha256": "f2fee0bc45b3c29701c265a001ce454af5664bbc79b2a787cad34804b64eebbc"
+      }
+    },
+    "U0CHYBPEGCU": {
+      "primary": {
+        "path": "faces/person-tool/U0CHYBPEGCU-f0376d896e.jpg",
+        "sha256": "cc099ac6a7ded6d0397159df36c512fc447f2b7029d82b03481a142b2641f0c7"
+      }
+    },
+    "U0CHXJ4DF5G": {
+      "primary": {
+        "path": "faces/person-tool/U0CHXJ4DF5G-eba237ae9e.jpg",
+        "sha256": "ef2b67bd462030cad14116d4ddfa2979b23d734cb6520807e81eb1b455d9be5e"
+      }
+    },
+    "U0CJVB28287": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ27BMTCL": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ27BMTCL-linkedin.jpg",
+        "sha256": "e006c9d3fa92db1b1607cb5244aae778553d71e6ec3f78535a38bdd3f0dcb2bd"
+      }
+    },
+    "U0CHNRZ9XTM": {
+      "primary": {
+        "path": "faces/person-tool/U0CHNRZ9XTM-0e7f57fe58.jpg",
+        "sha256": "71f7aad960c3a05c2a194cf612ad7afbfc20a23528162a758622354fb821099f"
+      }
+    },
+    "U0CJ16DCG92": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ16DCG92-linkedin.jpg",
+        "sha256": "c7bef6ca36cf448f6728e7296a8819f76dc97d2e93167db67b020ffd696e94e1"
+      }
+    },
+    "U0CKECV7E92": {
+      "primary": {
+        "path": "photos-linkedin/U0CKECV7E92-linkedin.jpg",
+        "sha256": "ebf9d3815cba7653914e381bb4a742e305700262def16f090efe0edfaa8e9cdc"
+      }
+    },
+    "U0CKMEFTATD": {
+      "primary": {
+        "path": "photos-fallback/U0CKMEFTATD-mlh.jpg",
+        "sha256": "7cc5fc4367e05a075f49a4ffa75b4f288aef091e245378ff3d355061c4273dc9"
+      }
+    },
+    "U0CK806SVB8": {
+      "primary": {
+        "path": "photos-linkedin/U0CK806SVB8-linkedin.jpg",
+        "sha256": "4cbb15b6499574b9cc9c0619cfb4f59cd9939f64dccbe4b52ed7ff3c1cde5fce"
+      }
+    },
+    "U0CJY5EBFTJ": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK6C947UL": {
+      "primary": {
+        "path": "photos-linkedin/U0CK6C947UL-linkedin.jpg",
+        "sha256": "5b7e129a76bc2e0cb76e6d1c6c34dcaef14b937e9c351a0395a94d9560e79a14"
+      }
+    },
+    "U0CJG1UAW30": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named personal site publishes the exact roster contact and links the portrait profile. Public commits separately tie the developer’s GitHub account to the roster.",
+          "url": "https://linkedin.com/in/eric-zeng07"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://www.ericzeng.ca/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CJU42FT2R": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKTAYB7U1": {
+      "primary": {
+        "path": "faces/person-tool/U0CKTAYB7U1-50cae6dff7.jpg",
+        "sha256": "d9c3031731f149b331f10067bc28e1abb2d51086b5c344b2c221177082c8d9da"
+      }
+    },
+    "U0CJVNDASBV": {
+      "primary": {
+        "path": "faces/person-tool/U0CJVNDASBV-12222c0f0f.jpg",
+        "sha256": "e511a3780e8f8600b1a07d6c0f925e1ab22f2eccbfdf75221a42fd16aa253cca"
+      }
+    },
+    "U0CHT843BE1": {
+      "primary": {
+        "path": "faces/person-tool/U0CHT843BE1-37355fd4a4.jpg",
+        "sha256": "8cffdcc165720672194ff7561eb31b2cb0441a26e3bc2ec65f38f2e812a7eb03"
+      }
+    },
+    "U0CHNA712F5": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The GitHub and Devpost account-owner images are matching geometric identicons."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK1L531NW": {
+      "primary": {
+        "path": "faces/person-tool/U0CK1L531NW-be6a3ec6a4.jpg",
+        "sha256": "d59a8593aecc048232843e5feb1433c294e0b150a6b838ac3fa1f09e0e58bccb"
+      }
+    },
+    "U0CHNDGAMK5": {
+      "primary": {
+        "path": "faces/person-tool/U0CHNDGAMK5-2433b6966e.jpg",
+        "sha256": "119265f1fc73a131a92e0082092b9f8e8457549b7685ea5053f9f96de5d8a826"
+      }
+    },
+    "U0CJP9GRWD6": {
+      "primary": {
+        "path": "faces/personal-sites/U0CJP9GRWD6.jpg",
+        "sha256": "2d41e117e9876cfaad8d8131e4a2e5889ef1b5ef1db548801c6ecc72cbc35435"
+      }
+    },
+    "U0CJY5N932L": {
+      "primary": {
+        "path": "faces/person-tool/U0CJY5N932L-d8b9b3b5c3.jpg",
+        "sha256": "3cb40cb1fe7fe25139c12a3058c32013feef7ea4f166ac4cfd96186c44b9d154"
+      }
+    },
+    "U0CKF47KWFL": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The event card links a public avatar, but the saved match between that card and this roster account relies on the same LinkedIn profile. An independent link from the attendee is still missing."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKFFE3YHX": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The named personal site publishes the exact roster contact and links the portrait profile. The linked GitHub account is corroborated by a public author record matching the roster contact.",
+          "url": "https://ca.linkedin.com/in/hanjing-lin-790252113"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://hanjing.dev/"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKL26J473": {
+      "primary": {
+        "path": "photos-fallback/U0CKL26J473-site.jpg",
+        "sha256": "b5f7addafdf9612fb74f0a085eb32ff5d4c71733d32d32fd91ca5d0048d7dbe1"
+      }
+    },
+    "U0CJY4QQJ1K": {
+      "primary": {
+        "path": "faces/person-tool/U0CJY4QQJ1K-f767117a24.jpg",
+        "sha256": "7967ebdd0f5ab246860c0b16255e713427cd98375394f614442537d211f69e14"
+      }
+    },
+    "U0CK7RWB943": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "GitHub/Devpost use an identicon and the personal site shows animals. The named exhibition volunteer entry uses initials."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJLJL9SKH": {
+      "primary": {
+        "path": "faces/person-tool/U0CJLJL9SKH-8df2ae0c70.jpg",
+        "sha256": "c67c967aef5ab8a05b7569337073bfa8085e647f3f1b1f76358281a7cf4f0b73"
+      }
+    },
+    "U0CJ09U2BAM": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The exact-handle Devpost lists Hack Western 13. Named collaborators overlap across sources but the registrant did not link the candidate LinkedIn and the event source uses a different form of the name."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJGEY2RFD": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The LinkedIn profile did not expose a public portrait. The university’s UofTHacks and Hack404 organizer sites do not label an individual Jaclyn Guo portrait. The roster labels the account association likely."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The named account shows a placeholder. There is also no account-level tie independent of the name and host school."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJR83A8QG": {
+      "primary": {
+        "path": "faces/person-tool/U0CJR83A8QG-3d3baf5395.jpg",
+        "sha256": "f25777ca0bd7df2534bb41464692373f41eaf41cf8d161c896fcfff2cfb37576"
+      }
+    },
+    "U0CK1MGMZH8": {
+      "primary": {
+        "path": "faces/person-tool/U0CK1MGMZH8-f6657d2a14.jpg",
+        "sha256": "c165b19e14c4bb4e0a6fc9309c3a1a2f5a5949f4d1a6270d6ee6b1473cb20c8e"
+      }
+    },
+    "U0CKVJ0LAPK": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CKVJ0LAPK.jpg",
+        "sha256": "9e8e32e5df7202cddf42bf4cab403ad63016e0c94a21b407f0a63328773fd7f9"
+      }
+    },
+    "U0CJ5C3JUH0": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The linked Devpost and GitHub accounts have matching identicons. The LinkedIn attribution remains tentative and its public profile could not be opened."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The candidate account shows a placeholder. The linked person has no usable header photo."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CK796322G": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHV42HMV4": {
+      "primary": {
+        "path": "faces/person-tool/U0CHV42HMV4-2c28888503.jpg",
+        "sha256": "c80a090031b1e04b7b89af4dfa2b61c6ffe8224d8968df6b90c147994eadb93d"
+      }
+    },
+    "U0CKLRH0S5T": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The GitHub account uses an identicon. Neither project site identifies a photo of its maker."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJT362K6C": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The team card links the candidate LinkedIn but the repository originally merged that card to this roster ID by that same slug. The named portfolio publishes a different Waterloo contact with one extra character in its handle. No independent exact-account match was found."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHYK30U90": {
+      "primary": {
+        "path": "photos-linkedin/U0CHYK30U90-linkedin.jpg",
+        "sha256": "f5cb7f9012fb2c74d1e8f3d9ddff05696ff54d9d23a695ba08d18ac18de6c479"
+      }
+    },
+    "U0CK3NUATPB": {
+      "primary": {
+        "path": "photos-linkedin/U0CK3NUATPB-linkedin.jpg",
+        "sha256": "17d4093c6762c23cd6ca105a27165fc737dfc660d70cb29af6f1dd4acb969cfb"
+      }
+    },
+    "U0CJFN0FJ8M": {
+      "primary": {
+        "path": "faces/person-tool/U0CJFN0FJ8M-a1ab6c08b5.jpg",
+        "sha256": "2abc00f9c3d856ea3f060b00c45523e2ee4718a14f19be619aef48c3b051a9f9"
+      }
+    },
+    "U0CK6ATUN75": {
+      "primary": {
+        "path": "faces/person-tool/U0CK6ATUN75-fa00a71f7f.jpg",
+        "sha256": "098d0265cc8f6f8876bd3c28a6a298541f7caee431e9e800177f091908faa38e"
+      }
+    },
+    "U0CLB0FMJAC": {
+      "primary": {
+        "path": "photos-linkedin/U0CLB0FMJAC-linkedin.jpg",
+        "sha256": "7c2ffff57adaf7695b342d4f14802802f2b596597080a98dd29b1a571591f700"
+      }
+    },
+    "U0CJJ7RKQ2W": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The team card names Zhan Hang Thomson L. and directly links both this profile and the matching GitHub. The roster handle independently contains Zhan Hang. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/thomson-lam-260b67292"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CHQ3JQ04T": {
+      "primary": {
+        "path": "photos-linkedin/U0CHQ3JQ04T-linkedin.jpg",
+        "sha256": "8faf8bf1e1febabd9ecc56cf9318fbf394b4d61d7b091be3d64f932a7507d202"
+      }
+    },
+    "U0CK3KPFDED": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The portfolio uses illustrations. GitHub uses an identicon. The publications list or quote the author without a labeled individual portrait. The editorial-board photograph is a group."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ04H4PNG": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CJ04H4PNG.jpg",
+        "sha256": "444ac52ad069e26d8aee4539913a07f6cbb918684625a5de2bd9ceb601703a70"
+      }
+    },
+    "U0CHPEKDWKZ": {
+      "primary": {
+        "path": "faces/person-tool/U0CHPEKDWKZ-41491d7b74.jpg",
+        "sha256": "a190cf873298e35ffd7cc44bb1fbf55b30f7dfe5223f2f21f596f542d803e184"
+      }
+    },
+    "U0CEWJ10TAT": {
+      "primary": {
+        "path": "photos-linkedin/U0CEWJ10TAT-linkedin.jpg",
+        "sha256": "dd7f71bcc5ead0ecc6ca5d7c787cd90043b9e7f004c92a6b730c575f9938a67f"
+      }
+    },
+    "U0CHNGKH90B": {
+      "primary": {
+        "path": "photos-linkedin/U0CHNGKH90B-linkedin.jpg",
+        "sha256": "c3daaf6dee7b6f1d644c7ee9fa3cc42e0238cc7c085df2655238a45330cd5f32"
+      }
+    },
+    "U0CLLJQ0QLQ": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CLLJQ0QLQ.jpg",
+        "sha256": "f1498f9e745154e7ab145af6f0a364c5e39e3fa8f6c334a252998fa88a0732ba"
+      }
+    },
+    "U0CJLNF9H9U": {
+      "primary": {
+        "path": "faces/person-tool/U0CJLNF9H9U-276063b8df.jpg",
+        "sha256": "7567bcd64d49097eff368e0da370acbe5e8234c31a0a98adb8945d52f2b0498c"
+      }
+    },
+    "U0CKJ8EDPPD": {
+      "primary": {
+        "path": "photos-linkedin/U0CKJ8EDPPD-linkedin.jpg",
+        "sha256": "dd2d123123b19fc7ed43e043a8222ac5ae912446d47728398975946f882bc0d8"
+      }
+    },
+    "U0CLB3Q9R32": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKT07URU4": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJWP7RR6Z": {
+      "primary": {
+        "path": "photos-linkedin/U0CJWP7RR6Z-linkedin.jpg",
+        "sha256": "c6917e8a49ba6e49be5dce4f01d5695887e74d1547dae5f6199aac701f14c9de"
+      }
+    },
+    "U0CHWHBDVQ9": {
+      "primary": {
+        "path": "photos-linkedin/U0CHWHBDVQ9-linkedin.jpg",
+        "sha256": "7bc19094ddf374d405f9ca7ad7600b17a7eea2a4af5025442061fcc3874474c0"
+      }
+    },
+    "U0CJDLY4333": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "This record only links to the Slack member profile. No linked public page to check."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKJ764M1S": {
+      "primary": {
+        "path": "photos-linkedin/U0CKJ764M1S-linkedin.jpg",
+        "sha256": "1e1187fdca43bb083c4e14d2f98bf8aa5ccbcb208893fabf9e8d85f8f964640a"
+      }
+    },
+    "U0CK5DBBD17": {
+      "primary": {
+        "path": "photos-linkedin/U0CK5DBBD17-linkedin.jpg",
+        "sha256": "d3b3c6facdf8ba8a984efcbc03c69993c899adf4e5a2ef013eb29797c4016087"
+      }
+    },
+    "U0CKHAK2V7C": {
+      "primary": {
+        "path": "faces/person-tool/U0CKHAK2V7C-522d3fe174.jpg",
+        "sha256": "58d02eb846790550a6db71a1b1ab279e31e38210b2b3773246bd1ab3c0d703a2"
+      }
+    },
+    "U0CKTGUM45A": {
+      "primary": {
+        "path": "photos-linkedin/U0CKTGUM45A-linkedin.jpg",
+        "sha256": "fd2c4e5a587d2074c7a9a6a72564fd175ea4ffbef711e53ab0c622758c34ccdc"
+      }
+    },
+    "U0CK8SH55CN": {
+      "primary": {
+        "path": "photos-linkedin/U0CK8SH55CN-linkedin.jpg",
+        "sha256": "c60cf7a92025d85dd3ec4e91dd4fd58617a66e3eb2cf34633a56e933170060f9"
+      }
+    },
+    "U0CHD5E8B71": {
+      "primary": {
+        "path": "photos-linkedin/U0CHD5E8B71-linkedin.jpg",
+        "sha256": "3a5a5047454bc78071df91060b495028966558cd2c1b5b91fbf1b19cec2e7bb3"
+      }
+    },
+    "U0CKE4JC25N": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The event-linked GitHub account is RyanY158. Ryan Yuan authored the LinkedIn post on NaviNate with its two specific awards, the Base44 Venture Builder Challenge and Best Beginner Hack at Hack the 6ix. The post’s Devpost link resolves to the project page naming RyanY158 as a builder; its second link matches the project repository. The selected image comes from this member’s own Profile photo dialog. It is a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/ryan-yuan-517868416"
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CKMQ98UCB": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "The author on the SpotUWO project matches the roster contact; the subject’s own LinkedIn post names and describes that project. The SheHacks+ 10 team listing separately names Ella Sajor and links the exact LinkedIn profile. Her exact-handle Devpost lists Hack Western 13.",
+          "url": "https://linkedin.com/in/ella-sajor"
+        },
+        {
+          "label": "Corroborating source",
+          "text": "Account or event record used to verify the portrait.",
+          "url": "https://github.com/eswizzle22/SpotUWO/commit/9ee43ceb53b551170fd111222c9ecc9bb7ad39f8"
+        }
+      ],
+      "status": "primary"
+    },
+    "U0CK0K5GDM4": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The roster contact verifies GitHub and the Devpost links it. The candidate LinkedIn shares the full name and McMaster affiliation, but no account linked it and there is a second similar profile."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKG1TLKMX": {
+      "primary": {
+        "path": "photos-linkedin/U0CKG1TLKMX-linkedin.jpg",
+        "sha256": "0f6b1b8641b1df1ebbb247891127c3250e83d260c65258792142a54c7f8bf7bf"
+      }
+    },
+    "U0CJ50YM77F": {
+      "primary": {
+        "path": "photos-linkedin/U0CJ50YM77F-linkedin.jpg",
+        "sha256": "3c666795f2148f5dace2cd113be9e68dedc3c52986164127d0c5a4b0c19afd20"
+      }
+    },
+    "U0CKBJHGA01": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The exact-handle Devpost verifies the full name. Neither it nor the public GitHub connects the candidate LinkedIn to that event account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJDK0PJS1": {
+      "primary": {
+        "path": "photos-linkedin/U0CJDK0PJS1-linkedin.jpg",
+        "sha256": "c6409a000c46ef4e45a6e4cd0c78d556bdb0591b857503a016271665822ce2ed"
+      }
+    },
+    "U0CJ1967F0R": {
+      "primary": {
+        "path": "faces/person-tool/U0CJ1967F0R-f642619046.jpg",
+        "sha256": "1aa84bf4e5744cd4b9dcff8adac3baeff941a3f8d8178d729675ce14cafe48af"
+      }
+    },
+    "U0CJHDTPT7D": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CJHDTPT7D.jpg",
+        "sha256": "c4e21a7a8d54de8dbb47c5af7d5dc15c40a352121a3900c30d1393d5c55947cd"
+      }
+    },
+    "U0CKSB0SZ1P": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The roster handle and school support a surname and initial only. The candidate LinkedIn and corresponding project have no link back to the roster account."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CJ76B7WCE": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "GitHub uses an illustration, Slides a missing-image graphic and Instagram a childhood photo with no current usable portrait."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The confirmed member profile opened in Chrome. Its own Profile photo dialog displayed a generic SVG placeholder."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHFKE15DM": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The saved Gravatar shows a cat."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHYNZC7J8": {
+      "primary": {
+        "path": "photos-fallback/hunt-U0CHYNZC7J8.jpg",
+        "sha256": "7045da96902f8711a15c9dd2045c9bcb986b2ad608f3dd16e576f96126f712dd"
+      }
+    },
+    "U0CKSPQ93AA": {
+      "primary": {
+        "path": "faces/devpost/U0CKSPQ93AA.jpg",
+        "sha256": "299cdd61cc79345775b256868777c3f9d9702608129817a27d0dcd08336d7793"
+      }
+    },
+    "U0CLH5AHKCY": {
+      "primary": {
+        "path": "faces/person-tool/U0CLH5AHKCY-8e49c8fb82.jpg",
+        "sha256": "70a0a48fcb4ec7ce41cdea502452153b8f208bd82f359b3d7ca2ed5d7077b22b"
+      }
+    },
+    "U0CHY5V35PV": {
+      "primary": {
+        "path": "photos-linkedin/U0CHY5V35PV-linkedin.jpg",
+        "sha256": "3f42862b6b704d690d7735bc4aea633c52ea227ccf57ddc73d717644ad83705e"
+      }
+    },
+    "U0CJH5C83DK": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The two equivalent LinkedIn profile links are a tentative account match; the public profile was unavailable."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "The slug resembles the Slack handle but drops its numeric suffix. No owner-linked project, external site or precise identifier independently tied this particular professional account to the attendee."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CHUEZEQ0J": {
+      "primary": {
+        "path": "photos-linkedin/U0CHUEZEQ0J-linkedin.jpg",
+        "sha256": "bceee60c6da96454a32fd7b4b99aef17ebb6c1563690aa798b57e05507cb5602"
+      }
+    },
+    "U0CJYDZ9YVB": {
+      "primary": {
+        "path": "photos-linkedin/U0CJYDZ9YVB-linkedin.jpg",
+        "sha256": "84df3a321d404fdcf5232f82756f123ecdce9a15d236982e4b360f389bed7c10"
+      }
+    },
+    "U0CHRBVEL3V": {
+      "primary": {
+        "path": "faces/person-tool/U0CHRBVEL3V-31dd6748f8.jpg",
+        "sha256": "cb43f5a3e5986d1874b630d60aee7a7b58bacc086a0c3ee462163574fe398681"
+      }
+    },
+    "U0CK00Q5E4W": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "U0CKM620NF6": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "Only the Slack profile is listed. There is no attributable public account link in the event or professional record."
+        },
+        {
+          "label": "Slack profile",
+          "text": "The live event profile still uses the exported avatar and lists no external profile link."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "adam-p-hack-western-13": {
+      "primary": {
+        "path": "faces/person-tool/adam-p-hack-western-13-eb247706fc.jpg",
+        "sha256": "7a052637aa44c4f4c103eb3713672c9b1dc3ced550c9bba264e287675bf216d2"
+      }
+    },
+    "justin-chow": {
+      "primary": {
+        "path": "faces/person-tool/justin-chow-17e4e17fd5.jpg",
+        "sha256": "d39e38cbaff0da2fb35b2e22803bc6e839329761dd01db950cdae44d0f71e25c"
+      }
+    },
+    "tf:zhan-hang-thomson-l": {
+      "primary": {
+        "path": "photos-fallback/hunt-tf-zhan-hang-thomson-l.jpg",
+        "sha256": "80b9b648280a37e5beae6d081bf0761a5665c28aee06fc82a97915eeb2206ac5"
+      }
+    },
+    "tf:riaa-s": {
+      "primary": {
+        "path": "photos-fallback/hunt-tf-riaa-s.jpg",
+        "sha256": "040e09833141db55d29cbc103610168573f4718352a6cc309c994d759bbedb2b"
+      }
+    },
+    "tf:alexander-s": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The self-linked Instagram account uses a building as its profile image. Team finder links this Instagram directly. It does not establish which same-name LinkedIn candidate is correct."
+        },
+        {
+          "label": "LinkedIn profile",
+          "text": "Two same-name LinkedIn candidates both have placeholder header images. The event card lists Instagram, and no independent evidence resolves the LinkedIn owner."
+        }
+      ],
+      "status": "unresolved"
+    },
+    "tf:galit-t": {
+      "primary": {
+        "path": "photos-fallback/hunt-tf-galit-t.jpg",
+        "sha256": "cc2274e6268a63b20ab16a07efa3d20d54293cd8002b363c1948da154e13f52c"
+      }
+    },
+    "tf:panos-t": {
+      "primary": {
+        "path": "hackwestern-site/photos/team-finder/panos-t.jpg",
+        "sha256": "08bfc076c767faf88d0b8ccc7efaaeee9b3cefc49673c41c2c9e9b14c35d1627"
+      }
+    },
+    "tf:jeffrey-s": {
+      "primary": {
+        "path": "photos-fallback/tf-jeffrey-s-linkedin.jpg",
+        "sha256": "29f479999d2617a297ba8b5ff986c1674f79c395bc6d0dc70d5335493b7c2995"
+      }
+    },
+    "tf:shaeshan-k": {
+      "primary": {
+        "path": "photos-fallback/hunt-tf-shaeshan-k.jpg",
+        "sha256": "b695d738fc926dd0d1848be86d3ce19fe4bdba4775a991406831133fb0b287a7"
+      }
+    },
+    "tf:ryushen-t": {
+      "primary": {
+        "path": "photos-fallback/hunt-tf-ryushen-t.jpg",
+        "sha256": "8e503d8fdc75f58f4b2f76affe6bfcaaad223f73647d0082932cc04b48f18d44"
+      }
+    },
+    "tf:blaine-d": {
+      "primary": {
+        "path": "photos-fallback/tf-blaine-d-linkedin.jpg",
+        "sha256": "0a74a6752b852d99cb29738ac1c39cd1eacbba01c5fac142204bec0c881dc103"
+      }
+    },
+    "tf:ewan-r": {
+      "review": [
+        {
+          "label": "Primary portrait",
+          "text": "This team-finder-only entry directly links the LinkedIn and GitHub accounts from its first-party event card. The GitHub name and Western University affiliation corroborate Ewan Redgrift. Downloaded from the member header’s own Profile photo dialog in Chrome. Visually checked as a clear individual portrait.",
+          "url": "https://www.linkedin.com/in/ewan-redgrift"
+        }
+      ],
+      "status": "primary"
+    },
+    "devpost:sngtan": {
+      "review": [
+        {
+          "label": "Review result",
+          "text": "The registered Devpost account is named Tanish Singh. Its own current avatar is a generic silhouette and there are no further personal profile links."
+        }
+      ],
+      "status": "unresolved"
+    }
+  },
+  "rejected_content": [
+    {
+      "id": "U0CHJHRK1BR",
+      "path": "faces/devpost/U0CHJHRK1BR.jpg",
+      "sha256": "7aa308bab87d9e39c0a3d489b32dfef54a7bbcd398b1c42cc9c5c022ed8959a1"
+    },
+    {
+      "id": "U0CHYNZC7J8",
+      "path": "faces/devpost/U0CHYNZC7J8.jpg",
+      "sha256": "16bd5ec94386e653f7baaf5ffddef316ca5751f6adb941e2aa24f41b0be314e2"
+    },
+    {
+      "id": "U0CJ4FY7WKD",
+      "path": "faces/devpost/U0CJ4FY7WKD.jpg",
+      "sha256": "8864ffa5ace8bad62bfe73bf409ec3878e0f64f1c97225f57d96c476eeca7620"
+    },
+    {
+      "id": "U0CJAKGD8TT",
+      "path": "faces/devpost/U0CJAKGD8TT.jpg",
+      "sha256": "69dfbe921d742a8e3f8d0d545cf05da189910db8bbb70c071bee2b1ed73fdbca"
+    },
+    {
+      "id": "U0CK3NUATPB",
+      "path": "faces/devpost/U0CK3NUATPB.jpg",
+      "sha256": "747f0911ecc4e7c793eabcba97063e35b106734eb237b805d984dbe5a61f2fea"
+    },
+    {
+      "id": "U0CK81EM7K9",
+      "path": "faces/github/U0CK81EM7K9.jpg",
+      "sha256": "6bc518a58dda47f09941f89bd4548ba8e19528ed02020163bfd55c41fc9fe99c"
+    },
+    {
+      "id": "U0CFA3DLRL6",
+      "path": "faces/person-tool/U0CFA3DLRL6-770e7ed2d1.jpg",
+      "sha256": "828af5d22e4a5f4c11b3577cfd7561b20b46290f42a6ee941a657c67e0baeb16"
+    },
+    {
+      "id": "U0CFBV046JE",
+      "path": "faces/person-tool/U0CFBV046JE-03c96b5a00.jpg",
+      "sha256": "7f7c8f480a9089f527e34b356e42b3ff2ba710943cbebe6fff96d0395d820d1a"
+    },
+    {
+      "id": "U0CFDTA0BR7",
+      "path": "faces/person-tool/U0CFDTA0BR7-5567918087.jpg",
+      "sha256": "2e6212abfcf17048801de91f8485766d0002545878c57988ea26742538c3b27c"
+    },
+    {
+      "id": "U0CG1UDVAE8",
+      "path": "faces/person-tool/U0CG1UDVAE8-e1ae9f2c79.jpg",
+      "sha256": "99692e6c7c3c25c284268987c6f274e08d8018853abcd7fcf8fdc118dec37400"
+    },
+    {
+      "id": "U0CGDSG30DS",
+      "path": "faces/person-tool/U0CGDSG30DS-03c96b5a00.jpg",
+      "sha256": "7f7c8f480a9089f527e34b356e42b3ff2ba710943cbebe6fff96d0395d820d1a"
+    },
+    {
+      "id": "U0CGMK4KX9A",
+      "path": "faces/person-tool/U0CGMK4KX9A-a3ce46136f.jpg",
+      "sha256": "16bb510e09d4cfdbbabffc8e5b18e07bd33b2c7f29d5e1f6265fd113118923f4"
+    },
+    {
+      "id": "U0CHDA78MEK",
+      "path": "faces/person-tool/U0CHDA78MEK-1619bca096.jpg",
+      "sha256": "9cb78e0f6426509f32c5d84ce20f4d723285ef99193d0b614cae5459716b61f1"
+    },
+    {
+      "id": "U0CHDPVQ1K9",
+      "path": "faces/person-tool/U0CHDPVQ1K9-1fa9fa2f05.jpg",
+      "sha256": "35fae22a9a8e8077352a8daef1e79c4d2d88c3e7c7c4b7dfbaaa4b22bd97bb3d"
+    },
+    {
+      "id": "U0CHJHRK1BR",
+      "path": "faces/person-tool/U0CHJHRK1BR-1cace4716b.jpg",
+      "sha256": "e7a1e4c17ab6267421d46cf4d73ecfc062a5158fed123e848dd8da7967f43072"
+    },
+    {
+      "id": "U0CHPFF6KN0",
+      "path": "faces/person-tool/U0CHPFF6KN0-8aaf2ed9b7.jpg",
+      "sha256": "523ebe4d262348472c083be5e35f8e223d60c6e43b9a2d9992d23062915f2e35"
+    },
+    {
+      "id": "U0CHPHPQ2LV",
+      "path": "faces/person-tool/U0CHPHPQ2LV-923ca369b6.jpg",
+      "sha256": "a7fcc5f93de236730e2a2133c14c12a723864c415281b53da0e1054ca4bd9136"
+    },
+    {
+      "id": "U0CHQ8U798X",
+      "path": "faces/person-tool/U0CHQ8U798X-fe4b41a5ff.jpg",
+      "sha256": "489d36627bbcf929d8bd3011ae48da60df0a18e091fafe9bf9664418e2bb1fc2"
+    },
+    {
+      "id": "U0CHQ9TKBH9",
+      "path": "faces/person-tool/U0CHQ9TKBH9-ac880f7a2d.jpg",
+      "sha256": "fd61dbf3b78cebcfabe9fb78098aeda0c4597c687ac9b95a626720d61c3c537d"
+    },
+    {
+      "id": "U0CHSJ8AEDT",
+      "path": "faces/person-tool/U0CHSJ8AEDT-9db641de90.jpg",
+      "sha256": "cb324ae5cba9c577a2f32d8d43dadae395e090c0a55ece0e12930edd297cc5d6"
+    },
+    {
+      "id": "U0CHX132TB3",
+      "path": "faces/person-tool/U0CHX132TB3-9ea6a90634.jpg",
+      "sha256": "0a5e0aa51ce1f7107f9c43fbed311928a7c2045e9e31bd020072ce7f4e79dee4"
+    },
+    {
+      "id": "U0CHX8NSAVC",
+      "path": "faces/person-tool/U0CHX8NSAVC-b129f7eb66.jpg",
+      "sha256": "0c51dab95be720d2b8cc03b55f0ee1f5c1204d56b6e8397b47a6c9a49aca26c3"
+    },
+    {
+      "id": "U0CHY7P59TL",
+      "path": "faces/person-tool/U0CHY7P59TL-afe78d0b16.jpg",
+      "sha256": "1c85be6c6fcff09fcd160ac40e76a8ff3b0b2f30a4617d26d3434be5aa073f58"
+    },
+    {
+      "id": "U0CHYNZC7J8",
+      "path": "faces/person-tool/U0CHYNZC7J8-0c0d306992.jpg",
+      "sha256": "c56728473686a4ca59581db20ab7730e810635da7bb2e73dd0660630143df6af"
+    },
+    {
+      "id": "U0CJ04H4PNG",
+      "path": "faces/person-tool/U0CJ04H4PNG-0d68c45604.jpg",
+      "sha256": "ce89d9840ae5daca80e63c0882be29dd3da407da14625e39289c2770f6441b17"
+    },
+    {
+      "id": "U0CJ4SS6JVD",
+      "path": "faces/person-tool/U0CJ4SS6JVD-3a9b994148.jpg",
+      "sha256": "e385d92797c1b77f7dd5894dee060d2d8218e542d50b4a13c7d68b21d2961d5b"
+    },
+    {
+      "id": "U0CJ6V473FZ",
+      "path": "faces/person-tool/U0CJ6V473FZ-d3ab036f63.jpg",
+      "sha256": "4d0830ce2fedea39b9b776b2ec85ea9f72b39f576b8ac725e091a33bac6bd9b7"
+    },
+    {
+      "id": "U0CJ76B7WCE",
+      "path": "faces/person-tool/U0CJ76B7WCE-dc657986dd.jpg",
+      "sha256": "1c04a714b6fbe767c17108b700d24ae840a4574c1e5b994ee741fed95a2a9981"
+    },
+    {
+      "id": "U0CJF8GBZ54",
+      "path": "faces/person-tool/U0CJF8GBZ54-c8bdf95709.jpg",
+      "sha256": "958d1a5da7b667ed0d3cd3279c7b7028e3415403e231a8450e8d8a1ba2603f87"
+    },
+    {
+      "id": "U0CJGF09XEX",
+      "path": "faces/person-tool/U0CJGF09XEX-cad6cd131b.jpg",
+      "sha256": "ff148a96486599956d138a6ebbe2b5385c14afe943d421d438cd84988a59cf20"
+    },
+    {
+      "id": "U0CJHMNQ0RK",
+      "path": "faces/person-tool/U0CJHMNQ0RK-acb1b78ff7.jpg",
+      "sha256": "d99857b1acaf44e0e9a1c42c8e93965df0500ef5a7688ffdb144c41149773696"
+    },
+    {
+      "id": "U0CJJ7RKQ2W",
+      "path": "faces/person-tool/U0CJJ7RKQ2W-7fba6b4ce4.jpg",
+      "sha256": "f7bf91e31bc8fd25c72ca18c0115ed6888184e8843879af69531ea4e7e9f9b40"
+    },
+    {
+      "id": "U0CJLN8A4Q2",
+      "path": "faces/person-tool/U0CJLN8A4Q2-62fe8ed7c3.jpg",
+      "sha256": "123be41ab269d198e4c2b8908247477b14f055be1db81e138cd54fbb04f9fd6c"
+    },
+    {
+      "id": "U0CJNN4U3PZ",
+      "path": "faces/person-tool/U0CJNN4U3PZ-55330d919c.jpg",
+      "sha256": "d28fbfbd2d46b46538efdebad88e7d59dc8a4627b50ce829c1080aca3c80b9b3"
+    },
+    {
+      "id": "U0CJNUJTBB2",
+      "path": "faces/person-tool/U0CJNUJTBB2-c059e80d7e.jpg",
+      "sha256": "413a8c27ffd5ff914ea4b6ed36a8f4f0680b9bcea089ef1740f9e7d4637a554c"
+    },
+    {
+      "id": "U0CJP4EQ0NL",
+      "path": "faces/person-tool/U0CJP4EQ0NL-421ee097f7.jpg",
+      "sha256": "38ff6a4beb340ab81f9d3eb7fec93c830d05df78488b7926d58ec5610832eab8"
+    },
+    {
+      "id": "U0CJP9GRWD6",
+      "path": "faces/person-tool/U0CJP9GRWD6-22ab238bf4.jpg",
+      "sha256": "0c1ea005d8910ea2a6170bd6d4ac08cbd9650e56240e068a8e9c4d37701402e2"
+    },
+    {
+      "id": "U0CJPSMNNNT",
+      "path": "faces/person-tool/U0CJPSMNNNT-1c83fa4a5e.jpg",
+      "sha256": "955aed68f11b8a864c92d272bdb2409287310d3c63ffab226ce462870d40254d"
+    },
+    {
+      "id": "U0CJQT97ATT",
+      "path": "faces/person-tool/U0CJQT97ATT-b0e685922f.jpg",
+      "sha256": "7d8716b5bf4b07bb12be75351b8bf018ae46ce5095d9b48a359602e2d2a79d1a"
+    },
+    {
+      "id": "U0CJT130VCG",
+      "path": "faces/person-tool/U0CJT130VCG-7962ed09e0.jpg",
+      "sha256": "50b13ae5f43a1316460f810d27e21ce868e8f92dc6e679e05dcf327b95fca859"
+    },
+    {
+      "id": "U0CJVB8M5FW",
+      "path": "faces/person-tool/U0CJVB8M5FW-75654b9fd0.jpg",
+      "sha256": "873bfb37a6eac4498734beb55e81b57faf74bb0e6138d1baf7a6ef650e555ad1"
+    },
+    {
+      "id": "U0CJVM77UQK",
+      "path": "faces/person-tool/U0CJVM77UQK-931d5f15fe.jpg",
+      "sha256": "1a91436637b127958f831b9b5cdace014dcd2483a60bc9b30be79e910a40af82"
+    },
+    {
+      "id": "U0CJW307MEX",
+      "path": "faces/person-tool/U0CJW307MEX-54455b4ebf.jpg",
+      "sha256": "c054daedd9c54dcaccb094977a33ed7a7b4e76d10415fc8a9043ad4f3de8a2ce"
+    },
+    {
+      "id": "U0CJWD67SAH",
+      "path": "faces/person-tool/U0CJWD67SAH-ba94cfa2c5.jpg",
+      "sha256": "322c7f95a7690ff3d3e7455472052bfe0be91270cacfb5c55fdaae7bba091489"
+    },
+    {
+      "id": "U0CJZPR50SH",
+      "path": "faces/person-tool/U0CJZPR50SH-2d834c174e.jpg",
+      "sha256": "55f1656a82cad9b4a1aedb1e751db7daeecd058f6a23661de152c93c8303995b"
+    },
+    {
+      "id": "U0CK04C8XU6",
+      "path": "faces/person-tool/U0CK04C8XU6-f8dff4c911.jpg",
+      "sha256": "dbf6a357578b42d12fd0adf14d36493f6b643a87cdcbe0c4ce4ecf32779ff172"
+    },
+    {
+      "id": "U0CK3KPFDED",
+      "path": "faces/person-tool/U0CK3KPFDED-5505d60d42.jpg",
+      "sha256": "e4f5e7ea06f0dad7d075caffa8b81b42ff53a59147725efb4e5784ebe01caf59"
+    },
+    {
+      "id": "U0CK5L9TAQ3",
+      "path": "faces/person-tool/U0CK5L9TAQ3-f5dd15f900.jpg",
+      "sha256": "f47c1b763fd9f21968f9f24d7a474dccf9b602e14764fda11f986344ba158b4c"
+    },
+    {
+      "id": "U0CK5T7G3TN",
+      "path": "faces/person-tool/U0CK5T7G3TN-3175446de5.jpg",
+      "sha256": "b3ec6da3b2e4c13cb3fc25ebd354415e5a2d2e1166ea7e4063890ad724383632"
+    },
+    {
+      "id": "U0CK5U6MBCZ",
+      "path": "faces/person-tool/U0CK5U6MBCZ-cd507e331f.jpg",
+      "sha256": "c31ee83421761e9643dfbfdc0b21f0e1426dff0f19bbaa505af8b5d18a1d08ff"
+    },
+    {
+      "id": "U0CK5VAF64D",
+      "path": "faces/person-tool/U0CK5VAF64D-b7c9ee54d2.jpg",
+      "sha256": "2b21596efae6e242074160a3afd575d0b6b98e6825f301031de67f6081a1eace"
+    },
+    {
+      "id": "U0CKA90R5K9",
+      "path": "faces/person-tool/U0CKA90R5K9-b807a4c86f.jpg",
+      "sha256": "fd611ec18b972b6e23e03dc482f75de68c14de71aa240091b674567b5007cc12"
+    },
+    {
+      "id": "U0CKAU59802",
+      "path": "faces/person-tool/U0CKAU59802-0023463b5f.jpg",
+      "sha256": "a9d8272e5bbb4e135e435ab20b7b988a1fba41ca7e571eee3412a25e832d45df"
+    },
+    {
+      "id": "U0CKF47KWFL",
+      "path": "faces/person-tool/U0CKF47KWFL-e937d9bc2d.jpg",
+      "sha256": "55643b985653edd11ab747dfd60889529b5a289c2b1796b159f643188d6f5e12"
+    },
+    {
+      "id": "U0CKFG6G5T5",
+      "path": "faces/person-tool/U0CKFG6G5T5-5bbb8c92ff.jpg",
+      "sha256": "262d677dc523d9ea41db61f4ce8b472ff113675e7a9738aa71bf034d097f4915"
+    },
+    {
+      "id": "U0CKFPTL57E",
+      "path": "faces/person-tool/U0CKFPTL57E-471624f198.jpg",
+      "sha256": "c50e3e8e1b8a7f4092c7e953491fde5fd11609399bb1643181848dae7618c5ae"
+    },
+    {
+      "id": "U0CKL26J473",
+      "path": "faces/person-tool/U0CKL26J473-7fba6b4ce4.jpg",
+      "sha256": "55e8356bf14d6b950a2283d947ea0857341c043f521ec02dfbabe83ba9cf04ec"
+    },
+    {
+      "id": "U0CKL5HMTK3",
+      "path": "faces/person-tool/U0CKL5HMTK3-b3acb2863b.jpg",
+      "sha256": "78acb946093b476ac18c1623e64689538e6e8d908b98a9c2c52ebdd06c17003f"
+    },
+    {
+      "id": "U0CKL69FT3P",
+      "path": "faces/person-tool/U0CKL69FT3P-4534d97836.jpg",
+      "sha256": "05955b673ac4910813e9b220363d48b8c15347470ad7695ab6b7dfbaf9cda996"
+    },
+    {
+      "id": "U0CKLUXUG9H",
+      "path": "faces/person-tool/U0CKLUXUG9H-838c5aee02.jpg",
+      "sha256": "027e52f56137f64a927bb1bbbdbf76dd2bddec3acec035cc6dacf8197aff5234"
+    },
+    {
+      "id": "U0CKMDV2WN9",
+      "path": "faces/person-tool/U0CKMDV2WN9-c605a2d8d1.jpg",
+      "sha256": "4e7d2f56688ddaa4126497f02ae0385b823fdb825bb2f36501406a6fdeb36305"
+    },
+    {
+      "id": "U0CKMEFTATD",
+      "path": "faces/person-tool/U0CKMEFTATD-afe78d0b16.jpg",
+      "sha256": "1a01094066ff43acfd42f7c58480f7e1f71b6b2d0d1c50bdcd022ff8283e6ee8"
+    },
+    {
+      "id": "U0CKPG30EPQ",
+      "path": "faces/person-tool/U0CKPG30EPQ-a7cb23f395.jpg",
+      "sha256": "6b444fa257440d387a324f3579dd21d16582bb6168a49027200309438b321252"
+    },
+    {
+      "id": "U0CKQ1YF7RU",
+      "path": "faces/person-tool/U0CKQ1YF7RU-6a0d3cf405.jpg",
+      "sha256": "abe732a42616e7e1e0b56d08554ba02d169817a992a77bf04f2a8e798a21703e"
+    },
+    {
+      "id": "U0CKVJ0LAPK",
+      "path": "faces/person-tool/U0CKVJ0LAPK-54e2787487.jpg",
+      "sha256": "661413c465dee7490f84aea2b17db6a9c74418d7d7170451d1f9c7dc9036e53d"
+    },
+    {
+      "id": "U0CKWHRFWF6",
+      "path": "faces/person-tool/U0CKWHRFWF6-3458782571.jpg",
+      "sha256": "dcd35acf3ed2d1039f7e7ec0732360189ef9cf7bf510cc1962788eea8432f93c"
+    },
+    {
+      "id": "U0CL1FLR43A",
+      "path": "faces/person-tool/U0CL1FLR43A-e5d0fed28d.jpg",
+      "sha256": "ddc56f166812b9ac49c81c4fe8c883298b30aac98b02a3d1e4ddb248cfab2a41"
+    },
+    {
+      "id": "U0CL67M748G",
+      "path": "faces/person-tool/U0CL67M748G-3172cfa69b.jpg",
+      "sha256": "301abbcded74e535629bbb8eab3c1b5a632b14e0d726b9bb35cf435804df187d"
+    },
+    {
+      "id": "U0CLAGRPDCY",
+      "path": "faces/person-tool/U0CLAGRPDCY-78cacc581e.jpg",
+      "sha256": "8922326033918d74d53fde0523ca5773c8d021ac145016b2c1697f556af198bf"
+    },
+    {
+      "id": "U0CLK8F0H3J",
+      "path": "faces/person-tool/U0CLK8F0H3J-7feb03a4e0.jpg",
+      "sha256": "06e3af997b13c7df5ab4fe1ecd82694a12875ad9d0a4dd01e7d66a7489ee6bf9"
+    },
+    {
+      "id": "daniel-m-hack",
+      "path": "faces/person-tool/daniel-m-hack-931d5f15fe.jpg",
+      "sha256": "1a91436637b127958f831b9b5cdace014dcd2483a60bc9b30be79e910a40af82"
+    },
+    {
+      "id": "daryna-volytska",
+      "path": "faces/person-tool/daryna-volytska-b94e9b82e1.jpg",
+      "sha256": "9e676779e551b50347fb22cee5d4d7cf35e6da51df9688a2ad2db906aba8f308"
+    },
+    {
+      "id": "eric-fu",
+      "path": "faces/person-tool/eric-fu-c059e80d7e.jpg",
+      "sha256": "413a8c27ffd5ff914ea4b6ed36a8f4f0680b9bcea089ef1740f9e7d4637a554c"
+    },
+    {
+      "id": "ola-w-hack",
+      "path": "faces/person-tool/ola-w-hack-421ee097f7.jpg",
+      "sha256": "38ff6a4beb340ab81f9d3eb7fec93c830d05df78488b7926d58ec5610832eab8"
+    },
+    {
+      "id": "pragalvha-sharma",
+      "path": "faces/person-tool/pragalvha-sharma-3458782571.jpg",
+      "sha256": "dcd35acf3ed2d1039f7e7ec0732360189ef9cf7bf510cc1962788eea8432f93c"
+    }
+  ]
+}

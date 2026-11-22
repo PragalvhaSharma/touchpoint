@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>People &amp; portraits · Hack Western 13</title>
+<style>
+:root{--ink:#221d31;--muted:#625e70;--purple:#56379a;--lavender:#ebe5fa;--edge:#dedbe6;--canvas:#faf9fc;--mat:#e9e7ec;--active:#e9e1fa;--bar:68px;font:16px/1.45 -apple-system,BlinkMacSystemFont,"Helvetica Neue",sans-serif;color:var(--ink);background:var(--canvas)}
+*{box-sizing:border-box}body{margin:0}button,input,select{font:inherit;color:inherit}button{cursor:pointer}button:disabled{cursor:default;opacity:.37}button:focus-visible,input:focus-visible,select:focus-visible,a:focus-visible{outline:3px solid #7a51c2;outline-offset:2px}
+header.brand{height:var(--bar);padding:0 clamp(18px,3vw,52px);display:flex;align-items:center;gap:13px;background:#eee9f9;border-bottom:1px solid #d8d0e8;position:sticky;top:0;z-index:3}
+.brand h1{font-size:20px;font-weight:680;letter-spacing:-.045em;margin:0}.event{margin-left:auto;color:#594771;font-size:14px;font-weight:600}.mark{width:32px;height:26px;border:2px solid var(--purple);border-radius:5px;display:grid;grid-template-columns:1.3fr 1fr;grid-template-rows:1fr 1fr;gap:2px;padding:3px}.mark i{background:var(--purple);border-radius:1px}.mark i:first-child{grid-row:span 2}
+.shell{display:grid;grid-template-columns:clamp(245px,23vw,322px) minmax(0,1fr);max-width:1770px;margin:auto}.directory{height:calc(100dvh - var(--bar));position:sticky;top:var(--bar);display:flex;flex-direction:column;min-height:0;border-right:1px solid var(--edge);background:#f2f0f6}.controls{padding:25px 18px 13px}.dir-title{display:flex;align-items:center;justify-content:space-between;margin:0 0 14px;font-size:19px;letter-spacing:-.035em}.dir-title output{font-size:13px;font-weight:550;color:var(--muted);font-variant-numeric:tabular-nums}
+.search{display:flex;align-items:center;gap:9px;background:white;border:1px solid #cfcbd8;border-radius:8px;padding:0 10px}.search:focus-within{outline:2px solid var(--purple)}.lens{width:13px;height:13px;display:inline-block;border:1.8px solid var(--muted);border-radius:50%;position:relative;margin:0 2px}.lens:after{content:"";position:absolute;right:-4px;bottom:-2px;width:6px;height:1.8px;background:var(--muted);transform:rotate(45deg)}.search input{border:0;background:none;outline:none;width:100%;min-width:0;height:40px;font-size:14px}.search input:focus-visible{outline:none}
+.controls select{width:100%;padding:7px 4px 5px;margin-top:6px;border:0;background:transparent;color:var(--purple);font-size:13px;font-weight:600}.people{min-height:0;flex:1;overflow:auto;padding:0 10px 16px;scrollbar-width:thin;scrollbar-color:#c0b8cd transparent}.person{width:100%;border:0;background:transparent;text-align:left;padding:8px 10px;display:flex;gap:12px;align-items:center;border-radius:9px}.person:hover{background:#e7e4ec}.person[aria-current=true]{background:var(--active);box-shadow:inset 3px 0 var(--purple)}.avatar{display:grid;place-items:center;flex:0 0 39px;width:39px;height:39px;overflow:hidden;border-radius:9px;background:#e0dbe9;color:#61536f;font-size:14px;font-weight:650}.avatar img{width:100%;height:100%;object-fit:cover}.person-info{min-width:0}.person-name,.person-meta{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.person-name{font-weight:600;font-size:14px}.person-meta{font-size:11.5px;color:var(--muted);margin-top:1px}.browse{display:none}
+main{min-width:0;padding:clamp(22px,3.3vw,52px);max-width:1340px;width:100%}.heading{display:flex;justify-content:space-between;align-items:center;gap:18px;margin-bottom:30px}.heading h2{font-size:clamp(30px,3.5vw,55px);line-height:1.05;letter-spacing:-.065em;font-weight:640;margin:0;overflow-wrap:anywhere}.meta{color:var(--muted);font-size:14px;margin:8px 0 0}.arrows{display:flex;gap:6px}.iconbtn{display:grid;place-items:center;border:1px solid #cbc5d4;border-radius:50%;height:37px;width:37px;background:transparent;font-size:21px;line-height:1}.iconbtn:hover:not(:disabled){background:var(--lavender)}
+section.set{margin:0 0 30px}.sethead{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:0 0 10px}.sethead h3,.other-title{margin:0;font-size:18px;letter-spacing:-.035em;font-weight:650}.sethead a{color:var(--purple)}.sethead span{font-size:13px;color:var(--muted)}.sheet{display:grid;grid-template-columns:1.65fr 1fr 1fr;grid-template-rows:1fr 1fr;gap:8px;background:#e9e6ef;border:1px solid #ded9e7;border-radius:15px;padding:8px}.shot{display:flex;flex-direction:column;align-items:stretch;overflow:hidden;background:#fff;border:0;border-radius:8px;padding:0;text-align:left;min-width:0}.shot:hover .caption{color:var(--purple);background:#f4efff}.photo{flex:1;display:grid;place-items:center;min-height:0;overflow:hidden;background:var(--mat);position:relative}.photo img{display:block;width:100%;height:100%;position:absolute;inset:0;object-fit:contain}.caption{display:flex;align-items:center;gap:7px;min-height:29px;padding:4px 9px;color:#494355;font-size:12px;font-weight:550}.sheet .shot:first-child{grid-row:1 / 3}.sheet .shot:first-child .caption{font-weight:680}.sheet .shot:not(:first-child) .photo{aspect-ratio:1.55}.originals{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(156px,100%),1fr));gap:12px;margin-top:12px}.originals .shot{border:1px solid var(--edge)}.originals .photo{aspect-ratio:1.3}.originals .shot:only-child{max-width:250px}.missing{color:var(--muted);background:#edeaf2;padding:18px;border-radius:8px;max-width:520px}.loaderror{padding:10px;text-align:center;font-size:12px;color:var(--muted)}.no-results{margin:10px;color:var(--muted);font-size:14px}
+dialog{margin:auto;inset:0;width:min(90vw,900px);border:0;border-radius:14px;padding:0;background:#19171c;color:#fff;box-shadow:0 20px 60px #0004}dialog::backdrop{background:#171321bd}.viewerhead,.viewerfoot{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 16px}.viewerhead h2{font-size:17px;line-height:1.2;margin:0}.viewerhead p{font-size:13px;color:#cbc5d3;margin:3px 0 0}.viewerhead a{color:#e4ceff}.viewerhead .iconbtn,.viewerfoot .iconbtn{border-color:#655f6a;color:white}.viewerhead .iconbtn:hover,.viewerfoot .iconbtn:hover{background:#39333e}.large{background:#262329;display:flex;align-items:center;justify-content:center}.large img{width:100%;height:min(63dvh,640px);object-fit:contain}.viewerfoot{justify-content:center;font-size:13px}.viewerfoot span{min-width:104px;text-align:center}.viewerfoot:has(button:disabled + span + button:disabled){display:none}.sr{position:absolute;width:1px;height:1px;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}
+@media(min-width:1550px){.sheet .shot:not(:first-child) .photo{aspect-ratio:1.8}}
+@media(max-width:850px) and (min-width:701px){.shell{grid-template-columns:215px minmax(0,1fr)}main{padding:20px}.sheet{grid-template-columns:1.2fr 1fr 1fr;gap:5px;padding:5px}.caption{font-size:11px}}
+@media(max-width:700px){:root{--bar:54px}.brand h1{font-size:17px}.event{font-size:12px}.mark{width:26px;height:22px}.shell{display:block}.browse{display:flex;align-items:center;justify-content:space-between;width:100%;border:0;border-bottom:1px solid var(--edge);background:#f2f0f6;color:var(--purple);padding:11px 18px;font-size:14px;font-weight:650}.browse:after{content:"⌄"}.browse[aria-expanded=true]:after{content:"⌃"}.directory{display:none;position:static;height:58dvh;border-bottom:1px solid var(--edge);border-right:0}.directory.open{display:flex}.controls{padding:12px 16px 8px}.dir-title{margin-bottom:8px}.heading{margin-bottom:22px}.sheet{grid-template-columns:1fr 1fr;grid-template-rows:auto;gap:6px;padding:6px}.sheet .shot:first-child{grid-row:auto;grid-column:1/-1}.sheet .shot:first-child .photo{aspect-ratio:1.6}.sheet .shot:not(:first-child) .photo{aspect-ratio:1.5}.originals{grid-template-columns:repeat(2,minmax(0,1fr))}.caption{min-height:25px}.viewerhead,.viewerfoot{padding:10px}dialog{width:94vw}.large img{height:56dvh}}
+
+.roleline{font-size:clamp(14px,1.15vw,19px);margin:6px 0 0;color:#51495e}.identity{display:flex;align-items:center;gap:clamp(14px,2vw,26px);min-width:0}.identity>div{min-width:0}.profile-picture{flex:none;display:block;width:clamp(76px,9vw,138px);height:clamp(76px,9vw,138px);border-radius:12px;padding:0;border:0;background:var(--mat);overflow:hidden}.profile-picture img{display:block;width:100%;height:100%;object-fit:contain}.initials{display:grid;place-items:center;color:var(--purple);font-size:28px;font-weight:650;background:var(--lavender)}.heading{margin-bottom:20px}.views{display:flex;gap:8px;border-bottom:1px solid var(--edge);margin-bottom:22px}.viewbtn{font-weight:600;font-size:15px;border:0;border-bottom:3px solid transparent;background:transparent;padding:9px 10px;color:var(--muted)}.viewbtn[aria-pressed=true]{border-color:var(--purple);color:var(--purple)}.profile-controls{display:flex;align-items:center;justify-content:space-between;margin-bottom:8px}.profile-controls h3{font-size:18px;margin:0}.text-action{border:0;background:none;color:var(--purple);padding:6px 0;font-size:13px;font-weight:600}.profile-section{border-bottom:1px solid var(--edge);padding:2px 0}.profile-section>summary{cursor:pointer;padding:14px 0;font-size:16px;font-weight:620;color:var(--ink)}.profile-section summary:focus-visible{outline:2px solid var(--purple);outline-offset:2px}.fields{margin:0 0 10px}.field{padding:12px 14px;background:white;border-radius:6px;margin:0 0 5px;overflow-wrap:anywhere}.field dt{font-size:13px;font-weight:650;color:#5b4f70;margin-bottom:4px}.field dd{margin:0;color:var(--ink);line-height:1.55;white-space:pre-line}.field dd>a{font-size:13px;color:var(--purple);display:inline-block;margin-top:6px}.item-date{color:var(--muted);font-size:12px;margin-left:8px;font-weight:400}.saved{margin-top:7px;font-size:13px;color:var(--muted)}.saved summary{cursor:pointer}.saved pre{white-space:pre-wrap;overflow-wrap:anywhere;font:inherit;line-height:1.5;margin:8px 0;max-height:380px;overflow:auto}.revisions{padding:12px 16px;border-top:1px solid var(--edge);color:var(--muted);font-size:11px;line-height:1.6}.revisions a{color:var(--purple)}@media(max-width:700px){.identity{gap:12px}.identity h2{font-size:clamp(23px,6vw,34px)}.heading{align-items:flex-start;flex-wrap:wrap;gap:6px}.heading .arrows{margin-left:auto}.heading .arrows .iconbtn{width:30px;height:30px}.profile-picture{width:68px;height:75px}.revisions{padding:5px 16px}.field{padding:10px}}
+.avatar,.profile-picture{position:relative}.avatar img.framed,.profile-picture img.framed{position:absolute;left:50%;top:50%;height:auto;max-width:none}
+</style>
+</head>
+<body>
+<header class="brand"><span class="mark" aria-hidden="true"><i></i><i></i><i></i></span><h1>People &amp; portraits</h1><span class="event">Hack Western 13</span></header>
+<div class="shell">
+<button type="button" id="browse" aria-controls="directory" aria-expanded="false" class="browse">Browse people</button>
+<aside class="directory" id="directory" aria-label="People directory">
+<div class="controls"><h2 class="dir-title">People <output id="count" aria-live="polite"></output></h2>
+<label class="search"><span class="lens" aria-hidden="true"></span><span class="sr">Search people</span><input id="query" type="search" placeholder="Search names" autocomplete="off"></label>
+<label><span class="sr">Filter people</span><select id="filter"><option value="all">All people</option><option value="review">Newly verified photos</option><option value="primary">With a profile photo</option><option value="sets">With lighting edits</option><option value="originals">Originals only</option><option value="none">No saved photos</option></select></label>
+</div><nav class="people" id="people" aria-label="People"></nav><div class="revisions" id="revisions"></div></aside>
+<main id="detail" aria-label="Selected person"></main></div>
+<dialog id="viewer" aria-labelledby="viewer-name"><div class="viewerhead"><div><h2 id="viewer-name"></h2><p id="viewer-source"></p></div><button class="iconbtn" id="close" aria-label="Close enlarged photo">×</button></div><div class="large"><img id="large-photo" alt=""></div><div class="viewerfoot"><button class="iconbtn" id="view-prev" aria-label="Previous photo">‹</button><span id="view-label" aria-live="polite"></span><button class="iconbtn" id="view-next" aria-label="Next photo">›</button></div></dialog>
+<script type="application/json" id="roster">__GALLERY_DATA__</script>
+<script>
+'use strict';
+const people = JSON.parse(document.getElementById('roster').textContent);
+const $ = id => document.getElementById(id);
+const node = (tag, cls, text) => { const n=document.createElement(tag); if(cls)n.className=cls; if(text!=null)n.textContent=text; return n; };
+const kinds=[['brighter','Brighter'],['dimmer','Dimmer'],['left-shadow','Left shadow'],['right-shadow','Right shadow']];
+const number=(n,word)=>n+' '+word+(n===1?'':'s');
+const edits=p=>kinds.filter(([key])=>p.variants?.[key]);
+const normalize=s=>s.normalize('NFKD').replace(/\p{Mark}/gu,'').toLocaleLowerCase().trim();
+people.sort((a,b)=>a.name.localeCompare(b.name,undefined,{sensitivity:'base'})||a.id.localeCompare(b.id));
+const byId=new Map(people.map(p=>[p.id,p]));
+const named=new Map();
+for(const p of people){p.editCount=p.photos.reduce((n,photo)=>n+edits(photo).length,0);named.set(p.name,(named.get(p.name)||0)+1);}
+const initialHash=new URLSearchParams(location.hash.slice(1));
+let view=initialHash.get('view')==='photos'?'photos':'profile';
+let filtered=[],active=null,viewerItems=[],viewerIndex=0;
+const buttons=new Map();
+function personSummary(p){return p.photos.length?number(p.photos.length,'original')+(p.editCount?' · '+number(p.editCount,'lighting edit'):''):'No saved photos';}
+function icon(label,text,fn){const b=node('button','iconbtn',text);b.type='button';b.setAttribute('aria-label',label);b.title=label;b.addEventListener('click',fn);return b;}
+function framePortrait(img,p){
+ const f=p.portraitFrame;if(!f)return;
+ img.classList.add('framed');img.style.width=(100/f.width)+'%';
+ img.style.transform='translate('+(-100*f.centerX)+'%,'+(-100*f.centerY)+'%)';
+}
+function makeButton(p){const b=node('button','person');b.type='button';b.dataset.id=p.id;
+ const av=node('span','avatar');av.setAttribute('aria-hidden','true');const initials=p.name.trim().split(/\s+/).slice(0,2).map(s=>s[0]).join('');av.textContent=initials;
+ if(p.primarySrc){const img=new Image();img.loading='lazy';img.decoding='async';img.alt='';img.src=p.primarySrc;framePortrait(img,p);img.onerror=()=>av.textContent=initials;av.replaceChildren(img);}
+ const info=node('span','person-info');info.append(node('span','person-name',p.name),node('span','person-meta',named.get(p.name)>1?p.id:personSummary(p)));b.append(av,info);
+ b.addEventListener('click',()=>{selectPerson(p);if(matchMedia('(max-width:700px)').matches){toggleDirectory(false);$('browse').focus();}});return b;}
+function toggleDirectory(open){$('directory').classList.toggle('open',open);$('browse').setAttribute('aria-expanded',String(open));if(open)$('query').focus();}
+$('browse').onclick=()=>toggleDirectory(!$('directory').classList.contains('open'));
+function applyFilter(preferred){const q=normalize($('query').value),mode=$('filter').value;
+ filtered=people.filter(p=>(normalize(p.name).includes(q)||normalize(p.id).includes(q))&&(mode==='all'||(mode==='review'&&(p.photoReview==='primary'||p.photoReview==='other'))||(mode==='primary'&&p.primarySrc)||(mode==='sets'&&p.editCount>0)||(mode==='originals'&&p.photos.length>0&&!p.editCount)||(mode==='none'&&!p.photos.length)));
+ $('count').textContent=filtered.length===people.length?String(people.length):filtered.length+' / '+people.length;
+ buttons.clear();const fragment=document.createDocumentFragment();for(const p of filtered){const b=makeButton(p);buttons.set(p.id,b);fragment.append(b);}
+ if(!filtered.length)fragment.append(node('p','no-results','No matching people.'));
+ $('people').replaceChildren(fragment);$('people').scrollTop=0;
+ selectPerson(filtered.includes(preferred)?preferred:(filtered[0]||null),false);}
+function selectPerson(person,scroll=true){if(active&&buttons.has(active.id))buttons.get(active.id).removeAttribute('aria-current');active=person;
+ if(active){const b=buttons.get(active.id);b.setAttribute('aria-current','true');if(scroll){const list=$('people'),rect=b.getBoundingClientRect(),box=list.getBoundingClientRect();if(rect.top<box.top||rect.bottom>box.bottom)list.scrollTop+=rect.top-box.top-list.clientHeight/3;}}
+ renderPerson();
+ if(scroll)window.scrollTo(0,0);
+ writeHash();}
+function writeHash(){try{history.replaceState(null,'',active?'#'+new URLSearchParams({person:active.id,view}).toString():location.pathname+location.search);}catch{}}
+function movePerson(delta){const p=filtered[filtered.indexOf(active)+delta];if(p){selectPerson(p);const nav=$('detail').querySelector(delta===1?'[aria-label="Next person"]':'[aria-label="Previous person"]');(nav.disabled?$('detail').querySelector('.arrows button:not(:disabled)'):nav)?.focus({preventScroll:true});}}
+function photoSourceLabel(area,label,url){
+ area.textContent=label;const page=safeLink(url);if(!page)return;
+ const link=node('a','','Source page ↗');link.href=page.href;link.target='_blank';link.rel='noopener noreferrer';
+ area.append(' · ',link);
+}
+function tile(person,items,index,source,caption,sourceUrl){const item=items[index],b=node('button','shot');b.type='button';b.setAttribute('aria-label','Enlarge '+person.name+' — '+source+' — '+item.label);
+ const panel=node('span','photo'),img=new Image();img.loading='lazy';img.decoding='async';img.alt=person.name+', '+item.label.toLowerCase();img.src=item.src;
+ img.onerror=()=>panel.replaceChildren(node('span','loaderror','Image unavailable'));panel.append(img);b.append(panel,node('span','caption',caption||item.label));
+ b.onclick=()=>{viewerItems=items;viewerIndex=index;$('viewer-name').textContent=person.name;photoSourceLabel($('viewer-source'),source,sourceUrl);setView();$('viewer').showModal();};return b;}
+function setView(){const item=viewerItems[viewerIndex];$('large-photo').alt=$('viewer-name').textContent+', '+item.label;$('large-photo').src=item.src;$('view-label').textContent=item.label;$('view-prev').disabled=viewerIndex===0;$('view-next').disabled=viewerIndex===viewerItems.length-1;}
+function moveView(d){if(viewerIndex+d>=0&&viewerIndex+d<viewerItems.length){viewerIndex+=d;setView();}}
+$('view-prev').onclick=()=>moveView(-1);$('view-next').onclick=()=>moveView(1);$('close').onclick=()=>$('viewer').close();
+$('viewer').addEventListener('keydown',e=>{if(e.key==='ArrowRight'||e.key==='ArrowLeft'){e.preventDefault();moveView(e.key==='ArrowRight'?1:-1);}});
+$('viewer').addEventListener('click',e=>{if(e.target===$('viewer')){const r=$('viewer').getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)$('viewer').close();}});
+
+function safeLink(url) {
+ try{const parsed=new URL(url);return ['https:','http:'].includes(parsed.protocol)&&!parsed.username&&!parsed.password?parsed:null;}catch{return null;}
+}
+function portraitHeading(p,title) {
+ const identity=node('div','identity'),photo=p.photos.find(x=>x.src===p.primarySrc);
+ if(photo){
+  const button=node('button','profile-picture');button.type='button';button.title='Enlarge portrait';
+  button.setAttribute('aria-label','Enlarge portrait of '+p.name);
+  const img=new Image();img.alt=p.name;img.src=photo.src;framePortrait(img,p);button.append(img);
+  button.onclick=()=>{viewerItems=[{src:photo.src,label:'Original'},...edits(photo).map(([key,label])=>({src:photo.variants[key],label}))];viewerIndex=0;$('viewer-name').textContent=p.name;photoSourceLabel($('viewer-source'),photo.source,photo.sourceUrl);setView();$('viewer').showModal();};
+  identity.append(button);
+ }else{const initials=p.name.trim().split(/\s+/).slice(0,2).map(x=>x[0]).join('');const placeholder=node('span','profile-picture initials',initials);placeholder.setAttribute('aria-label','No confirmed primary photo');identity.append(placeholder);}
+ identity.append(title);return identity;
+}
+function profileView(p,d){
+ const sections=(p.sections||[]).filter(s=>s.items&&s.items.length);
+ if(!sections.length){d.append(node('p','missing','There is no saved profile text for this person.'));return;}
+ const bar=node('div','profile-controls');bar.append(node('h3','','Profile information'));d.append(bar);
+ const blocks=[];
+ for(const [index,section] of sections.entries()){
+  const group=document.createElement('details');group.className='profile-section';group.open=index===0;group.append(node('summary','',section.title));blocks.push(group);
+  const fields=node('dl','fields');
+  for(const item of section.items){
+   const row=node('div','field'),label=node('dt','',item.label||'Detail');
+   if(item.date)label.append(node('span','item-date',item.date));
+   const value=node('dd',''),text=node('div','',item.text||'');value.append(text);
+   const link=item.url&&safeLink(item.url);
+   if(link){const a=node('a','',link.hostname.replace(/^www\./,'')+' ↗');a.href=link.href;a.target='_blank';a.rel='noopener noreferrer';a.title=link.href;value.append(a);}
+   if(item.body){const saved=node('details','saved');saved.append(node('summary','','Saved source text'),node('pre','',item.body));value.append(saved);}
+   row.append(label,value);fields.append(row);
+  }
+  group.append(fields);d.append(group);
+ }
+ if(blocks.length>1){
+  const button=node('button','text-action');button.type='button';const update=()=>{button.textContent=blocks.every(x=>x.open)?'Collapse sections':'Expand sections';};
+  button.onclick=()=>{const expand=!blocks.every(x=>x.open);blocks.forEach(x=>x.open=expand);update();};
+  blocks.forEach(x=>x.addEventListener('toggle',update));bar.append(button);update();
+ }
+}
+
+function renderPerson(){const d=$('detail');d.replaceChildren();if(!active){d.append(node('h2','','No matching people'),node('p','meta','Try another name or change the filter.'));return;}
+ const p=active,head=node('div','heading'),title=node('div');title.append(node('h2','',p.name),node('p','meta',(named.get(p.name)>1?p.id+' · ':'')+personSummary(p)+(!p.primarySrc&&p.photos.length?' · No individual portrait selected':'')));
+ const eventInfo=(p.sections||[]).find(section=>section.title==='Event profile');
+ if(p.registrationOnly){title.insertBefore(node('p','roleline','Devpost registration · Attendance unverified'),title.lastChild);}
+ if(eventInfo){const parts=['Role','Organization / school'].map(label=>eventInfo.items.find(item=>item.label===label)?.text).filter(Boolean);
+ if(parts.length){const line=node('p','roleline',parts.join(', '));title.insertBefore(line,title.lastChild);}}
+ const nav=node('div','arrows'),prev=icon('Previous person','‹',()=>movePerson(-1)),next=icon('Next person','›',()=>movePerson(1));prev.disabled=filtered.indexOf(p)===0;next.disabled=filtered.indexOf(p)===filtered.length-1;nav.append(prev,next);head.append(portraitHeading(p,title),nav);d.append(head);
+ const views=node('div','views');views.setAttribute('role','group');views.setAttribute('aria-label','Person view');
+ for(const [key,label] of [['profile','Profile'],['photos','Photos ('+p.photos.length+')']]){
+  const btn=node('button','viewbtn',label);btn.type='button';btn.dataset.view=key;btn.setAttribute('aria-pressed',String(view===key));
+  btn.onclick=()=>{view=key;writeHash();renderPerson();d.querySelector('[data-view="'+key+'"]').focus({preventScroll:true});};views.append(btn);}
+ d.append(views);if(view==='profile'){profileView(p,d);return;}
+ if(!p.photos.length){d.append(node('p','missing','There are no saved portraits for this person.'));return;}
+ const sets=p.photos.filter(photo=>edits(photo).length),singles=p.photos.filter(photo=>!edits(photo).length);
+ sets.forEach((photo,i)=>{const section=node('section','set'),heading=node('div','sethead'),source=node('span');photoSourceLabel(source,photo.source,photo.sourceUrl);heading.append(node('h3','','Portrait '+(i+1)),source);
+ const sheet=node('div','sheet');const items=[{label:'Original',src:photo.src},...edits(photo).map(([key,label])=>({label,src:photo.variants[key]}))];
+ items.forEach((_,j)=>sheet.append(tile(p,items,j,photo.source+' · Portrait '+(i+1),null,photo.sourceUrl)));section.append(heading,sheet);d.append(section);});
+ if(singles.length){const section=node('section','set');section.append(node('h3','other-title',sets.length?'Other saved images':'Saved images'));const grid=node('div','originals');
+ singles.forEach((photo,i)=>{const label=photo.source+' · '+(i+1);grid.append(tile(p,[{src:photo.src,label:'Original'}],0,label,label,photo.sourceUrl));});section.append(grid);d.append(section);}}
+$('query').addEventListener('input',()=>applyFilter(active));$('filter').addEventListener('change',()=>applyFilter(active));
+const revisions=$('revisions');revisions.textContent=people.length+' roster records · Shared booth database';
+const fromHash=initialHash.get('person');applyFilter(byId.get(fromHash)||people.find(p=>p.editCount>0)||people[0]);
+</script>
+</body>
+</html>
