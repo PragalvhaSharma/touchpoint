@@ -23,6 +23,11 @@ const CHARS_PER_MS = 0.0155;
 const LOUD = 0.02;
 const NUDGES = 2; // times in a row the greeter fills a silence before it waits for them to speak
 const FINISH_MS = 1000; // quiet this long after the whole reply arrived means it has finished playing
+// Half duplex: while the greeter speaks, the mic stream sent to OpenAI is paused, so its own voice from the
+// speakers and the noise of the room can't cut it off mid-sentence (or get answered as if someone said it).
+// It listens again a moment after its line ends. ?bargein on the page turns cutting in back on.
+const TAIL_MS = 350; // the speakers' echo dies down
+const DEAF_MAX_MS = 2500; // the greeter's audio has been quiet this long: listen again even if no "done" came
 // When the greeter fills a silence, the transcriber sometimes "hears" its own prompt. That isn't speech.
 const ECHO = "a conversation at hack western";
 const echo = (t: string) => {
@@ -105,6 +110,13 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
   const lineNo = useRef(0);
   const textDone = useRef(false); // the whole of the greeter's current line has arrived
   const finish = useRef<(() => void) | null>(null); // wraps up the line once its audio has played out
+  // Half duplex (TAIL_MS): the copy of the mic track the session hears, and whether it is paused for the greeter.
+  const sendTrack = useRef<MediaStreamTrack | null>(null);
+  const mutedRef = useRef(false);
+  const deaf = useRef(false);
+  const tail = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const lastOut = useRef(0); // when the greeter's audio was last loud
+  const bargeIn = useRef(false);
 
   useEffect(() => {
     activeRef.current = active.id;
@@ -120,10 +132,39 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
     setState(s);
   }, []);
 
+  const applyMic = useCallback(() => {
+    if (sendTrack.current) sendTrack.current.enabled = !mutedRef.current && !deaf.current;
+  }, []);
+
+  // The greeter started (true) or stopped (false) making sound: stop listening now, listen again after the tail.
+  const deafen = useCallback(
+    (speaking: boolean) => {
+      if (tail.current) clearTimeout(tail.current);
+      tail.current = null;
+      if (bargeIn.current) return;
+      if (speaking) {
+        deaf.current = true;
+        lastOut.current = performance.now();
+        applyMic();
+        return;
+      }
+      if (!deaf.current) return;
+      tail.current = setTimeout(() => {
+        tail.current = null;
+        deaf.current = false;
+        applyMic();
+      }, TAIL_MS);
+    },
+    [applyMic],
+  );
+
   const hangUp = useCallback(() => {
     gen.current++;
     session.current?.stop();
     session.current = null;
+    if (tail.current) clearTimeout(tail.current);
+    tail.current = null;
+    deaf.current = false;
     outMeter.current?.close();
     outMeter.current = null;
     playing.current = false;
@@ -176,6 +217,10 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
 
         const pc = new RTCPeerConnection();
         const dc = pc.createDataChannel("oai-events");
+        // Its own copy of the mic, so pausing it while the greeter talks leaves the mute button and the orb alone.
+        const send = stream.getAudioTracks()[0].clone();
+        sendTrack.current = send;
+        applyMic();
         let opened = false;
         const deadline = setTimeout(() => {
           if (opened || session.current !== me) return;
@@ -193,6 +238,8 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
             speaker?.close();
             dc.close();
             pc.close();
+            send.stop();
+            if (sendTrack.current === send) sendTrack.current = null;
           },
         };
         session.current = me;
@@ -205,7 +252,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
           outMeter.current?.close();
           outMeter.current = new Meter(ctx.current, e.streams[0]);
         };
-        pc.addTrack(stream.getAudioTracks()[0], stream);
+        pc.addTrack(send, stream);
 
         const log = (who: "person" | "greeter", text?: string) => {
           const t = (text ?? "").trim();
@@ -255,6 +302,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
           shown.current = said.current.length;
           played = true;
           keep();
+          deafen(false);
           if (stateRef.current === "speaking") go("listening");
         };
         // The quiet-second fallback; Cartesia says when it's done itself, so a network stall doesn't end the line.
@@ -270,6 +318,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
           keep();
           talking = false;
           idle();
+          deafen(false);
           if (stateRef.current === "speaking") go("listening");
         };
         if (speaker) me.cutOff = cutOff;
@@ -280,6 +329,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
             lastTick.current = lastLoud.current = performance.now();
             talking = true;
             idle();
+            deafen(true);
             go("speaking");
           };
           speaker.onEnd = () => {
@@ -287,6 +337,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
             talking = false;
             idle();
             earlier = "";
+            deafen(false);
             wrapUp();
           };
           speaker.onError = (message) => {
@@ -384,9 +435,11 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
             case "output_audio_buffer.started":
               playing.current = true;
               lastTick.current = lastLoud.current = performance.now();
+              deafen(true);
               go("speaking");
               break;
             case "output_audio_buffer.stopped":
+              deafen(false);
               wrapUp();
               break;
             case "output_audio_buffer.cleared":
@@ -394,6 +447,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
               playing.current = false;
               cut = true;
               keep();
+              deafen(false);
               if (stateRef.current === "speaking") go("listening");
               break;
             case "response.done": {
@@ -455,7 +509,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
         retry(5000);
       }
     },
-    [go, hangUp],
+    [go, hangUp, applyMic, deafen],
   );
 
   useEffect(() => {
@@ -467,6 +521,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
     if (on) return;
     go("starting");
     setError("");
+    bargeIn.current = new URLSearchParams(window.location.search).has("bargein");
     try {
       if (!navigator.mediaDevices) throw new Error("The mic only works on localhost or https.");
       const stream = await navigator.mediaDevices.getUserMedia({
@@ -496,6 +551,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
         bus.current = { node, stream: dest.stream, close };
       }
       setMuted(false);
+      mutedRef.current = false;
       setOn(true);
       go("waiting");
     } catch (err) {
@@ -520,9 +576,11 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
   const toggleMute = useCallback(() => {
     setMuted((m) => {
       mic.current?.getAudioTracks().forEach((t) => (t.enabled = m));
+      mutedRef.current = !m;
+      applyMic();
       return !m;
     });
-  }, []);
+  }, [applyMic]);
 
   // A typed message, answered out loud. False when no session is open.
   const send = useCallback((text: string) => {
@@ -566,8 +624,11 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
   useEffect(() => {
     if (!on) return;
     const t = setInterval(() => {
-      if (!playing.current) return;
       const now = performance.now();
+      // Safety for half duplex: if the greeter has been silent a while and no "done" arrived, listen again.
+      if ((outMeter.current?.level() ?? 0) > LOUD) lastOut.current = now;
+      if (deaf.current && !tail.current && now - lastOut.current > DEAF_MAX_MS) deafen(false);
+      if (!playing.current) return;
       const dt = now - lastTick.current;
       lastTick.current = now;
       if ((outMeter.current?.level() ?? 1) > LOUD) lastLoud.current = now;
@@ -587,7 +648,7 @@ export function useVoice(active: { id: string | null; name: string; members?: Me
       }
     }, 40);
     return () => clearInterval(t);
-  }, [on]);
+  }, [on, deafen]);
 
   // While the voice is on, the greeter leaves greetings to it (and keeps them out of the record).
   useEffect(() => {
@@ -762,7 +823,7 @@ export function VoiceDock({ voice, avatar, guest, reduce }: { voice: Voice; avat
             </motion.p>
           </AnimatePresence>
           <p className="max-w-[260px] truncate text-[12px] text-label-2">
-            {note || (voice.on ? (voice.state === "waiting" ? "Step in front of the camera" : "Just talk. Cut in any time.") : "Hands free, like a real chat")}
+            {note || (voice.on ? (voice.state === "waiting" ? "Step in front of the camera" : "Just talk.") : "Hands free, like a real chat")}
           </p>
         </div>
         {voice.on && voice.person && <span className="hidden sm:block">{avatar}</span>}

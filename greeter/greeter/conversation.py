@@ -27,9 +27,11 @@ Endpoints (main.py routes them here):
 Events on /events: active (who the greeter is talking with, or null), history (their lines), line (one new line).
 """
 from collections import OrderedDict
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 import json
 import os
+import re
 import threading
 import time
 
@@ -72,13 +74,14 @@ REALTIME_VOICE = os.environ.get("GREETER_VOICE", "cedar")
 VOICE_RULES = """
 How you talk, live and out loud (this overrides anything above about length or questions):
 You're a mind that can talk with anyone, and right now you're hanging out with this person. This is a real
-back and forth between two people, not an interview and not a Q&A. Talk the way a sharp, funny friend does.
+back and forth between two people, never a form or a scripted interview. Talk the way a sharp, warm recruiter
+who actually likes people does.
 
 - Keep every turn short: one sentence, two at most, always. Often just a few words: "oh no way", "wait,
   how?", "ha, okay, that's sick". Even when you're helping, give one idea and stop so they can react.
   If they want more, they'll ask. Never give a list of tips.
-- Don't end every turn with a question. Mostly react, riff, give your own take, push back, joke, or share
-  something of yours. Ask only when you're actually curious, and make it about what they just said.
+- React to what they just said first (a few words is fine), then ask one short question that moves you
+  toward a match. One question per turn, never two.
 - Listen. Use their exact words and details, follow their thread, and connect it to what they told you before.
 - Jump in. When they pause, come right back. If they trail off, finish the thought or nudge them along.
 - Sound human: contractions, "yeah", "honestly", "hm", a laugh, starting a thought and changing it. Match
@@ -103,6 +106,69 @@ few friends at once, not separate interviews and not taking turns by the rules:
   other ("{first}, didn't you build something like that?"), and let them talk to each other.
 - What you know about each person is theirs alone. Never mix up whose facts or projects are whose.
 - Lines marked "(alone with X)" in the history were said when only X was here; the others didn't hear them."""
+
+# The greeter recruits for the Hack Western 13 sponsors: it uses what it knows, asks, follows up, and pitches the
+# one sponsor that fits. The sponsors come from the follow-up's own list (web/lib/followup/sponsors.ts), so what it
+# pitches out loud is what the recruiter's follow-up email is about. GREETER_RECRUITER=0 turns this off.
+SPONSORS_TS = Path(__file__).resolve().parents[1] / "web" / "lib" / "followup" / "sponsors.ts"
+
+
+def sponsor_lines() -> str:
+    try:
+        text = SPONSORS_TS.read_text()
+    except OSError:
+        return ""
+    found = re.findall(r'company:\s*"([^"]+)".*?hires:\s*"([^"]+)"', text)
+    return "\n".join(f"- {c}: {h}" for c, h in found)
+
+
+# The email the follow-up goes to unless they give another out loud: the Hack Western Slack directory's (the same
+# file the web follow-up reads in web/lib/visitor.ts). Read once; the greeter only ever says its domain.
+MEMBERS_CSV = Path(os.environ.get("HW_DATA") or Path(__file__).resolve().parents[2] / "hack-western-13-people") / "hack-western-13-slack-members.csv"
+_emails: dict[str, str] | None = None
+
+
+def email_on_file(pid: str) -> str:
+    global _emails
+    if _emails is None:
+        import csv
+        _emails = {}
+        try:
+            with open(MEMBERS_CSV, newline="") as f:
+                for row in csv.DictReader(f):
+                    mail = (row.get("Email") or row.get("Other email") or "").strip()
+                    if row.get("Slack user ID") and re.fullmatch(r"[^\s@]+@[^\s@]+\.[A-Za-z]{2,}", mail):
+                        _emails[row["Slack user ID"]] = mail
+        except OSError:
+            pass
+    return _emails.get(pid, "")
+
+
+RECRUITER = """
+Your job at this table: you're the recruiter for the Hack Western 13 sponsors. With every person, your goal is
+to find the one sponsor that fits them best, get them excited about it, and make sure the matching roles reach
+their inbox. After they leave, the recruiter here reviews what you found and sends them the follow-up email.
+- You already know a lot about them (above). Use it: your hello names one specific thing you know (a win, a
+  job, a project), and you never ask for something you already know. Ask only for what a recruiter still needs.
+- What you still need, roughly in this order, one question at a time: what they're building this weekend and
+  which part is theirs; what they want next (co-op, internship or full time, and when); what kind of work they
+  love most (backend, ML, product, hardware, finance, design...); and where they'd want to be.
+- Follow up on every answer. Dig one level deeper into the most interesting detail before moving on ("wait,
+  which part did you build?", "what was the hard bit?"). That detail is what makes the match.
+- Pitch early. As soon as you know roughly what they build and what they want next (usually their second or
+  third answer), name the one sponsor below that fits best and why, in one line tied to their words, e.g. "Honestly,
+  that's TinyFish: they build web agents and hire interns." A recruiter who only asks questions is failing.
+  If it doesn't land, ask what's off and pitch the next best one.
+- Always confirm their email before they go: once a match lands, or as soon as they start wrapping up or
+  saying bye, whichever comes first. {email}
+  Ask it once, in one short line. If they give a different address, have them spell it and say back only the
+  domain ("got it, the outlook one"). Then tell them the recruiter will send the roles there. There is no QR to
+  scan and nothing to sign; never mention one.
+- Talk about what each sponsor hires for. Never invent job titles, openings, pay, deadlines or contacts.
+- Still a person, not a form: react, be warm, laugh. Never fire off a checklist.
+
+The sponsors and what they hire for:
+{sponsors}"""
 
 
 def ago(seconds: float) -> str:
@@ -170,6 +236,26 @@ class Conversation:
 
     def members_of(self, pid: str | None) -> list[dict]:
         return [{"id": m, "name": self.name_of(m)} for m in members(pid or "")]
+
+    def email_note(self, pid: str) -> str:
+        """What to say when confirming where the follow-up goes: the domain of the email on file, never the address."""
+        notes = []
+        for m in members(pid or ""):
+            first = (self.name_of(m).split() or ["them"])[0]
+            if is_guest(m):
+                # the booth only follows up with people it recognizes, so don't promise a guest an email
+                notes.append("You don't know this person yet, so skip the email question for them and don't promise "
+                             "them a follow-up; point them to the sponsor's careers site instead.")
+                continue
+            mail = email_on_file(m)
+            if mail:
+                domain = mail.rsplit("@", 1)[1].lower()
+                kind = domain.split(".")[0] if domain.count(".") == 1 else domain
+                notes.append(f'{first} has a {domain} address on file from Hack Western. Ask something like "I\'ve got your '
+                             f'{kind} on file, is that the one you want the roles sent to?"')
+            else:
+                notes.append(f"There's no email on file for {first}. Ask for the best email to send the roles to.")
+        return " ".join(notes) or "Ask for the best email to send the roles to."
 
     def new_guest(self) -> str:
         return f"guest-{int(time.time() * 1000)}"
@@ -388,6 +474,8 @@ class Conversation:
             rules += GROUP_RULES.format(count=len(firsts), names=together([self.name_of(m) for m in members(pid)]), first=firsts[-1])
         else:
             rules += ONE_PERSON
+        if os.environ.get("GREETER_RECRUITER", "1") != "0" and (sponsors := sponsor_lines()):
+            rules += "\n" + RECRUITER.format(sponsors=sponsors, email=self.email_note(pid))
         lines = self.talk.history(pid, HISTORY)
         heard = self.talk.last_heard(pid)
         if lines:
@@ -432,16 +520,25 @@ class Conversation:
     def session(self, pid: str | None) -> tuple[int, str, bytes]:
         self.voice_seen = time.time()  # the voice is taking over before the camera greeting can land
         pid = self.who_speaks(pid)
-        tts = None
-        if self.voice.cartesia:  # Cartesia speaks; without it (or if it fails), OpenAI's own voice does
+        # Cartesia speaks; without it (or if it fails), OpenAI's own voice does. Its token and the OpenAI key are
+        # fetched at the same time, so the next person's voice is up a quarter second sooner.
+        brief = self.brief(pid)
+        with ThreadPoolExecutor(max_workers=2) as pool:
+            grant = pool.submit(self.voice.tts_grant) if self.voice.cartesia else None
+            text_voice = pool.submit(self.voice.session, brief, REALTIME_MODEL, REALTIME_VOICE, True) if grant else None
+            tts = None
+            if grant:
+                try:
+                    tts = grant.result()
+                except VoiceError as e:
+                    print(f"[voice] Cartesia unavailable, using OpenAI's voice: {e}", flush=True)
             try:
-                tts = self.voice.tts_grant()
+                if tts is not None and text_voice is not None:
+                    out = text_voice.result()
+                else:  # no Cartesia: a session that speaks with OpenAI's voice
+                    out = self.voice.session(brief, REALTIME_MODEL, REALTIME_VOICE, text_only=False)
             except VoiceError as e:
-                print(f"[voice] Cartesia unavailable, using OpenAI's voice: {e}", flush=True)
-        try:
-            out = self.voice.session(self.brief(pid), REALTIME_MODEL, REALTIME_VOICE, text_only=tts is not None)
-        except VoiceError as e:
-            return self.json(502, {"message": str(e)})
+                return self.json(502, {"message": str(e)})
         return self.json(200, {"id": pid, "name": self.name_of(pid), "model": REALTIME_MODEL,
                                "members": self.members_of(pid),
                                "key": out["value"], "expires_at": out.get("expires_at"), "opener": True, "turn": TURN,
