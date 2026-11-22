@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Touchpoint · the booth that remembers you</title>
+<meta name="description" content="Touchpoint is an AI booth recruiter. It recognises you at a sponsor booth, talks about what you've built, shows who in the room to meet, and follows up with a personalised email researched live by a TinyFish browser agent.">
+<meta name="theme-color" content="#000000">
+<meta property="og:title" content="Touchpoint · the booth that remembers you">
+<meta property="og:description" content="An AI booth recruiter built at Hack Western 13.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23000'/%3E%3Cpath d='M7 12V7h5M20 7h5v5M25 20v5h-5M12 25H7v-5' stroke='%2330d158' stroke-width='2.6' fill='none' stroke-linecap='round'/%3E%3Ccircle cx='16' cy='16' r='3.2' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#000;--group:#0f0f11;--raised:#1c1c1e;--raised-2:#2c2c2e;
+  --line:rgba(255,255,255,.09);--label:#fff;--label-2:rgba(235,235,245,.66);--label-3:rgba(235,235,245,.36);
+  --green:#30d158;--blue:#0a84ff;--orange:#ff9f0a;--purple:#bf5af2;
+  --sans:"Inter",system-ui,-apple-system,"SF Pro Text","Helvetica Neue",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  --max:1120px;
+}
+*{box-sizing:border-box}
+html{color-scheme:dark;background:var(--bg);-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;font-family:var(--sans);color:var(--label);line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit}
+.wrap{max-width:var(--max);margin:0 auto;padding:0 24px}
+.glow{position:fixed;inset:-20% -10% auto;height:90vh;pointer-events:none;z-index:-1;
+  background:radial-gradient(40% 50% at 70% 20%,rgba(48,209,88,.16),transparent 70%),radial-gradient(35% 45% at 15% 10%,rgba(10,132,255,.14),transparent 70%)}
+
+/* nav */
+nav{position:sticky;top:0;z-index:20;backdrop-filter:blur(20px) saturate(180%);-webkit-backdrop-filter:blur(20px) saturate(180%);background:rgba(0,0,0,.6);border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:60px;gap:16px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:700;letter-spacing:-.01em;text-decoration:none;font-size:17px}
+.brand svg{width:26px;height:26px}
+.navlinks{display:flex;align-items:center;gap:22px;font-size:14px}
+.navlinks a{text-decoration:none;color:var(--label-2)}
+.navlinks a:hover{color:var(--label)}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:11px 20px;font-weight:600;font-size:15px;text-decoration:none;transition:transform .15s ease,background .15s ease;white-space:nowrap}
+.btn:hover{transform:translateY(-1px)}
+.btn.primary{background:var(--green);color:#000}
+.btn.ghost{background:rgba(255,255,255,.08);color:var(--label);box-shadow:inset 0 0 0 1px var(--line)}
+.btn.small{padding:8px 15px;font-size:14px}
+
+/* hero */
+.hero{padding:72px 0 56px}
+.hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
+.eyebrow{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--green);background:rgba(48,209,88,.1);border:1px solid rgba(48,209,88,.25);padding:6px 12px;border-radius:999px}
+.eyebrow i{width:7px;height:7px;border-radius:50%;background:var(--green);box-shadow:0 0 10px var(--green);animation:pulse 1.8s infinite}
+@keyframes pulse{50%{opacity:.35}}
+h1{font-size:clamp(40px,6.2vw,72px);line-height:1.02;letter-spacing:-.035em;margin:20px 0 18px;font-weight:800}
+h1 em{font-style:normal;background:linear-gradient(90deg,var(--green),#64d2ff);-webkit-background-clip:text;background-clip:text;color:transparent}
+.lede{font-size:clamp(17px,1.6vw,19px);color:var(--label-2);max-width:34em;margin:0 0 28px}
+.ctas{display:flex;gap:12px;flex-wrap:wrap}
+
+/* stage */
+.stage{position:relative;aspect-ratio:4/4.4;border-radius:28px;overflow:hidden;background:
+  radial-gradient(60% 50% at 50% 38%,#1d2a22 0%,#0b0d0c 70%),#050505;border:1px solid var(--line);box-shadow:0 40px 120px rgba(0,0,0,.6)}
+.stage .grid{position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.035) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.035) 1px,transparent 1px);background-size:32px 32px;mask-image:radial-gradient(70% 70% at 50% 45%,#000 30%,transparent 80%)}
+.stage .rec{position:absolute;top:16px;left:16px;font:500 11px var(--mono);color:var(--label-2);display:flex;align-items:center;gap:7px;letter-spacing:.06em}
+.stage .rec b{width:8px;height:8px;border-radius:50%;background:#ff453a;animation:pulse 1.2s infinite}
+.stage .cam{position:absolute;top:16px;right:16px;font:500 11px var(--mono);color:var(--label-3)}
+.person{position:absolute;left:50%;top:44%;width:46%;transform:translate(-50%,-50%);opacity:.92}
+.lock{position:absolute;left:50%;top:33%;width:36%;aspect-ratio:1/1.12;transform:translate(-50%,-50%);animation:glide 6s ease-in-out infinite}
+.lock span{position:absolute;width:22%;height:20%;border:3px solid var(--green);filter:drop-shadow(0 0 6px rgba(48,209,88,.7))}
+.lock span:nth-child(1){top:0;left:0;border-right:0;border-bottom:0;border-top-left-radius:10px}
+.lock span:nth-child(2){top:0;right:0;border-left:0;border-bottom:0;border-top-right-radius:10px}
+.lock span:nth-child(3){bottom:0;left:0;border-right:0;border-top:0;border-bottom-left-radius:10px}
+.lock span:nth-child(4){bottom:0;right:0;border-left:0;border-top:0;border-bottom-right-radius:10px}
+@keyframes glide{0%,100%{transform:translate(-50%,-50%) scale(1)}30%{transform:translate(-47%,-51%) scale(.97)}60%{transform:translate(-52%,-49%) scale(1.02)}}
+.scan{position:absolute;left:0;right:0;height:2px;top:20%;background:linear-gradient(90deg,transparent,rgba(48,209,88,.8),transparent);animation:scan 3.2s ease-in-out infinite}
+@keyframes scan{0%{top:14%;opacity:0}15%{opacity:1}85%{opacity:1}100%{top:56%;opacity:0}}
+.glass{background:rgba(30,30,32,.62);backdrop-filter:blur(22px) saturate(180%);-webkit-backdrop-filter:blur(22px) saturate(180%);box-shadow:inset 0 1px 0 rgba(255,255,255,.09),0 10px 30px rgba(0,0,0,.4);border-radius:18px}
+.tag{position:absolute;left:50%;top:57%;transform:translateX(-50%);padding:9px 14px;font-size:13px;font-weight:600;display:flex;gap:8px;align-items:center;white-space:nowrap}
+.tag small{color:var(--label-2);font-weight:500;font-family:var(--mono);font-size:11px}
+.chat{position:absolute;left:14px;right:14px;bottom:14px;padding:14px 16px;display:grid;gap:9px}
+.line{display:flex;gap:10px;align-items:flex-start;font-size:14px;line-height:1.4;opacity:0;transform:translateY(6px);animation:in .5s ease forwards}
+.line .who{flex:none;font:600 10px var(--mono);letter-spacing:.06em;padding:4px 7px;border-radius:7px;margin-top:1px}
+.line.tp .who{background:rgba(48,209,88,.16);color:var(--green)}
+.line.you .who{background:rgba(10,132,255,.18);color:#64d2ff}
+.line:nth-child(1){animation-delay:.6s}.line:nth-child(2){animation-delay:2.1s}.line:nth-child(3){animation-delay:3.6s}
+@keyframes in{to{opacity:1;transform:none}}
+.wave{display:inline-flex;gap:2px;align-items:center;height:12px;margin-left:6px;vertical-align:middle}
+.wave i{width:2px;background:var(--green);border-radius:2px;animation:wv 1s ease-in-out infinite}
+.wave i:nth-child(2){animation-delay:.15s}.wave i:nth-child(3){animation-delay:.3s}.wave i:nth-child(4){animation-delay:.45s}
+@keyframes wv{0%,100%{height:3px}50%{height:12px}}
+
+/* sections */
+section{padding:84px 0}
+.kicker{font:600 12px var(--mono);letter-spacing:.14em;text-transform:uppercase;color:var(--green);margin:0 0 12px}
+h2{font-size:clamp(30px,4vw,46px);line-height:1.08;letter-spacing:-.03em;margin:0 0 16px;font-weight:800}
+.sub{color:var(--label-2);font-size:18px;max-width:40em;margin:0}
+.problem{border-top:1px solid var(--line);border-bottom:1px solid var(--line);background:var(--group)}
+.problem .wrap{display:grid;grid-template-columns:1fr 1fr;gap:48px;align-items:center}
+.quote{font-size:clamp(22px,2.6vw,30px);line-height:1.3;letter-spacing:-.02em;font-weight:600;margin:0}
+.quote span{color:var(--label-3)}
+
+.steps{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:44px;counter-reset:s}
+.step{position:relative;background:var(--raised);border:1px solid var(--line);border-radius:22px;padding:22px 20px 24px;overflow:hidden;transition:transform .2s ease,border-color .2s ease}
+.step:hover{transform:translateY(-3px);border-color:rgba(255,255,255,.18)}
+.step .n{font:600 12px var(--mono);color:var(--label-3)}
+.step .ic{width:46px;height:46px;border-radius:14px;display:grid;place-items:center;margin:14px 0 16px}
+.step .ic svg{width:24px;height:24px}
+.step h3{margin:0 0 8px;font-size:20px;letter-spacing:-.015em}
+.step p{margin:0;color:var(--label-2);font-size:15px}
+.step .by{margin-top:16px;font:500 11.5px var(--mono);color:var(--label-3)}
+.s1 .ic{background:rgba(48,209,88,.14);color:var(--green)}
+.s2 .ic{background:rgba(10,132,255,.16);color:#64d2ff}
+.s3 .ic{background:rgba(255,159,10,.15);color:var(--orange)}
+.s4 .ic{background:rgba(191,90,242,.16);color:var(--purple)}
+.step::after{content:"";position:absolute;inset:auto -30% -60% auto;width:70%;aspect-ratio:1;border-radius:50%;opacity:.12;filter:blur(30px)}
+.s1::after{background:var(--green)}.s2::after{background:var(--blue)}.s3::after{background:var(--orange)}.s4::after{background:var(--purple)}
+
+.after .wrap{display:grid;grid-template-columns:.9fr 1.1fr;gap:56px;align-items:center}
+.mail{background:#f5f5f7;color:#1d1d1f;border-radius:20px;overflow:hidden;box-shadow:0 30px 80px rgba(0,0,0,.55)}
+.mail .bar{display:flex;gap:6px;padding:12px 14px;background:#e8e8ed}
+.mail .bar i{width:11px;height:11px;border-radius:50%;background:#ff5f57}.mail .bar i:nth-child(2){background:#febc2e}.mail .bar i:nth-child(3){background:#28c840}
+.mail .hd{padding:16px 22px 12px;border-bottom:1px solid #d9d9de;font-size:13px;color:#6e6e73;display:grid;gap:3px}
+.mail .hd b{color:#1d1d1f;font-weight:600}
+.mail .bd{padding:18px 22px 22px;font-size:14.5px;line-height:1.6}
+.mail .bd p{margin:0 0 10px}
+.role{display:flex;justify-content:space-between;gap:10px;align-items:center;background:#fff;border:1px solid #e0e0e5;border-radius:12px;padding:10px 12px;margin:6px 0;font-size:13.5px}
+.role small{color:#6e6e73}
+.role em{font-style:normal;font:600 11px var(--mono);color:#248a3d;background:#e3f7e8;padding:3px 7px;border-radius:6px}
+.passkey{margin-top:14px;display:flex;align-items:center;gap:10px;background:#1d1d1f;color:#fff;border-radius:12px;padding:11px 14px;font-weight:600;font-size:14px}
+.passkey svg{width:22px;height:22px;flex:none}
+.points{list-style:none;padding:0;margin:26px 0 0;display:grid;gap:14px}
+.points li{display:flex;gap:12px;color:var(--label-2)}
+.points li b{color:var(--label)}
+.points svg{flex:none;width:20px;height:20px;margin-top:3px;color:var(--green)}
+
+.stack{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:40px}
+.tool{background:var(--raised);border:1px solid var(--line);border-radius:16px;padding:16px 18px}
+.tool b{display:block;font-size:16px;letter-spacing:-.01em}
+.tool span{color:var(--label-3);font-size:13.5px}
+
+.cta{text-align:center;padding:96px 0}
+.cta .box{border-radius:32px;padding:56px 24px;background:radial-gradient(80% 120% at 50% 0%,rgba(48,209,88,.18),transparent 60%),var(--group);border:1px solid var(--line)}
+.cta h2{margin-bottom:12px}
+.cta .sub{margin:0 auto 28px}
+footer{border-top:1px solid var(--line);padding:28px 0 calc(28px + env(safe-area-inset-bottom));color:var(--label-3);font-size:14px}
+footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer a{color:var(--label-2)}
+
+@media (max-width:920px){
+  .hero .wrap,.problem .wrap,.after .wrap{grid-template-columns:1fr;gap:40px}
+  .hero{padding-top:44px}
+  .stage{max-width:520px;width:100%;margin:0 auto}
+  .steps{grid-template-columns:1fr 1fr}
+  .stack{grid-template-columns:repeat(2,1fr)}
+}
+@media (max-width:600px){
+  .wrap{padding:0 18px}
+  .navlinks a:not(.btn){display:none}
+  section{padding:64px 0}
+  .steps{grid-template-columns:1fr}
+  .ctas .btn{flex:1;justify-content:center}
+  .line{font-size:13px}
+  .stage{aspect-ratio:3/4.4}
+  .person{top:34%;width:42%}
+  .lock{top:28%;width:34%}
+  .tag{top:47%}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.line{opacity:1;transform:none}}
+</style>
+</head>
+<body>
+<div class="glow" aria-hidden="true"></div>
+
+<nav>
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Touchpoint home">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><path d="M7 12V7h5M20 7h5v5M25 20v5h-5M12 25H7v-5" stroke="#30d158" stroke-width="2.6" fill="none" stroke-linecap="round"/><circle cx="16" cy="16" r="3.2" fill="#fff"/></svg>
+      Touchpoint
+    </a>
+    <div class="navlinks">
+      <a href="#how">How it works</a>
+      <a href="#after">Follow‑up</a>
+      <a href="#stack">Built with</a>
+      <a class="btn primary small" href="https://hack-western-13.devpost.com" target="_blank" rel="noopener">Devpost</a>
+    </div>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="wrap">
+    <div>
+      <span class="eyebrow"><i></i>Built at Hack Western 13</span>
+      <h1>The booth that <em>remembers&nbsp;you.</em></h1>
+      <p class="lede">Touchpoint is an AI booth recruiter. It knows you when you walk up, talks about what you've actually built, points you to the people in the room worth meeting, and follows up after you leave with an email that is about you.</p>
+      <div class="ctas">
+        <a class="btn primary" href="https://hack-western-13.devpost.com" target="_blank" rel="noopener">See it on Devpost
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M7 17 17 7M8 7h9v9"/></svg></a>
+        <a class="btn ghost" href="#how">How it works</a>
+      </div>
+    </div>
+
+    <div class="stage" role="img" aria-label="Illustration: a camera view locks onto a visitor and Touchpoint starts a conversation">
+      <div class="grid"></div>
+      <div class="rec"><b></b>LIVE · BOOTH CAM</div>
+      <div class="cam">HW13</div>
+      <svg class="person" viewBox="0 0 200 220" aria-hidden="true">
+        <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3a3c"/><stop offset="1" stop-color="#1c1c1e"/></linearGradient></defs>
+        <circle cx="100" cy="70" r="44" fill="url(#g)"/>
+        <path d="M20 220c4-58 38-92 80-92s76 34 80 92z" fill="url(#g)"/>
+      </svg>
+      <div class="scan"></div>
+      <div class="lock" aria-hidden="true"><span></span><span></span><span></span><span></span></div>
+      <div class="tag glass"><span style="color:var(--green)">●</span> Welcome back <small>match · 0.4s</small></div>
+      <div class="chat glass">
+        <div class="line tp"><span class="who">TOUCHPOINT</span><span>Hey, good to see you again! How did the drone mapping project land?<span class="wave" aria-hidden="true"><i></i><i></i><i></i><i></i></span></span></div>
+        <div class="line you"><span class="who">YOU</span><span>We got it flying. Now I want to work on computer vision.</span></div>
+        <div class="line tp"><span class="who">TOUCHPOINT</span><span>Then meet our perception lead. She's two tables over, in the grey hoodie.</span></div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<section class="problem">
+  <div class="wrap">
+    <p class="quote">"Hi, what's your name, what are you studying?" <span>Every booth, every student, forty times a day. By Monday nobody remembers who said what.</span></p>
+    <p class="sub">Sponsors come to hackathons to meet builders, then spend the weekend asking the same three questions and leave with a stack of forgotten names. Touchpoint does the homework before you reach the table, so the first minute is about your work and the conversation keeps going after you walk away.</p>
+  </div>
+</section>
+
+<section id="how">
+  <div class="wrap">
+    <p class="kicker">How it works</p>
+    <h2>Four moments, one conversation.</h2>
+    <p class="sub">From walking up to the booth to a follow-up in your inbox, and nothing is sent until you confirm it's really you.</p>
+
+    <div class="steps">
+      <article class="step s1">
+        <div class="n">01</div>
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 8V4h4M16 4h4v4M20 16v4h-4M8 20H4v-4"/><circle cx="12" cy="11" r="3"/><path d="M7.5 17c1-2 2.6-3 4.5-3s3.5 1 4.5 3"/></svg></div>
+        <h3>Recognise</h3>
+        <p>A booth camera spots you as you walk up and matches you against a researched profile of the hackers in the room: your projects, your stack, what you're looking for.</p>
+        <div class="by">OpenCV · Python camera service</div>
+      </article>
+      <article class="step s2">
+        <div class="n">02</div>
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 12v0M8 9v6M12 6v12M16 9v6M20 12v0"/></svg></div>
+        <h3>Talk</h3>
+        <p>A real-time voice agent greets you by what you've built, keeps the conversation going, and shows who else at the event you should meet next.</p>
+        <div class="by">OpenAI Realtime · Flue agents</div>
+      </article>
+      <article class="step s3">
+        <div class="n">03</div>
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="m4 7 8 6 8-6"/></svg></div>
+        <h3>Follow up</h3>
+        <p>When you leave, a TinyFish browser agent reads the sponsor's live careers site and drafts a follow-up with the roles that fit what you talked about.</p>
+        <div class="by">TinyFish web agent</div>
+      </article>
+      <article class="step s4">
+        <div class="n">04</div>
+        <div class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M8 4H6a2 2 0 0 0-2 2v2M16 4h2a2 2 0 0 1 2 2v2M20 16v2a2 2 0 0 1-2 2h-2M4 16v2a2 2 0 0 0 2 2h2"/><path d="M9 10v1M15 10v1M12 10v3h-1M9.5 16c1.5 1 3.5 1 5 0"/></svg></div>
+        <h3>Confirm</h3>
+        <p>Before anything reaches you, you confirm it's you with a passkey: one Face ID tap, no password, no form.</p>
+        <div class="by">Auth0 passkeys</div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="after" id="after">
+  <div class="wrap">
+    <div>
+      <p class="kicker">After the booth</p>
+      <h2>A follow-up that knows what you talked about.</h2>
+      <p class="sub">No "Thanks for stopping by!" blast. Touchpoint remembers the conversation and checks what the company is hiring for today.</p>
+      <ul class="points">
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m5 12 5 5 9-10"/></svg><span><b>Live roles.</b> Pulled from the sponsor's careers site when the email is written, not from last month's PDF.</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m5 12 5 5 9-10"/></svg><span><b>Your words.</b> It refers back to the project and interests you mentioned at the booth.</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="m5 12 5 5 9-10"/></svg><span><b>Your call.</b> A Face ID passkey confirms it's you before anything is sent.</span></li>
+      </ul>
+    </div>
+    <div class="mail" role="img" aria-label="Example follow-up email with matched roles and a passkey confirmation button">
+      <div class="bar"><i></i><i></i><i></i></div>
+      <div class="hd">
+        <div><b>From:</b> Touchpoint at the sponsor booth</div>
+        <div><b>Subject:</b> Great chatting about drone mapping</div>
+      </div>
+      <div class="bd">
+        <p>Hey! Thanks for walking us through your drone mapping project. You said you want to go deeper on computer vision, so we checked our careers page this morning:</p>
+        <div class="role"><span><b>Perception Engineering Intern</b><br><small>Summer 2027 · Toronto</small></span><em>open now</em></div>
+        <div class="role"><span><b>ML Platform Intern</b><br><small>Summer 2027 · Remote</small></span><em>open now</em></div>
+        <div class="passkey"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M8 4H6a2 2 0 0 0-2 2v2M16 4h2a2 2 0 0 1 2 2v2M20 16v2a2 2 0 0 1-2 2h-2M4 16v2a2 2 0 0 0 2 2h2"/><path d="M9 10v1M15 10v1M12 10v3h-1M9.5 16c1.5 1 3.5 1 5 0"/></svg>Confirm it's you with Face ID</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="stack">
+  <div class="wrap">
+    <p class="kicker">Built with</p>
+    <h2>The stack behind the booth.</h2>
+    <div class="stack">
+      <div class="tool"><b>OpenAI Realtime</b><span>Live voice conversation</span></div>
+      <div class="tool"><b>Gemini API</b><span>Google's multimodal models</span></div>
+      <div class="tool"><b>TinyFish</b><span>Browser agent for live careers pages</span></div>
+      <div class="tool"><b>Auth0</b><span>Passkeys with Face ID</span></div>
+      <div class="tool"><b>Next.js</b><span>The live greeter screen</span></div>
+      <div class="tool"><b>Flue</b><span>Agent harness: what to say and when</span></div>
+      <div class="tool"><b>OpenCV</b><span>Face detection at the booth</span></div>
+      <div class="tool"><b>Python</b><span>Camera and recognition service</span></div>
+    </div>
+  </div>
+</section>
+
+<section class="cta">
+  <div class="wrap">
+    <div class="box">
+      <h2>Come talk to us.</h2>
+      <p class="sub">See the demo, the code and the team on Devpost.</p>
+      <a class="btn primary" href="https://hack-western-13.devpost.com" target="_blank" rel="noopener">Open the Devpost</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>Touchpoint · built at Hack Western 13, London, Ontario</span>
+    <a href="https://hack-western-13.devpost.com" target="_blank" rel="noopener">hack-western-13.devpost.com</a>
+  </div>
+</footer>
+</body>
+</html>
