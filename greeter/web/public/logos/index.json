@@ -1,0 +1,991 @@
+[
+  {
+    "slug": "western",
+    "name": "Western University",
+    "file": "/logos/western.svg",
+    "aliases": [
+      "western university",
+      "university of western ontario",
+      "western university canada",
+      "uwo",
+      "western ontario",
+      "western engineering",
+      "western university (uwo)"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://www.uwo.ca/web_standards/2025-global/assets/img/logos/d-western-logo.svg"
+  },
+  {
+    "slug": "western-mark",
+    "name": "Western University (crest)",
+    "file": "/logos/western-mark.svg",
+    "aliases": [
+      "western"
+    ],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://www.uwo.ca/web_standards/2025-global/assets/img/logos/d-western-logo.svg (cropped to crest)"
+  },
+  {
+    "slug": "ivey",
+    "name": "Ivey Business School",
+    "file": "/logos/ivey.svg",
+    "aliases": [
+      "ivey business school",
+      "ivey business school at western university",
+      "ivey",
+      "richard ivey school of business",
+      "ivey hba",
+      "hba",
+      "ivey aeo"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://www.ivey.uwo.ca/images/template/ivey-main-logo.svg"
+  },
+  {
+    "slug": "ivey-full",
+    "name": "Ivey Business School (full signature)",
+    "file": "/logos/ivey-full.svg",
+    "aliases": [],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://www.ivey.uwo.ca/images/template/ivey-full-signature-transparentbg.svg"
+  },
+  {
+    "slug": "ivey-mark",
+    "name": "Ivey Business School (crest)",
+    "file": "/logos/ivey-mark.svg",
+    "aliases": [],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://www.ivey.uwo.ca/images/template/ivey-main-logo.svg (cropped to crest)"
+  },
+  {
+    "slug": "waterloo",
+    "name": "University of Waterloo",
+    "file": "/logos/waterloo.svg",
+    "aliases": [
+      "university of waterloo",
+      "uwaterloo",
+      "waterloo university",
+      "uw waterloo"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:University_of_Waterloo_logo.svg"
+  },
+  {
+    "slug": "waterloo-mark",
+    "name": "University of Waterloo (seal)",
+    "file": "/logos/waterloo-mark.svg",
+    "aliases": [
+      "waterloo"
+    ],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:University_of_Waterloo_seal.svg"
+  },
+  {
+    "slug": "uoft",
+    "name": "University of Toronto",
+    "file": "/logos/uoft.svg",
+    "aliases": [
+      "university of toronto",
+      "uoft",
+      "u of t",
+      "utoronto",
+      "university of toronto scarborough",
+      "university of toronto mississauga",
+      "utsc",
+      "utm"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:UofT_logo.svg"
+  },
+  {
+    "slug": "uoft-mark",
+    "name": "University of Toronto (crest)",
+    "file": "/logos/uoft-mark.svg",
+    "aliases": [],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:Utoronto_coa.svg"
+  },
+  {
+    "slug": "mcmaster",
+    "name": "McMaster University",
+    "file": "/logos/mcmaster.svg",
+    "aliases": [
+      "mcmaster university",
+      "mcmaster"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:McMaster_University_logo.svg"
+  },
+  {
+    "slug": "fanshawe",
+    "name": "Fanshawe College",
+    "file": "/logos/fanshawe.svg",
+    "aliases": [
+      "fanshawe college",
+      "fanshawe"
+    ],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:Fanshawe_College_Logo_vecotrized.svg"
+  },
+  {
+    "slug": "laurier",
+    "name": "Wilfrid Laurier University",
+    "file": "/logos/laurier.png",
+    "aliases": [
+      "wilfrid laurier university",
+      "laurier",
+      "wlu"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:WLU_Primary_Logo.png"
+  },
+  {
+    "slug": "uottawa",
+    "name": "University of Ottawa",
+    "file": "/logos/uottawa.svg",
+    "aliases": [
+      "university of ottawa",
+      "uottawa",
+      "u of ottawa"
+    ],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:University_of_Ottawa_Logo.svg"
+  },
+  {
+    "slug": "guelph",
+    "name": "University of Guelph",
+    "file": "/logos/guelph.png",
+    "aliases": [
+      "university of guelph",
+      "uoguelph",
+      "guelph university"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:UofGLogo.png"
+  },
+  {
+    "slug": "nus",
+    "name": "National University of Singapore",
+    "file": "/logos/nus.svg",
+    "aliases": [
+      "national university of singapore",
+      "nus"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:NationalUniversityofSingapore.svg"
+  },
+  {
+    "slug": "sheridan",
+    "name": "Sheridan College",
+    "file": "/logos/sheridan.svg",
+    "aliases": [
+      "sheridan",
+      "sheridan college",
+      "sheridan college institute of technology and advanced learning"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Sheridan_College_2013_logo.svg"
+  },
+  {
+    "slug": "queens",
+    "name": "Queen's University",
+    "file": "/logos/queens.svg",
+    "aliases": [
+      "queen's university",
+      "queens university",
+      "queen's university at kingston",
+      "queen's"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:QueensU_Wordmark.svg"
+  },
+  {
+    "slug": "queens-mark",
+    "name": "Queen's University (crest)",
+    "file": "/logos/queens-mark.svg",
+    "aliases": [],
+    "kind": "school",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:QueensU_Crest.svg"
+  },
+  {
+    "slug": "york",
+    "name": "York University",
+    "file": "/logos/york.svg",
+    "aliases": [
+      "york university",
+      "yorku"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_York_University.svg"
+  },
+  {
+    "slug": "ubc",
+    "name": "University of British Columbia",
+    "file": "/logos/ubc.svg",
+    "aliases": [
+      "university of british columbia",
+      "ubc"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:British_columbia_ca_univ_logo.svg"
+  },
+  {
+    "slug": "tmu",
+    "name": "Toronto Metropolitan University",
+    "file": "/logos/tmu.svg",
+    "aliases": [
+      "toronto metropolitan university",
+      "tmu",
+      "ryerson university",
+      "ryerson"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:TMU_logo.svg"
+  },
+  {
+    "slug": "carleton",
+    "name": "Carleton University",
+    "file": "/logos/carleton.svg",
+    "aliases": [
+      "carleton university",
+      "carleton"
+    ],
+    "kind": "school",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Carleton_University_Logo.svg"
+  },
+  {
+    "slug": "rbc",
+    "name": "RBC",
+    "file": "/logos/rbc.svg",
+    "aliases": [
+      "rbc",
+      "royal bank of canada",
+      "rbc royal bank",
+      "rbc capital markets",
+      "rbc dominion securities",
+      "rbc borealis",
+      "rbc wealth management"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://en.wikipedia.org/wiki/File:RBC_Royal_Bank.svg"
+  },
+  {
+    "slug": "td",
+    "name": "TD Bank",
+    "file": "/logos/td.svg",
+    "aliases": [
+      "td",
+      "td bank",
+      "td bank group",
+      "toronto-dominion bank",
+      "td securities",
+      "td asset management",
+      "td insurance"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://commons.wikimedia.org/wiki/File:Toronto-Dominion_Bank_logo.svg"
+  },
+  {
+    "slug": "scotiabank",
+    "name": "Scotiabank",
+    "file": "/logos/scotiabank.svg",
+    "aliases": [
+      "bank of nova scotia",
+      "scotia",
+      "scotia wealth management",
+      "scotiabank",
+      "scotiabank global banking and markets"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Scotiabank_logo.svg"
+  },
+  {
+    "slug": "startech",
+    "name": "StarTech.com",
+    "file": "/logos/startech.svg",
+    "aliases": [
+      "startech.com",
+      "startech"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:StarTech.com_logo_-_Brandlogos.net.svg"
+  },
+  {
+    "slug": "cibc",
+    "name": "CIBC",
+    "file": "/logos/cibc.svg",
+    "aliases": [
+      "cibc",
+      "canadian imperial bank of commerce",
+      "cibc capital markets"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:CIBC_logo_2021.svg"
+  },
+  {
+    "slug": "wealthsimple",
+    "name": "Wealthsimple",
+    "file": "/logos/wealthsimple.svg",
+    "aliases": [
+      "wealthsimple"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Wealthsimple_2026_logo.svg"
+  },
+  {
+    "slug": "aws",
+    "name": "Amazon Web Services",
+    "file": "/logos/aws.svg",
+    "aliases": [
+      "amazon web services",
+      "aws"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazon_Web_Services_Logo.svg"
+  },
+  {
+    "slug": "canada-life",
+    "name": "Canada Life",
+    "file": "/logos/canada-life.svg",
+    "aliases": [
+      "canada life",
+      "canada life assurance company",
+      "the canada life assurance company"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:The_Canada_Life_Assurance_Company_logo_(post-amalgamation).svg"
+  },
+  {
+    "slug": "ibm",
+    "name": "IBM",
+    "file": "/logos/ibm.svg",
+    "aliases": [
+      "ibm",
+      "ibm canada",
+      "international business machines"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:IBM_logo.svg"
+  },
+  {
+    "slug": "openai",
+    "name": "OpenAI",
+    "file": "/logos/openai.svg",
+    "aliases": [
+      "openai"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(wordmark).svg"
+  },
+  {
+    "slug": "sun-life",
+    "name": "Sun Life",
+    "file": "/logos/sun-life.svg",
+    "aliases": [
+      "sun life",
+      "sun life financial",
+      "sun life canada"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:Sun_Life_Financial_Logo.svg"
+  },
+  {
+    "slug": "kpmg",
+    "name": "KPMG",
+    "file": "/logos/kpmg.svg",
+    "aliases": [
+      "kpmg",
+      "kpmg canada",
+      "kpmg llp"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:KPMG_blue_logo.svg"
+  },
+  {
+    "slug": "bmo",
+    "name": "BMO",
+    "file": "/logos/bmo.svg",
+    "aliases": [
+      "bmo",
+      "bank of montreal",
+      "bmo capital markets",
+      "bmo financial group"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:BMO_Logo.svg"
+  },
+  {
+    "slug": "ey",
+    "name": "EY",
+    "file": "/logos/ey.svg",
+    "aliases": [
+      "ey",
+      "ernst & young",
+      "ernst and young",
+      "ey canada"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://commons.wikimedia.org/wiki/File:EY_logo_2019.svg"
+  },
+  {
+    "slug": "manulife",
+    "name": "Manulife",
+    "file": "/logos/manulife.svg",
+    "aliases": [
+      "manulife",
+      "manulife financial",
+      "john hancock manulife"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Manulife_logo_(2018).svg"
+  },
+  {
+    "slug": "ciena",
+    "name": "Ciena",
+    "file": "/logos/ciena.svg",
+    "aliases": [
+      "ciena",
+      "ciena corporation"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://en.wikipedia.org/wiki/File:Ciena_logo.svg"
+  },
+  {
+    "slug": "microsoft",
+    "name": "Microsoft",
+    "file": "/logos/microsoft.svg",
+    "aliases": [
+      "microsoft",
+      "microsoft canada",
+      "microsoft research"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Microsoft_logo_(2012).svg"
+  },
+  {
+    "slug": "rogers",
+    "name": "Rogers",
+    "file": "/logos/rogers.svg",
+    "aliases": [
+      "rogers",
+      "rogers communications"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Rogers_Communications_(2015).svg"
+  },
+  {
+    "slug": "deloitte",
+    "name": "Deloitte",
+    "file": "/logos/deloitte.svg",
+    "aliases": [
+      "deloitte",
+      "deloitte canada",
+      "deloitte digital"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_of_Deloitte.svg"
+  },
+  {
+    "slug": "bcg",
+    "name": "BCG",
+    "file": "/logos/bcg.svg",
+    "aliases": [
+      "bcg",
+      "boston consulting group",
+      "bcg x",
+      "bcg platinion"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://commons.wikimedia.org/wiki/File:BCG_Corporate_Logo.svg"
+  },
+  {
+    "slug": "groq",
+    "name": "Groq",
+    "file": "/logos/groq.svg",
+    "aliases": [
+      "groq"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Groq_logo.svg"
+  },
+  {
+    "slug": "interac",
+    "name": "Interac",
+    "file": "/logos/interac.png",
+    "aliases": [
+      "interac",
+      "interac corp"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://commons.wikimedia.org/wiki/File:Interac_Brand_2021.png"
+  },
+  {
+    "slug": "loblaw",
+    "name": "Loblaw Companies",
+    "file": "/logos/loblaw.svg",
+    "aliases": [
+      "loblaw",
+      "loblaw companies",
+      "loblaw companies limited",
+      "loblaw digital"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Loblaw_Companies_Limited_logo_EN.svg"
+  },
+  {
+    "slug": "capital-one",
+    "name": "Capital One",
+    "file": "/logos/capital-one.svg",
+    "aliases": [
+      "capital one"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Capital_One_logo.svg"
+  },
+  {
+    "slug": "google",
+    "name": "Google",
+    "file": "/logos/google.svg",
+    "aliases": [
+      "google",
+      "google deepmind",
+      "google cloud",
+      "alphabet"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://commons.wikimedia.org/wiki/File:Google_2015_logo.svg"
+  },
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "file": "/logos/shopify.svg",
+    "aliases": [
+      "shopify"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "meta",
+    "name": "Meta",
+    "file": "/logos/meta.svg",
+    "aliases": [
+      "meta",
+      "meta platforms"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "nvidia",
+    "name": "NVIDIA",
+    "file": "/logos/nvidia.svg",
+    "aliases": [
+      "nvidia"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "file": "/logos/stripe.svg",
+    "aliases": [
+      "stripe"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "blackberry",
+    "name": "BlackBerry",
+    "file": "/logos/blackberry.svg",
+    "aliases": [
+      "blackberry",
+      "blackberry qnx",
+      "qnx"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "datadog",
+    "name": "Datadog",
+    "file": "/logos/datadog.svg",
+    "aliases": [
+      "datadog"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "lyft",
+    "name": "Lyft",
+    "file": "/logos/lyft.svg",
+    "aliases": [
+      "lyft"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "autodesk",
+    "name": "Autodesk",
+    "file": "/logos/autodesk.svg",
+    "aliases": [
+      "autodesk"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "qualcomm",
+    "name": "Qualcomm",
+    "file": "/logos/qualcomm.svg",
+    "aliases": [
+      "qualcomm"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "accenture",
+    "name": "Accenture",
+    "file": "/logos/accenture.svg",
+    "aliases": [
+      "accenture"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "american-express",
+    "name": "American Express",
+    "file": "/logos/american-express.svg",
+    "aliases": [
+      "american express",
+      "amex"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "file": "/logos/mastercard.svg",
+    "aliases": [
+      "mastercard"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "playstation",
+    "name": "PlayStation",
+    "file": "/logos/playstation.svg",
+    "aliases": [
+      "playstation",
+      "sony interactive entertainment",
+      "sony playstation"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "mlh",
+    "name": "Major League Hacking",
+    "file": "/logos/mlh.svg",
+    "aliases": [
+      "major league hacking",
+      "mlh",
+      "mlh fellowship"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "amd",
+    "name": "AMD",
+    "file": "/logos/amd.svg",
+    "aliases": [
+      "amd",
+      "advanced micro devices"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "figma",
+    "name": "Figma",
+    "file": "/logos/figma.svg",
+    "aliases": [
+      "figma"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "github",
+    "name": "GitHub",
+    "file": "/logos/github.svg",
+    "aliases": [
+      "github"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "tesla",
+    "name": "Tesla",
+    "file": "/logos/tesla.svg",
+    "aliases": [
+      "tesla",
+      "tesla motors"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "sap",
+    "name": "SAP",
+    "file": "/logos/sap.svg",
+    "aliases": [
+      "sap",
+      "sap labs",
+      "sap canada"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "notion",
+    "name": "Notion",
+    "file": "/logos/notion.svg",
+    "aliases": [
+      "notion",
+      "notion labs"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "coinbase",
+    "name": "Coinbase",
+    "file": "/logos/coinbase.svg",
+    "aliases": [
+      "coinbase"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "1password",
+    "name": "1Password",
+    "file": "/logos/1password.svg",
+    "aliases": [
+      "1password",
+      "agilebits"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "apple",
+    "name": "Apple",
+    "file": "/logos/apple.svg",
+    "aliases": [
+      "apple",
+      "apple inc."
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "doordash",
+    "name": "DoorDash",
+    "file": "/logos/doordash.svg",
+    "aliases": [
+      "doordash"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://github.com/simple-icons/simple-icons (simple-icons@16.38.0)"
+  },
+  {
+    "slug": "pointclickcare",
+    "name": "PointClickCare",
+    "file": "/logos/pointclickcare.png",
+    "aliases": [
+      "pointclickcare",
+      "point click care"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://pointclickcare.com/wp-content/uploads/2025/09/cropped-PCC_Favicon-270x270.png"
+  },
+  {
+    "slug": "commure",
+    "name": "Commure",
+    "file": "/logos/commure.png",
+    "aliases": [
+      "commure"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://www.commure.com (favicon 256x256)"
+  },
+  {
+    "slug": "hack-the-north",
+    "name": "Hack the North",
+    "file": "/logos/hack-the-north.png",
+    "aliases": [
+      "hack the north",
+      "hackthenorth"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://hackthenorth.com/apple-touch-icon.png"
+  },
+  {
+    "slug": "opendoor",
+    "name": "Opendoor",
+    "file": "/logos/opendoor.svg",
+    "aliases": [
+      "opendoor",
+      "opendoor technologies"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://www.opendoor.com/icon.svg"
+  },
+  {
+    "slug": "mely",
+    "name": "Mely.ai",
+    "file": "/logos/mely.svg",
+    "aliases": [
+      "mely.ai",
+      "mely ai",
+      "mely"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://mely.ai/wp-content/uploads/2026/10/logo.svg (icon only)"
+  },
+  {
+    "slug": "blanc-ai",
+    "name": "Blanc AI",
+    "file": "/logos/blanc-ai.png",
+    "aliases": [
+      "blanc ai",
+      "blancai",
+      "blanc.ai"
+    ],
+    "kind": "company",
+    "shape": "wide",
+    "source": "https://entrepreneurship.uwo.ca/media/cftje14b/blanc.jpg (Morrissette Institute venture directory, cropped)"
+  },
+  {
+    "slug": "western-founders-network",
+    "name": "Western Founders Network",
+    "file": "/logos/western-founders-network.png",
+    "aliases": [
+      "western founders network",
+      "wfn"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://www.foundersnetwork.ca favicon"
+  },
+  {
+    "slug": "cloudflare",
+    "name": "Cloudflare",
+    "file": "/logos/cloudflare.png",
+    "aliases": [
+      "cloudflare"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://www.cloudflare.com favicon"
+  },
+  {
+    "slug": "uofthacks",
+    "name": "UofTHacks",
+    "file": "/logos/uofthacks.png",
+    "aliases": [
+      "uofthacks"
+    ],
+    "kind": "company",
+    "shape": "square",
+    "source": "https://uofthacks.com favicon"
+  }
+]
